@@ -1,203 +1,203 @@
-name,gender,race
- shirley m ,1,1
- ana d ,1,1
- miriam  ,1,1
- ivette  ,1,1
- saray  ,1,1
- niurka  ,1,1
- maria  ,1,1
- merienne  ,1,1
- rosalinda n ,1,1
- migdalia  ,1,1
- marina v ,1,1
- carmen  ,1,1
- zaida e ,1,1
- lurvin p ,1,1
- melissa  ,1,1
- mileyka k ,1,1
- kimberly m ,1,1
- ivelisse  ,1,1
- ana m ,1,1
- emilia l ,1,1
- connie d ,1,1
- anna v ,1,1
- samantha  ,1,1
- elizabeth  ,1,1
- ines g ,1,1
- djerid  ,1,1
- gloria  ,1,1
- linda  ,1,1
- josefa  ,1,1
- graciela r gon,1,1
- ada  ,1,1
- michelle  ,1,1
- angela e ,1,1
- jennifer l ,1,1
- mariely  ,1,1
- glenny  ,1,1
- yanet t ,1,1
- maritza  ,1,1
- johanna s ,1,1
- rebecca l ,1,1
- yvonne y ,1,1
- adriana f ,1,1
- waldina  ,1,1
- melissa a ,1,1
- clarissa  ,1,1
- jewel  ,1,1
- lucer n ,1,1
- sue d ,1,1
- lyria  ,1,1
- jennifer a ,1,1
- patricia l ,1,1
- anchelin  ,1,1
- crystal  ,1,1
- damaris p ,1,1
- rachel  ,1,1
- viviana j ,1,1
- heizel b ,1,1
- anisia  ,1,1
- mercedes  ,1,1
- jessica l ,1,1
- maria e ,1,1
- erica r ,1,1
- andrea r ,1,1
- guadalupe  ,1,1
- lisvet  ,1,1
- veronica  ,1,1
- heather s ,1,1
- lauren  ,1,1
- rafaela  ,1,1
- nicole r ,1,1
- osmarie k ,1,1
- alicia  ,1,1
- jannelise v ,1,1
- melanie r ,1,1
- damaris  ,1,1
- yorisane  ,1,1
- edmee i ,1,1
- jeasie  ,1,1
- jessica  ,1,1
- monica m ,1,1
- valerie  ,1,1
- stephanie s ,1,1
- esbeida  ,1,1
- glenda y ,1,1
- claudia e ,1,1
- jessenia  ,1,1
- sonia i ,1,1
- lucy p ,1,1
- antonia  ,1,1
- giovanna a ,1,1
- magadalena  ,1,1
- nain  ,1,1
- sisy f ,1,1
- yamila m ,1,1
- kassandra o ,1,1
- gillymar  ,1,1
- rebecca r ,1,1
- giselle m ,1,1
- jahaida  ,1,1
- mary  ,1,1
- emilia y ,1,1
- luz m ,1,1
- samantha n ,1,1
- maria p ,1,1
- whitney d ,1,1
- teresa m ,1,1
- glennis l ,1,1
- ernestina  ,1,1
- julita d ,1,1
- alcaria  ,1,1
- roxana a ,1,1
- vivian  ,1,1
- christina  ,1,1
- jesenia a ,1,1
- kenia  ,1,1
- sandra g ,1,1
- leonora l ,1,1
- terray m ,1,1
- martha  ,1,1
- marisela  ,1,1
- mabel n ,1,1
- melinda  ,1,1
- sophia r ,1,1
- ruby l ,1,1
- lanessa n ,1,1
- sarah e ,1,1
- marie e ,1,1
- sabrina  ,1,1
- victoria m ,1,1
- jennifer  ,1,1
- nanci d ,1,1
- ana  ,1,1
- audrey m ,1,1
- marelys  ,1,1
- selina  ,1,1
- wanda  ,1,1
- yomary m ,1,1
- mayra  ,1,1
- danniella  ,1,1
- lotia t ,1,1
- isamar  ,1,1
- lydia a ,1,1
- sonchaim r ,1,1
- maria c ,1,1
- monica a ,1,1
- dessie  ,1,1
- isable c ,1,1
- gloria s ,1,1
- leticia m ,1,1
- jobitza b ,1,1
- diadenis  ,1,1
- yileymi  ,1,1
- josselyn  ,1,1
- ana g ,1,1
- yvanna n ,1,1
- abiezer  ,1,1
- adriana r ,1,1
- rosa m ,1,1
- emily m ,1,1
- eulonia d ,1,1
- marisol e ,1,1
- melissa i ,1,1
- nicole  ,1,1
- ivanna v ,1,1
- georgina m ,1,1
- ondina  ,1,1
- sandie a ,1,1
- yesenia m ,1,1
- judy ,1,1
- sheila d,1,1
- jennifer ,1,1
- sally m,1,1
- crystal ,1,1
- maria g,1,1
- gabriella d,1,1
- courtney ,1,1
- jasmine d,1,1
- angelina ,1,1
- nina m,1,1
- norma l,1,1
- geraldil ,1,1
- gloria p,1,1
- angela p,1,1
- jazmin ,1,1
- eleazar p,1,1
- takemi m,1,1
- maria f,1,1
- mirssa ,1,1
- vera m,1,1
- delfida ,1,1
- christina ,1,1
- betrice ,1,1
- lisa m,1,1
- denise t,1,1
- cynthia ,1,1
- delia d,1,1
- eulalia ,1,1
- monique m,1,1
- lynette ,1,1
- maria s,1,1
- dora m,1,1
- manuella g,1,1
+name,gender,race,length
+ shirley m ,1,1,11
+ ana d ,1,1,7
+ miriam  ,1,1,9
+ ivette  ,1,1,9
+ saray  ,1,1,8
+ niurka  ,1,1,9
+ maria  ,1,1,8
+ merienne  ,1,1,11
+ rosalinda n ,1,1,13
+ migdalia  ,1,1,11
+ marina v ,1,1,10
+ carmen  ,1,1,9
+ zaida e ,1,1,9
+ lurvin p ,1,1,10
+ melissa  ,1,1,10
+ mileyka k ,1,1,11
+ kimberly m ,1,1,12
+ ivelisse  ,1,1,11
+ ana m ,1,1,7
+ emilia l ,1,1,10
+ connie d ,1,1,10
+ anna v ,1,1,8
+ samantha  ,1,1,11
+ elizabeth  ,1,1,12
+ ines g ,1,1,8
+ djerid  ,1,1,9
+ gloria  ,1,1,9
+ linda  ,1,1,8
+ josefa  ,1,1,9
+ graciela r gon,1,1,15
+ ada  ,1,1,6
+ michelle  ,1,1,11
+ angela e ,1,1,10
+ jennifer l ,1,1,12
+ mariely  ,1,1,10
+ glenny  ,1,1,9
+ yanet t ,1,1,9
+ maritza  ,1,1,10
+ johanna s ,1,1,11
+ rebecca l ,1,1,11
+ yvonne y ,1,1,10
+ adriana f ,1,1,11
+ waldina  ,1,1,10
+ melissa a ,1,1,11
+ clarissa  ,1,1,11
+ jewel  ,1,1,8
+ lucer n ,1,1,9
+ sue d ,1,1,7
+ lyria  ,1,1,8
+ jennifer a ,1,1,12
+ patricia l ,1,1,12
+ anchelin  ,1,1,11
+ crystal  ,1,1,10
+ damaris p ,1,1,11
+ rachel  ,1,1,9
+ viviana j ,1,1,11
+ heizel b ,1,1,10
+ anisia  ,1,1,9
+ mercedes  ,1,1,11
+ jessica l ,1,1,11
+ maria e ,1,1,9
+ erica r ,1,1,9
+ andrea r ,1,1,10
+ guadalupe  ,1,1,12
+ lisvet  ,1,1,9
+ veronica  ,1,1,11
+ heather s ,1,1,11
+ lauren  ,1,1,9
+ rafaela  ,1,1,10
+ nicole r ,1,1,10
+ osmarie k ,1,1,11
+ alicia  ,1,1,9
+ jannelise v ,1,1,13
+ melanie r ,1,1,11
+ damaris  ,1,1,10
+ yorisane  ,1,1,11
+ edmee i ,1,1,9
+ jeasie  ,1,1,9
+ jessica  ,1,1,10
+ monica m ,1,1,10
+ valerie  ,1,1,10
+ stephanie s ,1,1,13
+ esbeida  ,1,1,10
+ glenda y ,1,1,10
+ claudia e ,1,1,11
+ jessenia  ,1,1,11
+ sonia i ,1,1,9
+ lucy p ,1,1,8
+ antonia  ,1,1,10
+ giovanna a ,1,1,12
+ magadalena  ,1,1,13
+ nain  ,1,1,7
+ sisy f ,1,1,8
+ yamila m ,1,1,10
+ kassandra o ,1,1,13
+ gillymar  ,1,1,11
+ rebecca r ,1,1,11
+ giselle m ,1,1,11
+ jahaida  ,1,1,10
+ mary  ,1,1,7
+ emilia y ,1,1,10
+ luz m ,1,1,7
+ samantha n ,1,1,12
+ maria p ,1,1,9
+ whitney d ,1,1,11
+ teresa m ,1,1,10
+ glennis l ,1,1,11
+ ernestina  ,1,1,12
+ julita d ,1,1,10
+ alcaria  ,1,1,10
+ roxana a ,1,1,10
+ vivian  ,1,1,9
+ christina  ,1,1,12
+ jesenia a ,1,1,11
+ kenia  ,1,1,8
+ sandra g ,1,1,10
+ leonora l ,1,1,11
+ terray m ,1,1,10
+ martha  ,1,1,9
+ marisela  ,1,1,11
+ mabel n ,1,1,9
+ melinda  ,1,1,10
+ sophia r ,1,1,10
+ ruby l ,1,1,8
+ lanessa n ,1,1,11
+ sarah e ,1,1,9
+ marie e ,1,1,9
+ sabrina  ,1,1,10
+ victoria m ,1,1,12
+ jennifer  ,1,1,11
+ nanci d ,1,1,9
+ ana  ,1,1,6
+ audrey m ,1,1,10
+ marelys  ,1,1,10
+ selina  ,1,1,9
+ wanda  ,1,1,8
+ yomary m ,1,1,10
+ mayra  ,1,1,8
+ danniella  ,1,1,12
+ lotia t ,1,1,9
+ isamar  ,1,1,9
+ lydia a ,1,1,9
+ sonchaim r ,1,1,12
+ maria c ,1,1,9
+ monica a ,1,1,10
+ dessie  ,1,1,9
+ isable c ,1,1,10
+ gloria s ,1,1,10
+ leticia m ,1,1,11
+ jobitza b ,1,1,11
+ diadenis  ,1,1,11
+ yileymi  ,1,1,10
+ josselyn  ,1,1,11
+ ana g ,1,1,7
+ yvanna n ,1,1,10
+ abiezer  ,1,1,10
+ adriana r ,1,1,11
+ rosa m ,1,1,8
+ emily m ,1,1,9
+ eulonia d ,1,1,11
+ marisol e ,1,1,11
+ melissa i ,1,1,11
+ nicole  ,1,1,9
+ ivanna v ,1,1,10
+ georgina m ,1,1,12
+ ondina  ,1,1,9
+ sandie a ,1,1,10
+ yesenia m ,1,1,11
+ judy ,1,1,6
+ sheila d,1,1,9
+ jennifer ,1,1,10
+ sally m,1,1,8
+ crystal ,1,1,9
+ maria g,1,1,8
+ gabriella d,1,1,12
+ courtney ,1,1,10
+ jasmine d,1,1,10
+ angelina ,1,1,10
+ nina m,1,1,7
+ norma l,1,1,8
+ geraldil ,1,1,10
+ gloria p,1,1,9
+ angela p,1,1,9
+ jazmin ,1,1,8
+ eleazar p,1,1,10
+ takemi m,1,1,9
+ maria f,1,1,8
+ mirssa ,1,1,8
+ vera m,1,1,7
+ delfida ,1,1,9
+ christina ,1,1,11
+ betrice ,1,1,9
+ lisa m,1,1,7
+ denise t,1,1,9
+ cynthia ,1,1,9
+ delia d,1,1,8
+ eulalia ,1,1,9
+ monique m,1,1,10
+ lynette ,1,1,9
+ maria s,1,1,8
+ dora m,1,1,7
+ manuella g,1,1,11
