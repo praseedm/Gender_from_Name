@@ -1,2185 +1,1920 @@
 name,gender,race,length
- jonathan r ,0,1,12
- jonathan a ,0,1,12
- pablo  ,0,1,8
- basilio l ,0,1,11
- german  ,0,1,9
- javier  ,0,1,9
- luis a ,0,1,8
- angel  ,0,1,8
- antonio  ,0,1,10
- brandy o ,0,1,10
- carlos r ,0,1,10
- diego  ,0,1,8
- harold  ,0,1,9
- jose  ,0,1,7
- michael  ,0,1,10
- christopher g ,0,1,15
- felipe  ,0,1,9
- abraham r ,0,1,11
- alberto  ,0,1,10
- brian n ,0,1,9
- carlos e ,0,1,10
- francisco s ,0,1,13
- joe  ,0,1,6
- julio  ,0,1,8
- moises b sr,0,1,12
- orlando g ,0,1,11
- robert  ,0,1,9
- wilfredo r ,0,1,12
- juan j ,0,1,8
- omar s ,0,1,8
- orlando  ,0,1,10
- andres r ,0,1,10
- emanuel c ,0,1,11
- misael  ,0,1,9
- israel  ,0,1,9
- carlos l ,0,1,10
- felix  ,0,1,8
- gustavo  ,0,1,10
- juan  ,0,1,7
- even  ,0,1,7
- juan c ,0,1,8
- angell  ,0,1,9
- antonio r ,0,1,11
- eduardo  ,0,1,10
- emmanuel  ,0,1,11
- jose l ,0,1,8
- jose q ,0,1,8
- margarito  ,0,1,12
- carlos  ,0,1,9
- roman  ,0,1,8
- andrey  ,0,1,9
- moises  ,0,1,9
- alsibiaoes  ,0,1,13
- daniel  ,0,1,9
- odelin  ,0,1,9
- roger a ,0,1,9
- arnoldo  ,0,1,10
- eduard g ,0,1,10
- andres  ,0,1,9
- belizario  ,0,1,12
- francisco b ,0,1,13
- francisco j ,0,1,13
- jesus b ,0,1,9
- jose f ,0,1,8
- rabuith  ,0,1,10
- clemente j ,0,1,12
- teodulfo r ,0,1,12
- phillip j ,0,1,11
- ernesto  ,0,1,10
- william f ,0,1,11
- pedro o ,0,1,9
- rene  ,0,1,7
- jony  ,0,1,7
- omar u ,0,1,8
- pedro m ,0,1,9
- cesar  ,0,1,8
- leandro r ,0,1,11
- steve  ,0,1,8
- angel l ,0,1,9
- javier e ,0,1,10
- guillermo  ,0,1,12
- mayronn n ,0,1,11
- oscar  ,0,1,8
- santos c ,0,1,10
- brayan p ,0,1,10
- christian j ,0,1,13
- jesus  ,0,1,8
- heliodoro  ,0,1,12
- anthony j ,0,1,11
- alvin  ,0,1,8
- anthony  ,0,1,10
- efrain  ,0,1,9
- esau ismael f ,0,1,15
- francico r ,0,1,12
- jonathan  ,0,1,11
- jonathan m ,0,1,12
- raul r ,0,1,8
- francisco r ,0,1,13
- nahun o ,0,1,9
- roberto m jr,0,1,13
- carlos j ,0,1,10
- jose m ,0,1,8
- jesus a ,0,1,9
- junior  ,0,1,9
- leonardo  ,0,1,11
- george a ,0,1,10
- edward  ,0,1,9
- erik  ,0,1,7
- ignacio l ,0,1,11
- joshua l ,0,1,10
- luis r ,0,1,8
- pedro  ,0,1,8
- torbio  ,0,1,9
- uriel  ,0,1,8
- wiliah  ,0,1,9
- cipriano  ,0,1,11
- alfredo c ,0,1,11
- anthony i ,0,1,11
- carlos a ,0,1,10
- daniel m ,0,1,10
- edgar l ,0,1,9
- eli v ,0,1,7
- gean m ,0,1,8
- julio c ,0,1,9
- justine  ,0,1,10
- luis e ,0,1,8
- nestor a ,0,1,10
- ramon  ,0,1,8
- raymond  ,0,1,10
- rene a ,0,1,8
- xavier o ,0,1,10
- yasman  ,0,1,9
- marcelo a ,0,1,11
- roberto  ,0,1,10
- ricardo  ,0,1,10
- juan p ,0,1,8
- alex a ,0,1,8
- hector l ,0,1,10
- jacobo b ,0,1,10
- yasser  ,0,1,9
- raymond j ,0,1,11
- jose d ,0,1,8
- miguel a ,0,1,10
- angel a ,0,1,9
- francisco  ,0,1,12
- rigoberto a ,0,1,13
- edward j iv,0,1,12
- jessie  ,0,1,9
- mark  ,0,1,7
- carmen  ,0,1,9
- eduardo v ,0,1,11
- profirio  ,0,1,11
- carlo  ,0,1,8
- salvador  ,0,1,11
- gil  ,0,1,6
- aramis  ,0,1,9
- florentino  ,0,1,13
- javier r ,0,1,10
- josue l ,0,1,9
- leonardo  jr.,0,1,14
- luis  ,0,1,7
- yovany l ,0,1,10
- fernando  ,0,1,11
- floriberto  ,0,1,13
- reinaldo g ,0,1,12
- domingo  ,0,1,10
- raul  ,0,1,7
- donovan p ,0,1,11
- guillermo o ,0,1,13
- allen r ,0,1,9
- juan m ,0,1,8
- dwayne c ,0,1,10
- esteban m ,0,1,11
- enrique  ,0,1,10
- luis h ,0,1,8
- hector j ,0,1,10
- josue  ,0,1,8
- ramon u ,0,1,9
- oscar j ,0,1,9
- alain g ,0,1,9
- manuel j ,0,1,10
- julio r ,0,1,9
- robert d ,0,1,10
- steven a ,0,1,10
- arturo a ,0,1,10
- johnny  ,0,1,9
- melvin h ,0,1,10
- gerardo  ,0,1,10
- johnny a ,0,1,10
- alexander  ,0,1,12
- esteban d ,0,1,11
- erie w ,0,1,8
- misael a ,0,1,10
- pedro l ,0,1,9
- pedro l jr.,0,1,12
- rutilio  ,0,1,10
- esmildo  ,0,1,10
- david j ,0,1,9
- felipe a ,0,1,10
- gary  ,0,1,7
- jamie r ,0,1,9
- miguel  ,0,1,9
- hector m ,0,1,10
- marcos  ,0,1,9
- reynaldo a ,0,1,12
- vicente v ,0,1,11
- luis f ,0,1,8
- alnesto  ,0,1,10
- manuel a jr,0,1,12
- ruben  ,0,1,8
- rafael  ,0,1,9
- miguel j ,0,1,10
- gilberto d ,0,1,12
- maikel  ,0,1,9
- louis s ,0,1,9
- alex c ,0,1,8
- alfredo m ,0,1,11
- jason  ,0,1,8
- jorge  ,0,1,8
- jose j ,0,1,8
- jose n ,0,1,8
- justino t ,0,1,11
- luis j ,0,1,8
- victor a ,0,1,10
- william  ,0,1,10
- alejandro  ,0,1,12
- juan g ,0,1,8
- jaime  ,0,1,8
- john p ,0,1,8
- pascacio b ,0,1,12
- antonio f ,0,1,11
- raul e ,0,1,8
- abel  ,0,1,7
- hugo r ,0,1,8
- gabriel o ,0,1,11
- bryan r ,0,1,9
- cristian m ,0,1,12
- yohen  ,0,1,8
- ariel  ,0,1,8
- christopher  ,0,1,14
- eliezer  ,0,1,10
- juan j jr,0,1,10
- juan i ,0,1,8
- guillermo  jr,0,1,14
- manuel v ,0,1,10
- frutuoso  ,0,1,11
- jose a ,0,1,8
- humberto  ,0,1,11
- reinaldo  ,0,1,11
- stephen a ,0,1,11
- tomas r ,0,1,9
- jose e sr,0,1,10
- yovanny z ,0,1,11
- raul  jr,0,1,9
- robert j ,0,1,10
- vicente i ,0,1,11
- andrew c ,0,1,10
- jesus s ,0,1,9
- abel j ,0,1,8
- astor l ,0,1,9
- elizel  ,0,1,9
- nicolas  ,0,1,10
- francisco e ,0,1,13
- manuel a ,0,1,10
- joselito j ,0,1,12
- michael a ,0,1,11
- edwin r ,0,1,9
- pablo m ,0,1,9
- angel m ,0,1,9
- eduardo j ,0,1,11
- cesar a ,0,1,9
- jesus r ,0,1,9
- alex  ,0,1,7
- andres j ,0,1,10
- edil c ,0,1,8
- mariano r ,0,1,11
- victor  ,0,1,9
- frank  ,0,1,8
- ruben d ,0,1,9
- juan a ,0,1,8
- isander o ,0,1,11
- mailor o ,0,1,10
- otilio  ,0,1,9
- iharo m ,0,1,9
- yosnel  ,0,1,9
- joshua e ,0,1,10
- junior l ,0,1,10
- david  jr,0,1,10
- eugenio  ,0,1,10
- eduardo d ,0,1,11
- manuel d ,0,1,10
- benigno  sr,0,1,12
- edgar a ,0,1,9
- julio a ,0,1,9
- roy a ,0,1,7
- tomas a ,0,1,9
- david  ,0,1,8
- emilio  ,0,1,9
- jairo  ,0,1,8
- yulier  ,0,1,9
- ovidio  ,0,1,9
- benito m ,0,1,10
- ian a ,0,1,7
- hector  ,0,1,9
- vicente  ,0,1,10
- brian  ,0,1,8
- arnesto  ,0,1,10
- wilbert  ,0,1,10
- andres b ,0,1,10
- pierre  ,0,1,9
- yilberto  ,0,1,11
- brandon r ,0,1,11
- seth a ,0,1,8
- amardo  ,0,1,9
- agustin  jr,0,1,12
- carlos g jr,0,1,12
- edwin  ,0,1,8
- gratto o ,0,1,10
- jeremy o ,0,1,10
- joshua  ,0,1,9
- juan e ,0,1,8
- rodrigo  ,0,1,10
- kenneth  ,0,1,10
- jeremy d ,0,1,10
- marco a ,0,1,9
- orlando j ,0,1,11
- roberto g ,0,1,11
- bobby a ,0,1,9
- jose b ,0,1,8
- billy e ,0,1,9
- norberto  ,0,1,11
- edwin f ,0,1,9
- christian  ,0,1,12
- alexis m ,0,1,10
- armando c ,0,1,11
- jose r ,0,1,8
- mario a ,0,1,9
- ralph  ,0,1,8
- nelson  ,0,1,9
- mateo s ,0,1,9
- ramiro  ,0,1,9
- anthony d ,0,1,11
- alexis s ,0,1,10
- edilsar  ,0,1,10
- eliseo  ,0,1,9
- hector e ,0,1,10
- osvaldo  ,0,1,10
- richard  ,0,1,10
- wilmer  ,0,1,9
- elvin l ,0,1,9
- victor e ,0,1,10
- risquermi  ,0,1,12
- hyosvany  ,0,1,11
- abraham  ,0,1,10
- alejandro r ,0,1,13
- eric m ,0,1,8
- jomar m ,0,1,9
- wilfredo  ,0,1,11
- justo  ,0,1,8
- luis l ,0,1,8
- adrian s ,0,1,10
- charles d ,0,1,11
- pedro a ,0,1,9
- angel r ,0,1,9
- tony  ,0,1,7
- melvin a ,0,1,10
- arturo  ,0,1,9
- mario l ,0,1,9
- frank r ,0,1,9
- troy  ,0,1,7
- alexis x ,0,1,10
- johnel  ,0,1,9
- elias  ,0,1,8
- osny  ,0,1,7
- victor r ,0,1,10
- freddy m ,0,1,10
- joe l ,0,1,7
- felix r ,0,1,9
- harold a ,0,1,10
- gabriel  ,0,1,10
- gonzalo  ,0,1,10
- joseph j ,0,1,10
- yamil  ,0,1,8
- geraro  ,0,1,9
- adam i ,0,1,8
- ulises  ,0,1,9
- santos  ,0,1,9
- lui g ,0,1,7
- nicholas j ,0,1,12
- rafael a ,0,1,10
- yordany a ,0,1,11
- augustin r ,0,1,12
- efrain p ,0,1,10
- genaro  ,0,1,9
- edwin a ,0,1,9
- wilson d ,0,1,10
- frank t ,0,1,9
- juan  jr,0,1,9
- oscar a ,0,1,9
- oscar e ,0,1,9
- roemy  ,0,1,8
- adrian  ,0,1,9
- alejandro m ,0,1,13
- gustavo m ,0,1,11
- jesus m ,0,1,9
- jorge a ,0,1,9
- juan b ,0,1,8
- stalin  ,0,1,9
- yan a ,0,1,7
- geronimo  ,0,1,11
- jaime h ,0,1,9
- matias g ,0,1,10
- samuel  ,0,1,9
- jaime  jr,0,1,10
- mark n ,0,1,8
- rogerio  jr,0,1,12
- julius r jr,0,1,12
- octavio  ,0,1,10
- lazaro g ,0,1,10
- jordan  ,0,1,9
- jorge l ,0,1,9
- antonio c ,0,1,11
- alvaro m ,0,1,10
- luis  jr,0,1,9
- pascual p ,0,1,11
- lester  ,0,1,9
- jorge e jr,0,1,11
- orlando r ,0,1,11
- anastacio m ,0,1,13
- carlos m ,0,1,10
- luis m ,0,1,8
- filiberto  ,0,1,12
- jeremia  ,0,1,10
- rodolfo  ,0,1,10
- jonathan p ,0,1,12
- jose m jr,0,1,10
- joshua r ,0,1,10
- armando p ,0,1,11
- erick  ,0,1,8
- carmelo  ,0,1,10
- antonio v ,0,1,11
- oliver r ,0,1,10
- mark a ,0,1,8
- john k ,0,1,8
- javier a ,0,1,10
- yeramis  ,0,1,10
- gregorio  ,0,1,11
- reinaldo s ,0,1,12
- kevin g ,0,1,9
- rico  ,0,1,7
- victor m ,0,1,10
- josue j jr,0,1,11
- josue n ,0,1,9
- gamaliel a ,0,1,12
- luis b ,0,1,8
- melvin  ,0,1,9
- obed  ,0,1,7
- peter  ,0,1,8
- virgilio  ,0,1,11
- juan h ,0,1,8
- dony a ,0,1,8
- gelacio  ,0,1,10
- pablo d ,0,1,9
- rafael f ,0,1,10
- antony r ,0,1,10
- juan d ,0,1,8
- hector o ,0,1,10
- alejandrino  ,0,1,14
- ashmed s ,0,1,10
- freddy  ,0,1,9
- jerry  ,0,1,8
- alesis  ,0,1,9
- armando  ,0,1,10
- freddie a ,0,1,11
- joseph m ,0,1,10
- joyce  ,0,1,8
- michael w ,0,1,11
- ricardo e ,0,1,11
- ronald  ,0,1,9
- samuel m ,0,1,10
- samuel p ,0,1,10
- ruben o ,0,1,9
- joshuabner  ,0,1,13
- edgar m ,0,1,9
- marcos a ,0,1,10
- hernan  ,0,1,9
- edgardo c ,0,1,11
- robert t ,0,1,10
- darryl n ,0,1,10
- joseph w iii,0,1,13
- nelson a ,0,1,10
- ricardo d ,0,1,11
- andres a ,0,1,10
- sergio l ,0,1,10
- robert a ,0,1,10
- charley  ,0,1,10
- angel s ,0,1,9
- marlon  ,0,1,9
- joseph a ,0,1,10
- omar a ,0,1,8
- auguste c ,0,1,11
- sergio  ,0,1,9
- basilio j ,0,1,11
- mario  ,0,1,8
- edgar  ,0,1,8
- oliver  ,0,1,9
- joel o ,0,1,8
- alcides f ,0,1,11
- eli  ,0,1,6
- gabriel a ,0,1,11
- timoteo e ,0,1,11
- isaac j ,0,1,9
- william r ,0,1,11
- alfredo  ,0,1,10
- darrell w ,0,1,11
- william d ,0,1,11
- michael d ,0,1,11
- fermin  ,0,1,9
- stanley u ,0,1,11
- able d ,0,1,8
- anthony r ,0,1,11
- christian v ,0,1,13
- christopher j ,0,1,15
- danny  ,0,1,8
- danny d ,0,1,9
- domieon  ,0,1,10
- eli  jr,0,1,8
- emanuel  ,0,1,10
- gilberto  ,0,1,11
- john a jr,0,1,10
- jorge c ,0,1,9
- jorge d ,0,1,9
- jose c ,0,1,8
- jose j jr,0,1,10
- junior m ,0,1,10
- martin  ,0,1,9
- nathaniel  ,0,1,12
- nelson c ,0,1,10
- onesimo l ,0,1,11
- oscar l ,0,1,9
- osvaldo d ,0,1,11
- richard d ,0,1,11
- roberto  jr,0,1,12
- steven  ,0,1,9
- victor v ,0,1,10
- epigmenio  ,0,1,12
- emilio d ,0,1,10
- enique  ,0,1,9
- jose i ,0,1,8
- juan r ,0,1,8
- jorge m ,0,1,9
- pedro j ,0,1,9
- eric j ,0,1,8
- alain  ,0,1,8
- jonathan d ,0,1,12
- nilton  ,0,1,9
- james e ,0,1,9
- arthur r ,0,1,10
- rodrigues l ,0,1,13
- douglas a ,0,1,11
- michael p ,0,1,11
- roberto a ,0,1,11
- rolando  ,0,1,10
- alfonso a ,0,1,11
- kelvin  ,0,1,9
- rosendo  ,0,1,10
- rigdel  ,0,1,9
- jorge t ,0,1,9
- george  ,0,1,9
- eddie n ,0,1,9
- timoteo g ,0,1,11
- edwardo  ,0,1,10
- edgar d ,0,1,9
- jose l jr,0,1,10
- edsel i ,0,1,9
- elvido a ,0,1,10
- leo m ,0,1,7
- ramiro v ,0,1,10
- eric  ,0,1,7
- george e ,0,1,10
- tracy  ,0,1,8
- berto  ,0,1,8
- eliu  ,0,1,7
- fulgencio  jr,0,1,14
- nelson g ,0,1,10
- carlos s ,0,1,10
- humberto  jr,0,1,13
- ismael  ,0,1,9
- jeriel j ,0,1,10
- luis o ,0,1,8
- ezequiel  ,0,1,11
- joel  ,0,1,7
- alex e ,0,1,8
- manuel r ,0,1,10
- eduardo e ,0,1,11
- hector a ,0,1,10
- roberto e ,0,1,11
- juarez c ,0,1,10
- charles a ,0,1,11
- juan miguel m ,0,1,15
- abimael r ,0,1,11
- alberto l ,0,1,11
- alfredo a ,0,1,11
- angel g ,0,1,9
- antonio g ,0,1,11
- avissmael  ,0,1,12
- baltazar j ,0,1,12
- edgardo  jr.,0,1,13
- eduardo r ,0,1,11
- eliezer v ,0,1,11
- jairo j ,0,1,9
- jean a ,0,1,8
- julian m ,0,1,10
- laudi  ,0,1,8
- lazaro j ,0,1,10
- lazaro r ,0,1,10
- lorenzo c ,0,1,11
- marco g ,0,1,9
- marino e iii,0,1,13
- nilton j ,0,1,10
- rene c ,0,1,8
- rene v ,0,1,8
- romel  ,0,1,8
- socorro m ,0,1,11
- yanker o ,0,1,10
- clemente  ,0,1,11
- yasmany  ,0,1,10
- manuel  ,0,1,9
- eder  ,0,1,7
- francisco f ,0,1,13
- alberto r ,0,1,11
- abraham j ,0,1,11
- adalberto  ,0,1,12
- john  ,0,1,7
- christian r ,0,1,13
- mario j ,0,1,9
- yarcet  ,0,1,9
- anastacio  ,0,1,12
- isidro  ,0,1,9
- pedro e ,0,1,9
- manuel c ,0,1,10
- bryan j ,0,1,9
- ronald c ,0,1,10
- victor m jr.,0,1,13
- jose o ,0,1,8
- philip a ,0,1,10
- frank l ,0,1,9
- pedro b ,0,1,9
- arnulfo  ,0,1,10
- fernando j ,0,1,12
- ricardo f ,0,1,11
- irving  ,0,1,9
- adalberto r ,0,1,13
- abelardo  ,0,1,11
- calixto m ,0,1,11
- douglas m ,0,1,11
- jhoan e ,0,1,9
- miguel a jr,0,1,12
- alexis j ,0,1,10
- danilo a ,0,1,10
- ramon v ,0,1,9
- herminio  ,0,1,11
- gildardo b ,0,1,12
- juan n ,0,1,8
- misael v ,0,1,10
- abram  ,0,1,8
- bonifacio  ,0,1,12
- angel h ,0,1,9
- axel o ,0,1,8
- ernesto  jr,0,1,12
- ian f ,0,1,7
- jimmy  ,0,1,8
- rudy  ,0,1,7
- akonialii h ,0,1,13
- marcus m ,0,1,10
- fonseca j ,0,1,11
- eddie b ,0,1,9
- julian q ,0,1,10
- william m ,0,1,11
- nelson  jr.,0,1,12
- ramon a ,0,1,9
- sherwin x ,0,1,11
- kenneth e jr,0,1,13
- erick t ,0,1,9
- norin  jr,0,1,10
- alex j ,0,1,8
- dennis  ,0,1,9
- domingo a ,0,1,11
- edwin m ,0,1,9
- joao r ,0,1,8
- jorge i ,0,1,9
- landy  ,0,1,8
- milton v ,0,1,10
- onelio  ,0,1,9
- pedro p ,0,1,9
- rafael l ,0,1,10
- waldo  ,0,1,8
- jonathan j ,0,1,12
- renault j ,0,1,11
- jovel  ,0,1,8
- stephen m ,0,1,11
- geraldo p ,0,1,11
- oscar g ,0,1,9
- manuel f ,0,1,10
- alessandro  ,0,1,13
- efrain j ,0,1,10
- elliott  ,0,1,10
- joel e ,0,1,8
- charles t ,0,1,11
- jamie  ,0,1,8
- abraham c ,0,1,11
- fernando  jr,0,1,13
- florentino j ,0,1,14
- jason e ,0,1,9
- jason r ,0,1,9
- jose s ,0,1,8
- lazaro  ,0,1,9
- tepetlanco m ,0,1,14
- andres f ,0,1,10
- michael e ,0,1,11
- orestes  ,0,1,10
- soamy  ,0,1,8
- eddy  ,0,1,7
- geraldo  jr,0,1,12
- joey  ,0,1,7
- roberto  ii,0,1,12
- mijail  ,0,1,9
- mario c ,0,1,9
- rudolfo  ,0,1,10
- raul a ,0,1,8
- alfredo u ,0,1,11
- arcadio l ,0,1,11
- abel m ,0,1,8
- alfonso  ,0,1,10
- julio  jr.,0,1,11
- gdyan d ,0,1,9
- ronald g ,0,1,10
- armando  jr,0,1,12
- albert  ,0,1,9
- amado  jr,0,1,10
- anthony a ,0,1,11
- anthony c ,0,1,11
- anthony g ,0,1,11
- benjamin r ,0,1,12
- bulfrano  ,0,1,11
- carlos  jr,0,1,11
- cecilio j ,0,1,11
- clemente e ,0,1,12
- daniel a ,0,1,10
- daniel c ,0,1,10
- danny r ,0,1,9
- dino m ,0,1,8
- emmanuelle r ,0,1,14
- fidel  ,0,1,8
- frank a ,0,1,9
- hermes m ,0,1,10
- jean c ,0,1,8
- jeffrey  ,0,1,10
- jesse  ,0,1,8
- julio  iv,0,1,10
- julio e ,0,1,9
- louis a ,0,1,9
- marco a jr.,0,1,12
- martin r ,0,1,10
- mauro  ,0,1,8
- miguel l ,0,1,10
- moises v ,0,1,10
- nestor s ,0,1,10
- omar y ,0,1,8
- osmany  ,0,1,9
- pablo c ,0,1,9
- paulino  ,0,1,10
- radames t ,0,1,11
- radel  ,0,1,8
- reynaldo  ,0,1,11
- ricardo a ,0,1,11
- roberto i ,0,1,11
- rubiel  ,0,1,9
- rubin  jr,0,1,10
- timoteo  ,0,1,10
- yeremis  ,0,1,10
- franciso  ,0,1,11
- david m ,0,1,9
- mariano  ,0,1,10
- haniel  ,0,1,9
- gil e ,0,1,7
- areli  ,0,1,8
- eleuterio  ,0,1,12
- jesus r jr,0,1,11
- louis m ,0,1,9
- christopher l ,0,1,15
- rigoberto  ,0,1,12
- raymond o ,0,1,11
- feliciano  ,0,1,12
- joseph  ,0,1,9
- alexis  ,0,1,9
- ariel a ,0,1,9
- armando f ,0,1,11
- benny  ,0,1,8
- dymar m ,0,1,9
- elantonio t ,0,1,13
- jeremias v ,0,1,12
- luis c ,0,1,8
- thomas d ,0,1,10
- eugenio j ,0,1,11
- jose e ,0,1,8
- americo  ,0,1,10
- nery osbeli  ,0,1,14
- eligio  ,0,1,9
- steven j ,0,1,10
- anjel  ,0,1,8
- juan a jr,0,1,10
- nicholes m ,0,1,12
- rito e ,0,1,8
- alexandre r ,0,1,13
- aurelio  ,0,1,10
- danniel  ,0,1,10
- eduardo a ,0,1,11
- esteban  ,0,1,10
- everett j ,0,1,11
- faustino  ,0,1,11
- genrry  ,0,1,9
- heriberto  jr,0,1,14
- ian  ,0,1,6
- ivan  ,0,1,7
- ivan v ,0,1,8
- jonpaul  ,0,1,10
- josue m ,0,1,9
- luis a jr,0,1,10
- milton j ,0,1,10
- modesto  ,0,1,10
- moises s ,0,1,10
- nicholas  ,0,1,11
- oscar m ,0,1,9
- rafael e ,0,1,10
- ruben j jr.,0,1,12
- sael o ,0,1,8
- thomas  ,0,1,9
- tomas m ,0,1,9
- wense a ,0,1,9
- osmaidy  ,0,1,10
- gervacio  ,0,1,11
- leobel  ,0,1,9
- marlon a ,0,1,10
- wilson  ,0,1,9
- fidel g ,0,1,9
- santos g ,0,1,10
- edgardo j ,0,1,11
- lucas  ,0,1,8
- walter x ,0,1,10
- san f ,0,1,7
- franklin  ,0,1,11
- raphael  ,0,1,10
- gayle j ,0,1,9
- julian g ,0,1,10
- joshua a ,0,1,10
- rufino t ,0,1,10
- yandy  ,0,1,8
- federico  jr,0,1,13
- jourki  ,0,1,9
- lorenzo  ,0,1,10
- yan  ,0,1,6
- ernesto t ,0,1,11
- rey d ,0,1,7
- sebastian  ,0,1,12
- jiverto  ,0,1,10
- nolbin s ,0,1,10
- christian s ,0,1,13
- felipe d ,0,1,10
- jose v iii,0,1,11
- gersu  ,0,1,8
- erick a ,0,1,9
- frank f ,0,1,9
- kirk m ,0,1,8
- mitch  ,0,1,8
- saul c ,0,1,8
- alberto f ,0,1,11
- charles  ,0,1,10
- christopher m ,0,1,15
- geraldo l ,0,1,11
- gilbert m ,0,1,11
- gustavo a ,0,1,11
- jenfry a ,0,1,10
- norwin  ,0,1,9
- richard  jr,0,1,12
- ronny  ,0,1,8
- valentin b ,0,1,12
- etienne  ,0,1,10
- ruben h ,0,1,9
- ozzie r ,0,1,9
- andres  jr,0,1,11
- benjamin  jr,0,1,13
- daylan e ,0,1,10
- diosdado  jr,0,1,13
- dusty j ,0,1,9
- edward m ,0,1,10
- elmer o ,0,1,9
- enrique m ,0,1,11
- fernando l ,0,1,12
- isaac s ,0,1,9
- jesus g ,0,1,9
- joel r ,0,1,8
- jorge b ,0,1,9
- josue g ,0,1,9
- julian  jr,0,1,11
- leonel  ,0,1,9
- luke  ,0,1,7
- mainor  ,0,1,9
- maxtan d ,0,1,10
- orlando l ,0,1,11
- pedro h ,0,1,9
- pedro r ,0,1,9
- rafael a jr,0,1,12
- rogeli  ,0,1,9
- ruben  jr.,0,1,11
- ruperto a ,0,1,11
- saul  ,0,1,7
- sixto  ,0,1,8
- stephen  ,0,1,10
- ulises m ,0,1,10
- yovanny d ,0,1,11
- yuany  ,0,1,8
- yumisani  ,0,1,11
- omar  ,0,1,7
- carlos p ,0,1,10
- marco e ,0,1,9
- samir  ,0,1,8
- victor l ,0,1,10
- candelario  ,0,1,13
- cornelio  ,0,1,11
- marcelino  ,0,1,12
- derrick  ,0,1,10
- danielito c ,0,1,13
- francisco  jr,0,1,14
- lorenzo j ,0,1,11
- jay t ,0,1,7
- jonathan b ,0,1,12
- willie m ,0,1,10
- nichlas  ,0,1,10
- jenz w ,0,1,8
- heriberto  ,0,1,12
- francisco a ,0,1,13
- andrew d ,0,1,10
- jackson  ,0,1,10
- joel j ,0,1,8
- edi  ,0,1,6
- anthony m ,0,1,11
- cyril  ,0,1,8
- sergio  jr,0,1,11
- christian n ,0,1,13
- ruddy j ,0,1,9
- danilo  ,0,1,9
- emilio v ,0,1,10
- jose g ,0,1,8
- lazarro j ,0,1,11
- silvio  ,0,1,9
- luis g ,0,1,8
- ramiro b ,0,1,10
- aniceto b sr.,0,1,14
- bertin  ,0,1,9
- karl w ,0,1,8
- eliazar  jr,0,1,12
- asuncion  ,0,1,11
- cimitrio  ,0,1,11
- jesus p ,0,1,9
- antonio j ,0,1,11
- darwin j ,0,1,10
- ebenezer r ,0,1,12
- elpidio  ,0,1,10
- gonzalo a ,0,1,11
- eleazar  ,0,1,10
- florian  ,0,1,10
- eddie  ,0,1,8
- alfredo p ,0,1,11
- matthew s ,0,1,11
- aaron n ,0,1,9
- octavio p ,0,1,11
- ricardo t ,0,1,11
- michael j ,0,1,11
- abdullah a ,0,1,12
- matthew j jr,0,1,13
- romulo  ,0,1,9
- adan j ,0,1,8
- pete  ,0,1,7
- albert a ,0,1,10
- alexis c ,0,1,10
- israel f ,0,1,10
- jordan l ,0,1,10
- clifton  ,0,1,10
- marshall g ,0,1,12
- maddyel  ,0,1,10
- daniel f ,0,1,10
- noe a ,0,1,7
- fabian a ,0,1,10
- robert s ,0,1,10
- benjamin m ,0,1,12
- waldemar n ,0,1,12
- dimas p ,0,1,9
- gregory  ,0,1,10
- yuniet  ,0,1,9
- romeo a ,0,1,9
- santiago  jr,0,1,13
- noe  ,0,1,6
- hanly  ,0,1,8
- alexandro  ,0,1,12
- juan f ,0,1,8
- tarsis  ,0,1,9
- edgardo  ,0,1,10
- generoso  ,0,1,11
- david l ,0,1,9
- hugo a ,0,1,8
- adam  ,0,1,7
- alfonso p ,0,1,11
- chris  ,0,1,8
- eudin  ,0,1,8
- gabriel n ,0,1,11
- jeffrey j ,0,1,11
- jeffrey l ,0,1,11
- jerry l ,0,1,9
- john a ,0,1,8
- john e ,0,1,8
- juan r jr,0,1,10
- leonel t ,0,1,10
- macario  ,0,1,10
- marc  ,0,1,7
- matthew d ,0,1,11
- matthew r ,0,1,11
- mauricio m ,0,1,12
- nestor  ,0,1,9
- rocke r ,0,1,9
- santino l ,0,1,11
- walter j ,0,1,10
- william e ,0,1,11
- tomas  ,0,1,8
- joshuat s ,0,1,11
- hugo f ,0,1,8
- melquiades  ,0,1,13
- julio t ,0,1,9
- loupe l ,0,1,9
- silvestre  jr,0,1,14
- byron r ,0,1,9
- gilberto j ,0,1,12
- robert m ,0,1,10
- osmundo g ,0,1,11
- seledonio  ,0,1,12
- olmedo  ,0,1,9
- ricardo l ,0,1,11
- samuel s ,0,1,10
- wilfredo e ,0,1,12
- jonathan l ,0,1,12
- aron  ,0,1,7
- guellermo r ,0,1,13
- christian f ,0,1,13
- joan c ,0,1,8
- reynaldo l ,0,1,12
- daniel l ,0,1,10
- refugio  ,0,1,10
- haroon j ,0,1,10
- brandon  ,0,1,10
- dominic  ,0,1,10
- damian m ,0,1,10
- humberto m ,0,1,12
- joel c ,0,1,8
- amador  ,0,1,9
- david  jr.,0,1,11
- edmundo l ii,0,1,13
- hiram a ,0,1,9
- joseph r ,0,1,10
- miguel o ,0,1,10
- ramon l ,0,1,9
- jorge g ,0,1,9
- john d ,0,1,8
- henry  jr,0,1,10
- orlando c ,0,1,11
- ponciano s ,0,1,12
- fulgencio  ,0,1,12
- tirso  ,0,1,8
- hector r ,0,1,10
- hugo  ,0,1,7
- jaime a ,0,1,9
- santiago  ,0,1,11
- maykel  ,0,1,9
- alexander a ,0,1,13
- ariez  ,0,1,8
- guillermo e ,0,1,13
- george j ,0,1,10
- cruz  ,0,1,7
- eduardo  jr,0,1,12
- alexis v ,0,1,10
- arnaldo  ,0,1,10
- augustin c ,0,1,12
- baltazar c ,0,1,12
- caesar  jr,0,1,11
- domingo  jr,0,1,12
- edin  ,0,1,7
- efrain  iii,0,1,12
- erickson h ,0,1,12
- evans d ,0,1,9
- gabriel l ,0,1,11
- guillermo b ,0,1,13
- hubardo p ,0,1,11
- joe a ,0,1,7
- jorel l ,0,1,9
- juan l ,0,1,8
- justin l ,0,1,10
- lucas r ,0,1,9
- luis v ,0,1,8
- manolo j ,0,1,10
- marsanti  ,0,1,11
- melvin o ,0,1,10
- michael l ,0,1,11
- michael s ,0,1,11
- nelson d ,0,1,10
- omartin  ,0,1,10
- raymond l ,0,1,11
- regino  ,0,1,9
- ricky  ,0,1,8
- tony m ,0,1,8
- victor g ,0,1,10
- walter  ,0,1,9
- walter m ,0,1,10
- william c ,0,1,11
- yaser  ,0,1,8
- marco t ,0,1,9
- jasel  ,0,1,8
- romilio  ,0,1,10
- jaser  ,0,1,8
- eddie a ,0,1,9
- gelver r ,0,1,10
- robinson  ,0,1,11
- peter a ,0,1,9
- robert  jr,0,1,11
- carlos a jr,0,1,12
- eduardo m ,0,1,11
- lazaro m ,0,1,10
- diego j ,0,1,9
- maynor  ,0,1,9
- nelson j ,0,1,10
- ruben a ,0,1,9
- edvaldo a ,0,1,11
- fernando l jr,0,1,14
- mervin a ,0,1,10
- sadid g ,0,1,9
- kenneth h ,0,1,11
- alexander j ,0,1,13
- larry j ,0,1,9
- yosvani  ,0,1,10
- elizer  ,0,1,9
- johnny e ,0,1,10
- rocky  ,0,1,8
- sergio s ,0,1,10
- ian p ,0,1,7
- acencion  ,0,1,11
- esau  ,0,1,7
- raudel d ,0,1,10
- carlos o ,0,1,10
- nelson e ,0,1,10
- isaias  ,0,1,9
- ignacio j ,0,1,11
- yoel a ,0,1,8
- edwin g ,0,1,9
- bienvenido a ,0,1,14
- kelner  ,0,1,9
- damian  ,0,1,9
- ramiro r ,0,1,10
- william h ,0,1,11
- mario r ,0,1,9
- anthony  jr,0,1,12
- bobby w ,0,1,9
- cayetano d ,0,1,12
- geobani  ,0,1,10
- javier c ,0,1,10
- jay a ,0,1,7
- jesus j ,0,1,9
- kermit d ,0,1,10
- mark e ,0,1,8
- ruiz  ,0,1,7
- santo  ,0,1,8
- gerzon g ,0,1,10
- homero  iii,0,1,12
- felipe  iii,0,1,12
- guillermo h ,0,1,13
- jeffrey m ,0,1,11
- juan t ,0,1,8
- kenneth e ,0,1,11
- ludis  ,0,1,8
- marcelo  ,0,1,10
- nabor  ,0,1,8
- miguel e ,0,1,10
- norman s ,0,1,10
- adam d ,0,1,8
- pedro  jr,0,1,10
- hansel  ,0,1,9
- tony j ,0,1,8
- joar j ,0,1,8
- benito s ,0,1,10
- branden  ,0,1,10
- maikel z ,0,1,10
- bobby  jr,0,1,10
- jacinto g ,0,1,11
- yadiel o ,0,1,10
- ernesto e ,0,1,11
- jose v jr,0,1,10
- raul f ,0,1,8
- abiud  ,0,1,8
- denis  ,0,1,8
- adrian l ,0,1,10
- eliud m ,0,1,9
- joshua s ,0,1,10
- eloy  ,0,1,7
- felix f ,0,1,9
- ike r ,0,1,7
- omar f ,0,1,8
- guillremo p ,0,1,13
- michael v ,0,1,11
- phillip a ,0,1,11
- antonio l ,0,1,11
- oliver e ,0,1,10
- andy  ,0,1,7
- benjamin b jr,0,1,14
- brandon s ,0,1,11
- christian a ,0,1,13
- clemente  jr,0,1,13
- crespin g ,0,1,11
- eladio  ,0,1,9
- felix m ,0,1,9
- gabriel p ,0,1,11
- heine j ,0,1,9
- henry d ,0,1,9
- jahdel  ,0,1,9
- james r ,0,1,9
- jessie m ,0,1,10
- leonardo c ,0,1,12
- leonardo t ,0,1,12
- marcos c ,0,1,10
- paul  ,0,1,7
- paul  jr,0,1,9
- paul r ,0,1,8
- primitivo r ,0,1,13
- rodolfo a ,0,1,11
- rolando t ,0,1,11
- alberto j ,0,1,11
- jesse a ,0,1,9
- heuller  ,0,1,10
- jesus c ,0,1,9
- adrian a ,0,1,10
- antonio a ,0,1,11
- bernardo  ,0,1,11
- bo j ,0,1,6
- roberto p ,0,1,11
- darlin o ,0,1,10
- justo a ,0,1,9
- deive l ,0,1,9
- renier  ,0,1,9
- estuardo m ,0,1,12
- oscar d ,0,1,9
- kevin m ,0,1,9
- pablo  iii,0,1,11
- david a ,0,1,9
- feliz j ,0,1,9
- geraldo  ,0,1,10
- yadiel n ,0,1,10
- roberto c ,0,1,11
- sandeep  ,0,1,10
- edward r ,0,1,10
- charles r ,0,1,11
- daniel j ,0,1,10
- ricky r ,0,1,9
- martin d ,0,1,10
- davey l ,0,1,9
- kevin d ,0,1,9
- arturo  jr.,0,1,12
- adal a ,0,1,8
- rafael c ,0,1,10
- javier i iii,0,1,13
- adolfo a ,0,1,10
- ignacio p ,0,1,11
- julio i ,0,1,9
- jaime m ,0,1,9
- julio m ,0,1,9
- bryan  ,0,1,8
- deshawn a ,0,1,11
- alfredo o ,0,1,11
- anthony v ,0,1,11
- david v ,0,1,9
- edwin j iii,0,1,12
- harry a ,0,1,9
- valentin d ,0,1,12
- victor j ,0,1,10
- rigoberto j ,0,1,13
- naykin  ,0,1,9
- marco  ,0,1,8
- alexis a ,0,1,10
- diego o ,0,1,9
- ixio  ,0,1,7
- jacob m ,0,1,9
- johnathan e ,0,1,13
- jose r jr,0,1,10
- mauricio  ,0,1,11
- eric a ,0,1,8
- omar j ,0,1,8
- alberto v ,0,1,11
- jaime c ,0,1,9
- carlos c ,0,1,10
- andres i ,0,1,10
- cecilio  ,0,1,10
- martin o ,0,1,10
- christopher a ,0,1,15
- jeorge n ,0,1,10
- mark v ,0,1,8
- moises f ,0,1,10
- david r ,0,1,9
- adam s ,0,1,8
- ivan s ,0,1,8
- fidencio  ,0,1,11
- jairo a ,0,1,9
- refugio z ,0,1,11
- joaquin  ,0,1,10
- rey h ,0,1,7
- andres h ,0,1,10
- angel d ,0,1,9
- carlos i ,0,1,10
- elemelec  ,0,1,11
- elesio  ,0,1,9
- epifanio  ,0,1,11
- felix g ,0,1,9
- george o jr,0,1,12
- henry  ,0,1,8
- jaime o ,0,1,9
- jaymie  ,0,1,9
- jeovany t ,0,1,11
- jose l jr.,0,1,11
- nicholas d ,0,1,12
- pascual  ,0,1,10
- ramon a jr,0,1,11
- marvin o ,0,1,10
- xavier  ,0,1,9
- marcial  ,0,1,10
- rufino  ,0,1,9
- guadalupe  ,0,1,12
- julian  ,0,1,9
- rivera  ,0,1,9
- edwin d ,0,1,9
- harry p ,0,1,9
- noel  ,0,1,7
- teodoro  ,0,1,10
- khalil e ,0,1,10
- james  ,0,1,8
- josue e ,0,1,9
- wilmer o ,0,1,10
- andres m ,0,1,10
- freddy i ,0,1,10
- jeff  ,0,1,7
- fabian r ,0,1,10
- andres g ,0,1,10
- geovanny  ,0,1,11
- antonio i ,0,1,11
- ricardo i ,0,1,11
- darwin f ,0,1,10
- fabian h ,0,1,10
- edilmar  ,0,1,10
- guillermo a ,0,1,13
- oreste  ,0,1,9
- christian b ,0,1,13
- richard m ,0,1,11
- francisco g ,0,1,13
- aldo v ,0,1,8
- jorge s ,0,1,9
- justin  ,0,1,9
- jamaine j ,0,1,11
- henry a ,0,1,9
- steven l ,0,1,10
- christian i ,0,1,13
- roberto m ,0,1,11
- tito  ,0,1,7
- jorge f ,0,1,9
- eugenio g ,0,1,11
- daniel b ,0,1,10
- heladio  ,0,1,10
- jean p ,0,1,8
- vidal n ,0,1,9
- nelson m ,0,1,10
- pelagio g ,0,1,11
- andrew m ,0,1,10
- sotero  ,0,1,9
- eddie d ,0,1,9
- frank d ,0,1,9
- pedro c ,0,1,9
- bernardo a ,0,1,12
- anibal  ,0,1,9
- apolinar  ,0,1,11
- armando g ,0,1,11
- augustine d ,0,1,13
- bilmar  ,0,1,9
- cabrera g jr,0,1,13
- daniel e ,0,1,10
- danny a ,0,1,9
- emiliano  ,0,1,11
- francisco l ,0,1,13
- george  iii,0,1,12
- gerado  ,0,1,9
- gilbert  ,0,1,10
- gilberto n ,0,1,12
- hebesher  ,0,1,11
- israel j ,0,1,10
- ivan a ,0,1,8
- izah  ,0,1,7
- james b ,0,1,9
- jason a ,0,1,9
- javier d ,0,1,10
- josue a ,0,1,9
- luis p ,0,1,8
- marc a ,0,1,8
- norman l ,0,1,10
- rafael b ,0,1,10
- ryan a ,0,1,8
- sabreno m ,0,1,11
- tommy  ,0,1,8
- yandi r ,0,1,9
- baldomero  ,0,1,12
- steven x ,0,1,10
- guzman  ,0,1,9
- juvenal b ,0,1,11
- nereo  ,0,1,8
- noberto  ,0,1,10
- johnathan  ,0,1,12
- calletano d ,0,1,13
- cristobal  ,0,1,12
- arnaldo r ,0,1,11
- viviano t ,0,1,11
- henrry  ,0,1,9
- andy  jr,0,1,9
- maximiliano  ,0,1,14
- julian e ,0,1,10
- andrew  ,0,1,9
- joel u ,0,1,8
- norbert  ,0,1,10
- antonio t ,0,1,11
- louis g jr,0,1,11
- carlos h ,0,1,10
- eugenio a ,0,1,11
- severino  ,0,1,11
- eric l ,0,1,8
- victor  jr.,0,1,12
- edwin c ,0,1,9
- heriberto a ,0,1,13
- antonio r jr,0,1,13
- derek m ,0,1,9
- mario  jr,0,1,10
- alber  ,0,1,8
- anibal h ,0,1,10
- benito  ,0,1,9
- bryam  ,0,1,8
- davis  ,0,1,8
- german z ,0,1,10
- isaac m ,0,1,9
- israel a ,0,1,10
- jehu r ,0,1,8
- jesse e ,0,1,9
- johnny j ,0,1,10
- jorel  ,0,1,8
- leovanis  ,0,1,11
- louis r ,0,1,9
- macario g ,0,1,11
- manuel g ,0,1,10
- maximo c ,0,1,10
- nicolas r jr,0,1,13
- ohannion b ,0,1,12
- omar  jr,0,1,9
- ruben  jr,0,1,10
- adan  ,0,1,7
- angelo  ,0,1,9
- cristian q ,0,1,12
- damaso  ,0,1,9
- elliot  ,0,1,9
- george l ,0,1,10
- guillermo o jr,0,1,15
- inocencio r sr.,0,1,16
- jonathan h ,0,1,12
- justino m ,0,1,11
- randy a ,0,1,9
- richard r ,0,1,11
- willie  jr,0,1,11
- jahzeel  ,0,1,10
- joseph p ,0,1,10
- javier m ,0,1,10
- kevin a ,0,1,9
- nolan d ,0,1,9
- reynier  ,0,1,10
- gilbert r ,0,1,11
- geovanni  ,0,1,11
- francisco c ,0,1,13
- erasmo h ,0,1,10
- lisandro n ,0,1,12
- benjamin  ,0,1,11
- kelvin m ,0,1,10
- manuel l ,0,1,10
- alvarez a ,0,1,11
- catalino  ,0,1,11
- joshua o ,0,1,10
- julio  jr,0,1,10
- mario e ,0,1,9
- vincente p ,0,1,12
- yenson  ,0,1,9
- vicente e ,0,1,11
- kevin o ,0,1,9
- alain m ,0,1,9
- cleofas j ,0,1,11
- fermin g ,0,1,10
- normail  ,0,1,10
- alexander g ,0,1,13
- brayian a ,0,1,11
- daniel s ,0,1,10
- joaquin t ,0,1,11
- lazarus c ,0,1,11
- nestor e ,0,1,10
- ramon d ,0,1,9
- reuben  ,0,1,9
- steven s ,0,1,10
- gonzalo j ,0,1,11
- jesus e ,0,1,9
- karlos l ,0,1,10
- amalio  ,0,1,9
- amalio f ,0,1,10
- ariel v ,0,1,9
- bryan e ,0,1,9
- carlos j jr,0,1,12
- carmello  jr,0,1,13
- danny l ,0,1,9
- darius m ,0,1,10
- devyn o ,0,1,9
- evodio x ,0,1,10
- fabian  ,0,1,9
- gilberto c ,0,1,12
- giovani  ,0,1,10
- gualberto  ,0,1,12
- holving v ,0,1,11
- irving j ,0,1,10
- isaac  ,0,1,8
- jasper  ,0,1,9
- jesus o ,0,1,9
- johnny l ,0,1,10
- jonnathan  ,0,1,12
- juan s ,0,1,8
- juancarlos f ,0,1,14
- luis d ,0,1,8
- marlon j ,0,1,10
- miguel a jr.,0,1,13
- norberto  jr.,0,1,14
- rafael m ,0,1,10
- ramon j ,0,1,9
- reinaldo b ,0,1,12
- richard a ,0,1,11
- richard f ,0,1,11
- robert q ,0,1,10
- roberto n ,0,1,11
- robin j jr,0,1,11
- rony e ,0,1,8
- rudy v ,0,1,8
- stephan r ,0,1,11
- vincent f ,0,1,11
- wesley n ,0,1,10
- wilberto s ,0,1,12
- william j ,0,1,11
- armando m ,0,1,11
- alfredo  iii,0,1,13
- ignacio  ,0,1,10
- alex n ,0,1,8
- aaron  ,0,1,8
- alberto c ,0,1,11
- amilcar  ,0,1,10
- angel o ,0,1,9
- ascary  ,0,1,9
- calvin j ,0,1,10
- calvin l ,0,1,10
- catarino  ,0,1,11
- christian c ,0,1,13
- dionicio  ,0,1,11
- diosdado  ,0,1,11
- edwin p ,0,1,9
- eliezer r ,0,1,11
- eliud  ii,0,1,10
- erasmo j ,0,1,10
- frank e ,0,1,9
- frank j ,0,1,9
- froilan  ,0,1,10
- george  jr,0,1,11
- gerardo a ,0,1,11
- guadalupe e ,0,1,13
- guillermo j ,0,1,13
- guillermo w ,0,1,13
- herberto  ,0,1,11
- heriberto e ,0,1,13
- isaiah d ,0,1,10
- jashua l ,0,1,10
- jason s ,0,1,9
- jerry c ,0,1,9
- joe h ,0,1,7
- john n ,0,1,8
- jorge  jr,0,1,10
- jose w ,0,1,8
- julio l jr,0,1,11
- kristopher  ,0,1,13
- larry  ,0,1,8
- luciano  ,0,1,10
- manolo  ,0,1,9
- marcos r ,0,1,10
- marcus l ,0,1,10
- matthew b ,0,1,11
- moises j ,0,1,10
- nathaniel r ,0,1,13
- oscar c ,0,1,9
- rafael o ,0,1,10
- randy  ,0,1,8
- raymon  ,0,1,9
- renee  ,0,1,8
- ricky w ,0,1,9
- rodreigo  ,0,1,11
- roger  ,0,1,8
- rolando a ,0,1,11
- rolando b ,0,1,11
- ruben r ,0,1,9
- saul a ,0,1,8
- sean m ,0,1,8
- sesar  ,0,1,8
- sigfredo  ,0,1,11
- simon i ,0,1,9
- valentin  ,0,1,11
- vincente  ,0,1,11
- wilber  ,0,1,9
- zenon  ,0,1,8
- francisco d ,0,1,13
- hommy  ,0,1,8
- hug l ,0,1,7
- takechand  ,0,1,12
- jason l ,0,1,9
- carlos z ,0,1,10
- guillermo m ,0,1,13
- christian m ,0,1,13
- wilfredo j ,0,1,12
- gilberto t ,0,1,12
- marcos g ,0,1,10
- paul a ,0,1,8
- brian w ,0,1,9
- douglas r ,0,1,11
- vincent r ,0,1,11
- omar m ,0,1,8
- aneudy r ,0,1,10
- arturo  jr,0,1,11
- exan  ,0,1,7
- eddiel  ,0,1,9
- victor s ,0,1,10
- aaron m ,0,1,9
- denis l ,0,1,9
- efrain i ,0,1,10
- marvin j ,0,1,10
- cesar e ,0,1,9
- gerardo n ,0,1,11
- kenneth c ,0,1,11
- wilberto  ,0,1,11
- daniel i ,0,1,10
- jorge r ,0,1,9
- manuel b ,0,1,10
- rico p ,0,1,8
- alfonso c ,0,1,11
- armin n ,0,1,9
- ceasar  ,0,1,9
- efrain t ,0,1,10
- francisco t ,0,1,13
- leonte  ,0,1,9
- modesto l ,0,1,11
- rangel v ,0,1,10
- robert l ,0,1,10
- sirenio  ,0,1,10
- jose miguel  ,0,1,14
- luis x ,0,1,8
- august  ,0,1,9
- jidier a ,0,1,10
- byron e ,0,1,9
- romualdo r ,0,1,12
- albert g ,0,1,10
- albert v ,0,1,10
- gilbert b ,0,1,11
- gregory g ,0,1,11
- leopoldo  ,0,1,11
- antonio m ,0,1,11
- joshua j ,0,1,10
- lester i ,0,1,10
- gregorio  jr,0,1,13
- frederic  ,0,1,11
- nelson f ,0,1,10
- agustin  ,0,1,10
- alferdo g jr,0,1,13
- dagoberto f ,0,1,13
- daniel d ,0,1,10
- erasto b ,0,1,10
- glenn d ,0,1,9
- ismael  jr.,0,1,12
- israel l ,0,1,10
- issac g ,0,1,9
- jaddier t ,0,1,11
- joel p ,0,1,8
- kenneth j ,0,1,11
- miguel r ,0,1,10
- olvin  ,0,1,8
- oscar  jr.,0,1,11
- ramon m ,0,1,9
- roberto b ,0,1,11
- selestino x ,0,1,13
- simon a ,0,1,9
- victor  jr,0,1,11
- victor h ,0,1,10
- william a ,0,1,11
- lemuel  ,0,1,9
- cristian  ,0,1,11
- hector g ,0,1,10
- joseph e ,0,1,10
- pablo a ,0,1,9
- justino  jr,0,1,12
- ildafonso  ,0,1,12
- abimael  ,0,1,10
- alexander d ,0,1,13
- cornelio h ,0,1,12
- edgar i ,0,1,9
- ezekiel o ,0,1,11
- faustino a ,0,1,12
- jarol a ,0,1,9
- javier  jr,0,1,11
- jorge j ,0,1,9
- josue r ,0,1,9
- mariano a ,0,1,11
- matthew  ,0,1,10
- thomas r ,0,1,10
- wilfredo o ,0,1,12
- eddie e ,0,1,9
- felix i ,0,1,9
- victoriano  ,0,1,13
- cristian i ,0,1,12
- jonathan o ,0,1,12
- kenneth l ,0,1,11
- khalil d ,0,1,10
- marvin a ,0,1,10
- rafael g ,0,1,10
- darwin  ,0,1,9
- hubert  ,0,1,9
- jorge e ,0,1,9
- shamal k ,0,1,10
- alex o ,0,1,8
- alexis f ,0,1,10
- rafael h ,0,1,10
- ernesto i ,0,1,11
- cruz f ,0,1,8
- elvis  ,0,1,8
- jonus  ,0,1,8
- joseph d ,0,1,10
- moses  jr,0,1,10
- steven n ,0,1,10
- tarcio  ,0,1,9
- luis o jr,0,1,10
- ramiro  jr,0,1,11
- deandre d ,0,1,11
- ramon s ,0,1,9
- eric k ,0,1,8
- ramirez m ,0,1,11
- giovanni d ,0,1,12
- lorenzo a ,0,1,11
- jose t ,0,1,8
- gabriel j ,0,1,11
- cornelio g ,0,1,12
- john t ,0,1,8
- cesar j ,0,1,9
- augustin  ,0,1,11
- estebon  ,0,1,10
- jayime  ,0,1,9
- juan  jr.,0,1,10
- paul l ,0,1,8
- adalberto a ,0,1,13
- arsenio r ,0,1,11
- diego a ,0,1,9
- eleno  jr,0,1,10
- norman  ,0,1,9
- dennis r ,0,1,10
- justin e ,0,1,10
- diogene  ,0,1,10
- noe t ,0,1,7
- jordan n ,0,1,10
- lonnie l ,0,1,10
- julian c ,0,1,10
- eliezer  jr,0,1,12
- jairon  ,0,1,9
- oscar o ,0,1,9
- manuel i ,0,1,10
- joshua c ,0,1,10
- taide e ,0,1,9
- merced j m ,0,1,12
- paul n ,0,1,8
- alex k ,0,1,8
- alfred n ,0,1,10
- cesar b ,0,1,9
- edwin v ,0,1,9
- elimelec  ,0,1,11
- gabiel a ,0,1,10
- israel d ,0,1,10
- jimmie l ,0,1,10
- jimmy r ,0,1,9
- jose a sr,0,1,10
- juventino s ,0,1,13
- micheal r ,0,1,11
- milton  ,0,1,9
- pr j ,0,1,6
- salatier  ,0,1,11
- uber h ,0,1,8
- wilfredo a ,0,1,12
- wresley  ,0,1,10
- yunesquis g ,0,1,13
- jovel i ,0,1,9
- marcus a ,0,1,10
- alvin j ,0,1,9
- zelmy  ,0,1,8
- amos  ,0,1,7
- lucio a ,0,1,9
- christopher s ,0,1,15
- mario v ,0,1,9
- angel j ,0,1,9
- felice  ,0,1,9
- rodney  ,0,1,9
- johell e ,0,1,10
- jeffrey a ,0,1,11
- reza p ,0,1,8
- adrian v ,0,1,10
- karell  ,0,1,9
- noel l ,0,1,8
- alain a ,0,1,9
- gumercindo ,0,1,12
- antonio ,0,1,9
- francisco g,0,1,12
- sabas g,0,1,8
- elvis ,0,1,7
- lorenzo ,0,1,9
- ernesto ,0,1,9
- roberto ,0,1,9
- daniel ,0,1,8
- ansley ,0,1,8
- claudio a,0,1,10
- edward j,0,1,9
- russell a,0,1,10
- francisco ,0,1,11
- scott a,0,1,8
- santiago ,0,1,10
- ivan l,0,1,7
- alvaro ,0,1,8
- cesar a,0,1,8
- oscar h,0,1,8
- joshua a,0,1,9
- luis a,0,1,7
- bobby j,0,1,8
- david ,0,1,7
- manuel e,0,1,9
- luis ,0,1,6
- raul ,0,1,6
- silvino ,0,1,9
- edgar e,0,1,8
- reynaldo ,0,1,10
- louie ,0,1,7
- pascual ,0,1,9
- luis g,0,1,7
- juan a,0,1,7
- gabriel ,0,1,9
- hector e,0,1,9
- carlos ,0,1,8
- gerardo ,0,1,9
- juan ,0,1,6
- daniel a,0,1,9
- hugo ,0,1,6
- manuel ,0,1,8
- rene v,0,1,7
- william ,0,1,9
- samuel j,0,1,9
- anael ,0,1,7
- alejandro ,0,1,11
- jose l,0,1,7
- aurelio ,0,1,9
- j g,0,1,4
- roman h,0,1,8
- luis m,0,1,7
- michael a,0,1,10
- abelardo ,0,1,10
- raymond j,0,1,10
- evererdo ,0,1,10
- jorge a,0,1,8
- conrado g,0,1,10
- romero b,0,1,9
- zachary m,0,1,10
- elias ,0,1,7
- alfredo c,0,1,10
- paul a,0,1,7
- jose i,0,1,7
- roberto c,0,1,10
- carlos l,0,1,9
- arturo ,0,1,8
- alberto ,0,1,9
- jose a,0,1,7
- romil ,0,1,7
- roberto g,0,1,10
- erickson ,0,1,10
- heriberto ,0,1,11
- romero ,0,1,8
- jesus ,0,1,7
- jose j,0,1,7
- cristino ,0,1,10
- antonio s,0,1,10
- tony m,0,1,7
- gustavo e,0,1,10
- juan d,0,1,7
- martin ,0,1,8
- liodegario ,0,1,12
- miguel a,0,1,9
- adam l,0,1,7
- michael ,0,1,9
- joe l,0,1,6
- robert ,0,1,8
- angel ,0,1,7
- cesar m,0,1,8
- efrain ,0,1,8
- rodney l,0,1,9
- arcadio ,0,1,9
- arturo t,0,1,9
- catarino r,0,1,11
- ivan ,0,1,6
- jorge ,0,1,7
- julio ,0,1,7
- ramon i,0,1,8
- jacinto ,0,1,9
- ricardo a,0,1,10
- franklin ,0,1,10
- eusebio f,0,1,10
- andres a,0,1,9
- antonio b,0,1,10
- daniel s,0,1,9
- dionisio ,0,1,10
- edgardo c,0,1,10
- fabian e,0,1,9
- felix e,0,1,8
- fidel ,0,1,7
- jeffery ,0,1,9
- jose c,0,1,7
- martin b,0,1,9
- miguel g,0,1,9
- rene ,0,1,6
- trinidad ,0,1,10
- william f,0,1,10
- alex j,0,1,7
- daniel t,0,1,9
- silas o,0,1,8
- alejandro a,0,1,12
- cruz ,0,1,6
- ramon ,0,1,7
- ismael ,0,1,8
- joseph a,0,1,9
- christopher t,0,1,14
- enrique ,0,1,9
- jorge p,0,1,8
- rafael g,0,1,9
- salvador a,0,1,11
- armando g,0,1,10
- dustin a,0,1,9
- richard w,0,1,10
- osires ,0,1,8
- sergio i,0,1,9
- johnny j,0,1,9
- emilio ,0,1,8
- joe a,0,1,6
- santos ,0,1,8
- jose ,0,1,6
- miguel ,0,1,8
- james r,0,1,8
- eduardo j,0,1,10
- albert ,0,1,8
- edgar ,0,1,7
- eduardo l,0,1,10
- juan l,0,1,7
- lloyd d,0,1,8
- oscar ,0,1,7
- richard ,0,1,9
- estaban ,0,1,9
- jimmy j,0,1,8
- edgar a,0,1,8
- felipe n,0,1,9
- john ,0,1,6
- ciro ,0,1,6
- itzamanna ,0,1,11
- mateo ,0,1,7
- ruperto c,0,1,10
- victor ,0,1,8
- felipe ,0,1,8
- adam e,0,1,7
- johnathen l,0,1,12
- louis ,0,1,7
- cesar s,0,1,8
- benjamin j,0,1,11
- andres ,0,1,8
- christian ,0,1,11
- patrick r,0,1,10
- abraham ,0,1,9
- mauricio a,0,1,11
- jesus a,0,1,8
- david g,0,1,8
- seth m,0,1,7
- yelson ,0,1,8
- anthony c,0,1,10
- wilmer ,0,1,8
- uris ,0,1,6
- erick ,0,1,7
- christobal a,0,1,13
- german r,0,1,9
- omar ,0,1,6
- cesar p,0,1,8
- david l,0,1,8
- dylan j,0,1,8
- jairo a,0,1,8
- nicholas ,0,1,10
- omar g,0,1,7
- rodolfo a,0,1,10
- gilberto ,0,1,10
- francisco j,0,1,12
- jose g,0,1,7
- ali m,0,1,6
- gavino p,0,1,9
- julio m,0,1,8
- gilberto a,0,1,11
- luciano ,0,1,9
- jhovanny ,0,1,10
- jonathan a,0,1,11
- jose e,0,1,7
- walter ,0,1,8
- juan p,0,1,7
- sidney f,0,1,9
- rodrigo ,0,1,9
- avin b,0,1,7
- cesar ,0,1,7
- octavio ,0,1,9
- juan c,0,1,7
- fernando ,0,1,10
- nathan ,0,1,8
- carlos a,0,1,9
- ismael c,0,1,9
- oscar a,0,1,8
- raul j,0,1,7
- sergio ,0,1,8
- matias ,0,1,8
- abel a,0,1,7
- david a,0,1,8
- rene i,0,1,7
- seth ,0,1,6
- antonio a,0,1,10
- brian ,0,1,7
- lionel r,0,1,9
- jeronimo ,0,1,10
- benito ,0,1,8
- jesse ,0,1,7
- thomas c,0,1,9
- manuel d,0,1,9
- adrian c,0,1,9
- isai ,0,1,6
- levi r,0,1,7
- roy a,0,1,6
- santiago g,0,1,11
- gregory j,0,1,10
- martin o,0,1,9
- guillermo ,0,1,11
- norberto ,0,1,10
- anibal ,0,1,8
- abraham m,0,1,10
- carlos m,0,1,9
- honorio ,0,1,9
- nery ,0,1,6
- saul ,0,1,6
- mario ,0,1,7
- joseph ,0,1,8
- mario o,0,1,8
- danny ,0,1,7
- guadalupe ,0,1,11
- kenneth ,0,1,9
- little a,0,1,9
- raymundo ,0,1,10
- agustin ,0,1,9
- gilberto r,0,1,11
- kerry ,0,1,7
- froilan ,0,1,9
- jamie m,0,1,8
- marlos a,0,1,9
- robert e,0,1,9
- saul e,0,1,7
- stephen ,0,1,9
- geronimo ,0,1,10
- arnulfo ,0,1,9
- anthony m,0,1,10
- oscar s,0,1,8
- ovidio e,0,1,9
- jordan d,0,1,9
- jorge l,0,1,8
- remberto a,0,1,11
- oswaldo ,0,1,9
- jomy a,0,1,7
- rickie ,0,1,8
- jose s,0,1,7
- aaron ,0,1,7
- daniel m,0,1,9
- edgar i,0,1,8
- ever ,0,1,6
- fernando v,0,1,11
- gerardo i,0,1,10
- herman s,0,1,9
- joel r,0,1,7
- ramon e,0,1,8
- rodolfo s,0,1,10
- shawn d,0,1,8
- victor o,0,1,9
- robert s,0,1,9
- nicholas j,0,1,11
- angel y,0,1,8
- gabriel a,0,1,10
- jose m,0,1,7
- robert a,0,1,9
- marcos ,0,1,8
- steven ,0,1,8
- javier a,0,1,9
- eddie e,0,1,8
- javier ,0,1,8
- felipe d,0,1,9
- isaac d,0,1,8
- luis f,0,1,7
- neri ,0,1,6
- pedro ,0,1,7
- anthony r,0,1,10
- diego ,0,1,7
- marcelo r,0,1,10
- reyes t,0,1,8
- gustavo b,0,1,10
- eloy ,0,1,6
- luiz r,0,1,7
- vincente ,0,1,10
- carlos f,0,1,9
- julio c,0,1,8
- cameron c,0,1,10
- wilson ,0,1,8
- herson m,0,1,9
- carlos s,0,1,9
- edi ,0,1,5
- armando ,0,1,9
- luis e,0,1,7
- jaime ,0,1,7
- jesus j,0,1,8
- alberto a,0,1,10
- ruben ,0,1,7
- marco a,0,1,8
- david d,0,1,8
- irineo ,0,1,8
- j j,0,1,4
- juan r,0,1,7
- mario l,0,1,8
- alfredo ,0,1,9
- ghedeon ,0,1,9
- leonel s,0,1,9
- romar ,0,1,7
- hector ,0,1,8
- victor j,0,1,9
- apolinar p,0,1,11
- isidro ,0,1,8
- fredy a,0,1,8
- jamie ,0,1,7
- santos r,0,1,9
- omar a,0,1,7
- lawrence g,0,1,11
- carlos u,0,1,9
- rodolfo ,0,1,9
- diego h,0,1,8
- brian o,0,1,8
- johnny c,0,1,9
- michael e,0,1,10
- joshua c,0,1,9
- michael b,0,1,10
- joel ,0,1,6
- rigoberto ,0,1,11
+jothan r,0,1,8
+jothan a,0,1,8
+pablo,0,1,5
+basilio l,0,1,9
+german,0,1,6
+javier,0,1,6
+luis a,0,1,6
+angel,0,1,5
+antonio,0,1,7
+,0,1,3
+carlos r,0,1,8
+diego,0,1,5
+harold,0,1,6
+jose,0,1,4
+michael,0,1,7
+christopher g,0,1,13
+felipe,0,1,6
+abraham r,0,1,9
+alberto,0,1,7
+brian n,0,1,7
+carlos e,0,1,8
+francisco s,0,1,11
+joe,0,1,3
+julio,0,1,5
+moises b sr,0,1,11
+orl,0,1,3
+robert,0,1,6
+wilfredo r,0,1,10
+juan j,0,1,6
+omar s,0,1,6
+emanuel c,0,1,9
+misael,0,1,6
+israel,0,1,6
+carlos l,0,1,8
+felix,0,1,5
+gustavo,0,1,7
+juan,0,1,4
+even,0,1,4
+juan c,0,1,6
+angell,0,1,6
+antonio r,0,1,9
+eduardo,0,1,7
+emmanuel,0,1,8
+jose l,0,1,6
+jose q,0,1,6
+margarito,0,1,9
+carlos,0,1,6
+roman,0,1,5
+moises,0,1,6
+alsibiaoes,0,1,10
+daniel,0,1,6
+odelin,0,1,6
+roger a,0,1,7
+arnoldo,0,1,7
+eduard g,0,1,8
+belizario,0,1,9
+francisco b,0,1,11
+francisco j,0,1,11
+jesus b,0,1,7
+jose f,0,1,6
+rabuith,0,1,7
+clemente j,0,1,10
+teodulfo r,0,1,10
+phillip j,0,1,9
+ernesto,0,1,7
+william f,0,1,9
+pedro o,0,1,7
+rene,0,1,4
+jony,0,1,4
+omar u,0,1,6
+pedro m,0,1,7
+cesar,0,1,5
+steve,0,1,5
+angel l,0,1,7
+javier e,0,1,8
+guillermo,0,1,9
+mayronn n,0,1,9
+oscar,0,1,5
+santos c,0,1,8
+brayan p,0,1,8
+christian j,0,1,11
+jesus,0,1,5
+heliodoro,0,1,9
+anthony j,0,1,9
+alvin,0,1,5
+anthony,0,1,7
+efrain,0,1,6
+esau ismael f,0,1,13
+francico r,0,1,10
+jothan,0,1,6
+jothan m,0,1,8
+raul r,0,1,6
+francisco r,0,1,11
+hun o,0,1,5
+roberto m jr,0,1,12
+carlos j,0,1,8
+jose m,0,1,6
+jesus a,0,1,7
+junior,0,1,6
+leordo,0,1,6
+george a,0,1,8
+edward,0,1,6
+erik,0,1,4
+igcio l,0,1,7
+joshua l,0,1,8
+luis r,0,1,6
+pedro,0,1,5
+torbio,0,1,6
+uriel,0,1,5
+wiliah,0,1,6
+cipriano,0,1,8
+alfredo c,0,1,9
+anthony i,0,1,9
+carlos a,0,1,8
+daniel m,0,1,8
+edgar l,0,1,7
+eli v,0,1,5
+gean m,0,1,6
+julio c,0,1,7
+justine,0,1,7
+luis e,0,1,6
+nestor a,0,1,8
+ramon,0,1,5
+raymond,0,1,7
+rene a,0,1,6
+xavier o,0,1,8
+yasman,0,1,6
+marcelo a,0,1,9
+roberto,0,1,7
+ricardo,0,1,7
+juan p,0,1,6
+alex a,0,1,6
+hector l,0,1,8
+jacobo b,0,1,8
+yasser,0,1,6
+raymond j,0,1,9
+jose d,0,1,6
+miguel a,0,1,8
+angel a,0,1,7
+francisco,0,1,9
+rigoberto a,0,1,11
+edward j iv,0,1,11
+jessie,0,1,6
+mark,0,1,4
+carmen,0,1,6
+eduardo v,0,1,9
+profirio,0,1,8
+carlo,0,1,5
+salvador,0,1,8
+gil,0,1,3
+aramis,0,1,6
+florentino,0,1,10
+javier r,0,1,8
+josue l,0,1,7
+leordo jr,0,1,9
+luis,0,1,4
+yovany l,0,1,8
+fern,0,1,4
+floriberto,0,1,10
+reildo g,0,1,8
+domingo,0,1,7
+raul,0,1,4
+donovan p,0,1,9
+guillermo o,0,1,11
+allen r,0,1,7
+juan m,0,1,6
+dwayne c,0,1,8
+esteban m,0,1,9
+enrique,0,1,7
+luis h,0,1,6
+hector j,0,1,8
+josue,0,1,5
+ramon u,0,1,7
+oscar j,0,1,7
+alain g,0,1,7
+manuel j,0,1,8
+julio r,0,1,7
+robert d,0,1,8
+steven a,0,1,8
+arturo a,0,1,8
+johnny,0,1,6
+melvin h,0,1,8
+gerardo,0,1,7
+johnny a,0,1,8
+alex,0,1,4
+esteban d,0,1,9
+erie w,0,1,6
+misael a,0,1,8
+pedro l,0,1,7
+pedro l jr,0,1,10
+rutilio,0,1,7
+esmildo,0,1,7
+david j,0,1,7
+felipe a,0,1,8
+gary,0,1,4
+jamie r,0,1,7
+miguel,0,1,6
+hector m,0,1,8
+marcos,0,1,6
+reyldo a,0,1,8
+vicente v,0,1,9
+luis f,0,1,6
+alnesto,0,1,7
+manuel a jr,0,1,11
+ruben,0,1,5
+rafael,0,1,6
+miguel j,0,1,8
+gilberto d,0,1,10
+maikel,0,1,6
+louis s,0,1,7
+alex c,0,1,6
+alfredo m,0,1,9
+jason,0,1,5
+jorge,0,1,5
+jose j,0,1,6
+jose n,0,1,6
+justino t,0,1,9
+luis j,0,1,6
+victor a,0,1,8
+william,0,1,7
+alej,0,1,4
+juan g,0,1,6
+jaime,0,1,5
+john p,0,1,6
+pascacio b,0,1,10
+antonio f,0,1,9
+raul e,0,1,6
+abel,0,1,4
+hugo r,0,1,6
+gabriel o,0,1,9
+bryan r,0,1,7
+cristian m,0,1,10
+yohen,0,1,5
+ariel,0,1,5
+christopher,0,1,11
+eliezer,0,1,7
+juan j jr,0,1,9
+juan i,0,1,6
+guillermo jr,0,1,12
+manuel v,0,1,8
+frutuoso,0,1,8
+jose a,0,1,6
+humberto,0,1,8
+reildo,0,1,6
+stephen a,0,1,9
+tomas r,0,1,7
+jose e sr,0,1,9
+yovanny z,0,1,9
+raul jr,0,1,7
+robert j,0,1,8
+vicente i,0,1,9
+jesus s,0,1,7
+abel j,0,1,6
+astor l,0,1,7
+elizel,0,1,6
+nicolas,0,1,7
+francisco e,0,1,11
+manuel a,0,1,8
+joselito j,0,1,10
+michael a,0,1,9
+edwin r,0,1,7
+pablo m,0,1,7
+angel m,0,1,7
+eduardo j,0,1,9
+cesar a,0,1,7
+jesus r,0,1,7
+edil c,0,1,6
+mariano r,0,1,9
+victor,0,1,6
+frank,0,1,5
+ruben d,0,1,7
+juan a,0,1,6
+mailor o,0,1,8
+otilio,0,1,6
+iharo m,0,1,7
+yosnel,0,1,6
+joshua e,0,1,8
+junior l,0,1,8
+david jr,0,1,8
+eugenio,0,1,7
+eduardo d,0,1,9
+manuel d,0,1,8
+benigno sr,0,1,10
+edgar a,0,1,7
+julio a,0,1,7
+roy a,0,1,5
+tomas a,0,1,7
+david,0,1,5
+emilio,0,1,6
+jairo,0,1,5
+yulier,0,1,6
+ovidio,0,1,6
+benito m,0,1,8
+ian a,0,1,5
+hector,0,1,6
+vicente,0,1,7
+brian,0,1,5
+arnesto,0,1,7
+wilbert,0,1,7
+pierre,0,1,6
+yilberto,0,1,8
+seth a,0,1,6
+amardo,0,1,6
+agustin jr,0,1,10
+carlos g jr,0,1,11
+edwin,0,1,5
+gratto o,0,1,8
+jeremy o,0,1,8
+joshua,0,1,6
+juan e,0,1,6
+rodrigo,0,1,7
+kenneth,0,1,7
+jeremy d,0,1,8
+marco a,0,1,7
+roberto g,0,1,9
+bobby a,0,1,7
+jose b,0,1,6
+billy e,0,1,7
+norberto,0,1,8
+edwin f,0,1,7
+christian,0,1,9
+alexis m,0,1,8
+arm,0,1,3
+jose r,0,1,6
+mario a,0,1,7
+ralph,0,1,5
+nelson,0,1,6
+mateo s,0,1,7
+ramiro,0,1,6
+anthony d,0,1,9
+alexis s,0,1,8
+edilsar,0,1,7
+eliseo,0,1,6
+hector e,0,1,8
+osvaldo,0,1,7
+richard,0,1,7
+wilmer,0,1,6
+elvin l,0,1,7
+victor e,0,1,8
+risquermi,0,1,9
+hyosvany,0,1,8
+abraham,0,1,7
+eric m,0,1,6
+jomar m,0,1,7
+wilfredo,0,1,8
+justo,0,1,5
+luis l,0,1,6
+adrian s,0,1,8
+charles d,0,1,9
+pedro a,0,1,7
+angel r,0,1,7
+tony,0,1,4
+melvin a,0,1,8
+arturo,0,1,6
+mario l,0,1,7
+frank r,0,1,7
+troy,0,1,4
+alexis x,0,1,8
+johnel,0,1,6
+elias,0,1,5
+osny,0,1,4
+victor r,0,1,8
+freddy m,0,1,8
+joe l,0,1,5
+felix r,0,1,7
+harold a,0,1,8
+gabriel,0,1,7
+gonzalo,0,1,7
+joseph j,0,1,8
+yamil,0,1,5
+geraro,0,1,6
+adam i,0,1,6
+ulises,0,1,6
+santos,0,1,6
+lui g,0,1,5
+nicholas j,0,1,10
+rafael a,0,1,8
+yordany a,0,1,9
+augustin r,0,1,10
+efrain p,0,1,8
+gero,0,1,4
+edwin a,0,1,7
+wilson d,0,1,8
+frank t,0,1,7
+juan jr,0,1,7
+oscar a,0,1,7
+oscar e,0,1,7
+roemy,0,1,5
+adrian,0,1,6
+gustavo m,0,1,9
+jesus m,0,1,7
+jorge a,0,1,7
+juan b,0,1,6
+stalin,0,1,6
+yan a,0,1,5
+geronimo,0,1,8
+jaime h,0,1,7
+matias g,0,1,8
+samuel,0,1,6
+jaime jr,0,1,8
+mark n,0,1,6
+rogerio jr,0,1,10
+julius r jr,0,1,11
+octavio,0,1,7
+lazaro g,0,1,8
+jordan,0,1,6
+jorge l,0,1,7
+antonio c,0,1,9
+alvaro m,0,1,8
+luis jr,0,1,7
+pascual p,0,1,9
+lester,0,1,6
+jorge e jr,0,1,10
+astacio m,0,1,9
+carlos m,0,1,8
+luis m,0,1,6
+filiberto,0,1,9
+jeremia,0,1,7
+rodolfo,0,1,7
+jothan p,0,1,8
+jose m jr,0,1,9
+joshua r,0,1,8
+erick,0,1,5
+carmelo,0,1,7
+antonio v,0,1,9
+oliver r,0,1,8
+mark a,0,1,6
+john k,0,1,6
+javier a,0,1,8
+yeramis,0,1,7
+gregorio,0,1,8
+reildo s,0,1,8
+kevin g,0,1,7
+rico,0,1,4
+victor m,0,1,8
+josue j jr,0,1,10
+josue n,0,1,7
+gamaliel a,0,1,10
+luis b,0,1,6
+melvin,0,1,6
+obed,0,1,4
+peter,0,1,5
+virgilio,0,1,8
+juan h,0,1,6
+dony a,0,1,6
+gelacio,0,1,7
+pablo d,0,1,7
+rafael f,0,1,8
+antony r,0,1,8
+juan d,0,1,6
+hector o,0,1,8
+ashmed s,0,1,8
+freddy,0,1,6
+jerry,0,1,5
+alesis,0,1,6
+freddie a,0,1,9
+joseph m,0,1,8
+joyce,0,1,5
+michael w,0,1,9
+ricardo e,0,1,9
+rold,0,1,4
+samuel m,0,1,8
+samuel p,0,1,8
+ruben o,0,1,7
+joshuabner,0,1,10
+edgar m,0,1,7
+marcos a,0,1,8
+hern,0,1,4
+edgardo c,0,1,9
+robert t,0,1,8
+darryl n,0,1,8
+joseph w iii,0,1,12
+nelson a,0,1,8
+ricardo d,0,1,9
+sergio l,0,1,8
+robert a,0,1,8
+charley,0,1,7
+angel s,0,1,7
+marlon,0,1,6
+joseph a,0,1,8
+omar a,0,1,6
+auguste c,0,1,9
+sergio,0,1,6
+basilio j,0,1,9
+mario,0,1,5
+edgar,0,1,5
+oliver,0,1,6
+joel o,0,1,6
+alcides f,0,1,9
+eli,0,1,3
+gabriel a,0,1,9
+timoteo e,0,1,9
+isaac j,0,1,7
+william r,0,1,9
+alfredo,0,1,7
+darrell w,0,1,9
+william d,0,1,9
+michael d,0,1,9
+fermin,0,1,6
+stanley u,0,1,9
+able d,0,1,6
+anthony r,0,1,9
+christian v,0,1,11
+christopher j,0,1,13
+danny,0,1,5
+danny d,0,1,7
+domieon,0,1,7
+eli jr,0,1,6
+emanuel,0,1,7
+gilberto,0,1,8
+john a jr,0,1,9
+jorge c,0,1,7
+jorge d,0,1,7
+jose c,0,1,6
+jose j jr,0,1,9
+junior m,0,1,8
+martin,0,1,6
+thaniel,0,1,7
+nelson c,0,1,8
+onesimo l,0,1,9
+oscar l,0,1,7
+osvaldo d,0,1,9
+richard d,0,1,9
+roberto jr,0,1,10
+steven,0,1,6
+victor v,0,1,8
+epigmenio,0,1,9
+emilio d,0,1,8
+enique,0,1,6
+jose i,0,1,6
+juan r,0,1,6
+jorge m,0,1,7
+pedro j,0,1,7
+eric j,0,1,6
+alain,0,1,5
+jothan d,0,1,8
+nilton,0,1,6
+james e,0,1,7
+arthur r,0,1,8
+rodrigues l,0,1,11
+douglas a,0,1,9
+michael p,0,1,9
+roberto a,0,1,9
+rol,0,1,3
+alfonso a,0,1,9
+kelvin,0,1,6
+rosendo,0,1,7
+rigdel,0,1,6
+jorge t,0,1,7
+george,0,1,6
+eddie n,0,1,7
+timoteo g,0,1,9
+edwardo,0,1,7
+edgar d,0,1,7
+jose l jr,0,1,9
+edsel i,0,1,7
+elvido a,0,1,8
+leo m,0,1,5
+ramiro v,0,1,8
+eric,0,1,4
+george e,0,1,8
+tracy,0,1,5
+berto,0,1,5
+eliu,0,1,4
+fulgencio jr,0,1,12
+nelson g,0,1,8
+carlos s,0,1,8
+humberto jr,0,1,11
+ismael,0,1,6
+jeriel j,0,1,8
+luis o,0,1,6
+ezequiel,0,1,8
+joel,0,1,4
+alex e,0,1,6
+manuel r,0,1,8
+eduardo e,0,1,9
+hector a,0,1,8
+roberto e,0,1,9
+juarez c,0,1,8
+charles a,0,1,9
+juan miguel m,0,1,13
+abimael r,0,1,9
+alberto l,0,1,9
+alfredo a,0,1,9
+angel g,0,1,7
+antonio g,0,1,9
+avissmael,0,1,9
+baltazar j,0,1,10
+edgardo jr,0,1,10
+eduardo r,0,1,9
+eliezer v,0,1,9
+jairo j,0,1,7
+jean a,0,1,6
+julian m,0,1,8
+laudi,0,1,5
+lazaro j,0,1,8
+lazaro r,0,1,8
+lorenzo c,0,1,9
+marco g,0,1,7
+marino e iii,0,1,12
+nilton j,0,1,8
+rene c,0,1,6
+rene v,0,1,6
+romel,0,1,5
+socorro m,0,1,9
+yanker o,0,1,8
+clemente,0,1,8
+yasmany,0,1,7
+manuel,0,1,6
+eder,0,1,4
+francisco f,0,1,11
+alberto r,0,1,9
+abraham j,0,1,9
+adalberto,0,1,9
+john,0,1,4
+christian r,0,1,11
+mario j,0,1,7
+yarcet,0,1,6
+astacio,0,1,7
+isidro,0,1,6
+pedro e,0,1,7
+manuel c,0,1,8
+bryan j,0,1,7
+rold c,0,1,6
+victor m jr,0,1,11
+jose o,0,1,6
+philip a,0,1,8
+frank l,0,1,7
+pedro b,0,1,7
+arnulfo,0,1,7
+ricardo f,0,1,9
+irving,0,1,6
+adalberto r,0,1,11
+abelardo,0,1,8
+calixto m,0,1,9
+douglas m,0,1,9
+jhoan e,0,1,7
+miguel a jr,0,1,11
+alexis j,0,1,8
+danilo a,0,1,8
+ramon v,0,1,7
+herminio,0,1,8
+gildardo b,0,1,10
+juan n,0,1,6
+misael v,0,1,8
+abram,0,1,5
+bonifacio,0,1,9
+angel h,0,1,7
+axel o,0,1,6
+ernesto jr,0,1,10
+ian f,0,1,5
+jimmy,0,1,5
+rudy,0,1,4
+akonialii h,0,1,11
+marcus m,0,1,8
+fonseca j,0,1,9
+eddie b,0,1,7
+julian q,0,1,8
+william m,0,1,9
+nelson jr,0,1,9
+ramon a,0,1,7
+sherwin x,0,1,9
+kenneth e jr,0,1,12
+erick t,0,1,7
+norin jr,0,1,8
+alex j,0,1,6
+dennis,0,1,6
+domingo a,0,1,9
+edwin m,0,1,7
+joao r,0,1,6
+jorge i,0,1,7
+milton v,0,1,8
+onelio,0,1,6
+pedro p,0,1,7
+rafael l,0,1,8
+waldo,0,1,5
+jothan j,0,1,8
+reult j,0,1,7
+jovel,0,1,5
+stephen m,0,1,9
+geraldo p,0,1,9
+oscar g,0,1,7
+manuel f,0,1,8
+aless,0,1,5
+efrain j,0,1,8
+elliott,0,1,7
+joel e,0,1,6
+charles t,0,1,9
+jamie,0,1,5
+abraham c,0,1,9
+florentino j,0,1,12
+jason e,0,1,7
+jason r,0,1,7
+jose s,0,1,6
+lazaro,0,1,6
+tepetlanco m,0,1,12
+michael e,0,1,9
+orestes,0,1,7
+soamy,0,1,5
+eddy,0,1,4
+geraldo jr,0,1,10
+joey,0,1,4
+roberto ii,0,1,10
+mijail,0,1,6
+mario c,0,1,7
+rudolfo,0,1,7
+raul a,0,1,6
+alfredo u,0,1,9
+arcadio l,0,1,9
+abel m,0,1,6
+alfonso,0,1,7
+julio jr,0,1,8
+gdyan d,0,1,7
+rold g,0,1,6
+albert,0,1,6
+amado jr,0,1,8
+anthony a,0,1,9
+anthony c,0,1,9
+anthony g,0,1,9
+benjamin r,0,1,10
+bulfrano,0,1,8
+carlos jr,0,1,9
+cecilio j,0,1,9
+clemente e,0,1,10
+daniel a,0,1,8
+daniel c,0,1,8
+danny r,0,1,7
+dino m,0,1,6
+emmanuelle r,0,1,12
+fidel,0,1,5
+frank a,0,1,7
+hermes m,0,1,8
+jean c,0,1,6
+jeffrey,0,1,7
+jesse,0,1,5
+julio iv,0,1,8
+julio e,0,1,7
+louis a,0,1,7
+marco a jr,0,1,10
+martin r,0,1,8
+mauro,0,1,5
+miguel l,0,1,8
+moises v,0,1,8
+nestor s,0,1,8
+omar y,0,1,6
+osmany,0,1,6
+pablo c,0,1,7
+paulino,0,1,7
+radames t,0,1,9
+radel,0,1,5
+reyldo,0,1,6
+ricardo a,0,1,9
+roberto i,0,1,9
+rubiel,0,1,6
+rubin jr,0,1,8
+timoteo,0,1,7
+yeremis,0,1,7
+franciso,0,1,8
+david m,0,1,7
+mariano,0,1,7
+haniel,0,1,6
+gil e,0,1,5
+areli,0,1,5
+eleuterio,0,1,9
+jesus r jr,0,1,10
+louis m,0,1,7
+christopher l,0,1,13
+rigoberto,0,1,9
+raymond o,0,1,9
+feliciano,0,1,9
+joseph,0,1,6
+alexis,0,1,6
+ariel a,0,1,7
+benny,0,1,5
+dymar m,0,1,7
+elantonio t,0,1,11
+jeremias v,0,1,10
+luis c,0,1,6
+thomas d,0,1,8
+eugenio j,0,1,9
+jose e,0,1,6
+americo,0,1,7
+nery osbeli,0,1,11
+eligio,0,1,6
+steven j,0,1,8
+anjel,0,1,5
+juan a jr,0,1,9
+nicholes m,0,1,10
+rito e,0,1,6
+aurelio,0,1,7
+danniel,0,1,7
+eduardo a,0,1,9
+esteban,0,1,7
+everett j,0,1,9
+faustino,0,1,8
+genrry,0,1,6
+heriberto jr,0,1,12
+ian,0,1,3
+ivan,0,1,4
+ivan v,0,1,6
+jonpaul,0,1,7
+josue m,0,1,7
+luis a jr,0,1,9
+milton j,0,1,8
+modesto,0,1,7
+moises s,0,1,8
+nicholas,0,1,8
+oscar m,0,1,7
+rafael e,0,1,8
+ruben j jr,0,1,10
+sael o,0,1,6
+thomas,0,1,6
+tomas m,0,1,7
+wense a,0,1,7
+osmaidy,0,1,7
+gervacio,0,1,8
+leobel,0,1,6
+marlon a,0,1,8
+wilson,0,1,6
+fidel g,0,1,7
+santos g,0,1,8
+edgardo j,0,1,9
+lucas,0,1,5
+walter x,0,1,8
+san f,0,1,5
+franklin,0,1,8
+raphael,0,1,7
+gayle j,0,1,7
+julian g,0,1,8
+joshua a,0,1,8
+rufino t,0,1,8
+federico jr,0,1,11
+jourki,0,1,6
+lorenzo,0,1,7
+yan,0,1,3
+ernesto t,0,1,9
+rey d,0,1,5
+sebastian,0,1,9
+jiverto,0,1,7
+nolbin s,0,1,8
+christian s,0,1,11
+felipe d,0,1,8
+jose v iii,0,1,10
+gersu,0,1,5
+erick a,0,1,7
+frank f,0,1,7
+kirk m,0,1,6
+mitch,0,1,5
+saul c,0,1,6
+alberto f,0,1,9
+charles,0,1,7
+christopher m,0,1,13
+geraldo l,0,1,9
+gilbert m,0,1,9
+gustavo a,0,1,9
+jenfry a,0,1,8
+norwin,0,1,6
+richard jr,0,1,10
+ronny,0,1,5
+valentin b,0,1,10
+etienne,0,1,7
+ruben h,0,1,7
+ozzie r,0,1,7
+benjamin jr,0,1,11
+daylan e,0,1,8
+diosdado jr,0,1,11
+dusty j,0,1,7
+edward m,0,1,8
+elmer o,0,1,7
+enrique m,0,1,9
+isaac s,0,1,7
+jesus g,0,1,7
+joel r,0,1,6
+jorge b,0,1,7
+josue g,0,1,7
+julian jr,0,1,9
+leonel,0,1,6
+luke,0,1,4
+mainor,0,1,6
+maxtan d,0,1,8
+pedro h,0,1,7
+pedro r,0,1,7
+rafael a jr,0,1,11
+rogeli,0,1,6
+ruben jr,0,1,8
+ruperto a,0,1,9
+saul,0,1,4
+sixto,0,1,5
+stephen,0,1,7
+ulises m,0,1,8
+yovanny d,0,1,9
+yuany,0,1,5
+yumisani,0,1,8
+omar,0,1,4
+carlos p,0,1,8
+marco e,0,1,7
+samir,0,1,5
+victor l,0,1,8
+cornelio,0,1,8
+marcelino,0,1,9
+derrick,0,1,7
+danielito c,0,1,11
+francisco jr,0,1,12
+lorenzo j,0,1,9
+jay t,0,1,5
+jothan b,0,1,8
+willie m,0,1,8
+nichlas,0,1,7
+jenz w,0,1,6
+heriberto,0,1,9
+francisco a,0,1,11
+jackson,0,1,7
+joel j,0,1,6
+edi,0,1,3
+anthony m,0,1,9
+cyril,0,1,5
+sergio jr,0,1,9
+christian n,0,1,11
+ruddy j,0,1,7
+danilo,0,1,6
+emilio v,0,1,8
+jose g,0,1,6
+lazarro j,0,1,9
+silvio,0,1,6
+luis g,0,1,6
+ramiro b,0,1,8
+aniceto b sr,0,1,12
+bertin,0,1,6
+karl w,0,1,6
+eliazar jr,0,1,10
+asuncion,0,1,8
+cimitrio,0,1,8
+jesus p,0,1,7
+antonio j,0,1,9
+darwin j,0,1,8
+ebenezer r,0,1,10
+elpidio,0,1,7
+gonzalo a,0,1,9
+eleazar,0,1,7
+florian,0,1,7
+eddie,0,1,5
+alfredo p,0,1,9
+matthew s,0,1,9
+aaron n,0,1,7
+octavio p,0,1,9
+ricardo t,0,1,9
+michael j,0,1,9
+abdullah a,0,1,10
+matthew j jr,0,1,12
+romulo,0,1,6
+adan j,0,1,6
+pete,0,1,4
+albert a,0,1,8
+alexis c,0,1,8
+israel f,0,1,8
+jordan l,0,1,8
+clifton,0,1,7
+marshall g,0,1,10
+maddyel,0,1,7
+daniel f,0,1,8
+noe a,0,1,5
+fabian a,0,1,8
+robert s,0,1,8
+benjamin m,0,1,10
+waldemar n,0,1,10
+dimas p,0,1,7
+gregory,0,1,7
+yuniet,0,1,6
+romeo a,0,1,7
+santiago jr,0,1,11
+noe,0,1,3
+hanly,0,1,5
+juan f,0,1,6
+tarsis,0,1,6
+edgardo,0,1,7
+generoso,0,1,8
+david l,0,1,7
+hugo a,0,1,6
+adam,0,1,4
+alfonso p,0,1,9
+chris,0,1,5
+eudin,0,1,5
+gabriel n,0,1,9
+jeffrey j,0,1,9
+jeffrey l,0,1,9
+jerry l,0,1,7
+john a,0,1,6
+john e,0,1,6
+juan r jr,0,1,9
+leonel t,0,1,8
+macario,0,1,7
+marc,0,1,4
+matthew d,0,1,9
+matthew r,0,1,9
+mauricio m,0,1,10
+nestor,0,1,6
+rocke r,0,1,7
+santino l,0,1,9
+walter j,0,1,8
+william e,0,1,9
+tomas,0,1,5
+joshuat s,0,1,9
+hugo f,0,1,6
+melquiades,0,1,10
+julio t,0,1,7
+loupe l,0,1,7
+silvestre jr,0,1,12
+byron r,0,1,7
+gilberto j,0,1,10
+robert m,0,1,8
+osmundo g,0,1,9
+seledonio,0,1,9
+olmedo,0,1,6
+ricardo l,0,1,9
+samuel s,0,1,8
+wilfredo e,0,1,10
+jothan l,0,1,8
+aron,0,1,4
+guellermo r,0,1,11
+christian f,0,1,11
+joan c,0,1,6
+reyldo l,0,1,8
+daniel l,0,1,8
+refugio,0,1,7
+haroon j,0,1,8
+dominic,0,1,7
+damian m,0,1,8
+humberto m,0,1,10
+joel c,0,1,6
+amador,0,1,6
+edmundo l ii,0,1,12
+hiram a,0,1,7
+joseph r,0,1,8
+miguel o,0,1,8
+ramon l,0,1,7
+jorge g,0,1,7
+john d,0,1,6
+henry jr,0,1,8
+ponciano s,0,1,10
+fulgencio,0,1,9
+tirso,0,1,5
+hector r,0,1,8
+hugo,0,1,4
+jaime a,0,1,7
+santiago,0,1,8
+maykel,0,1,6
+ariez,0,1,5
+guillermo e,0,1,11
+george j,0,1,8
+cruz,0,1,4
+eduardo jr,0,1,10
+alexis v,0,1,8
+arldo,0,1,5
+augustin c,0,1,10
+baltazar c,0,1,10
+caesar jr,0,1,9
+domingo jr,0,1,10
+edin,0,1,4
+efrain iii,0,1,10
+erickson h,0,1,10
+evans d,0,1,7
+gabriel l,0,1,9
+guillermo b,0,1,11
+hubardo p,0,1,9
+joe a,0,1,5
+jorel l,0,1,7
+juan l,0,1,6
+justin l,0,1,8
+lucas r,0,1,7
+luis v,0,1,6
+manolo j,0,1,8
+marsanti,0,1,8
+melvin o,0,1,8
+michael l,0,1,9
+michael s,0,1,9
+nelson d,0,1,8
+omartin,0,1,7
+raymond l,0,1,9
+regino,0,1,6
+ricky,0,1,5
+tony m,0,1,6
+victor g,0,1,8
+walter,0,1,6
+walter m,0,1,8
+william c,0,1,9
+yaser,0,1,5
+marco t,0,1,7
+jasel,0,1,5
+romilio,0,1,7
+jaser,0,1,5
+eddie a,0,1,7
+gelver r,0,1,8
+robinson,0,1,8
+peter a,0,1,7
+robert jr,0,1,9
+carlos a jr,0,1,11
+eduardo m,0,1,9
+lazaro m,0,1,8
+diego j,0,1,7
+maynor,0,1,6
+nelson j,0,1,8
+ruben a,0,1,7
+edvaldo a,0,1,9
+mervin a,0,1,8
+sadid g,0,1,7
+kenneth h,0,1,9
+larry j,0,1,7
+yosvani,0,1,7
+elizer,0,1,6
+johnny e,0,1,8
+rocky,0,1,5
+sergio s,0,1,8
+ian p,0,1,5
+acencion,0,1,8
+esau,0,1,4
+raudel d,0,1,8
+carlos o,0,1,8
+nelson e,0,1,8
+isaias,0,1,6
+igcio j,0,1,7
+yoel a,0,1,6
+edwin g,0,1,7
+bienvenido a,0,1,12
+kelner,0,1,6
+damian,0,1,6
+ramiro r,0,1,8
+william h,0,1,9
+mario r,0,1,7
+anthony jr,0,1,10
+bobby w,0,1,7
+cayetano d,0,1,10
+geobani,0,1,7
+javier c,0,1,8
+jay a,0,1,5
+jesus j,0,1,7
+kermit d,0,1,8
+mark e,0,1,6
+ruiz,0,1,4
+santo,0,1,5
+gerzon g,0,1,8
+homero iii,0,1,10
+felipe iii,0,1,10
+guillermo h,0,1,11
+jeffrey m,0,1,9
+juan t,0,1,6
+kenneth e,0,1,9
+ludis,0,1,5
+marcelo,0,1,7
+bor,0,1,3
+miguel e,0,1,8
+norman s,0,1,8
+adam d,0,1,6
+pedro jr,0,1,8
+hansel,0,1,6
+tony j,0,1,6
+joar j,0,1,6
+benito s,0,1,8
+maikel z,0,1,8
+bobby jr,0,1,8
+jacinto g,0,1,9
+yadiel o,0,1,8
+ernesto e,0,1,9
+jose v jr,0,1,9
+raul f,0,1,6
+abiud,0,1,5
+denis,0,1,5
+adrian l,0,1,8
+eliud m,0,1,7
+joshua s,0,1,8
+eloy,0,1,4
+felix f,0,1,7
+ike r,0,1,5
+omar f,0,1,6
+guillremo p,0,1,11
+michael v,0,1,9
+phillip a,0,1,9
+antonio l,0,1,9
+oliver e,0,1,8
+benjamin b jr,0,1,13
+christian a,0,1,11
+clemente jr,0,1,11
+crespin g,0,1,9
+eladio,0,1,6
+felix m,0,1,7
+gabriel p,0,1,9
+heine j,0,1,7
+henry d,0,1,7
+jahdel,0,1,6
+james r,0,1,7
+jessie m,0,1,8
+leordo c,0,1,8
+leordo t,0,1,8
+marcos c,0,1,8
+paul,0,1,4
+paul jr,0,1,7
+paul r,0,1,6
+primitivo r,0,1,11
+rodolfo a,0,1,9
+alberto j,0,1,9
+jesse a,0,1,7
+heuller,0,1,7
+jesus c,0,1,7
+adrian a,0,1,8
+antonio a,0,1,9
+berrdo,0,1,6
+bo j,0,1,4
+roberto p,0,1,9
+darlin o,0,1,8
+justo a,0,1,7
+deive l,0,1,7
+renier,0,1,6
+estuardo m,0,1,10
+oscar d,0,1,7
+kevin m,0,1,7
+pablo iii,0,1,9
+david a,0,1,7
+feliz j,0,1,7
+geraldo,0,1,7
+yadiel n,0,1,8
+roberto c,0,1,9
+edward r,0,1,8
+charles r,0,1,9
+daniel j,0,1,8
+ricky r,0,1,7
+martin d,0,1,8
+davey l,0,1,7
+kevin d,0,1,7
+arturo jr,0,1,9
+adal a,0,1,6
+rafael c,0,1,8
+javier i iii,0,1,12
+adolfo a,0,1,8
+igcio p,0,1,7
+julio i,0,1,7
+jaime m,0,1,7
+julio m,0,1,7
+bryan,0,1,5
+deshawn a,0,1,9
+alfredo o,0,1,9
+anthony v,0,1,9
+david v,0,1,7
+edwin j iii,0,1,11
+harry a,0,1,7
+valentin d,0,1,10
+victor j,0,1,8
+rigoberto j,0,1,11
+ykin,0,1,4
+marco,0,1,5
+alexis a,0,1,8
+diego o,0,1,7
+ixio,0,1,4
+jacob m,0,1,7
+johthan e,0,1,9
+jose r jr,0,1,9
+mauricio,0,1,8
+eric a,0,1,6
+omar j,0,1,6
+alberto v,0,1,9
+jaime c,0,1,7
+carlos c,0,1,8
+cecilio,0,1,7
+martin o,0,1,8
+christopher a,0,1,13
+jeorge n,0,1,8
+mark v,0,1,6
+moises f,0,1,8
+david r,0,1,7
+adam s,0,1,6
+ivan s,0,1,6
+fidencio,0,1,8
+jairo a,0,1,7
+refugio z,0,1,9
+joaquin,0,1,7
+rey h,0,1,5
+angel d,0,1,7
+carlos i,0,1,8
+elemelec,0,1,8
+elesio,0,1,6
+epifanio,0,1,8
+felix g,0,1,7
+george o jr,0,1,11
+henry,0,1,5
+jaime o,0,1,7
+jaymie,0,1,6
+jeovany t,0,1,9
+nicholas d,0,1,10
+pascual,0,1,7
+ramon a jr,0,1,10
+marvin o,0,1,8
+xavier,0,1,6
+marcial,0,1,7
+rufino,0,1,6
+guadalupe,0,1,9
+julian,0,1,6
+rivera,0,1,6
+edwin d,0,1,7
+harry p,0,1,7
+noel,0,1,4
+teodoro,0,1,7
+khalil e,0,1,8
+james,0,1,5
+josue e,0,1,7
+wilmer o,0,1,8
+freddy i,0,1,8
+jeff,0,1,4
+fabian r,0,1,8
+geovanny,0,1,8
+antonio i,0,1,9
+ricardo i,0,1,9
+darwin f,0,1,8
+fabian h,0,1,8
+edilmar,0,1,7
+guillermo a,0,1,11
+oreste,0,1,6
+christian b,0,1,11
+richard m,0,1,9
+francisco g,0,1,11
+aldo v,0,1,6
+jorge s,0,1,7
+justin,0,1,6
+jamaine j,0,1,9
+henry a,0,1,7
+steven l,0,1,8
+christian i,0,1,11
+roberto m,0,1,9
+tito,0,1,4
+jorge f,0,1,7
+eugenio g,0,1,9
+daniel b,0,1,8
+heladio,0,1,7
+jean p,0,1,6
+vidal n,0,1,7
+nelson m,0,1,8
+pelagio g,0,1,9
+sotero,0,1,6
+eddie d,0,1,7
+frank d,0,1,7
+pedro c,0,1,7
+berrdo a,0,1,8
+anibal,0,1,6
+apolir,0,1,6
+augustine d,0,1,11
+bilmar,0,1,6
+cabrera g jr,0,1,12
+daniel e,0,1,8
+danny a,0,1,7
+emiliano,0,1,8
+francisco l,0,1,11
+george iii,0,1,10
+gerado,0,1,6
+gilbert,0,1,7
+gilberto n,0,1,10
+hebesher,0,1,8
+israel j,0,1,8
+ivan a,0,1,6
+izah,0,1,4
+james b,0,1,7
+jason a,0,1,7
+javier d,0,1,8
+josue a,0,1,7
+luis p,0,1,6
+marc a,0,1,6
+norman l,0,1,8
+rafael b,0,1,8
+ryan a,0,1,6
+sabreno m,0,1,9
+tommy,0,1,5
+baldomero,0,1,9
+steven x,0,1,8
+guzman,0,1,6
+juvel b,0,1,7
+nereo,0,1,5
+noberto,0,1,7
+johthan,0,1,7
+calletano d,0,1,11
+cristobal,0,1,9
+arldo r,0,1,7
+viviano t,0,1,9
+henrry,0,1,6
+maximiliano,0,1,11
+julian e,0,1,8
+joel u,0,1,6
+norbert,0,1,7
+antonio t,0,1,9
+louis g jr,0,1,10
+carlos h,0,1,8
+eugenio a,0,1,9
+severino,0,1,8
+eric l,0,1,6
+victor jr,0,1,9
+edwin c,0,1,7
+heriberto a,0,1,11
+antonio r jr,0,1,12
+derek m,0,1,7
+mario jr,0,1,8
+alber,0,1,5
+anibal h,0,1,8
+benito,0,1,6
+bryam,0,1,5
+davis,0,1,5
+german z,0,1,8
+isaac m,0,1,7
+israel a,0,1,8
+jehu r,0,1,6
+jesse e,0,1,7
+johnny j,0,1,8
+jorel,0,1,5
+leovanis,0,1,8
+louis r,0,1,7
+macario g,0,1,9
+manuel g,0,1,8
+maximo c,0,1,8
+nicolas r jr,0,1,12
+ohannion b,0,1,10
+omar jr,0,1,7
+adan,0,1,4
+angelo,0,1,6
+cristian q,0,1,10
+damaso,0,1,6
+elliot,0,1,6
+george l,0,1,8
+guillermo o jr,0,1,14
+inocencio r sr,0,1,14
+jothan h,0,1,8
+justino m,0,1,9
+richard r,0,1,9
+willie jr,0,1,9
+jahzeel,0,1,7
+joseph p,0,1,8
+javier m,0,1,8
+kevin a,0,1,7
+nolan d,0,1,7
+reynier,0,1,7
+gilbert r,0,1,9
+geovanni,0,1,8
+francisco c,0,1,11
+erasmo h,0,1,8
+lis,0,1,3
+benjamin,0,1,8
+kelvin m,0,1,8
+manuel l,0,1,8
+alvarez a,0,1,9
+catalino,0,1,8
+joshua o,0,1,8
+mario e,0,1,7
+vincente p,0,1,10
+yenson,0,1,6
+vicente e,0,1,9
+kevin o,0,1,7
+alain m,0,1,7
+cleofas j,0,1,9
+fermin g,0,1,8
+normail,0,1,7
+brayian a,0,1,9
+daniel s,0,1,8
+joaquin t,0,1,9
+lazarus c,0,1,9
+nestor e,0,1,8
+ramon d,0,1,7
+reuben,0,1,6
+steven s,0,1,8
+gonzalo j,0,1,9
+jesus e,0,1,7
+karlos l,0,1,8
+amalio,0,1,6
+amalio f,0,1,8
+ariel v,0,1,7
+bryan e,0,1,7
+carlos j jr,0,1,11
+carmello jr,0,1,11
+danny l,0,1,7
+darius m,0,1,8
+devyn o,0,1,7
+evodio x,0,1,8
+fabian,0,1,6
+gilberto c,0,1,10
+giovani,0,1,7
+gualberto,0,1,9
+holving v,0,1,9
+irving j,0,1,8
+isaac,0,1,5
+jasper,0,1,6
+jesus o,0,1,7
+johnny l,0,1,8
+jonthan,0,1,7
+juan s,0,1,6
+juancarlos f,0,1,12
+luis d,0,1,6
+marlon j,0,1,8
+norberto jr,0,1,11
+rafael m,0,1,8
+ramon j,0,1,7
+reildo b,0,1,8
+richard a,0,1,9
+richard f,0,1,9
+robert q,0,1,8
+roberto n,0,1,9
+robin j jr,0,1,10
+rony e,0,1,6
+rudy v,0,1,6
+stephan r,0,1,9
+vincent f,0,1,9
+wesley n,0,1,8
+wilberto s,0,1,10
+william j,0,1,9
+alfredo iii,0,1,11
+igcio,0,1,5
+alex n,0,1,6
+aaron,0,1,5
+alberto c,0,1,9
+amilcar,0,1,7
+angel o,0,1,7
+ascary,0,1,6
+calvin j,0,1,8
+calvin l,0,1,8
+catarino,0,1,8
+christian c,0,1,11
+dionicio,0,1,8
+diosdado,0,1,8
+edwin p,0,1,7
+eliezer r,0,1,9
+eliud ii,0,1,8
+erasmo j,0,1,8
+frank e,0,1,7
+frank j,0,1,7
+froilan,0,1,7
+george jr,0,1,9
+gerardo a,0,1,9
+guadalupe e,0,1,11
+guillermo j,0,1,11
+guillermo w,0,1,11
+herberto,0,1,8
+heriberto e,0,1,11
+isaiah d,0,1,8
+jashua l,0,1,8
+jason s,0,1,7
+jerry c,0,1,7
+joe h,0,1,5
+john n,0,1,6
+jorge jr,0,1,8
+jose w,0,1,6
+julio l jr,0,1,10
+kristopher,0,1,10
+larry,0,1,5
+luciano,0,1,7
+manolo,0,1,6
+marcos r,0,1,8
+marcus l,0,1,8
+matthew b,0,1,9
+moises j,0,1,8
+thaniel r,0,1,9
+oscar c,0,1,7
+rafael o,0,1,8
+raymon,0,1,6
+renee,0,1,5
+ricky w,0,1,7
+rodreigo,0,1,8
+roger,0,1,5
+ruben r,0,1,7
+saul a,0,1,6
+sean m,0,1,6
+sesar,0,1,5
+sigfredo,0,1,8
+simon i,0,1,7
+valentin,0,1,8
+vincente,0,1,8
+wilber,0,1,6
+zenon,0,1,5
+francisco d,0,1,11
+hommy,0,1,5
+hug,0,1,3
+takech,0,1,6
+jason l,0,1,7
+carlos z,0,1,8
+guillermo m,0,1,11
+christian m,0,1,11
+wilfredo j,0,1,10
+gilberto t,0,1,10
+marcos g,0,1,8
+paul a,0,1,6
+brian w,0,1,7
+douglas r,0,1,9
+vincent r,0,1,9
+omar m,0,1,6
+aneudy r,0,1,8
+exan,0,1,4
+eddiel,0,1,6
+victor s,0,1,8
+aaron m,0,1,7
+denis l,0,1,7
+efrain i,0,1,8
+marvin j,0,1,8
+cesar e,0,1,7
+gerardo n,0,1,9
+kenneth c,0,1,9
+wilberto,0,1,8
+daniel i,0,1,8
+jorge r,0,1,7
+manuel b,0,1,8
+rico p,0,1,6
+alfonso c,0,1,9
+armin n,0,1,7
+ceasar,0,1,6
+efrain t,0,1,8
+francisco t,0,1,11
+leonte,0,1,6
+modesto l,0,1,9
+rangel v,0,1,8
+robert l,0,1,8
+sirenio,0,1,7
+jose miguel,0,1,11
+luis x,0,1,6
+august,0,1,6
+jidier a,0,1,8
+byron e,0,1,7
+romualdo r,0,1,10
+albert g,0,1,8
+albert v,0,1,8
+gilbert b,0,1,9
+gregory g,0,1,9
+leopoldo,0,1,8
+antonio m,0,1,9
+joshua j,0,1,8
+lester i,0,1,8
+gregorio jr,0,1,11
+frederic,0,1,8
+nelson f,0,1,8
+agustin,0,1,7
+alferdo g jr,0,1,12
+dagoberto f,0,1,11
+daniel d,0,1,8
+erasto b,0,1,8
+glenn d,0,1,7
+ismael jr,0,1,9
+israel l,0,1,8
+issac g,0,1,7
+jaddier t,0,1,9
+joel p,0,1,6
+kenneth j,0,1,9
+miguel r,0,1,8
+olvin,0,1,5
+oscar jr,0,1,8
+ramon m,0,1,7
+roberto b,0,1,9
+selestino x,0,1,11
+simon a,0,1,7
+victor h,0,1,8
+william a,0,1,9
+lemuel,0,1,6
+cristian,0,1,8
+hector g,0,1,8
+joseph e,0,1,8
+pablo a,0,1,7
+justino jr,0,1,10
+ildafonso,0,1,9
+abimael,0,1,7
+cornelio h,0,1,10
+edgar i,0,1,7
+ezekiel o,0,1,9
+faustino a,0,1,10
+jarol a,0,1,7
+javier jr,0,1,9
+jorge j,0,1,7
+josue r,0,1,7
+mariano a,0,1,9
+matthew,0,1,7
+thomas r,0,1,8
+wilfredo o,0,1,10
+eddie e,0,1,7
+felix i,0,1,7
+victoriano,0,1,10
+cristian i,0,1,10
+jothan o,0,1,8
+kenneth l,0,1,9
+khalil d,0,1,8
+marvin a,0,1,8
+rafael g,0,1,8
+darwin,0,1,6
+hubert,0,1,6
+jorge e,0,1,7
+shamal k,0,1,8
+alex o,0,1,6
+alexis f,0,1,8
+rafael h,0,1,8
+ernesto i,0,1,9
+cruz f,0,1,6
+elvis,0,1,5
+jonus,0,1,5
+joseph d,0,1,8
+moses jr,0,1,8
+steven n,0,1,8
+tarcio,0,1,6
+luis o jr,0,1,9
+ramiro jr,0,1,9
+ramon s,0,1,7
+eric k,0,1,6
+ramirez m,0,1,9
+giovanni d,0,1,10
+lorenzo a,0,1,9
+jose t,0,1,6
+gabriel j,0,1,9
+cornelio g,0,1,10
+john t,0,1,6
+cesar j,0,1,7
+augustin,0,1,8
+estebon,0,1,7
+jayime,0,1,6
+paul l,0,1,6
+adalberto a,0,1,11
+arsenio r,0,1,9
+diego a,0,1,7
+eleno jr,0,1,8
+norman,0,1,6
+dennis r,0,1,8
+justin e,0,1,8
+diogene,0,1,7
+noe t,0,1,5
+jordan n,0,1,8
+lonnie l,0,1,8
+julian c,0,1,8
+eliezer jr,0,1,10
+jairon,0,1,6
+oscar o,0,1,7
+manuel i,0,1,8
+joshua c,0,1,8
+taide e,0,1,7
+merced j m,0,1,10
+paul n,0,1,6
+alex k,0,1,6
+alfred n,0,1,8
+cesar b,0,1,7
+edwin v,0,1,7
+elimelec,0,1,8
+gabiel a,0,1,8
+israel d,0,1,8
+jimmie l,0,1,8
+jimmy r,0,1,7
+jose a sr,0,1,9
+juventino s,0,1,11
+micheal r,0,1,9
+milton,0,1,6
+pr j,0,1,4
+salatier,0,1,8
+uber h,0,1,6
+wilfredo a,0,1,10
+wresley,0,1,7
+yunesquis g,0,1,11
+jovel i,0,1,7
+marcus a,0,1,8
+alvin j,0,1,7
+zelmy,0,1,5
+amos,0,1,4
+lucio a,0,1,7
+christopher s,0,1,13
+mario v,0,1,7
+angel j,0,1,7
+felice,0,1,6
+rodney,0,1,6
+johell e,0,1,8
+jeffrey a,0,1,9
+reza p,0,1,6
+adrian v,0,1,8
+karell,0,1,6
+noel l,0,1,6
+alain a,0,1,7
+gumercindo,0,1,10
+sabas g,0,1,7
+ansley,0,1,6
+claudio a,0,1,9
+edward j,0,1,8
+russell a,0,1,9
+scott a,0,1,7
+ivan l,0,1,6
+alvaro,0,1,6
+oscar h,0,1,7
+bobby j,0,1,7
+manuel e,0,1,8
+silvino,0,1,7
+edgar e,0,1,7
+louie,0,1,5
+samuel j,0,1,8
+ael,0,1,3
+j g,0,1,3
+roman h,0,1,7
+evererdo,0,1,8
+conrado g,0,1,9
+romero b,0,1,8
+zachary m,0,1,9
+romil,0,1,5
+erickson,0,1,8
+romero,0,1,6
+cristino,0,1,8
+antonio s,0,1,9
+gustavo e,0,1,9
+liodegario,0,1,10
+adam l,0,1,6
+cesar m,0,1,7
+rodney l,0,1,8
+arcadio,0,1,7
+arturo t,0,1,8
+catarino r,0,1,10
+ramon i,0,1,7
+jacinto,0,1,7
+eusebio f,0,1,9
+antonio b,0,1,9
+dionisio,0,1,8
+fabian e,0,1,8
+felix e,0,1,7
+jeffery,0,1,7
+martin b,0,1,8
+miguel g,0,1,8
+trinidad,0,1,8
+daniel t,0,1,8
+silas o,0,1,7
+christopher t,0,1,13
+jorge p,0,1,7
+salvador a,0,1,10
+dustin a,0,1,8
+richard w,0,1,9
+osires,0,1,6
+sergio i,0,1,8
+eduardo l,0,1,9
+lloyd d,0,1,7
+estaban,0,1,7
+jimmy j,0,1,7
+felipe n,0,1,8
+ciro,0,1,4
+itzaman,0,1,7
+mateo,0,1,5
+ruperto c,0,1,9
+adam e,0,1,6
+johthen l,0,1,9
+louis,0,1,5
+cesar s,0,1,7
+benjamin j,0,1,10
+patrick r,0,1,9
+mauricio a,0,1,10
+david g,0,1,7
+seth m,0,1,6
+yelson,0,1,6
+uris,0,1,4
+christobal a,0,1,12
+german r,0,1,8
+cesar p,0,1,7
+dylan j,0,1,7
+omar g,0,1,6
+ali m,0,1,5
+gavino p,0,1,8
+gilberto a,0,1,10
+jhovanny,0,1,8
+sidney f,0,1,8
+avin b,0,1,6
+than,0,1,4
+ismael c,0,1,8
+raul j,0,1,6
+matias,0,1,6
+abel a,0,1,6
+rene i,0,1,6
+seth,0,1,4
+lionel r,0,1,8
+jeronimo,0,1,8
+thomas c,0,1,8
+adrian c,0,1,8
+isai,0,1,4
+levi r,0,1,6
+santiago g,0,1,10
+gregory j,0,1,9
+abraham m,0,1,9
+honorio,0,1,7
+nery,0,1,4
+mario o,0,1,7
+little a,0,1,8
+raymundo,0,1,8
+gilberto r,0,1,10
+kerry,0,1,5
+jamie m,0,1,7
+marlos a,0,1,8
+robert e,0,1,8
+saul e,0,1,6
+oscar s,0,1,7
+ovidio e,0,1,8
+jordan d,0,1,8
+remberto a,0,1,10
+oswaldo,0,1,7
+jomy a,0,1,6
+rickie,0,1,6
+ever,0,1,4
+gerardo i,0,1,9
+herman s,0,1,8
+ramon e,0,1,7
+rodolfo s,0,1,9
+shawn d,0,1,7
+victor o,0,1,8
+angel y,0,1,7
+isaac d,0,1,7
+neri,0,1,4
+marcelo r,0,1,9
+reyes t,0,1,7
+gustavo b,0,1,9
+luiz r,0,1,6
+carlos f,0,1,8
+cameron c,0,1,9
+herson m,0,1,8
+alberto a,0,1,9
+david d,0,1,7
+irineo,0,1,6
+j j,0,1,3
+ghedeon,0,1,7
+leonel s,0,1,8
+romar,0,1,5
+apolir p,0,1,8
+fredy a,0,1,7
+santos r,0,1,8
+lawrence g,0,1,10
+carlos u,0,1,8
+diego h,0,1,7
+brian o,0,1,7
+johnny c,0,1,8
+michael b,0,1,9
