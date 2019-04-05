@@ -1,2628 +1,1160 @@
 name,gender,race,length
-leslie b,1,2,8
-peggy s,1,2,7
-rebecca r,1,2,9
+leslie,1,2,6
+peggy,1,2,5
+rebecca,1,2,7
 antoinette,1,2,10
-shaylene n,1,2,10
-adneris e,1,2,9
-melanie a,1,2,9
+shaylene,1,2,8
+adneris,1,2,7
+melanie,1,2,7
 adria,1,2,5
-angela n,1,2,8
-kathleen a,1,2,10
-marjorie m,1,2,10
-melissa m,1,2,9
-nicole a,1,2,8
-delemia s,1,2,9
+angela,1,2,6
+kathleen,1,2,8
+marjorie,1,2,8
+melissa,1,2,7
+nicole,1,2,6
+delemia,1,2,7
 ,1,2,3
-angela a,1,2,8
 dannitta,1,2,8
-haley e,1,2,7
-jennifer l,1,2,10
-lauryn a,1,2,8
-ncy k,1,2,5
-nicole m,1,2,8
+haley,1,2,5
+jennifer,1,2,8
+lauryn,1,2,6
+ncy,1,2,3
 patricia,1,2,8
-ronda r,1,2,7
-samantha e,1,2,10
-sarah m,1,2,7
-tonya e,1,2,7
-tonya m,1,2,7
-tracey j,1,2,8
-ashley r,1,2,8
-crystal n,1,2,9
-vicki m,1,2,7
-cheryl l,1,2,8
-farrin c,1,2,8
-kesha c,1,2,7
-louise j,1,2,8
-kara g,1,2,6
-paula j,1,2,7
-aurealiz,1,2,8
-lorraine a,1,2,10
-kialeene p,1,2,10
-sherry a,1,2,8
-mary l,1,2,6
-michelle a,1,2,10
+ronda,1,2,5
+samantha,1,2,8
+sarah,1,2,5
+tonya,1,2,5
+tracey,1,2,6
 ashley,1,2,6
-kayla m,1,2,7
-linda a,1,2,7
-lisa j,1,2,6
-caroline c,1,2,10
-jennifer s,1,2,10
-bobbie j,1,2,8
-ti m,1,2,4
-jacklyn m,1,2,9
-jennifer o,1,2,10
-leah m,1,2,6
-shelby g,1,2,8
-karlene a,1,2,9
-teresa m,1,2,8
-lila a,1,2,6
-leann c,1,2,7
+crystal,1,2,7
+vicki,1,2,5
+cheryl,1,2,6
+farrin,1,2,6
+kesha,1,2,5
+louise,1,2,6
+kara,1,2,4
+paula,1,2,5
+aurealiz,1,2,8
 lorraine,1,2,8
+kialeene,1,2,8
+sherry,1,2,6
+mary,1,2,4
+michelle,1,2,8
+kayla,1,2,5
+linda,1,2,5
+lisa,1,2,4
+caroline,1,2,8
+bobbie,1,2,6
+jacklyn,1,2,7
+leah,1,2,4
+shelby,1,2,6
+karlene,1,2,7
+teresa,1,2,6
+lila,1,2,4
+leann,1,2,5
 lori,1,2,4
-catherine b,1,2,11
-elizabeth l,1,2,11
+catherine,1,2,9
+elizabeth,1,2,9
 eryn,1,2,4
-donetta m,1,2,9
-kerri l,1,2,7
-krystal r,1,2,9
-laura a,1,2,7
-ronda f,1,2,7
-sarah b,1,2,7
-ti r,1,2,4
-stephanie m,1,2,11
+donetta,1,2,7
+kerri,1,2,5
+krystal,1,2,7
+laura,1,2,5
+stephanie,1,2,9
 marcela,1,2,7
-elizabeth a,1,2,11
-kenia e,1,2,7
-danielle m,1,2,10
-kimberly d,1,2,10
-maureen g,1,2,9
-crystal l,1,2,9
+kenia,1,2,5
+danielle,1,2,8
+kimberly,1,2,8
+maureen,1,2,7
 adrienne,1,2,8
 desiree,1,2,7
-christine a,1,2,11
-stacey a,1,2,8
-jennifer,1,2,8
+christine,1,2,9
+stacey,1,2,6
 michele,1,2,7
-shay c,1,2,6
+shay,1,2,4
 felicia,1,2,7
-amber l,1,2,7
-ashley a,1,2,8
-audra l,1,2,7
+amber,1,2,5
+audra,1,2,5
 christal,1,2,8
-linda m,1,2,7
-lisa m,1,2,6
-melissa r,1,2,9
-melissa s,1,2,9
-michelle l,1,2,10
 risa,1,2,4
 sally,1,2,5
-tammy j,1,2,7
-tonya d,1,2,7
-treva l,1,2,7
-denise a,1,2,8
-stephanie d,1,2,11
-chasity m,1,2,9
-tanya j,1,2,7
-lisa,1,2,4
+tammy,1,2,5
+treva,1,2,5
+denise,1,2,6
+chasity,1,2,7
+tanya,1,2,5
 mir,1,2,3
-joyce a,1,2,7
-rachel m,1,2,8
+joyce,1,2,5
+rachel,1,2,6
 diane,1,2,5
-shantel n,1,2,9
-chrisanthe k,1,2,12
-dia l,1,2,5
-emily m,1,2,7
+shantel,1,2,7
+chrisanthe,1,2,10
+dia,1,2,3
+emily,1,2,5
 milagros,1,2,8
-margaret d,1,2,10
-tammy k,1,2,7
+margaret,1,2,8
 maria,1,2,5
-maria d,1,2,7
-amalia t,1,2,8
+amalia,1,2,6
 mirtha,1,2,6
-lindsay n,1,2,9
-debra l,1,2,7
+lindsay,1,2,7
+debra,1,2,5
 georgi,1,2,6
-melissa a,1,2,9
-vicki g,1,2,7
-brittany n,1,2,10
-penny l,1,2,7
-angela d,1,2,8
-laurine s,1,2,9
-leigh e,1,2,7
+brittany,1,2,8
+penny,1,2,5
+laurine,1,2,7
+leigh,1,2,5
 tiffany,1,2,7
-vanessa e,1,2,9
-virginia w,1,2,10
-kelly s,1,2,7
+vanessa,1,2,7
+virginia,1,2,8
+kelly,1,2,5
 mari,1,2,4
-melissa d,1,2,9
 estelle,1,2,7
-vera m,1,2,6
-autumn r,1,2,8
-michelle m,1,2,10
-an m,1,2,4
-carolyn k,1,2,9
-allison n,1,2,9
-tracy e,1,2,7
-ashley m,1,2,8
-stacey l,1,2,8
-cristin d,1,2,9
-shannon d,1,2,9
+vera,1,2,4
+autumn,1,2,6
+carolyn,1,2,7
+allison,1,2,7
+tracy,1,2,5
+cristin,1,2,7
+shannon,1,2,7
 shaw,1,2,4
-gi m,1,2,4
-tammy a,1,2,7
-crystal a,1,2,9
-priscilla e,1,2,11
-tammy m,1,2,7
-tara l,1,2,6
+priscilla,1,2,9
+tara,1,2,4
 erica,1,2,5
 jasmin,1,2,6
-kathryn b,1,2,9
-nicole,1,2,6
-tai k,1,2,5
-carmen i,1,2,8
-marcia m,1,2,8
-mary d,1,2,6
-paula,1,2,5
-meghan a,1,2,8
+kathryn,1,2,7
+tai,1,2,3
+carmen,1,2,6
+marcia,1,2,6
+meghan,1,2,6
 colleen,1,2,7
-luisa c,1,2,7
-rebecca,1,2,7
-carmen a,1,2,8
-cesely t,1,2,8
+luisa,1,2,5
+cesely,1,2,6
 siomarily,1,2,9
 jackeline,1,2,9
-tonya c,1,2,7
-alai h,1,2,6
-dorca f,1,2,7
-angela,1,2,6
-barbara k,1,2,9
-gidget m,1,2,8
+alai,1,2,4
+dorca,1,2,5
+barbara,1,2,7
+gidget,1,2,6
 jacqueline,1,2,10
-jennifer e,1,2,10
-jennifer g,1,2,10
-melissa,1,2,7
-rebecca p,1,2,9
-rhiannon l,1,2,10
-shannon m,1,2,9
-stacey n,1,2,8
-jerrie m,1,2,8
-jessica l,1,2,9
-maria l,1,2,7
-marian m,1,2,8
-marla f,1,2,7
-marylee b,1,2,9
-rachelle y,1,2,10
+rhiannon,1,2,8
+jerrie,1,2,6
+jessica,1,2,7
+marian,1,2,6
+marla,1,2,5
+marylee,1,2,7
+rachelle,1,2,8
 raquel,1,2,6
-rhonda k,1,2,8
-susan e,1,2,7
-tiffany k,1,2,9
-wendy l,1,2,7
+rhonda,1,2,6
+susan,1,2,5
+wendy,1,2,5
 kahealani,1,2,9
 lore,1,2,4
 emerald,1,2,7
 sonja,1,2,5
-kimberly b,1,2,10
-toni d,1,2,6
-donlee e,1,2,8
-lisa l,1,2,6
-leslie m,1,2,8
-stephanie,1,2,9
+toni,1,2,4
+donlee,1,2,6
 gladys,1,2,6
 jamila,1,2,6
 lauren,1,2,6
-linda r,1,2,7
-pamela j,1,2,8
-patricia a,1,2,10
+pamela,1,2,6
 shau,1,2,4
-karen m,1,2,7
-tammie l,1,2,8
+karen,1,2,5
+tammie,1,2,6
 dian,1,2,4
-kristee m,1,2,9
-janet n,1,2,7
-april e,1,2,7
-tiffany f,1,2,9
-stacy r,1,2,7
+kristee,1,2,7
+janet,1,2,5
+april,1,2,5
+stacy,1,2,5
 krystle,1,2,7
-ashley n,1,2,8
-sharon l,1,2,8
-amy d,1,2,5
-beverly s,1,2,9
-cheyenne k,1,2,10
+sharon,1,2,6
+amy,1,2,3
+beverly,1,2,7
+cheyenne,1,2,8
 destiny,1,2,7
-kathy a,1,2,7
-monique s,1,2,9
-ruby m,1,2,6
-amber,1,2,5
-amber r,1,2,7
-desiree l,1,2,9
+kathy,1,2,5
+monique,1,2,7
+ruby,1,2,4
 alex,1,2,4
 marsha,1,2,6
-venus l,1,2,7
-jennifer r,1,2,10
-amie m,1,2,6
+venus,1,2,5
+amie,1,2,4
 charlene,1,2,8
 dorothy,1,2,7
-shirley a,1,2,9
-susan,1,2,5
-barbara a,1,2,9
-monica m,1,2,8
-kaylee j,1,2,8
-julie k,1,2,7
-tosha m,1,2,7
+shirley,1,2,7
+monica,1,2,6
+kaylee,1,2,6
+julie,1,2,5
+tosha,1,2,5
 margy,1,2,5
-danielle k,1,2,10
 hayley,1,2,6
 darla,1,2,5
-heather h,1,2,9
-heather n,1,2,9
-rhonda g,1,2,8
-lisa a,1,2,6
-gi a,1,2,4
-kristi l,1,2,8
-sheri l,1,2,7
-tiffany a,1,2,9
-kimberly,1,2,8
-theresa l,1,2,9
-holli l,1,2,7
-christi r,1,2,9
-crystal g,1,2,9
+heather,1,2,7
+kristi,1,2,6
+sheri,1,2,5
+theresa,1,2,7
+holli,1,2,5
+christi,1,2,7
 erin,1,2,4
-jamie l,1,2,7
-cace l,1,2,6
-chastity n,1,2,10
-rachel,1,2,6
-pamela e,1,2,8
-samantha,1,2,8
-melinda m,1,2,9
+jamie,1,2,5
+cace,1,2,4
+chastity,1,2,8
+melinda,1,2,7
 carol,1,2,5
-kimberly n,1,2,10
-martha l,1,2,8
-danielle c,1,2,10
-jessica p,1,2,9
-farrah c,1,2,8
+martha,1,2,6
+farrah,1,2,6
 lauralee,1,2,8
-autumn l,1,2,8
-lori j,1,2,6
-marjorie a,1,2,10
-kristine n,1,2,10
-santa m,1,2,7
-brittany l,1,2,10
-kathryn p,1,2,9
+kristine,1,2,8
+santa,1,2,5
 kellie,1,2,6
-tabitha l,1,2,9
-nioshka b,1,2,9
-lauren n,1,2,8
-annette l,1,2,9
-abigail y,1,2,9
-alexa b,1,2,7
-cindy k,1,2,7
-heather d,1,2,9
-patsy c,1,2,7
-shannon l,1,2,9
-tristan b,1,2,9
-angela m,1,2,8
-janice l,1,2,8
+tabitha,1,2,7
+nioshka,1,2,7
+annette,1,2,7
+abigail,1,2,7
+alexa,1,2,5
+cindy,1,2,5
+patsy,1,2,5
+tristan,1,2,7
+janice,1,2,6
 dean,1,2,4
 christie,1,2,8
-sharese a,1,2,9
-graciela m,1,2,10
-bridget p,1,2,9
-kimberly j,1,2,10
-shau m,1,2,6
-windy e,1,2,7
-wendy m,1,2,7
-belinda m,1,2,9
-santa s,1,2,7
-lacey l,1,2,7
+sharese,1,2,7
+graciela,1,2,8
+bridget,1,2,7
+windy,1,2,5
+belinda,1,2,7
+lacey,1,2,5
 shelley,1,2,7
-anne m,1,2,6
-maria t,1,2,7
-terry l,1,2,7
-ann w,1,2,5
+anne,1,2,4
+terry,1,2,5
+ann,1,2,3
 roberta,1,2,7
-cynthia l,1,2,9
-keila n,1,2,7
-samantha j,1,2,10
-missa l,1,2,7
+cynthia,1,2,7
+keila,1,2,5
+missa,1,2,5
 christin,1,2,8
-maricia a,1,2,9
-karen l,1,2,7
-carrie m,1,2,8
-jennifer j,1,2,10
-carmen j,1,2,8
-marcia,1,2,6
-sheryl n,1,2,8
-norma b,1,2,7
-jennifer m,1,2,10
+maricia,1,2,7
+carrie,1,2,6
+sheryl,1,2,6
+norma,1,2,5
 tricia,1,2,6
 laurieann,1,2,9
-cynthia a,1,2,9
 janine,1,2,6
-misti l,1,2,7
-kay s,1,2,5
-la j,1,2,4
-melissa k,1,2,9
-tiffany m,1,2,9
-kimberly m,1,2,10
-lynnette r,1,2,10
-corrine w,1,2,9
-lean m,1,2,6
-rachel l,1,2,8
-sunnie b,1,2,8
-tawny l,1,2,7
-sunceree c,1,2,10
-karen d,1,2,7
-amber d,1,2,7
-jennifer k,1,2,10
-laura g,1,2,7
-melinda l,1,2,9
-shannon n,1,2,9
-kimberly a,1,2,10
-kara n,1,2,6
-brittney e,1,2,10
-jill r,1,2,6
-juanita n,1,2,9
-amy m,1,2,5
-katri l,1,2,7
-bethany g,1,2,9
-jessica s,1,2,9
-desiree d,1,2,9
-taylor r,1,2,8
-caroline j,1,2,10
-jennifer a,1,2,10
-meghan m,1,2,8
-dian l,1,2,6
-kendra d,1,2,8
-kimberly s,1,2,10
+misti,1,2,5
+kay,1,2,3
+lynnette,1,2,8
+corrine,1,2,7
+lean,1,2,4
+sunnie,1,2,6
+tawny,1,2,5
+sunceree,1,2,8
+brittney,1,2,8
+jill,1,2,4
+juanita,1,2,7
+katri,1,2,5
+bethany,1,2,7
+taylor,1,2,6
+kendra,1,2,6
 marianne,1,2,8
-bethany j,1,2,9
-carmen,1,2,6
 adi,1,2,3
 irasemis,1,2,8
-sheree d,1,2,8
-cherish l,1,2,9
+sheree,1,2,6
+cherish,1,2,7
 bonnie,1,2,6
-alicia a,1,2,8
-jessica m,1,2,9
-elizabeth p,1,2,11
-renee e,1,2,7
-ariel d,1,2,7
-betty j,1,2,7
-bernice a,1,2,9
+alicia,1,2,6
+renee,1,2,5
+ariel,1,2,5
+betty,1,2,5
+bernice,1,2,7
 lynn,1,2,4
-leslie r,1,2,8
-shane d,1,2,7
-valerie k,1,2,9
+shane,1,2,5
+valerie,1,2,7
 clover,1,2,6
-renee d,1,2,7
-aretha a,1,2,8
-denise m,1,2,8
-bazlyn a,1,2,8
-yarden l,1,2,8
-julie a,1,2,7
-wendy,1,2,5
-carmen k,1,2,8
-peggy m,1,2,7
-veronica j,1,2,10
+aretha,1,2,6
+bazlyn,1,2,6
+yarden,1,2,6
+veronica,1,2,8
 burdette,1,2,8
-pamela a,1,2,8
-teresa t,1,2,8
-amy j,1,2,5
-cynthia,1,2,7
-samantha d,1,2,10
-sara j,1,2,6
-joleen a,1,2,8
-amber m,1,2,7
-kristin a,1,2,9
-rebecca a,1,2,9
-kelly e,1,2,7
-pamela,1,2,6
-maria e,1,2,7
-nichole m,1,2,9
-sarah l,1,2,7
+sara,1,2,4
+joleen,1,2,6
+kristin,1,2,7
+nichole,1,2,7
 sidney,1,2,6
-crystal p,1,2,9
 constance,1,2,9
-shai s,1,2,6
-sheila m,1,2,8
-kacie j,1,2,7
-kristi a,1,2,8
-robin l,1,2,7
-christi l,1,2,9
-krissy a,1,2,8
-ashley j,1,2,8
-teresa a,1,2,8
-cindy l,1,2,7
-don m,1,2,5
-catherine t,1,2,11
-dawn s,1,2,6
-ncy n,1,2,5
-latesha d,1,2,9
-dawn c,1,2,6
-elaine f,1,2,8
-erika m,1,2,7
-sabri l,1,2,7
-wendy k,1,2,7
-sheila d,1,2,8
-amber b,1,2,7
+shai,1,2,4
+sheila,1,2,6
+kacie,1,2,5
+robin,1,2,5
+krissy,1,2,6
+don,1,2,3
+dawn,1,2,4
+latesha,1,2,7
+elaine,1,2,6
+erika,1,2,5
+sabri,1,2,5
 anmarie,1,2,7
-catherine e,1,2,11
-cheryl d,1,2,8
-christi c,1,2,9
-cydney b,1,2,8
-don l,1,2,5
-ellen c,1,2,7
-ginger l,1,2,8
-heather f,1,2,9
-jessica,1,2,7
-josephine h,1,2,11
-kara l,1,2,6
-kathy l,1,2,7
+cydney,1,2,6
+ellen,1,2,5
+ginger,1,2,6
+josephine,1,2,9
 lillian,1,2,7
-lori k,1,2,6
 misty,1,2,5
-monta e,1,2,7
-talie r,1,2,7
-nichole l,1,2,9
-nikole l,1,2,8
-paula a,1,2,7
-phyllis l,1,2,9
-rebecca n,1,2,9
-rhonda l,1,2,8
-sara n,1,2,6
-shelly e,1,2,8
-theresa,1,2,7
-ti s,1,2,4
-tracee a,1,2,8
-angelique m,1,2,11
-brenda l,1,2,8
-tonya,1,2,5
-heather e,1,2,9
-michelle r,1,2,10
-tracy n,1,2,7
-jamie d,1,2,7
-ruth a,1,2,6
-alicia n,1,2,8
-ashley l,1,2,8
-crystal,1,2,7
-lauren m,1,2,8
-heather l,1,2,9
-bria l,1,2,6
-sherie l,1,2,8
-nicole l,1,2,8
-melody c,1,2,8
-rhonda d,1,2,8
-stacey j,1,2,8
-heather,1,2,7
-emily,1,2,5
-april h,1,2,7
-jamie s,1,2,7
-jamie n,1,2,7
-jeannie m,1,2,9
-marcia a,1,2,8
-kei l,1,2,5
-ashley g,1,2,8
-cheryl,1,2,6
-shelby d,1,2,8
-teshia m,1,2,8
-tiffany c,1,2,9
-michelle e,1,2,10
-jenny m,1,2,7
+monta,1,2,5
+talie,1,2,5
+nikole,1,2,6
+phyllis,1,2,7
+shelly,1,2,6
+tracee,1,2,6
+angelique,1,2,9
+brenda,1,2,6
+ruth,1,2,4
+bria,1,2,4
+sherie,1,2,6
+melody,1,2,6
+jeannie,1,2,7
+kei,1,2,3
+teshia,1,2,6
+jenny,1,2,5
 cass,1,2,4
-jessica r,1,2,9
-margaret j,1,2,10
-tiffany r,1,2,9
-deborah d,1,2,9
-susanne m,1,2,9
-jackie a,1,2,8
-nickki s,1,2,8
-tara n,1,2,6
-britinni m,1,2,10
-sali n,1,2,6
-mirinda,1,2,7
-casey m,1,2,7
-jaymie,1,2,6
-leta j,1,2,6
-wendy s,1,2,7
-carla a,1,2,7
-tabaitha m,1,2,10
-victoria l,1,2,10
-elizabeth,1,2,9
-tracy j,1,2,7
-patsy,1,2,5
-dawn m,1,2,6
-vanessa,1,2,7
-dorothy d,1,2,9
-suprea l,1,2,8
-kristie a,1,2,9
-roxanne,1,2,7
-carla c,1,2,7
-stephanie l,1,2,11
-dawn n,1,2,6
-jeannine m,1,2,10
-kathryn a,1,2,9
-sheila a,1,2,8
-tabatha m,1,2,9
-stefanie a,1,2,10
-ivanka,1,2,6
-zaida b,1,2,7
-kim m,1,2,5
-da s,1,2,4
-kelly d,1,2,7
-beverly k,1,2,9
-earnestine l,1,2,12
-lindsay,1,2,7
-katherine r,1,2,11
-susan m,1,2,7
-julia,1,2,5
-janepsy c,1,2,9
-kelly m,1,2,7
-theresa e,1,2,9
-ida r,1,2,5
 deborah,1,2,7
-phyllis b,1,2,9
+susanne,1,2,7
+jackie,1,2,6
+nickki,1,2,6
+britinni,1,2,8
+sali,1,2,4
+mirinda,1,2,7
+casey,1,2,5
+jaymie,1,2,6
+leta,1,2,4
+carla,1,2,5
+tabaitha,1,2,8
+victoria,1,2,8
+suprea,1,2,6
+kristie,1,2,7
+roxanne,1,2,7
+jeannine,1,2,8
+tabatha,1,2,7
+stefanie,1,2,8
+ivanka,1,2,6
+zaida,1,2,5
+kim,1,2,3
+earnestine,1,2,10
+katherine,1,2,9
+julia,1,2,5
+janepsy,1,2,7
+ida,1,2,3
 chelsey,1,2,7
-rebecca l,1,2,9
-kayleigh b,1,2,10
-alisha p,1,2,8
-aimee n,1,2,7
-wyno d,1,2,6
-amy,1,2,3
+kayleigh,1,2,8
+alisha,1,2,6
+aimee,1,2,5
+wyno,1,2,4
 maggie,1,2,6
-jessica d,1,2,9
-lori a,1,2,6
-jessie n,1,2,8
-melissa l,1,2,9
-bennie m,1,2,8
-colleen j,1,2,9
+jessie,1,2,6
+bennie,1,2,6
 betsy,1,2,5
-ashley d,1,2,8
-carol f,1,2,7
-cory l,1,2,6
+cory,1,2,4
 eleanor,1,2,7
-erika r,1,2,7
-ginger r,1,2,8
-jhodi m,1,2,7
-talia n,1,2,7
-marion f,1,2,8
-melody n,1,2,8
-dia m,1,2,5
+jhodi,1,2,5
+talia,1,2,5
+marion,1,2,6
 holly,1,2,5
-lori c,1,2,6
 zorai,1,2,5
-cynthia g,1,2,9
-joan e,1,2,6
-maria c,1,2,7
-caroline e,1,2,10
-elizabeth b,1,2,11
+joan,1,2,4
 silva,1,2,5
-charla n,1,2,8
-holly e,1,2,7
-alice m,1,2,7
-roberta a,1,2,9
-michele r,1,2,9
-isis m,1,2,6
-jannifer e,1,2,10
+charla,1,2,6
+alice,1,2,5
+isis,1,2,4
+jannifer,1,2,8
 sivia,1,2,5
-cindy,1,2,5
-beth m,1,2,6
-rebekah j,1,2,9
-holly n,1,2,7
-leann d,1,2,7
-theresa a,1,2,9
-allison r,1,2,9
-susan o,1,2,7
-elizabeth j,1,2,11
-savanh s,1,2,8
-shelby l,1,2,8
-tamra l,1,2,7
-emilia j,1,2,8
-melanie k,1,2,9
-judith m,1,2,8
-sonia o,1,2,7
-jackeline e,1,2,11
-tanya a,1,2,7
-sarah e,1,2,7
-linda k,1,2,7
-stephanie c,1,2,11
-christi m,1,2,9
-aimee r,1,2,7
-tammy l,1,2,7
-evelyn m,1,2,8
-crystal s,1,2,9
-brittany,1,2,8
-mary e,1,2,6
-nicole r,1,2,8
-megan e,1,2,7
-sela v,1,2,6
-crystal j,1,2,9
-laura,1,2,5
-rhean l,1,2,7
-cynthia m,1,2,9
+beth,1,2,4
+rebekah,1,2,7
+savanh,1,2,6
+tamra,1,2,5
+emilia,1,2,6
+judith,1,2,6
+sonia,1,2,5
+evelyn,1,2,6
+megan,1,2,5
+sela,1,2,4
+rhean,1,2,5
 cas,1,2,3
-angela c,1,2,8
-crystal c,1,2,9
-georgan n,1,2,9
-laura e,1,2,7
-mary j,1,2,6
-rebecca k,1,2,9
-regi b,1,2,6
-samantha r,1,2,10
-victoria s,1,2,10
-catherine r,1,2,11
-ashley c,1,2,8
-cynthia f,1,2,9
-rachael m,1,2,9
-sherri r,1,2,8
-april m,1,2,7
-ti a,1,2,4
+georgan,1,2,7
+regi,1,2,4
+rachael,1,2,7
+sherri,1,2,6
 corryn,1,2,6
-jay d,1,2,5
-lauren d,1,2,8
-lorraine l,1,2,10
-eva j,1,2,5
-ashley k,1,2,8
-kristi c,1,2,8
-joyce l,1,2,7
-stacy j,1,2,7
-shan l,1,2,6
-kayla r,1,2,7
-krystal l,1,2,9
-mary c,1,2,6
-sue a,1,2,5
-anita m,1,2,7
-jade l,1,2,6
+jay,1,2,3
+eva,1,2,3
+shan,1,2,4
+sue,1,2,3
+anita,1,2,5
+jade,1,2,4
 tamara,1,2,6
-mallory e,1,2,9
-priscilla,1,2,9
-crystal d,1,2,9
-casey d,1,2,7
-eva d,1,2,5
-jessica e,1,2,9
+mallory,1,2,7
 karalyn,1,2,7
 cristi,1,2,6
 alexis,1,2,6
-stephany p,1,2,10
-gladys p,1,2,8
+stephany,1,2,8
 teri,1,2,4
-tara j,1,2,6
-chelsey r,1,2,9
-michell l,1,2,9
-ruby a,1,2,6
-shaw m,1,2,6
-amiee s,1,2,7
-alyssa j,1,2,8
-julie o,1,2,7
-marissa l,1,2,9
+michell,1,2,7
+amiee,1,2,5
+alyssa,1,2,6
+marissa,1,2,7
 danette,1,2,7
-amy w,1,2,5
-april c,1,2,7
-ada m,1,2,5
-christy m,1,2,9
-don e,1,2,5
-judy k,1,2,6
-kerri,1,2,5
-nilza d,1,2,7
-rachel e,1,2,8
-samantha l,1,2,10
-colleen s,1,2,9
-angela k,1,2,8
-linda,1,2,5
-robin,1,2,5
-robin d,1,2,7
-starla l,1,2,8
-teri l,1,2,6
-iris l,1,2,6
-kylee j,1,2,7
-shannon,1,2,7
-shaw n,1,2,6
-terri i,1,2,7
+ada,1,2,3
+christy,1,2,7
+judy,1,2,4
+nilza,1,2,5
+starla,1,2,6
+iris,1,2,4
+kylee,1,2,5
+terri,1,2,5
 araceli,1,2,7
-meredith c,1,2,10
-don,1,2,3
+meredith,1,2,8
 june,1,2,4
-monica k,1,2,8
-brittany t,1,2,10
 daniella,1,2,8
-tawny b,1,2,7
-nicky m,1,2,7
-don a,1,2,5
-magdale m,1,2,9
-terrie j,1,2,8
-rhiannon a,1,2,10
-teresa l,1,2,8
-dia r,1,2,5
-coleen l,1,2,8
-kimberly v,1,2,10
-jolean c,1,2,8
-courtney c,1,2,10
-mary n,1,2,6
-patricia l,1,2,10
-vera l,1,2,6
-janette h,1,2,9
-deidre m,1,2,8
-don g,1,2,5
-jaimie l,1,2,8
-omi r,1,2,5
-tracy l,1,2,7
-timilyn r,1,2,9
-deborah l,1,2,9
-joyce m,1,2,7
-joan,1,2,4
-amy b,1,2,5
-robin c,1,2,7
-desiree m,1,2,9
-rean d,1,2,6
-aimee m,1,2,7
-cheryl f,1,2,8
-dianne w,1,2,8
-emily e,1,2,7
-lee v,1,2,5
-brittany e,1,2,10
-jane m,1,2,6
+nicky,1,2,5
+magdale,1,2,7
+terrie,1,2,6
+coleen,1,2,6
+jolean,1,2,6
+courtney,1,2,8
+janette,1,2,7
+deidre,1,2,6
+jaimie,1,2,6
+omi,1,2,3
+timilyn,1,2,7
+rean,1,2,4
+dianne,1,2,6
+lee,1,2,3
+jane,1,2,4
 carole,1,2,6
-melissa j,1,2,9
-carrie l,1,2,8
-heather j,1,2,9
-holly s,1,2,7
-riva m,1,2,6
-tia l,1,2,5
-gail f,1,2,6
-veronica p,1,2,10
-misty j,1,2,7
-bridgette a,1,2,11
-ncy e,1,2,5
-catherine w,1,2,11
-adria m,1,2,7
-bria j,1,2,6
-beverly h,1,2,9
+riva,1,2,4
+tia,1,2,3
+gail,1,2,4
+bridgette,1,2,9
 hilary,1,2,6
-virginia s,1,2,10
-betty,1,2,5
-pamela l,1,2,8
-ellen m,1,2,7
 angeli,1,2,6
-erika k,1,2,7
-whitney b,1,2,9
-gi r,1,2,4
-danielle n,1,2,10
-brittiny l,1,2,10
-debi m,1,2,6
-jamie k,1,2,7
-stephani l,1,2,10
-kareen b,1,2,8
-mattie a,1,2,8
-antonya m,1,2,9
-mary,1,2,4
-kathleen,1,2,8
-lisa r,1,2,6
-marissa a,1,2,9
-alicia d,1,2,8
-clara a,1,2,7
-robin m,1,2,7
-carolyn a,1,2,9
-danielle d,1,2,10
-leslie a,1,2,8
-terri m,1,2,7
-erin s,1,2,6
-darya l,1,2,7
-barbara d,1,2,9
-olga n,1,2,6
-tami s,1,2,6
-julie,1,2,5
-nikki l,1,2,7
-christine m,1,2,11
-nicole c,1,2,8
-tammy,1,2,5
+whitney,1,2,7
+brittiny,1,2,8
+debi,1,2,4
+stephani,1,2,8
+kareen,1,2,6
+mattie,1,2,6
+antonya,1,2,7
+clara,1,2,5
+darya,1,2,5
+olga,1,2,4
+tami,1,2,4
+nikki,1,2,5
 omayra,1,2,6
-bailie l,1,2,8
-brenda g,1,2,8
-bria g,1,2,6
-devora w,1,2,8
-felicia m,1,2,9
-jaclyn b,1,2,8
-jamie c,1,2,7
-kimberly e,1,2,10
-nichole j,1,2,9
-re l,1,2,4
-samantha k,1,2,10
-susan g,1,2,7
-tresha v,1,2,8
-karrie a,1,2,8
-michelle n,1,2,10
-dean l,1,2,6
-jaclyn n,1,2,8
-meredith a,1,2,10
-brittany m,1,2,10
-jessica a,1,2,9
-adrian n,1,2,8
-sally d,1,2,7
-crista r,1,2,8
-debra a,1,2,7
-francoise c,1,2,11
-lanee m,1,2,7
-samantha n,1,2,10
+bailie,1,2,6
+devora,1,2,6
+jaclyn,1,2,6
+tresha,1,2,6
+karrie,1,2,6
+adrian,1,2,6
+crista,1,2,6
+francoise,1,2,9
+lanee,1,2,5
 nitza,1,2,5
-rosa m,1,2,6
-laura s,1,2,7
+rosa,1,2,4
 tonia,1,2,5
-stefany d,1,2,9
+stefany,1,2,7
 cecilia,1,2,7
-deborah a,1,2,9
-sherry l,1,2,8
-leslie,1,2,6
-cammie l,1,2,8
-christine t,1,2,11
-ashley v,1,2,8
-robin a,1,2,7
-sonya g,1,2,7
-bonnie m,1,2,8
-christi b,1,2,9
-chelsea n,1,2,9
+cammie,1,2,6
+sonya,1,2,5
+chelsea,1,2,7
 maya,1,2,4
 rosemarie,1,2,9
-elisa r,1,2,7
-heidi l,1,2,7
-valerie j,1,2,9
-blakelie p,1,2,10
-brian j,1,2,7
-shau n,1,2,6
-cameron j,1,2,9
-yivette j,1,2,9
-barbara m,1,2,9
-rhonda,1,2,6
-teressa a,1,2,9
-cameo,1,2,5
-denise,1,2,6
-sabri m,1,2,7
-sherrie a,1,2,9
-barbara,1,2,7
-audrey j,1,2,8
-fawn m,1,2,6
-sherri a,1,2,8
-melissa y,1,2,9
-misty d,1,2,7
-hollie m,1,2,8
-rosan,1,2,5
-carisa e,1,2,8
-barabara a,1,2,10
-heather a,1,2,9
-brenda,1,2,6
-darlene l,1,2,9
-dedi r,1,2,6
-ashely d,1,2,8
+elisa,1,2,5
+heidi,1,2,5
+blakelie,1,2,8
 brian,1,2,5
-joyce i,1,2,7
-barbara l,1,2,9
-marian,1,2,6
+cameron,1,2,7
+yivette,1,2,7
+teressa,1,2,7
+cameo,1,2,5
+sherrie,1,2,7
+audrey,1,2,6
+fawn,1,2,4
+hollie,1,2,6
+rosan,1,2,5
+carisa,1,2,6
+barabara,1,2,8
+darlene,1,2,7
+dedi,1,2,4
+ashely,1,2,6
 sophia,1,2,6
 faith,1,2,5
-meghan e,1,2,8
-peggy j,1,2,7
-vanessa m,1,2,9
-cindy a,1,2,7
-joy a,1,2,5
-pale r,1,2,6
-jeanette l,1,2,10
-angela g,1,2,8
-tiffany l,1,2,9
-amy l,1,2,5
-da l,1,2,4
-deidra l,1,2,8
-katherine k,1,2,11
-rachael l,1,2,9
-brittney n,1,2,10
-kelly,1,2,5
-taylor m,1,2,8
-frances e,1,2,9
-kim,1,2,3
-jen n,1,2,5
-patricia j,1,2,10
-laura r,1,2,7
-kaysie b,1,2,8
-don s,1,2,5
-brian l,1,2,7
-brianne l,1,2,9
-jessika l,1,2,9
-emily a,1,2,7
+joy,1,2,3
+pale,1,2,4
+jeanette,1,2,8
+deidra,1,2,6
+frances,1,2,7
+jen,1,2,3
+kaysie,1,2,6
+brianne,1,2,7
+jessika,1,2,7
 yanet,1,2,5
-carolyn,1,2,7
 joann,1,2,5
-sherran a,1,2,9
-linda s,1,2,7
-margaret,1,2,8
-cheri a,1,2,7
-april j,1,2,7
+sherran,1,2,7
+cheri,1,2,5
 traci,1,2,5
-chasity s,1,2,9
-kellie m,1,2,8
-cassie m,1,2,8
-berdette a,1,2,10
-jodi m,1,2,6
-ashley b,1,2,8
-virginia,1,2,8
-nichole c,1,2,9
-rebecca s,1,2,9
-holly l,1,2,7
-lindsay g,1,2,9
-brooke m,1,2,8
-dawn l,1,2,6
-jacquan m,1,2,9
-tanya l,1,2,7
-angela h,1,2,8
-shee m,1,2,6
-pauline b,1,2,9
+cassie,1,2,6
+berdette,1,2,8
+jodi,1,2,4
+brooke,1,2,6
+jacquan,1,2,7
+shee,1,2,4
+pauline,1,2,7
 lia,1,2,3
-misti,1,2,5
-bobbie f,1,2,8
-sirine a,1,2,8
+sirine,1,2,6
 ral,1,2,3
-tiffany j,1,2,9
-jolene m,1,2,8
-marlene l,1,2,9
-don j,1,2,5
-gladys v,1,2,8
-carole m,1,2,8
-crystal b,1,2,9
-jean r,1,2,6
-joi e,1,2,5
-vanessa j,1,2,9
-karen g,1,2,7
-kasey l,1,2,7
-sherell m,1,2,9
-geneva g,1,2,8
-julia g,1,2,7
+jolene,1,2,6
+marlene,1,2,7
+jean,1,2,4
+joi,1,2,3
+kasey,1,2,5
+sherell,1,2,7
+geneva,1,2,6
 charlie,1,2,7
 constanti,1,2,9
-tonya l,1,2,7
-sarah,1,2,5
-stephanie n,1,2,11
-maria j,1,2,7
-christine r,1,2,11
-flavia l,1,2,8
-adria a,1,2,7
-mari b,1,2,6
-ann,1,2,3
-francesca a,1,2,11
-kelly a,1,2,7
-lydia m,1,2,7
-jane,1,2,4
-krystal n,1,2,9
-angel m,1,2,7
-darcel j,1,2,8
-janie m,1,2,7
-rose m,1,2,6
-stacia m,1,2,8
-alisa i,1,2,7
-jesse t,1,2,7
-robin v,1,2,7
-debra s,1,2,7
-erica l,1,2,7
-emilee,1,2,6
-sharon h,1,2,8
-kristen,1,2,7
-carol w,1,2,7
-elizabeth r,1,2,11
-robin s,1,2,7
-dea m,1,2,5
-betty e,1,2,7
-jaime n,1,2,7
-frances d,1,2,9
-janine i,1,2,8
-christine,1,2,9
-shirley l,1,2,9
-holly g,1,2,7
-lauryn,1,2,6
-charity d,1,2,9
-lindsay r,1,2,9
+flavia,1,2,6
 francesca,1,2,9
-vanessa p,1,2,9
-margaret m,1,2,10
-charity s,1,2,9
-sarah p,1,2,7
-maureen,1,2,7
-nellie m,1,2,8
-cari a,1,2,6
-paula r,1,2,7
-karrie,1,2,6
-melissa e,1,2,9
+lydia,1,2,5
+angel,1,2,5
+darcel,1,2,6
+janie,1,2,5
+rose,1,2,4
+stacia,1,2,6
+alisa,1,2,5
+jesse,1,2,5
+emilee,1,2,6
+kristen,1,2,7
+dea,1,2,3
+jaime,1,2,5
+charity,1,2,7
+nellie,1,2,6
+cari,1,2,4
 soldonia,1,2,8
-kelley j,1,2,8
-debra,1,2,5
-barbara j,1,2,9
-dawn r,1,2,6
-chelsea,1,2,7
-yvette m,1,2,8
-sabri,1,2,5
-cheryl r,1,2,8
-melanie f,1,2,9
-neila r,1,2,7
+kelley,1,2,6
+yvette,1,2,6
+neila,1,2,5
 dalia,1,2,5
-janette,1,2,7
-kayla n,1,2,7
-erin n,1,2,6
-theresa m,1,2,9
-tiffany b,1,2,9
-elisa a,1,2,7
-lindsey c,1,2,9
-phoebe l,1,2,8
-stacey,1,2,6
-francesca e,1,2,11
-linda d,1,2,7
-laura l,1,2,7
-tracy a,1,2,7
-melinda d,1,2,9
-sheryl l,1,2,8
-britani d,1,2,9
-da m,1,2,4
-elizabeth f,1,2,11
-josephine,1,2,9
-mar,1,2,3
-sharon a,1,2,8
-dawn,1,2,4
-lee a,1,2,5
-treasa a,1,2,8
-alea j,1,2,6
-julie b,1,2,7
-misty l,1,2,7
-alysia a,1,2,8
-catherine a,1,2,11
-memphis l,1,2,9
-chelci r,1,2,8
-jerri l,1,2,7
-kelly l,1,2,7
-leigh v,1,2,7
-tibitha a,1,2,9
-amy r,1,2,5
-della s,1,2,7
-moka y,1,2,6
-erica r,1,2,7
-kelly j,1,2,7
-kala s,1,2,6
-nikole p,1,2,8
-celeste m,1,2,9
-charmaine,1,2,9
-cristi c,1,2,8
-jazmin g,1,2,8
-heather p,1,2,9
-nicole k,1,2,8
-staci l,1,2,7
-constance m,1,2,11
-jeannette,1,2,9
-karen j,1,2,7
-kristin d,1,2,9
-catherine s,1,2,11
-odalis,1,2,6
-sharon,1,2,6
-skyler m,1,2,8
-kathy r,1,2,7
-heidi c,1,2,7
-karen,1,2,5
-celeste r,1,2,9
-janie l,1,2,7
-jeimis,1,2,6
-suzi j,1,2,6
-stephanie s,1,2,11
-hele,1,2,4
-daphne r,1,2,8
-jessy,1,2,5
-ela l,1,2,5
-kristi,1,2,6
-sha l,1,2,5
-toni m,1,2,6
+lindsey,1,2,7
 phoebe,1,2,6
-jaclyn j,1,2,8
-debra j,1,2,7
-ramo l,1,2,6
-whitney m,1,2,9
+britani,1,2,7
+mar,1,2,3
+treasa,1,2,6
+alea,1,2,4
+alysia,1,2,6
+memphis,1,2,7
+chelci,1,2,6
+jerri,1,2,5
+tibitha,1,2,7
+della,1,2,5
+moka,1,2,4
+kala,1,2,4
+celeste,1,2,7
+charmaine,1,2,9
+jazmin,1,2,6
+staci,1,2,5
+jeannette,1,2,9
+odalis,1,2,6
+skyler,1,2,6
+jeimis,1,2,6
+suzi,1,2,4
+hele,1,2,4
+daphne,1,2,6
+jessy,1,2,5
+ela,1,2,3
+sha,1,2,3
+ramo,1,2,4
 isabel,1,2,6
-trudy d,1,2,7
-yazmin i,1,2,8
+trudy,1,2,5
+yazmin,1,2,6
 yoan,1,2,4
-tara a,1,2,6
 kaley,1,2,5
-haley g,1,2,7
-hele j,1,2,6
-irene m,1,2,7
-sherry m,1,2,8
+irene,1,2,5
 cherryl,1,2,7
-nikki r,1,2,7
-mary a,1,2,6
-heather m,1,2,9
-margarita c,1,2,11
+margarita,1,2,9
 keleli,1,2,6
-koryn e,1,2,7
-stacie l,1,2,8
-katelyn e,1,2,9
-kristine,1,2,8
-peggy a,1,2,7
-lynn a,1,2,6
-brynn l,1,2,7
-gloria m,1,2,8
-michele l,1,2,9
-frances,1,2,7
+koryn,1,2,5
+stacie,1,2,6
+katelyn,1,2,7
+brynn,1,2,5
+gloria,1,2,6
 yol,1,2,3
-michelle d,1,2,10
-tabitha m,1,2,9
-tasha a,1,2,7
+tasha,1,2,5
 doris,1,2,5
-alecia n,1,2,8
+alecia,1,2,6
 summer,1,2,6
 daniela,1,2,7
-giovan r,1,2,8
-santa l,1,2,7
-megan r,1,2,7
-laurie a,1,2,8
-vanessa g,1,2,9
-trisha r,1,2,8
-sharen w,1,2,8
-martha b,1,2,8
-heather r,1,2,9
-shelly,1,2,6
-gabriela e,1,2,10
-toneille b,1,2,10
-brittany d,1,2,10
-carmen l,1,2,8
-jennissy m,1,2,10
-melanie,1,2,7
-terra l,1,2,7
-olita l,1,2,7
-carrie j,1,2,8
-tatum m,1,2,7
-olga a,1,2,6
-amber s,1,2,7
-stephanie a,1,2,11
-tammi c,1,2,7
-sheila,1,2,6
-linda n,1,2,7
-sara a,1,2,6
-dodie l,1,2,7
-ja c,1,2,4
-malory m,1,2,8
-michele d,1,2,9
-cynthia r,1,2,9
-karen s,1,2,7
-bonnie j,1,2,8
-lauren b,1,2,8
-shaw l,1,2,6
-sonia s,1,2,7
-holly a,1,2,7
-adriann m,1,2,9
-leann m,1,2,7
-teresa d,1,2,8
-aubria m,1,2,8
-lauren g,1,2,8
+giovan,1,2,6
+laurie,1,2,6
+trisha,1,2,6
+sharen,1,2,6
+gabriela,1,2,8
+toneille,1,2,8
+jennissy,1,2,8
+terra,1,2,5
+olita,1,2,5
+tatum,1,2,5
+tammi,1,2,5
+dodie,1,2,5
+malory,1,2,6
+adriann,1,2,7
+aubria,1,2,6
 cathy,1,2,5
-paula l,1,2,7
-katri m,1,2,7
-tasha,1,2,5
-sabri f,1,2,7
-shanley r,1,2,9
-shellie r,1,2,9
-jamie m,1,2,7
+shanley,1,2,7
+shellie,1,2,7
 christen,1,2,8
-beverly a,1,2,9
-vertresa l,1,2,10
-barbara c,1,2,9
-traci a,1,2,7
-jacqueline s,1,2,12
-megan l,1,2,7
-judy l,1,2,6
-cosma j,1,2,7
+vertresa,1,2,8
+cosma,1,2,5
 regla,1,2,5
-amber e,1,2,7
-stacey r,1,2,8
-staci,1,2,5
-angel,1,2,5
-susan l,1,2,7
-omi l,1,2,5
-jennifer b,1,2,10
-vicky m,1,2,7
-eva m,1,2,5
-sarah k,1,2,7
-jasmine a,1,2,9
-joy m,1,2,5
-karron m,1,2,8
-susan t,1,2,7
-sharyn p,1,2,8
-casey l,1,2,7
-debora l,1,2,8
-deeann m,1,2,8
-ti d,1,2,4
-tricia a,1,2,8
-britnee j,1,2,9
-brittany k,1,2,10
-cathy m,1,2,7
+vicky,1,2,5
+jasmine,1,2,7
+karron,1,2,6
+sharyn,1,2,6
+debora,1,2,6
+deeann,1,2,6
+britnee,1,2,7
 mer,1,2,3
-nicole h,1,2,8
-tiffany d,1,2,9
-taylor,1,2,6
-jennifer q,1,2,10
-katherine a,1,2,11
-marcie l,1,2,8
+marcie,1,2,6
 brettany,1,2,8
-patches l,1,2,9
-penelope i,1,2,10
-edwi l,1,2,6
-erin m,1,2,6
-kimberly c,1,2,10
-monique m,1,2,9
-patience e,1,2,10
-ti k,1,2,4
-shannon h,1,2,9
-debra r,1,2,7
-laloni r,1,2,8
-linsay a,1,2,8
-jennifer c,1,2,10
-hyla c,1,2,6
-kristine l,1,2,10
-wendy c,1,2,7
-joan m,1,2,6
-emily j,1,2,7
-virgi a,1,2,7
-jaren a,1,2,7
-megann e,1,2,8
-melody s,1,2,8
-bertha m,1,2,8
-nichole,1,2,7
-audrey a,1,2,8
-elizabeth e,1,2,11
-fletta a,1,2,8
-lisa d,1,2,6
-lori d,1,2,6
-holly j,1,2,7
-valeri r,1,2,8
-rachel a,1,2,8
-merry h,1,2,7
-chrystal a,1,2,10
-megan,1,2,5
-judith l,1,2,8
-sherry h,1,2,8
-tiffanie a,1,2,10
-roxsann j,1,2,9
-kristy m,1,2,8
-carol a,1,2,7
-jennie l,1,2,8
-shan r,1,2,6
+patches,1,2,7
+penelope,1,2,8
+edwi,1,2,4
+patience,1,2,8
+laloni,1,2,6
+linsay,1,2,6
+hyla,1,2,4
+virgi,1,2,5
+jaren,1,2,5
+megann,1,2,6
+bertha,1,2,6
+fletta,1,2,6
+valeri,1,2,6
+merry,1,2,5
+chrystal,1,2,8
+tiffanie,1,2,8
+roxsann,1,2,7
+kristy,1,2,6
+jennie,1,2,6
 kaylynne,1,2,8
-jami d,1,2,6
-stacy m,1,2,7
-harley a,1,2,8
-erika,1,2,5
-morgan j,1,2,8
-angela l,1,2,8
-nicole p,1,2,8
-martha j,1,2,8
+jami,1,2,4
+harley,1,2,6
+morgan,1,2,6
 kamela,1,2,6
-leslie l,1,2,8
-brenda j,1,2,8
-jessie g,1,2,8
-laura n,1,2,7
-dian e,1,2,6
-katty m,1,2,7
-laura m,1,2,7
-teran m,1,2,7
+katty,1,2,5
+teran,1,2,5
 zudisaday,1,2,9
-frances c,1,2,9
-jennifer n,1,2,10
-lindsey b,1,2,9
-patricia m,1,2,10
-katelynn e,1,2,10
+katelynn,1,2,8
 marisileini,1,2,11
-veronica,1,2,8
-julie j,1,2,7
-erica d,1,2,7
-beth a,1,2,6
-nichole t,1,2,9
-sharon m,1,2,8
-bobbi j,1,2,7
-linnea m,1,2,8
-joshalynne d,1,2,12
-holly k,1,2,7
-marlene e,1,2,9
-bobbie l,1,2,8
-debra p,1,2,7
-emily r,1,2,7
-paula k,1,2,7
-valerie,1,2,7
-vicki,1,2,5
-cheryl a,1,2,8
-christian d,1,2,11
-michaelle p,1,2,11
-brittney j,1,2,10
-carla j,1,2,7
-christine l,1,2,11
-kendra m,1,2,8
-penny c,1,2,7
-joan o,1,2,6
-april l,1,2,7
-mattie d,1,2,8
-joy,1,2,3
-angela f,1,2,8
-hava l,1,2,6
-christine e,1,2,11
-alissia l,1,2,9
-jamie e,1,2,7
-valentine a,1,2,11
-audria e,1,2,8
-jamie,1,2,5
-kristen m,1,2,9
-alexis g,1,2,8
-alice k,1,2,7
-marsha k,1,2,8
-jenny l,1,2,7
-chrystal g,1,2,10
-danielle,1,2,8
-jody a,1,2,6
-shannon k,1,2,9
-susan r,1,2,7
-tracey l,1,2,8
-terri,1,2,5
-teresa f,1,2,8
-sara e,1,2,6
-jordan m,1,2,8
-tara,1,2,4
-heidi m,1,2,7
-phyllis,1,2,7
+bobbi,1,2,5
+linnea,1,2,6
+joshalynne,1,2,10
+christian,1,2,9
+michaelle,1,2,9
+hava,1,2,4
+alissia,1,2,7
+valentine,1,2,9
+audria,1,2,6
+jody,1,2,4
+jordan,1,2,6
 tabbatha,1,2,8
 bernetta,1,2,8
-lindsey r,1,2,9
-talie t,1,2,7
-keri l,1,2,6
-mary s,1,2,6
-angela v,1,2,8
-jerri a,1,2,7
-penny r,1,2,7
-colleen h,1,2,9
-joy d,1,2,5
-janelle m,1,2,9
-jeri l,1,2,6
-nci a,1,2,5
-sarah a,1,2,7
-guenevere l,1,2,11
+keri,1,2,4
+janelle,1,2,7
+jeri,1,2,4
+nci,1,2,3
+guenevere,1,2,9
 charlotte,1,2,9
-layla n,1,2,7
-chelsea m,1,2,9
-opal l,1,2,6
-carrie a,1,2,8
-kerstin a,1,2,9
-tammy b,1,2,7
-teresa s,1,2,8
-terilyn m,1,2,9
-tobi m,1,2,6
-barbara s,1,2,9
-mariah l,1,2,8
-michelle,1,2,8
-alisa d,1,2,7
-cindy r,1,2,7
-katherine l,1,2,11
-dea l,1,2,5
-jody b,1,2,6
-nivia a,1,2,7
+layla,1,2,5
+opal,1,2,4
+kerstin,1,2,7
+terilyn,1,2,7
+tobi,1,2,4
+mariah,1,2,6
+nivia,1,2,5
 marita,1,2,6
-tasha l,1,2,7
-carolyn v,1,2,9
 ree,1,2,3
-regi m,1,2,6
-margie r,1,2,8
-tian r,1,2,6
-leah e,1,2,6
-aliceson e,1,2,10
-janice,1,2,6
-louisa m,1,2,8
-destiny m,1,2,9
-joan l,1,2,6
-lara s,1,2,6
-mamie l,1,2,7
-meloney l,1,2,9
-talie d,1,2,7
-arlene a,1,2,8
-dean r,1,2,6
-delene f,1,2,8
-jeanelle b,1,2,10
-kristen e,1,2,9
-brooke n,1,2,8
-jennie r,1,2,8
-marcy m,1,2,7
-stacey m,1,2,8
-kathy k,1,2,7
-barbara r,1,2,9
-sele j,1,2,6
-cara n,1,2,6
-charly j,1,2,8
-tonya a,1,2,7
-marcie,1,2,6
-alissa s,1,2,8
-kelley p,1,2,8
-maria g,1,2,7
-kristen j,1,2,9
-aimee c,1,2,7
-alisha j,1,2,8
-bethany n,1,2,9
-chloe p,1,2,7
-dawn e,1,2,6
-kathy d,1,2,7
-katri e,1,2,7
-kimberley r,1,2,11
-leila a,1,2,7
-marin a,1,2,7
-penny t,1,2,7
-shan g,1,2,6
-shee d,1,2,6
-stephanie k,1,2,11
-elizabeth m,1,2,11
-jacqueline m,1,2,12
-kimberly r,1,2,10
-tamra m,1,2,7
-tiffany s,1,2,9
-colleen f,1,2,9
-danielle l,1,2,10
-janeene l,1,2,9
-juliet r,1,2,8
-kelly g,1,2,7
-linda t,1,2,7
-megan m,1,2,7
-sherri b,1,2,8
-sherry c,1,2,8
-sophia r,1,2,8
-brean v,1,2,7
-emma jean f,1,2,11
-heather b,1,2,9
-tasha b,1,2,7
-susanh c,1,2,8
-mary r,1,2,6
+margie,1,2,6
+tian,1,2,4
+aliceson,1,2,8
+louisa,1,2,6
+lara,1,2,4
+mamie,1,2,5
+meloney,1,2,7
+arlene,1,2,6
+delene,1,2,6
+jeanelle,1,2,8
+marcy,1,2,5
+sele,1,2,4
+cara,1,2,4
+charly,1,2,6
+alissa,1,2,6
+chloe,1,2,5
+kimberley,1,2,9
+leila,1,2,5
+marin,1,2,5
+janeene,1,2,7
+juliet,1,2,6
+brean,1,2,5
+emma jean,1,2,9
+susanh,1,2,6
 berenice,1,2,8
-jonie l,1,2,7
-laura k,1,2,7
-crystal m,1,2,9
-kara r,1,2,6
-brenda n,1,2,8
-don k,1,2,5
-jennifer w,1,2,10
-melinda,1,2,7
-rebecca j,1,2,9
-michael a,1,2,9
-joyce k,1,2,7
-wendy e,1,2,7
-samantha m,1,2,10
-aphrodite t,1,2,11
-joyce,1,2,5
-joanne a,1,2,8
-kati n,1,2,6
-lesley j,1,2,8
-frances r,1,2,9
-sophie l,1,2,8
-shelley l,1,2,9
-courtney,1,2,8
-katri a,1,2,7
-janet d,1,2,7
-shanee d,1,2,8
-erika j,1,2,7
-kathryn r,1,2,9
-debra e,1,2,7
-june c,1,2,6
-rebecca m,1,2,9
-bonnie l,1,2,8
-annita l,1,2,8
-barbara o,1,2,9
-dixie a,1,2,7
-erika l,1,2,7
-jackie d,1,2,8
-jessi r,1,2,7
-laura c,1,2,7
-mia a,1,2,5
-stacy o,1,2,7
-corene j,1,2,8
-tari l,1,2,6
-rikki a,1,2,7
-brooke l,1,2,8
-jamie v,1,2,7
-lindsay j,1,2,9
-meera g,1,2,7
-ann f,1,2,5
-carmen m,1,2,8
-ti l,1,2,4
-meloney a,1,2,9
-rosa r,1,2,6
-katherine b,1,2,11
-krystle r,1,2,9
-alicia l,1,2,8
-alysha l,1,2,8
-sali r,1,2,6
-lorretta d,1,2,10
-katherine j,1,2,11
-ulyssa l,1,2,8
-nicole e,1,2,8
-rikki d,1,2,7
-nikki m,1,2,7
-tabbatha l,1,2,10
-courtney a,1,2,10
-betty a,1,2,7
-christi k,1,2,9
-sheryl r,1,2,8
-kayleigh s,1,2,10
-billie l,1,2,8
-desiree j,1,2,9
-alice a,1,2,7
-kathleen s,1,2,10
-dine m,1,2,6
-becky l,1,2,7
-amy e,1,2,5
-terry j,1,2,7
+jonie,1,2,5
+michael,1,2,7
+aphrodite,1,2,9
+joanne,1,2,6
+kati,1,2,4
+lesley,1,2,6
+sophie,1,2,6
+shanee,1,2,6
+annita,1,2,6
+dixie,1,2,5
+jessi,1,2,5
+mia,1,2,3
+corene,1,2,6
+tari,1,2,4
+rikki,1,2,5
+meera,1,2,5
+alysha,1,2,6
+lorretta,1,2,8
+ulyssa,1,2,6
+billie,1,2,6
+dine,1,2,4
+becky,1,2,5
 suzanne,1,2,7
-virginia a,1,2,10
-kay l,1,2,5
-kimberly l,1,2,10
-cassey l,1,2,8
-danielle i,1,2,10
-anita l,1,2,7
-shea a,1,2,6
-whitney n,1,2,9
-jeannette d,1,2,11
-katherine f,1,2,11
-christi h,1,2,9
-rosemary l,1,2,10
-juanita t,1,2,9
-tabitha,1,2,7
-catherine,1,2,9
-allison e,1,2,9
-nicolle d,1,2,9
+cassey,1,2,6
+shea,1,2,4
+rosemary,1,2,8
+nicolle,1,2,7
 elvine,1,2,6
-kaylie a,1,2,8
-cherie m,1,2,8
-nikia v,1,2,7
-sonja j,1,2,7
-chelsea r,1,2,9
-julie n,1,2,7
-kara,1,2,4
-kimberly h,1,2,10
-justine c,1,2,9
-suzanne e,1,2,9
+kaylie,1,2,6
+cherie,1,2,6
+nikia,1,2,5
+justine,1,2,7
 sundea,1,2,6
-tara e,1,2,6
-virginia g,1,2,10
-margaret a,1,2,10
-liane m,1,2,7
-erica m,1,2,7
-tanya r,1,2,7
-emali a,1,2,7
-kristi m,1,2,8
-shann l,1,2,7
-julian i,1,2,8
-patricia r,1,2,10
-tracy,1,2,5
+liane,1,2,5
+emali,1,2,5
+shann,1,2,5
+julian,1,2,6
 anissa,1,2,6
-rhonda j,1,2,8
-dela m,1,2,6
-monica l,1,2,8
-louise e,1,2,8
-katherine,1,2,9
-julia m,1,2,7
-christi g,1,2,9
-leonor d,1,2,8
-tamra s,1,2,7
-denese b,1,2,8
-jacqueline b,1,2,12
-lapagia k,1,2,9
-tonya s,1,2,7
-judith,1,2,6
-brittany a,1,2,10
-cori r,1,2,6
-laura j,1,2,7
-elaine a,1,2,8
+dela,1,2,4
+leonor,1,2,6
+denese,1,2,6
+lapagia,1,2,7
+cori,1,2,4
 sylvia,1,2,6
-marianne e,1,2,10
-morgan a,1,2,8
 annique,1,2,7
 brigid,1,2,6
-mindy a,1,2,7
-priscilla h,1,2,11
-raven n,1,2,7
+mindy,1,2,5
+raven,1,2,5
 rita,1,2,4
-sherry,1,2,6
-tabitha j,1,2,9
-sara,1,2,4
-juanita,1,2,7
-lora s,1,2,6
-megan a,1,2,7
-kelly k,1,2,7
-caryn a,1,2,7
-cathy d,1,2,7
-leslie n,1,2,8
-monique r,1,2,9
-krista l,1,2,8
-pamela k,1,2,8
+lora,1,2,4
+caryn,1,2,5
+krista,1,2,6
 ves,1,2,3
-angela r,1,2,8
-da r,1,2,4
-linda f,1,2,7
-jenifer a,1,2,9
-casey,1,2,5
+jenifer,1,2,7
 johan,1,2,5
 hope,1,2,4
-letitia n,1,2,9
-dolee e,1,2,7
-alyssa k,1,2,8
-irma t,1,2,6
-jayla l,1,2,7
-kathleen m,1,2,10
-morgan l,1,2,8
+letitia,1,2,7
+dolee,1,2,5
+irma,1,2,4
+jayla,1,2,5
 violet,1,2,6
-veronica m,1,2,10
-kjella r,1,2,8
-elyan a,1,2,7
-dia,1,2,3
-aerwen n,1,2,8
-judith n,1,2,8
-regi a,1,2,6
-lynda l,1,2,7
-kalisa d,1,2,8
-stacy,1,2,5
-tasha m,1,2,7
-aislynn r,1,2,9
-cheri g,1,2,7
-jacqueline v,1,2,12
-jen m,1,2,5
-victoria,1,2,8
-summer n,1,2,8
-desiree c,1,2,9
-valerie m,1,2,9
-dione b,1,2,7
-kathryn l,1,2,9
-rita g,1,2,6
-merrilee j,1,2,10
-caitlin r,1,2,9
-roxanne d,1,2,9
-janice e,1,2,8
-michelle s,1,2,10
-misty e,1,2,7
-jessica y,1,2,9
-kristel r,1,2,9
-catherine m,1,2,11
-jill d,1,2,6
-ronee i,1,2,7
+kjella,1,2,6
+elyan,1,2,5
+aerwen,1,2,6
+lynda,1,2,5
+kalisa,1,2,6
+aislynn,1,2,7
+dione,1,2,5
+merrilee,1,2,8
+caitlin,1,2,7
+kristel,1,2,7
+ronee,1,2,5
 guadalupe,1,2,9
 thrity,1,2,6
-christi a,1,2,9
-ja p,1,2,4
-mary m,1,2,6
-ncy,1,2,3
 carly,1,2,5
 glenda,1,2,6
-renee,1,2,5
-kathy,1,2,5
-aileen p,1,2,8
-melody,1,2,6
-brooke e,1,2,8
-cecila r,1,2,8
-cherish m,1,2,9
-edria a,1,2,7
-susan v,1,2,7
-violet v,1,2,8
-laurel l,1,2,8
-kimberly k,1,2,10
-karen h,1,2,7
-kelley,1,2,6
-marsee l,1,2,8
-linda g,1,2,7
-carrie,1,2,6
-stasha r,1,2,8
+aileen,1,2,6
+cecila,1,2,6
+edria,1,2,5
+laurel,1,2,6
+marsee,1,2,6
+stasha,1,2,6
 hilda,1,2,5
-heidi n,1,2,7
-jennifer d,1,2,10
-monica p,1,2,8
-madison n,1,2,9
-leigh a,1,2,7
-jessica n,1,2,9
-jessica j,1,2,9
-manuela b,1,2,9
+madison,1,2,7
+manuela,1,2,7
 rozalia,1,2,7
-anita r,1,2,7
-beth r,1,2,6
-carol l,1,2,7
-kristine e,1,2,10
-mariam i,1,2,8
-renee a,1,2,7
-sharon e,1,2,8
-camille a,1,2,9
+mariam,1,2,6
+camille,1,2,7
 danyella,1,2,8
-julissa s,1,2,9
-tabatha a,1,2,9
-adon s,1,2,6
-lacey s,1,2,7
-tiffany e,1,2,9
-maria p,1,2,7
-kathryn e,1,2,9
-doreen a,1,2,8
-kay m,1,2,5
-dian j,1,2,6
-sondra l,1,2,8
-belinda g,1,2,9
-bethany s,1,2,9
-iva j,1,2,5
-cinthia l,1,2,9
-pamela b,1,2,8
-april n,1,2,7
-joy l,1,2,5
-letishia m,1,2,10
-peggy,1,2,5
-ashely l,1,2,8
-tosha,1,2,5
-regi n,1,2,6
+julissa,1,2,7
+adon,1,2,4
+doreen,1,2,6
+sondra,1,2,6
+iva,1,2,3
+cinthia,1,2,7
+letishia,1,2,8
 chassidy,1,2,8
-virginia e,1,2,10
-kristen n,1,2,9
-monica b,1,2,8
-ruby d,1,2,6
 kaleigh,1,2,7
-karmaleta r,1,2,11
-kelly r,1,2,7
-shaun d,1,2,7
-jan m,1,2,5
-mary k,1,2,6
-jacqueline e,1,2,12
-jacquilyn m,1,2,11
-dean d,1,2,6
-alicia m,1,2,8
-christi,1,2,7
-cassie l,1,2,8
+karmaleta,1,2,9
+shaun,1,2,5
+jan,1,2,3
+jacquilyn,1,2,9
 gillian,1,2,7
-n b,1,2,3
-stephanie p,1,2,11
-kelli a,1,2,7
-renee l,1,2,7
-belinda,1,2,7
-brenda k,1,2,8
-sheree r,1,2,8
-kia n,1,2,5
+kelli,1,2,5
+kia,1,2,3
 annmarie,1,2,8
-angel w,1,2,7
-krista,1,2,6
-echo n,1,2,6
-dianne m,1,2,8
-sherri s,1,2,8
-brendle n,1,2,9
-jacqueline n,1,2,12
-kimberlee r,1,2,11
-ncy r,1,2,5
-hope a,1,2,6
-ke r,1,2,4
-lizette i,1,2,9
-courtney m,1,2,10
-cody l,1,2,6
-frances s,1,2,9
-kyra l,1,2,6
-sara l,1,2,6
-christy j,1,2,9
+echo,1,2,4
+brendle,1,2,7
+kimberlee,1,2,9
+lizette,1,2,7
+cody,1,2,4
+kyra,1,2,4
 stella,1,2,6
-carlissa l,1,2,10
-morgan d,1,2,8
-heather g,1,2,9
-eugenia a,1,2,9
-jessica q,1,2,9
-jocelyn n,1,2,9
-kimberlee f,1,2,11
-lisa k,1,2,6
-alexis c,1,2,8
-tanya m,1,2,7
+carlissa,1,2,8
+eugenia,1,2,7
+jocelyn,1,2,7
 frankie,1,2,7
-theresa j,1,2,9
-sara f,1,2,6
-ashley t,1,2,8
-ingris f,1,2,8
-alisha l,1,2,8
-angela s,1,2,8
-catherine d,1,2,11
-charli d,1,2,8
-chelsea l,1,2,9
-devin r,1,2,7
-elaine m,1,2,8
-georgia r,1,2,9
-georgie a,1,2,9
-jacquelyn m,1,2,11
-karen a,1,2,7
-kristal,1,2,7
-starla r,1,2,8
-tamara l,1,2,8
-tatja,1,2,5
-debora c,1,2,8
-celeste g,1,2,9
-tabitha a,1,2,9
-elise j,1,2,7
-rebecca b,1,2,9
-castora,1,2,7
-jean s,1,2,6
-brieanne p,1,2,10
-brooke t,1,2,8
-alexis l,1,2,8
-cynthia j,1,2,9
-joean,1,2,5
-susan j,1,2,7
-olga m,1,2,6
-alane d,1,2,7
-kelli c,1,2,7
-kiesha l,1,2,8
+ingris,1,2,6
+charli,1,2,6
+devin,1,2,5
 georgia,1,2,7
-tammara m,1,2,9
-aldea e,1,2,7
-angela b,1,2,8
-belinda a,1,2,9
-carol s,1,2,7
-darlene n,1,2,9
-dorice d,1,2,8
-joyce s,1,2,7
-katie a,1,2,7
-lottie j,1,2,8
-samantha c,1,2,10
-shelli r,1,2,8
-tressy b,1,2,8
-wendy a,1,2,7
-arabella f,1,2,10
+georgie,1,2,7
+jacquelyn,1,2,9
+kristal,1,2,7
+tatja,1,2,5
+elise,1,2,5
+castora,1,2,7
+brieanne,1,2,8
+joean,1,2,5
+alane,1,2,5
+kiesha,1,2,6
+tammara,1,2,7
+aldea,1,2,5
+dorice,1,2,6
+katie,1,2,5
+lottie,1,2,6
+shelli,1,2,6
+tressy,1,2,6
+arabella,1,2,8
 medalia,1,2,7
-sheri j,1,2,7
-yadzia i,1,2,8
-maureen c,1,2,9
-christi n,1,2,9
-alicia f,1,2,8
-janis d,1,2,7
-kristy l,1,2,8
-shela r,1,2,7
-alysha r,1,2,8
-liddy a,1,2,7
-luann e,1,2,7
+yadzia,1,2,6
+janis,1,2,5
+shela,1,2,5
+liddy,1,2,5
+luann,1,2,5
 mariala,1,2,7
-teri e,1,2,6
-cresta d,1,2,8
-susan a,1,2,7
-gloria,1,2,6
-gladys b,1,2,8
-lori m,1,2,6
-ashley h,1,2,8
-brittany j,1,2,10
+cresta,1,2,6
 geisi,1,2,5
-lisa g,1,2,6
-brenda i,1,2,8
-aniesha l,1,2,9
-wendy d,1,2,7
-tabitha s,1,2,9
-carly m,1,2,7
-dixie l,1,2,7
-kimberli g,1,2,10
-tonia m,1,2,7
-stephanie j,1,2,11
-amy s,1,2,5
-ruth m,1,2,6
-theresa v,1,2,9
-charlotte a,1,2,11
-nicole d,1,2,8
-shronda s,1,2,9
-phyllis w,1,2,9
-jayla a,1,2,7
-addie l,1,2,7
+aniesha,1,2,7
+kimberli,1,2,8
+shronda,1,2,7
+addie,1,2,5
 damaris,1,2,7
-talia r,1,2,7
-elizabeth d,1,2,11
-amie l,1,2,6
-carolyn e,1,2,9
-melody o,1,2,8
 ale,1,2,3
-gail c,1,2,6
-amber j,1,2,7
-han l,1,2,5
-laurie l,1,2,8
-kelsea l,1,2,8
-somer c,1,2,7
-elizabeth g,1,2,11
+han,1,2,3
+kelsea,1,2,6
+somer,1,2,5
 dali,1,2,4
-melanie l,1,2,9
-jordan l,1,2,8
-ladora l,1,2,8
-holly b,1,2,7
-abigail g,1,2,9
-marissa n,1,2,9
-lynn m,1,2,6
-roberta c,1,2,9
-hanh n,1,2,6
-stacy k,1,2,7
-rosa,1,2,4
-lorie m,1,2,7
-ravyn s,1,2,7
-stephanie r,1,2,11
-mary f,1,2,6
+ladora,1,2,6
+hanh,1,2,4
+lorie,1,2,5
+ravyn,1,2,5
 jovan,1,2,5
-ann m,1,2,5
-nichole s,1,2,9
-chessy k,1,2,8
-brenda s,1,2,8
+chessy,1,2,6
 sere,1,2,4
-nelida m,1,2,8
+nelida,1,2,6
 mirian,1,2,6
-talie,1,2,5
-marci l,1,2,7
+marci,1,2,5
 dania,1,2,5
-rhonda r,1,2,8
-jolene s,1,2,8
-sonia r,1,2,7
-taylor c,1,2,8
-bunny m,1,2,7
-marissa g,1,2,9
+bunny,1,2,5
 adonia,1,2,6
-terra f,1,2,7
-cathlene e,1,2,10
-glenda f,1,2,8
-debbie j,1,2,8
-linnette f,1,2,10
-margaret c,1,2,10
-tinnoa s,1,2,8
+cathlene,1,2,8
+debbie,1,2,6
+linnette,1,2,8
+tinnoa,1,2,6
 bonita,1,2,6
 virgen,1,2,6
-leann k,1,2,7
-megan n,1,2,7
-a b,1,2,3
-danielle j,1,2,10
-sherry j,1,2,8
-pamela r,1,2,8
 mildred,1,2,7
-kimberlee a,1,2,11
-shantell r,1,2,10
-tori g,1,2,6
+shantell,1,2,8
+tori,1,2,4
 delia,1,2,5
-maria a,1,2,7
 marta,1,2,5
-honey g,1,2,7
-kerry a,1,2,7
-isabella m,1,2,10
+honey,1,2,5
+kerry,1,2,5
+isabella,1,2,8
 agel,1,2,4
-christy l,1,2,9
-tirza r,1,2,7
-deborah k,1,2,9
-lee h,1,2,5
-nicole j,1,2,8
-kayla g,1,2,7
+tirza,1,2,5
 leeann,1,2,6
-ruby y,1,2,6
-victoria c,1,2,10
-vonda l,1,2,7
-rachel p,1,2,8
-joni k,1,2,6
-tabitha d,1,2,9
-stephenie l,1,2,11
-ellie s,1,2,7
-patricia f,1,2,10
-sherry d,1,2,8
-theresa r,1,2,9
-wendi l,1,2,7
-dawn a,1,2,6
-tarah l,1,2,7
-lanita d,1,2,8
-molly j,1,2,7
-michele a,1,2,9
-shauh d,1,2,7
-judy c,1,2,6
-fallon c,1,2,8
+vonda,1,2,5
+joni,1,2,4
+stephenie,1,2,9
+ellie,1,2,5
+wendi,1,2,5
+tarah,1,2,5
+lanita,1,2,6
+molly,1,2,5
+shauh,1,2,5
+fallon,1,2,6
 shastine,1,2,8
-tamala d,1,2,8
-hazel d,1,2,7
-judy,1,2,4
-teresa,1,2,6
-krista m,1,2,8
+tamala,1,2,6
+hazel,1,2,5
 liudmila,1,2,8
 sadie,1,2,5
-rachelle,1,2,8
-jessabelle m,1,2,12
-talie l,1,2,7
-reba e,1,2,6
-jill c,1,2,6
-roxanne m,1,2,9
+jessabelle,1,2,10
+reba,1,2,4
 karyn,1,2,5
 lissette,1,2,8
-luz m,1,2,5
+luz,1,2,3
 migueli,1,2,7
 nydia,1,2,5
 silvia,1,2,6
 zuleys,1,2,6
-jennifer p,1,2,10
-marie a,1,2,7
-berdette r,1,2,10
-kelsey a,1,2,8
-mary h,1,2,6
-stacie,1,2,6
-krisha m,1,2,8
-sheree h,1,2,8
-grace m,1,2,7
-murisa n,1,2,8
-chasity a,1,2,9
-connie e,1,2,8
-nichol m,1,2,8
-yvonne d,1,2,8
+marie,1,2,5
+kelsey,1,2,6
+krisha,1,2,6
+grace,1,2,5
+murisa,1,2,6
+connie,1,2,6
+nichol,1,2,6
+yvonne,1,2,6
 consuelo,1,2,8
-laurette c,1,2,10
+laurette,1,2,8
 camie,1,2,5
-dela r,1,2,6
 lolita,1,2,6
-simone n,1,2,8
-tabitha r,1,2,9
-tammy g,1,2,7
-wendy r,1,2,7
-mia k,1,2,5
-anlise m,1,2,8
-sarah v,1,2,7
-shannon c,1,2,9
-carrie e,1,2,8
-susan k,1,2,7
-skylynn c,1,2,9
+simone,1,2,6
+anlise,1,2,6
+skylynn,1,2,7
 deniese,1,2,7
-rebecca c,1,2,9
-shelley k,1,2,9
-janet l,1,2,7
-aneatra n,1,2,9
-ala b,1,2,5
-alice,1,2,5
-eileen s,1,2,8
-rhonda o,1,2,8
-jacquelyn,1,2,9
-myra a,1,2,6
-laquita l,1,2,9
-rachel d,1,2,8
-janelle,1,2,7
-paula m,1,2,7
-chasity e,1,2,9
-jami,1,2,4
-ruth l,1,2,6
+aneatra,1,2,7
+ala,1,2,3
+eileen,1,2,6
+myra,1,2,4
+laquita,1,2,7
 lianyanely,1,2,10
-mercedes a,1,2,10
-lau t,1,2,5
-sasha n,1,2,7
-ale m,1,2,5
-tracelean n,1,2,11
-erika p,1,2,7
-melanie m,1,2,9
-sha m,1,2,5
-jestine e,1,2,9
-tiffanie m,1,2,10
-alyssa m,1,2,8
-january c,1,2,9
-tiffani j,1,2,9
-laci n,1,2,6
-cynthia p,1,2,9
-holli a,1,2,7
-carrie p,1,2,8
-rachel h,1,2,8
+mercedes,1,2,8
+lau,1,2,3
+sasha,1,2,5
+tracelean,1,2,9
+jestine,1,2,7
+january,1,2,7
+tiffani,1,2,7
+laci,1,2,4
 cristy,1,2,6
-leeda b,1,2,7
-aleesha j,1,2,9
-antonia c,1,2,9
-ashley s,1,2,8
+leeda,1,2,5
+aleesha,1,2,7
+antonia,1,2,7
 hermelinda,1,2,10
 jesusa,1,2,6
 jannette,1,2,8
 jesenia,1,2,7
 noemi,1,2,5
-olivia m,1,2,8
-hope l,1,2,6
-da a,1,2,4
-mary v,1,2,6
-rochelle r,1,2,10
-violet l,1,2,8
-caitlin j,1,2,9
-a m,1,2,3
-janelle l,1,2,9
-holly m,1,2,7
-courtney e,1,2,10
-jean e,1,2,6
-karla l,1,2,7
-lisa h,1,2,6
-kayla l,1,2,7
-damaris t,1,2,9
-jenifer f,1,2,9
-brenda m,1,2,8
-catri m,1,2,7
-karie p,1,2,7
-patricia c,1,2,10
-rhea l,1,2,6
-susanne d,1,2,9
-claire e,1,2,8
-crista l,1,2,8
-ncy c,1,2,5
-chrystal r,1,2,10
-jeanette,1,2,8
-deborah j,1,2,9
-haley d,1,2,7
-ncy l,1,2,5
-sativa l,1,2,8
-lorrey a,1,2,8
-beth d,1,2,6
-jill m,1,2,6
-mary w,1,2,6
-michelle b,1,2,10
-jennifer h,1,2,10
-kristi r,1,2,8
-betty d,1,2,7
-doni j,1,2,6
-jean f,1,2,6
-rosie l,1,2,7
-sarah j,1,2,7
-cheryl m,1,2,8
-darcie l,1,2,8
-thea j,1,2,6
-bren l,1,2,6
-christi j,1,2,9
+olivia,1,2,6
+rochelle,1,2,8
+karla,1,2,5
+catri,1,2,5
+karie,1,2,5
+rhea,1,2,4
+claire,1,2,6
+sativa,1,2,6
+lorrey,1,2,6
+doni,1,2,4
+rosie,1,2,5
+darcie,1,2,6
+thea,1,2,4
+bren,1,2,4
 jenniffer,1,2,9
 joselyn,1,2,7
-krystal,1,2,7
-maricela c,1,2,10
+maricela,1,2,8
 maritza,1,2,7
 mylife,1,2,6
-paige m,1,2,7
-rosalinda j,1,2,11
-kenia s,1,2,7
+paige,1,2,5
+rosalinda,1,2,9
 kellianne,1,2,9
 lilla,1,2,5
-tyra r,1,2,6
-sidney l,1,2,8
-judith a,1,2,8
-dominique d,1,2,11
-kathleen c,1,2,10
-marilyn c,1,2,9
-susan s,1,2,7
-lacey j,1,2,7
-jaclyn,1,2,6
-lindsay m,1,2,9
-tabitha c,1,2,9
-dannia l,1,2,8
-wednesday l,1,2,11
-melinda j,1,2,9
-sharon j,1,2,8
-marcia p,1,2,8
-adria n,1,2,7
-odalmis a,1,2,9
-angel r,1,2,7
-erika c,1,2,7
-goldie m,1,2,8
-erin r,1,2,6
-dia c,1,2,5
-concepcion c,1,2,12
-elba i,1,2,6
+tyra,1,2,4
+dominique,1,2,9
+marilyn,1,2,7
+dannia,1,2,6
+wednesday,1,2,9
+odalmis,1,2,7
+goldie,1,2,6
+concepcion,1,2,10
+elba,1,2,4
 idalia,1,2,6
-jean m,1,2,6
 angelica,1,2,8
-astasia v,1,2,9
-kerri a,1,2,7
-tracy m,1,2,7
-larissa m,1,2,9
+astasia,1,2,7
+larissa,1,2,7
 arunya,1,2,6
-edith m,1,2,7
-tristen m,1,2,9
-chanel l,1,2,8
-claudia m,1,2,9
-tiffany n,1,2,9
-jacqueline j,1,2,12
-karmela r,1,2,9
-carissa f,1,2,9
-laurine m,1,2,9
-veronica b,1,2,10
-anita d,1,2,7
-joan d,1,2,6
-danica m,1,2,8
-lydia a,1,2,7
-dara l,1,2,6
-kathryn,1,2,7
+edith,1,2,5
+tristen,1,2,7
+chanel,1,2,6
+claudia,1,2,7
+karmela,1,2,7
+carissa,1,2,7
+danica,1,2,6
+dara,1,2,4
 law,1,2,3
-uleta m,1,2,7
-constance s,1,2,11
-jacquelyn g,1,2,11
+uleta,1,2,5
 mareesa,1,2,7
-melanie j,1,2,9
-cinthya o,1,2,9
-martha c,1,2,8
-danielle f,1,2,10
-melody i,1,2,8
+cinthya,1,2,7
 seli,1,2,4
-leslie s,1,2,8
 milneg,1,2,6
-monica y,1,2,8
-ashton r,1,2,8
-chasity,1,2,7
-jessamyn l,1,2,10
-erika t,1,2,7
-marie,1,2,5
-crista,1,2,6
-mari a,1,2,6
+ashton,1,2,6
+jessamyn,1,2,8
 nilda,1,2,5
-karli n,1,2,7
+karli,1,2,5
 iria,1,2,4
 lua,1,2,3
-yudith c,1,2,8
-blanca f,1,2,8
-emilia,1,2,6
+yudith,1,2,6
+blanca,1,2,6
 vivian,1,2,6
-samantha a,1,2,10
-charity l,1,2,9
-jean,1,2,4
-lindsey a,1,2,9
-gail a,1,2,6
-wenoh a,1,2,7
-marie l,1,2,7
-courtey h,1,2,9
+wenoh,1,2,5
+courtey,1,2,7
 mechelle,1,2,8
-krystle l,1,2,9
-alexis a,1,2,8
-hannelore c,1,2,11
-seli m,1,2,6
-sarah d,1,2,7
-ellen h,1,2,7
-cheryl s,1,2,8
-jodisue m,1,2,9
-lesley,1,2,6
-lucille m,1,2,9
-leilani c,1,2,9
-christal l,1,2,10
-june l,1,2,6
-melody m,1,2,8
-suri c,1,2,6
-ver r,1,2,5
-jillian n,1,2,9
-julie l,1,2,7
-cassie n,1,2,8
-layura a,1,2,8
-sheelah r,1,2,9
-jamee m,1,2,7
-helen e,1,2,7
-brittney l,1,2,10
-marlene a,1,2,9
+hannelore,1,2,9
+jodisue,1,2,7
+lucille,1,2,7
+leilani,1,2,7
+suri,1,2,4
+ver,1,2,3
+jillian,1,2,7
+layura,1,2,6
+sheelah,1,2,7
+jamee,1,2,5
+helen,1,2,5
 ciara,1,2,5
-tracy d,1,2,7
-vanesa l,1,2,8
-leshawn r,1,2,9
-sherrie e,1,2,9
-betty s,1,2,7
-toye n,1,2,6
-contessa d,1,2,10
+vanesa,1,2,6
+leshawn,1,2,7
+toye,1,2,4
+contessa,1,2,8
 jeanine,1,2,7
-adel m,1,2,6
-mo l,1,2,4
-bobbi,1,2,5
-erica q,1,2,7
-savah l,1,2,7
-lisa s,1,2,6
-scarlet a,1,2,9
-tahlia j,1,2,8
-norma l,1,2,7
-jaime d,1,2,7
-maureen a,1,2,9
-lillie c,1,2,8
-vanessa l,1,2,9
-dusty l,1,2,7
-belinda j,1,2,9
-caron c,1,2,7
+adel,1,2,4
+savah,1,2,5
+scarlet,1,2,7
+tahlia,1,2,6
+lillie,1,2,6
+dusty,1,2,5
+caron,1,2,5
 genny,1,2,5
-jeanie m,1,2,8
-martha,1,2,6
+jeanie,1,2,6
 jaynne,1,2,6
 katrin,1,2,6
-bey e,1,2,5
-emilee m,1,2,8
-sonia,1,2,5
-tasha n,1,2,7
+bey,1,2,3
 alyssia,1,2,7
-francis n,1,2,9
-betty n,1,2,7
-ronda s,1,2,7
-jacqueline l,1,2,12
-carolyn j,1,2,9
-doris g,1,2,7
-emerald m,1,2,9
-felicia a,1,2,9
-gi c,1,2,4
-hali d,1,2,6
-jan l,1,2,5
-jayne s,1,2,7
-jillian l,1,2,9
-judy z,1,2,6
-kari a,1,2,6
-lindsey l,1,2,9
-nikia s,1,2,7
-rebecca g,1,2,9
+francis,1,2,7
+hali,1,2,4
+jayne,1,2,5
+kari,1,2,4
 sherley,1,2,7
-tara t,1,2,6
-tess l,1,2,6
-tia n,1,2,5
-martha s,1,2,8
-dea,1,2,3
-anita j,1,2,7
-robin w,1,2,7
-yvette,1,2,6
-catherine l,1,2,11
-elisha m,1,2,8
-jessica k,1,2,9
-deborah c,1,2,9
-suzanne j,1,2,9
-norma j,1,2,7
-marta m,1,2,7
-pura m,1,2,6
-iris r,1,2,6
-charlotte v,1,2,11
-kayla e,1,2,7
-charlotte e,1,2,11
-kristi k,1,2,8
-vivian k,1,2,8
-mollie m,1,2,8
-marsha m,1,2,8
-kristin j,1,2,9
+tess,1,2,4
+elisha,1,2,6
+pura,1,2,4
+mollie,1,2,6
 selara,1,2,6
-carol v,1,2,7
-joann l,1,2,7
-krystal m,1,2,9
 romayne,1,2,7
-dayle l,1,2,7
-paula f,1,2,7
-celeste a,1,2,9
-ed m,1,2,4
-maria m,1,2,7
-veda e,1,2,6
-jackalene s,1,2,11
-laura d,1,2,7
-stephanie e,1,2,11
-rashida t,1,2,9
+dayle,1,2,5
+veda,1,2,4
+jackalene,1,2,9
+rashida,1,2,7
 kaci,1,2,4
 angelic,1,2,7
-dea r,1,2,5
-phyllis a,1,2,9
-suzette r,1,2,9
-lisa n,1,2,6
-linda j,1,2,7
-rae e,1,2,5
-rebecca e,1,2,9
-misty m,1,2,7
-gloria c,1,2,8
-shelli m,1,2,8
-shannon w,1,2,9
-traci l,1,2,7
-concetta m,1,2,10
-megan k,1,2,7
-lindsey h,1,2,9
-ellen e,1,2,7
-regi k,1,2,6
-shelly j,1,2,8
-crystal r,1,2,9
-denise r,1,2,8
-stacy l,1,2,7
-dia a,1,2,5
-alisha m,1,2,8
-katie j,1,2,7
-misty s,1,2,7
-bridget,1,2,7
-lynette c,1,2,9
-nora c,1,2,6
-kimberley e,1,2,11
+suzette,1,2,7
+rae,1,2,3
+concetta,1,2,8
+lynette,1,2,7
+nora,1,2,4
 lacie,1,2,5
-stephanie b,1,2,11
-rhonda v,1,2,8
-kara c,1,2,6
-kristen b,1,2,9
-angelia r,1,2,9
-doeminique r,1,2,12
-nichole y,1,2,9
-amalia,1,2,6
-audra r,1,2,7
-sasha l,1,2,7
-margaret k,1,2,10
-melissa c,1,2,9
-aneesha m,1,2,9
-victoria a,1,2,10
+angelia,1,2,7
+doeminique,1,2,10
+aneesha,1,2,7
 allie,1,2,5
-ashlyn m,1,2,8
-casey a,1,2,7
-eva,1,2,3
-falon s,1,2,7
-whitney j,1,2,9
-mary g,1,2,6
-maisa s,1,2,7
-amber g,1,2,7
-britnee l,1,2,9
-tressia i,1,2,9
-breanne m,1,2,9
-denise g,1,2,8
-eleanor m,1,2,9
-monique,1,2,7
-ncy j,1,2,5
-victoria m,1,2,10
-wateka n,1,2,8
-krista d,1,2,8
-sally j,1,2,7
-jessica g,1,2,9
-shirley b,1,2,9
-wendy p,1,2,7
-shee e,1,2,6
-maria r,1,2,7
-victoria k,1,2,10
-helen k,1,2,7
+ashlyn,1,2,6
+falon,1,2,5
+maisa,1,2,5
+tressia,1,2,7
+breanne,1,2,7
+wateka,1,2,6
 ayla,1,2,4
-tamera m,1,2,8
-bethany a,1,2,9
-robbie n,1,2,8
-lindsey m,1,2,9
-danita m,1,2,8
-marika j,1,2,8
-meredith n,1,2,10
-karlie c,1,2,8
-arlene,1,2,6
+tamera,1,2,6
+robbie,1,2,6
+danita,1,2,6
+marika,1,2,6
+karlie,1,2,6
 maryann,1,2,7
-christie m,1,2,10
 britainy,1,2,8
-lindsey n,1,2,9
-tamyra m,1,2,8
-frankie a,1,2,9
-misty b,1,2,7
-dru h,1,2,5
-debbra a,1,2,8
-stacey h,1,2,8
-carroll r,1,2,9
-hallie l,1,2,8
-alma d,1,2,6
-georgia m,1,2,9
-jessie d,1,2,8
+tamyra,1,2,6
+dru,1,2,3
+debbra,1,2,6
+carroll,1,2,7
+hallie,1,2,6
+alma,1,2,4
 kaitlynn,1,2,8
-martha i,1,2,8
-melanie r,1,2,9
-richen l,1,2,8
-sherri l,1,2,8
-amie r,1,2,6
-rosa l,1,2,6
-dia d,1,2,5
-janet,1,2,5
-laurie b,1,2,8
-mindy m,1,2,7
-felicia n,1,2,9
+richen,1,2,6
 minnie,1,2,6
-bianca l,1,2,8
-coralynn n,1,2,10
-jill,1,2,4
-marsha a,1,2,8
-sheryle l,1,2,9
-alisha s,1,2,8
-sara r,1,2,6
-jillian,1,2,7
-carol d,1,2,7
-adria g,1,2,7
-zuzu i,1,2,6
-lisbeth a,1,2,9
-berdette t,1,2,10
-amada g,1,2,7
+bianca,1,2,6
+coralynn,1,2,8
+sheryle,1,2,7
+zuzu,1,2,4
+lisbeth,1,2,7
+amada,1,2,5
 amarilys,1,2,8
 dunitze,1,2,7
-sherri,1,2,6
-eva p,1,2,5
-elai d,1,2,6
-april p,1,2,7
-katherine m,1,2,11
-vivia n,1,2,7
+elai,1,2,4
+vivia,1,2,5
 shaughnesse,1,2,11
-marie g,1,2,7
-ge m,1,2,4
-shau l,1,2,6
-jodi,1,2,4
 liah,1,2,4
-dorothy a,1,2,9
-janie,1,2,5
-glenda j,1,2,8
-marlene s,1,2,9
-rebekah y,1,2,9
-ncy a,1,2,5
-rachael,1,2,7
-tessa b,1,2,7
-codi j,1,2,6
-terri l,1,2,7
-ursula i,1,2,8
-elvia c,1,2,7
-erica j,1,2,7
-glenda g,1,2,8
-marian k,1,2,8
-mary b,1,2,6
-melody l,1,2,8
-penelope,1,2,8
-jaime l,1,2,7
-orielle a,1,2,9
-raquel l,1,2,8
-sonia z,1,2,7
-kiki e,1,2,6
-carol m,1,2,7
+tessa,1,2,5
+codi,1,2,4
+ursula,1,2,6
+elvia,1,2,5
+orielle,1,2,7
+kiki,1,2,4
 abr,1,2,3
-sharon f,1,2,8
-katie l,1,2,7
 penni,1,2,5
-gale c,1,2,6
-zoe l,1,2,5
-desire l,1,2,8
-mindy e,1,2,7
-christie l,1,2,10
-daisey l,1,2,8
-sarah r,1,2,7
-ti c,1,2,4
-roberta l,1,2,9
-cathleen b,1,2,10
-timothy t,1,2,9
-talie a,1,2,7
-hazel s,1,2,7
-megan s,1,2,7
-ginger m,1,2,8
-micha n,1,2,7
-alesia r,1,2,8
-marlie j,1,2,8
-josephine c,1,2,11
-amber n,1,2,7
-leah t,1,2,6
-alisha,1,2,6
-amitra m,1,2,8
-casie l,1,2,7
-katri d,1,2,7
-kerry l,1,2,7
-kimberley a,1,2,11
-lia m,1,2,5
-meghan j,1,2,8
-patty m,1,2,7
-river m,1,2,7
-lela a,1,2,6
+gale,1,2,4
+zoe,1,2,3
+desire,1,2,6
+daisey,1,2,6
+cathleen,1,2,8
+timothy,1,2,7
+micha,1,2,5
+alesia,1,2,6
+marlie,1,2,6
+amitra,1,2,6
+casie,1,2,5
+patty,1,2,5
+river,1,2,5
+lela,1,2,4
 kirsten,1,2,7
-emile m,1,2,7
-shelley a,1,2,9
-georgie d,1,2,9
-laura w,1,2,7
-chiffon m,1,2,9
-christie a,1,2,10
-bethany r,1,2,9
-shari l,1,2,7
-jackqueline j,1,2,13
-virginia m,1,2,10
+emile,1,2,5
+chiffon,1,2,7
+shari,1,2,5
+jackqueline,1,2,11
 shara,1,2,5
-amby a,1,2,6
-carol p,1,2,7
-cheryl w,1,2,8
-dysdy s,1,2,7
+amby,1,2,4
+dysdy,1,2,5
 evita,1,2,5
-heidi j,1,2,7
-jodi l,1,2,6
-julie m,1,2,7
-kaley b,1,2,7
-kristin l,1,2,9
-kristine j,1,2,10
-lisa c,1,2,6
-rhean m,1,2,7
-toni,1,2,4
-migdalia d,1,2,10
-cathy l,1,2,7
-camelia a,1,2,9
-cindy d,1,2,7
-darsi a,1,2,7
-esther j,1,2,8
-geri l,1,2,6
-justine l,1,2,9
-rosalita d,1,2,10
-sally a,1,2,7
-alesha e,1,2,8
-kara m,1,2,6
-bren e,1,2,6
-ashley e,1,2,8
-makayla j,1,2,9
-mary p,1,2,6
-kristin b,1,2,9
-trisha l,1,2,8
-patricia g,1,2,10
-freedom c,1,2,9
-holley a,1,2,8
-chassidy l,1,2,10
-connie m,1,2,8
-kisha s,1,2,7
-melinda a,1,2,9
-tera l,1,2,6
-angie m,1,2,7
-carleen v,1,2,9
-darlene m,1,2,9
-marle c,1,2,7
-starlet r,1,2,9
-stefanie n,1,2,10
-vicki d,1,2,7
-katri,1,2,5
+migdalia,1,2,8
+camelia,1,2,7
+darsi,1,2,5
+esther,1,2,6
+geri,1,2,4
+rosalita,1,2,8
+alesha,1,2,6
+makayla,1,2,7
+freedom,1,2,7
+holley,1,2,6
+kisha,1,2,5
+tera,1,2,4
+angie,1,2,5
+carleen,1,2,7
+marle,1,2,5
+starlet,1,2,7
 lorri,1,2,5

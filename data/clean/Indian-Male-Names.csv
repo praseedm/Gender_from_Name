@@ -1,8 +1,8 @@
 name,gender,race,length
 barjraj,0,3,7
 ramdin verma,0,3,12
-sharat ch,0,3,9
-birender m,0,3,10
+sharat,0,3,6
+birender,0,3,8
 amit,0,3,4
 kushal,0,3,6
 kasid,0,3,5
@@ -25,12 +25,12 @@ maansingh aswal,0,3,15
 rohit,0,3,5
 sparsh,0,3,6
 santosh,0,3,7
-punit kh,0,3,8
+punit,0,3,5
 dinesh,0,3,6
 gulshan,0,3,7
 arvind kumar yadav,0,3,18
 usad,0,3,4
-md afsar,0,3,8
+afsar,0,3,5
 shiv shakti singh,0,3,17
 moti lal,0,3,8
 kausal kumar,0,3,12
@@ -64,7 +64,7 @@ aakash,0,3,6
 sumit mitra,0,3,11
 supriyal sen,0,3,12
 gajender singh,0,3,14
-pooran ch,0,3,9
+pooran,0,3,6
 irfan,0,3,5
 azaruddin,0,3,9
 mukul yadav,0,3,11
@@ -84,7 +84,7 @@ rahul kumar,0,3,11
 rajender,0,3,8
 suraj,0,3,5
 rizwan,0,3,6
-md mustafa,0,3,10
+mustafa,0,3,7
 har parsad,0,3,10
 deepak,0,3,6
 rahul,0,3,5
@@ -111,7 +111,7 @@ silender,0,3,8
 akhilesh,0,3,8
 dipendra kumar,0,3,14
 nitin,0,3,5
-doodhth p,0,3,9
+doodhth,0,3,7
 aslam allam,0,3,11
 jitender kumar,0,3,14
 adn,0,3,3
@@ -148,12 +148,11 @@ anil kumar,0,3,10
 vijay virmani,0,3,13
 vivek auhari,0,3,12
 sachin,0,3,6
-subhash ch,0,3,10
+subhash,0,3,7
 bhupender,0,3,9
 raghun,0,3,6
 ajay kumar,0,3,10
 yognder,0,3,7
-subhash,0,3,7
 arun,0,3,4
 vikas,0,3,5
 vinod,0,3,5
@@ -177,7 +176,7 @@ uttam kumar,0,3,11
 babalu sen,0,3,10
 rustam shah,0,3,11
 sukhdev,0,3,7
-b vikjay kumar,0,3,14
+vikjay kumar,0,3,12
 dolly,0,3,5
 gopal sharma,0,3,12
 beeru,0,3,5
@@ -200,7 +199,7 @@ mohd mukhtaar,0,3,13
 rishi,0,3,5
 esrail khan,0,3,11
 suresh kumar,0,3,12
-pankaj ch,0,3,9
+pankaj,0,3,6
 ajay rayan,0,3,10
 mohit,0,3,5
 saddam,0,3,6
@@ -217,10 +216,10 @@ harman singh,0,3,12
 rajbir,0,3,6
 vinod lal,0,3,9
 krishan,0,3,7
-ram ji,0,3,6
+ram,0,3,3
 jony,0,3,4
 mohammad ali,0,3,12
-ashok kumar s,0,3,13
+ashok kumar,0,3,11
 ravinder,0,3,8
 guman singh basyal,0,3,18
 amardeep,0,3,8
@@ -284,7 +283,7 @@ gutam,0,3,5
 prakul,0,3,6
 birjesh,0,3,7
 sahil tigga,0,3,11
-girishi ch,0,3,10
+girishi,0,3,7
 pavan sharma,0,3,12
 ikramuddin,0,3,10
 sajan,0,3,5
@@ -294,12 +293,11 @@ val kishore,0,3,11
 ajahar,0,3,6
 sanjeev,0,3,7
 raman ralhan,0,3,12
-prem ch,0,3,7
+prem,0,3,4
 ashish,0,3,6
 jang bahadur,0,3,12
-om parkash ahuja,0,3,16
+parkash ahuja,0,3,13
 kamre alam,0,3,10
-md raju,0,3,7
 satpal,0,3,6
 ram pyare,0,3,9
 suraj singh,0,3,11
@@ -323,7 +321,7 @@ radheshyam sen,0,3,14
 mukesh,0,3,6
 sunny,0,3,5
 jitender rajak,0,3,14
-brahamprakash s,0,3,15
+brahamprakash,0,3,13
 raju singh,0,3,10
 sobit saini,0,3,11
 inder dutt,0,3,10
@@ -334,22 +332,21 @@ gulam rashul,0,3,12
 rajan,0,3,5
 ayush,0,3,5
 sehboob,0,3,7
-sanjay kumar s,0,3,14
+sanjay kumar,0,3,12
 manish,0,3,6
 amit kumar yadav,0,3,16
 divaraj,0,3,7
 kamlesh,0,3,7
 rajiv bagoriya,0,3,14
 abhiv chaudhary,0,3,15
-devender singh s,0,3,16
+devender singh,0,3,14
 azruddin,0,3,8
-sanjay kumar,0,3,12
 mushir ahmed,0,3,12
 vibhuti shyamal,0,3,15
 inderjeet,0,3,9
 golu,0,3,4
 lokesh,0,3,6
-neeraj k,0,3,8
+neeraj,0,3,6
 mukul verma,0,3,11
 rijakpal,0,3,8
 jai kishan,0,3,10
@@ -366,12 +363,11 @@ ramesh,0,3,6
 sawan gupta,0,3,11
 mun lal,0,3,7
 saurabh,0,3,7
-sarvesh kumar p,0,3,15
+sarvesh kumar,0,3,13
 avdhesh,0,3,7
 sohl kumar singh,0,3,16
 jar hussan,0,3,10
 lavtar singh,0,3,12
-k ch,0,3,4
 harprasad sahu,0,3,14
 vikas kumar,0,3,11
 ashsish kumar,0,3,13
@@ -385,14 +381,13 @@ kasim,0,3,5
 monu kumar,0,3,10
 manish kumar saket,0,3,18
 udham,0,3,5
-saurabh s,0,3,9
 rayan gadri,0,3,11
 lakshman th,0,3,11
 sachin kumar,0,3,12
 shahid,0,3,6
 mun,0,3,3
 ishtkar,0,3,7
-harish ch,0,3,9
+harish,0,3,6
 puneet jain,0,3,11
 rashab,0,3,6
 amit kumar shukla,0,3,17
@@ -403,8 +398,7 @@ puran singh rastogi,0,3,19
 render,0,3,6
 lal babu prasad,0,3,15
 ankush,0,3,6
-lal ch,0,3,6
-pankaj,0,3,6
+lal,0,3,3
 kiran pal,0,3,9
 ranveer singh,0,3,13
 anwar,0,3,5
@@ -415,10 +409,10 @@ rayan parsad bhushal,0,3,20
 abbas,0,3,5
 avish,0,3,5
 ravish,0,3,6
-hukum ch,0,3,8
+hukum,0,3,5
 pappu,0,3,5
 akash tomer,0,3,11
-mahesh ch,0,3,9
+mahesh,0,3,6
 rekhai,0,3,6
 gajender kumar,0,3,14
 vashudev,0,3,8
@@ -441,7 +435,6 @@ tara singh rawat,0,3,16
 momin,0,3,5
 parv kumar,0,3,10
 parminder,0,3,9
-mustafa,0,3,7
 ajay haldar,0,3,11
 dharmender,0,3,10
 gaurav sethi,0,3,12
@@ -452,10 +445,8 @@ rohan,0,3,5
 raju garg,0,3,9
 samir mishra,0,3,12
 ram dayal,0,3,9
-jagdish ch,0,3,10
 kanheya,0,3,7
 mushrraf,0,3,8
-prem,0,3,4
 pardeep kumar,0,3,13
 nithyan,0,3,7
 deepak goyal,0,3,12
@@ -483,7 +474,7 @@ shardan,0,3,7
 henkhochon haokip,0,3,17
 gaurav shankar,0,3,14
 shsi kant,0,3,9
-md tavrej,0,3,9
+tavrej,0,3,6
 amrudin,0,3,7
 shahwaz,0,3,7
 brij raj,0,3,8
@@ -508,7 +499,7 @@ rajbir ahlawat,0,3,14
 mohd faijan,0,3,11
 shyama,0,3,6
 mohd firoz,0,3,10
-bhag ch,0,3,7
+bhag,0,3,4
 parbhat,0,3,7
 aamod,0,3,5
 gram,0,3,4
@@ -529,7 +520,7 @@ yasib,0,3,5
 sone lal shah,0,3,13
 chhotu harijan,0,3,14
 sushant,0,3,7
-om prakash,0,3,10
+prakash,0,3,7
 manish kumar,0,3,12
 adersen,0,3,7
 mukesh kumar yogi,0,3,17
@@ -538,7 +529,7 @@ hardeep,0,3,7
 fitrat,0,3,6
 pankaj saini,0,3,12
 manish sehrawat,0,3,15
-ravi ch,0,3,7
+ravi,0,3,4
 karukar dehra,0,3,13
 somdath,0,3,7
 shiva,0,3,5
@@ -558,7 +549,7 @@ bhrat rayn,0,3,10
 annu,0,3,4
 ombir singh,0,3,11
 rajesh kumar,0,3,12
-varun ch,0,3,8
+varun,0,3,5
 yameen,0,3,6
 ravi singh,0,3,10
 jitendra singh,0,3,14
@@ -576,7 +567,6 @@ tufail,0,3,6
 afridi,0,3,6
 tahir,0,3,5
 ankit tiwari,0,3,12
-ravi,0,3,4
 abhay,0,3,5
 anuj tiwari,0,3,11
 vipiv malkania,0,3,14
@@ -587,7 +577,6 @@ aasto,0,3,5
 charan singh,0,3,12
 dhansinghpuri,0,3,13
 chottu shah,0,3,11
-ram ch,0,3,6
 nirmal,0,3,6
 niranjan,0,3,8
 mantu kumar,0,3,11
@@ -596,7 +585,6 @@ ashshwer parsad,0,3,15
 akash,0,3,5
 akhil kumar,0,3,11
 ranbir,0,3,6
-inderjeet m,0,3,11
 sik,0,3,3
 arjun singh,0,3,11
 vishal mishra,0,3,13
@@ -625,7 +613,7 @@ tikku,0,3,5
 janesh,0,3,6
 lakshya chauhan,0,3,15
 anoop singh,0,3,11
-dal ch,0,3,6
+dal,0,3,3
 pushpendra singh rathore,0,3,24
 harpal singh,0,3,12
 khiman,0,3,6
@@ -637,11 +625,10 @@ ritu raj,0,3,8
 viy kumar upadhayay,0,3,19
 shekher,0,3,7
 abhishek yadav,0,3,14
-manish kh,0,3,9
 bir singh,0,3,9
-rajkumar saini s,0,3,16
+rajkumar saini,0,3,14
 mohd sajim,0,3,10
-shankarlal s,0,3,12
+shankarlal,0,3,10
 neeraj kishore,0,3,14
 ishwar,0,3,6
 bilal,0,3,5
@@ -670,7 +657,6 @@ viy kumar,0,3,9
 ghansyam soni,0,3,13
 ram dutt,0,3,8
 sanjeev sharma,0,3,14
-devender singh,0,3,14
 asharam,0,3,7
 son pal,0,3,7
 badri prsad mishra,0,3,18
@@ -706,7 +692,7 @@ patik,0,3,5
 rajeev luka,0,3,11
 sarad raghuvansi,0,3,16
 ram prakash,0,3,11
-sh pratap singh,0,3,15
+pratap singh,0,3,12
 liyakat ali,0,3,11
 vicky,0,3,5
 bodh raj,0,3,8
@@ -721,7 +707,7 @@ hare chatiyan,0,3,13
 vipul,0,3,5
 abdul rahman,0,3,12
 khuma ram,0,3,9
-resh ch,0,3,7
+resh,0,3,4
 komal,0,3,5
 deepak kumar mishra,0,3,19
 piyush,0,3,6
@@ -738,9 +724,8 @@ subodh,0,3,6
 pramood,0,3,7
 dev,0,3,3
 shri kant,0,3,9
-om parkash,0,3,10
+parkash,0,3,7
 muntiyaj,0,3,8
-chetan p,0,3,8
 lilu,0,3,4
 surjeet,0,3,7
 sunder lal,0,3,10
@@ -748,7 +733,7 @@ aman bhatt,0,3,10
 ratikant maghi,0,3,14
 deva,0,3,4
 firoz,0,3,5
-dr hema hari pago,0,3,17
+hema hari pago,0,3,14
 raghuveer,0,3,9
 dheeraj,0,3,7
 sardar sarbjeet singh,0,3,21
@@ -794,11 +779,10 @@ abhiv vashishat,0,3,15
 amil,0,3,4
 sidharath,0,3,9
 madan jain,0,3,10
-milap ch,0,3,8
+milap,0,3,5
 atul,0,3,4
 mohit chauhan,0,3,13
 amar singh mahar,0,3,16
-santosh p,0,3,9
 sanny kumar,0,3,11
 roshan,0,3,6
 jeeya lal,0,3,9
@@ -851,7 +835,7 @@ lokesh varma,0,3,12
 sushil kumar,0,3,12
 subhakar,0,3,8
 ram suresh,0,3,10
-prem giri pradhan ji,0,3,20
+prem giri pradhan,0,3,17
 praveen,0,3,7
 shabuddin shah,0,3,14
 surender singh,0,3,14
@@ -863,8 +847,6 @@ rinki,0,3,5
 akram,0,3,5
 khemraj,0,3,7
 shri kant ghore,0,3,15
-neeraj,0,3,6
-sanjeev p,0,3,9
 krishan kishore,0,3,15
 jatin kumar,0,3,11
 shubham chauhan,0,3,15
@@ -874,7 +856,7 @@ vijay sharma,0,3,12
 shaukat khan,0,3,12
 arman,0,3,5
 jay dev jha,0,3,11
-mo aasif,0,3,8
+aasif,0,3,5
 lekhraj,0,3,7
 aayush,0,3,6
 punit kumar,0,3,11
@@ -888,7 +870,6 @@ cheddi lal,0,3,10
 dheeraj kumar,0,3,13
 deepak upadhayaya,0,3,17
 shail,0,3,5
-resh,0,3,4
 sahrukh khan,0,3,12
 kalu luhar,0,3,10
 ishwar ram,0,3,10
@@ -912,7 +893,6 @@ vijay pal,0,3,9
 bal bahadur kayanchhaki,0,3,23
 raju rathor,0,3,11
 laksh,0,3,5
-sanjay m,0,3,8
 jitendera singh,0,3,15
 jagmal,0,3,6
 pankaj tomar,0,3,12
@@ -924,8 +904,8 @@ vishal tiwari,0,3,13
 balwant ray arora,0,3,17
 rahul roy,0,3,9
 prahlad,0,3,7
-vipendra singh s,0,3,16
-mujaffar s,0,3,10
+vipendra singh,0,3,14
+mujaffar,0,3,8
 sharukh,0,3,7
 ravinder singh ra,0,3,17
 harison,0,3,7
@@ -952,7 +932,6 @@ muneer,0,3,6
 yogesh kumar,0,3,12
 dhalch,0,3,6
 bishan ram,0,3,10
-ramesh ch,0,3,9
 paras,0,3,5
 farmaan aamin,0,3,13
 ganesh singh,0,3,12
@@ -960,7 +939,6 @@ shiva kumar,0,3,11
 deepak kumar,0,3,12
 virender bhatia,0,3,15
 roshan kumar,0,3,12
-suraj m,0,3,7
 nirmal yadav,0,3,12
 aarif khan,0,3,10
 harsh,0,3,5
@@ -970,7 +948,6 @@ ram subhak,0,3,10
 islam,0,3,5
 sohaib,0,3,6
 krisha,0,3,6
-ajay kumar s,0,3,12
 soli,0,3,4
 satyam,0,3,6
 viney parkash,0,3,13
@@ -978,15 +955,13 @@ ram parkash teneja,0,3,18
 prem pal,0,3,8
 dhramender,0,3,10
 swami than,0,3,10
-rakesh p,0,3,8
 murari lal maharaj,0,3,18
 rayan,0,3,5
 sartaj ali,0,3,10
 ramhetu,0,3,7
 jabir hussain,0,3,13
 shiv singh,0,3,10
-harvinder singh s,0,3,17
-mh yameen,0,3,9
+harvinder singh,0,3,15
 sajjan,0,3,6
 prhalad kumar,0,3,13
 partik munchal,0,3,14
@@ -1003,8 +978,8 @@ daya ram,0,3,8
 sameem,0,3,6
 chetanram,0,3,9
 ajman,0,3,5
-puspak k,0,3,8
-desh deepak p,0,3,13
+puspak,0,3,6
+desh deepak,0,3,11
 shisupal,0,3,8
 vikarm,0,3,6
 shayamveer singh,0,3,16
@@ -1022,7 +997,7 @@ jai bhagwan,0,3,11
 rajaram yak,0,3,11
 smt pooja,0,3,9
 vijay kukreja,0,3,13
-shyam rain p,0,3,12
+shyam rain,0,3,10
 anuj kumar,0,3,10
 mohhmad shahil ragraj,0,3,21
 bablu singh,0,3,11
@@ -1066,20 +1041,19 @@ noorjama,0,3,8
 mohd israr,0,3,10
 yashin,0,3,6
 neeraj chauhan,0,3,14
-raviraj s,0,3,9
+raviraj,0,3,7
 inder singh sawant,0,3,18
 shoab jamal,0,3,11
 teerath singh,0,3,13
 ankur divedi,0,3,12
 gautam rehan,0,3,12
-sone lal bh,0,3,11
+sone lal,0,3,8
 harich,0,3,6
 chatan,0,3,6
 mohd jahid,0,3,10
 deepch,0,3,6
 jasveer singh,0,3,13
 deepender kumar,0,3,15
-deep ch,0,3,7
 mohd sarfraj,0,3,12
 surender kumar,0,3,14
 aoosaf,0,3,6
@@ -1087,7 +1061,7 @@ abrar,0,3,5
 mohd shahdab,0,3,12
 tanveer malik,0,3,13
 ratiman,0,3,7
-mul ch,0,3,6
+mul,0,3,3
 ram milan,0,3,9
 arvind kumar,0,3,12
 jasbir,0,3,6
@@ -1139,7 +1113,7 @@ akbar,0,3,5
 lal singh,0,3,9
 sehzad,0,3,6
 tushar bhaskar,0,3,14
-md samim,0,3,8
+samim,0,3,5
 mohd ushama,0,3,11
 pushkar koshik,0,3,14
 ahsan,0,3,5
@@ -1190,7 +1164,7 @@ kul mayank,0,3,10
 saroj devi,0,3,10
 birij kisor,0,3,11
 dinesh sharma,0,3,13
-md hasan,0,3,8
+hasan,0,3,5
 love manjhi,0,3,11
 rajeev sharma,0,3,13
 jai prakash,0,3,11
@@ -1198,7 +1172,7 @@ omprakash,0,3,9
 taushif,0,3,7
 leo paul,0,3,8
 farid khan,0,3,10
-md ramjani,0,3,10
+ramjani,0,3,7
 rahish ahmad,0,3,12
 deshraj,0,3,7
 shibu,0,3,5
@@ -1216,11 +1190,11 @@ dheeraj mee,0,3,11
 hari,0,3,4
 unkar mee,0,3,9
 vikram singh rajpoot,0,3,20
-girish ch,0,3,9
+girish,0,3,6
 pankaj dhiman,0,3,13
 ramesh upreti,0,3,13
 vipta,0,3,5
-sudhir m,0,3,8
+sudhir,0,3,6
 bhupesh sharma,0,3,14
 munesh sharma,0,3,13
 gopi singh,0,3,10
@@ -1236,7 +1210,7 @@ hazrat ali,0,3,10
 sudhansu,0,3,8
 raseel,0,3,6
 kushal sharma,0,3,13
-mr mohammad sahed,0,3,17
+mohammad sahed,0,3,14
 bijendra kumar,0,3,14
 bhagwan dass,0,3,12
 bhajanlal,0,3,9
@@ -1258,7 +1232,7 @@ udaiveer,0,3,8
 ravindera tiwari,0,3,16
 sabbir alam,0,3,11
 shahid alam,0,3,11
-mr render mali,0,3,14
+render mali,0,3,11
 deva ram,0,3,8
 amit garg,0,3,9
 santosh kumar,0,3,13
@@ -1269,7 +1243,7 @@ gaurav chhabra,0,3,14
 manpreet singh,0,3,14
 harak khatri,0,3,12
 hari mohan gurjar,0,3,17
-sh amar singh,0,3,13
+amar singh,0,3,10
 seem,0,3,4
 rahul jain,0,3,10
 jiya lal,0,3,8
@@ -1296,7 +1270,6 @@ harpal,0,3,6
 satyvrat,0,3,8
 versha,0,3,6
 kumar,0,3,5
-punit,0,3,5
 shekh malik,0,3,11
 shri ram rayan dass,0,3,19
 dharmender kumar sharma,0,3,23
@@ -1330,20 +1303,19 @@ dharmvir,0,3,8
 bram parkash,0,3,12
 dular,0,3,5
 shobharam,0,3,9
-ashok kumar,0,3,11
 prabhjeet singh,0,3,15
 tosif,0,3,5
 ghanshyam giri,0,3,14
 somth joshi,0,3,11
 mohd shokat,0,3,11
 gourav kumar,0,3,12
-md basir,0,3,8
+basir,0,3,5
 manoj sethi,0,3,11
 hosiyarilal saini,0,3,17
 devinder,0,3,8
 tapan kumar,0,3,11
 rafiq ahmed,0,3,11
-shri subhash ch,0,3,15
+shri subhash,0,3,12
 begraj singh,0,3,12
 dhan lal,0,3,8
 amrish seni,0,3,11
@@ -1351,18 +1323,16 @@ ghan sayam,0,3,10
 kabul singh,0,3,11
 lal jee,0,3,7
 lave kumar sharma,0,3,17
-hari om,0,3,7
 somth,0,3,5
 bablu ram,0,3,9
 akhtar ali,0,3,10
 gulshan kumar,0,3,13
 khursheed,0,3,9
-lawrence s,0,3,10
+lawrence,0,3,8
 vivek adak,0,3,10
 arsad,0,3,5
 mohd gaffar,0,3,11
 veen bansal,0,3,11
-amar singh,0,3,10
 akram rijwi,0,3,11
 amit kumar giri,0,3,15
 vipin kashyap,0,3,13
@@ -1376,7 +1346,7 @@ ajay kumar jain,0,3,15
 ravi pruthi,0,3,11
 rajni,0,3,5
 taj,0,3,3
-md aslam,0,3,8
+aslam,0,3,5
 uday singh,0,3,10
 unknown,0,3,7
 ram resh,0,3,8
@@ -1393,7 +1363,7 @@ mohinuddin,0,3,10
 shanbhu lal,0,3,11
 krishan pal,0,3,11
 babu lal,0,3,8
-p s eswaran,0,3,11
+eswaran,0,3,7
 abhisekh,0,3,8
 aditya,0,3,6
 akhilesh kumar,0,3,14
@@ -1409,12 +1379,11 @@ sumit chugh,0,3,11
 trilochan kakkar,0,3,16
 mujir alam,0,3,10
 arif akram,0,3,10
-mr babu lal,0,3,11
 kamlesh urf jula,0,3,16
 vikramjeet sharma,0,3,17
 suraj bhatia,0,3,12
 vishal kapoor,0,3,13
-lakshit p,0,3,9
+lakshit,0,3,7
 mithun,0,3,6
 aman puri,0,3,9
 sonu kumar,0,3,10
@@ -1424,7 +1393,7 @@ anish khan,0,3,10
 tirlok joshi,0,3,12
 viram singh,0,3,11
 lalit arya,0,3,10
-om parkash yadav,0,3,16
+parkash yadav,0,3,13
 nijam,0,3,5
 mhoomad sakir,0,3,13
 madhan singh,0,3,12
@@ -1437,7 +1406,7 @@ mansur malik,0,3,12
 manender pratap,0,3,15
 kanhiya sukla,0,3,13
 arvind mali,0,3,11
-mak ch,0,3,6
+mak,0,3,3
 gopal singh,0,3,11
 jagjiwan ram,0,3,12
 bansilal,0,3,8
@@ -1479,10 +1448,10 @@ kul kumar,0,3,9
 matadeen,0,3,8
 ragwender sharma,0,3,16
 jai kumar gupta,0,3,15
-md sahid,0,3,8
+sahid,0,3,5
 ram darshan,0,3,11
 surat singh,0,3,11
-md arfan,0,3,8
+arfan,0,3,5
 gurvinder singh,0,3,15
 rinkoo,0,3,6
 dilshad saifi,0,3,13
@@ -1496,8 +1465,8 @@ rajeev dutt,0,3,11
 rishabh,0,3,7
 anmol,0,3,5
 bachu kak,0,3,9
-kundan kr,0,3,9
-puran ch,0,3,8
+kundan,0,3,6
+puran,0,3,5
 moolch,0,3,6
 sarfraj,0,3,7
 samser khan,0,3,11
@@ -1507,9 +1476,8 @@ talib kha,0,3,9
 shashwat,0,3,8
 vimlesh,0,3,7
 mahindra kumar,0,3,14
-sanny s,0,3,7
+sanny,0,3,5
 mohd sahil,0,3,10
-sahid,0,3,5
 mohmmd shahid,0,3,13
 mayur bhatia,0,3,12
 hazari,0,3,6
@@ -1550,7 +1518,7 @@ pradeep kumar,0,3,13
 dinesh pareek,0,3,13
 sahab ram,0,3,9
 baburam,0,3,7
-mr mohan lal keer,0,3,17
+mohan lal keer,0,3,14
 sardar kawaljeet singh,0,3,22
 udaiy kumar,0,3,11
 ram avtar,0,3,9
@@ -1570,9 +1538,7 @@ tulshi ram,0,3,10
 pulkit,0,3,6
 shamsuddin,0,3,10
 parveen kumar,0,3,13
-imran s,0,3,7
 deen mohammad,0,3,13
-amit p,0,3,6
 amreek singh,0,3,12
 resh kumar,0,3,10
 manjeet singh,0,3,13
@@ -1588,7 +1554,6 @@ shyad furkahn hussain,0,3,21
 jubed,0,3,5
 sanu,0,3,4
 ram siroman,0,3,11
-prakash,0,3,7
 satish chawla,0,3,13
 resh paswan,0,3,11
 manish lamba,0,3,12
@@ -1603,13 +1568,12 @@ khushal singh,0,3,13
 amart mewada,0,3,12
 ramkesh,0,3,7
 shakib,0,3,6
-srheeram s,0,3,10
+srheeram,0,3,8
 tohid,0,3,5
 sidhrath kumar,0,3,14
 harib,0,3,5
-aasif,0,3,5
 jat ram,0,3,7
-md imtyaj,0,3,9
+imtyaj,0,3,6
 rajat,0,3,5
 netram yadav,0,3,12
 shyam lal,0,3,9
@@ -1622,7 +1586,7 @@ akram hussain,0,3,13
 sahwaj,0,3,6
 ramji,0,3,5
 trilok agrawal,0,3,14
-prafhool p,0,3,10
+prafhool,0,3,8
 rajiv kumar,0,3,11
 mohd jaid,0,3,9
 shish pal,0,3,9
@@ -1632,7 +1596,7 @@ kesha sharma,0,3,12
 rajeev kumal,0,3,12
 ghanshyam,0,3,9
 bhopal,0,3,6
-lucki an,0,3,8
+lucki,0,3,5
 rahul bhaskar,0,3,13
 mohd samsuddin,0,3,14
 fakrrudeen,0,3,10
@@ -1660,15 +1624,15 @@ farku pujar,0,3,11
 rajpal,0,3,6
 braham singh urf virman,0,3,23
 mahender chaudhary,0,3,18
-md irfhan,0,3,9
+irfhan,0,3,6
 sartaj,0,3,6
 mohd anwar,0,3,10
 sanjay saini,0,3,12
 shawaz,0,3,6
-hukam ch,0,3,8
+hukam,0,3,5
 saullah,0,3,7
 dhruv kumar,0,3,11
-trilok ch,0,3,9
+trilok,0,3,6
 dirgaj singh,0,3,12
 magat ram,0,3,9
 aad sharma,0,3,10
@@ -1687,7 +1651,6 @@ joria,0,3,5
 yogender kumar gupta,0,3,20
 jai parkash,0,3,11
 moh farman,0,3,10
-vipin p,0,3,7
 ram gopal urf gopiram mee,0,3,25
 sumit singh,0,3,11
 sai das,0,3,7
@@ -1698,7 +1661,7 @@ saidas,0,3,6
 raju kuswha,0,3,11
 harishankar,0,3,11
 hare krisha mishra,0,3,18
-mohd zahid s,0,3,12
+mohd zahid,0,3,10
 pankaj gupta,0,3,12
 abdulla,0,3,7
 ashok kumar sani,0,3,16
@@ -1713,7 +1676,7 @@ irsad khan,0,3,10
 pramod mehto,0,3,12
 mohd shakeeb,0,3,12
 basant joshi,0,3,12
-kailesh ch,0,3,10
+kailesh,0,3,7
 eldro korea kose,0,3,16
 kirti thakur,0,3,12
 gulab singh,0,3,11
@@ -1770,7 +1733,7 @@ tanveer,0,3,7
 sunny koli,0,3,10
 nitesh kumar,0,3,12
 vikky miglani,0,3,13
-md sokat,0,3,8
+sokat,0,3,5
 mohd noman,0,3,10
 kamal,0,3,5
 mangal,0,3,6
@@ -1834,7 +1797,7 @@ parmo kumar jain,0,3,16
 sukhram,0,3,7
 avnish,0,3,6
 mohd shakir,0,3,11
-bahrat p,0,3,8
+bahrat,0,3,6
 ebane ali,0,3,9
 satm singh,0,3,10
 anoop,0,3,5
@@ -1852,18 +1815,15 @@ mohit kumar sharma,0,3,18
 goverdhan dass,0,3,14
 rajinder bhasin alias babbu,0,3,27
 divy,0,3,4
-sanjay bh,0,3,9
 ashok goswami,0,3,13
-varun,0,3,5
-md danish,0,3,9
 tilakram,0,3,8
 surjeet singh banjara,0,3,21
 sarju,0,3,5
 gordhan das,0,3,11
-joginder m,0,3,10
+joginder,0,3,8
 rakesh kumar mee,0,3,16
 kashiram,0,3,8
-dayal singh b,0,3,13
+dayal singh,0,3,11
 ravi mee,0,3,8
 siddarth chetri,0,3,15
 saksham,0,3,7
@@ -1884,7 +1844,7 @@ sabeer,0,3,6
 deepak dhanpal,0,3,14
 devi deen,0,3,9
 satyawan,0,3,8
-hadarali s,0,3,10
+hadarali,0,3,8
 satyam jha,0,3,10
 rahul singh bisht,0,3,17
 bhavuk goel,0,3,11
@@ -1906,22 +1866,18 @@ sabi,0,3,4
 kamraan,0,3,7
 sunil kannujiya,0,3,15
 dharambir,0,3,9
-durgesh p,0,3,9
 shubham giri,0,3,12
 bechan pal,0,3,10
 amkit,0,3,5
 mohd lookman,0,3,12
 khurshid sidhiki,0,3,16
-mujaffar,0,3,8
 bhanu yadav,0,3,11
 makbul,0,3,6
 pramod mahashay,0,3,15
 preet kumar,0,3,11
 manku ram jat,0,3,13
 balch,0,3,5
-shankarlal,0,3,10
 omprakash sharma,0,3,16
-mahesh,0,3,6
 wali hadar,0,3,10
 rahul verma,0,3,11
 vikram jha,0,3,10
@@ -1940,7 +1896,6 @@ kanwar pal,0,3,10
 girdhari,0,3,8
 mohammad ali imam,0,3,17
 adesh kumar,0,3,11
-parkash,0,3,7
 vipul gupta,0,3,11
 akash malik,0,3,11
 daljeet,0,3,7
@@ -1951,7 +1906,6 @@ anurudh choudhary,0,3,17
 sahwaz,0,3,6
 rajbir singh,0,3,12
 mehak,0,3,5
-dd suraj kumar,0,3,14
 pankaj rawal,0,3,12
 manju,0,3,5
 sahil ram,0,3,9
@@ -1963,12 +1917,12 @@ sunny rathor,0,3,12
 sohail,0,3,6
 abdul khalil,0,3,12
 inder mahipal arya,0,3,18
-bittan m,0,3,8
+bittan,0,3,6
 praveen kumar,0,3,13
 prem kumar,0,3,10
 sitender singh bedi,0,3,19
 veen seithi,0,3,11
-phool ch,0,3,8
+phool,0,3,5
 kishore kumar,0,3,13
 nkesh,0,3,5
 sruddin,0,3,7
@@ -1976,7 +1930,7 @@ boby,0,3,4
 hasim,0,3,5
 ankit paswan,0,3,12
 harishch,0,3,8
-sudan ji,0,3,8
+sudan,0,3,5
 sagir,0,3,5
 sat prakash,0,3,11
 amrit kujur,0,3,11
@@ -2000,7 +1954,6 @@ neki ram,0,3,8
 omkar singh,0,3,11
 lucky ra singh,0,3,14
 devid ra singh,0,3,14
-satish ch,0,3,9
 gulab,0,3,5
 mohd aajam,0,3,10
 bhupesh,0,3,7
@@ -2031,7 +1984,6 @@ saizad,0,3,6
 geeta,0,3,5
 dheerendra tiwari,0,3,17
 kishan kumar,0,3,12
-ra g,0,3,4
 dhannu,0,3,6
 vimal,0,3,5
 rukhsar,0,3,7
@@ -2087,7 +2039,7 @@ dheeraj gouri,0,3,13
 prashant kumar,0,3,14
 vikki,0,3,5
 sahil kumar,0,3,11
-roop ch,0,3,7
+roop,0,3,4
 javed abbas,0,3,11
 radhe shyam,0,3,11
 chanchal kumar,0,3,14
@@ -2111,7 +2063,7 @@ sakal rai,0,3,9
 uday lal,0,3,8
 noorbi,0,3,6
 papuu luhar,0,3,11
-md aktab alam,0,3,13
+aktab alam,0,3,10
 bhudhi lal,0,3,10
 banshi lal,0,3,10
 prabhat,0,3,7
@@ -2184,7 +2136,6 @@ pramod kumar,0,3,12
 pukharam,0,3,8
 sarif mohammed,0,3,14
 nitin sharma,0,3,12
-kundan,0,3,6
 mohit bedi,0,3,10
 noor aalam,0,3,10
 anish,0,3,5
@@ -2200,7 +2151,6 @@ sujal,0,3,5
 kailash singh,0,3,13
 ganga ram,0,3,9
 victor singlai,0,3,14
-dinesh ch,0,3,9
 mayank,0,3,6
 jeevan,0,3,6
 vikash malik,0,3,12
@@ -2208,7 +2158,6 @@ amir khan,0,3,9
 kiran kumari,0,3,12
 mohd mustkeen,0,3,13
 ram parvesh,0,3,11
-ajay p,0,3,6
 moin,0,3,4
 mash,0,3,4
 waseem,0,3,6
@@ -2224,9 +2173,9 @@ parmeshwar,0,3,10
 lakhvinder singh,0,3,16
 shahbaz,0,3,7
 sajid,0,3,5
-jhalla re,0,3,9
+jhalla,0,3,6
 ram deeta mehto,0,3,15
-pramatma p,0,3,10
+pramatma,0,3,8
 abhishek sharma,0,3,15
 mata parsad,0,3,11
 rakhi,0,3,5
@@ -2237,7 +2186,6 @@ sukhpal,0,3,7
 ajay varma,0,3,10
 haji mohmmad,0,3,12
 rijwan aalam,0,3,12
-raj a,0,3,5
 resh chauhan,0,3,12
 tarun,0,3,5
 dharamvir,0,3,9
@@ -2253,7 +2201,6 @@ bhan singh,0,3,10
 lakshman sah,0,3,12
 aijay jaiswal,0,3,13
 gauravgil,0,3,9
-mr ashish kh,0,3,12
 laxman shah,0,3,11
 mukesh chaudhary,0,3,16
 adalat mahto,0,3,12
@@ -2268,14 +2215,14 @@ prahlad prasad,0,3,14
 liyakat,0,3,7
 tharu singh,0,3,11
 som,0,3,3
-vi jay kumar malhotra,0,3,21
+jay kumar malhotra,0,3,18
 fanni bhusan shi,0,3,16
 nijamuddin,0,3,10
 aasif khan,0,3,10
-md gaffar,0,3,9
+gaffar,0,3,6
 ikrar,0,3,5
 mehboob alam,0,3,12
-b r john,0,3,8
+john,0,3,4
 durvesh,0,3,7
 dharam bir,0,3,10
 ibarhim,0,3,7
@@ -2287,7 +2234,6 @@ rahul tyagi,0,3,11
 surajbhan,0,3,9
 avtar singh,0,3,11
 indervesh,0,3,9
-md javed,0,3,8
 ashok thru,0,3,10
 gaffar sardar,0,3,13
 jre alam,0,3,8
@@ -2303,22 +2249,21 @@ sonu gupta,0,3,10
 nishant sharma,0,3,14
 abhishak,0,3,8
 taufik,0,3,6
-jai ram m,0,3,9
+jai ram,0,3,7
 sukumar,0,3,7
 hardeep gauttam,0,3,15
 shekhar,0,3,7
 mohd sameer,0,3,11
 ram khiladi,0,3,11
 durgashankar,0,3,12
-jairam m,0,3,8
+jairam,0,3,6
 hemant raghav,0,3,13
 preetam singh,0,3,13
-umashankar kh,0,3,13
+umashankar,0,3,10
 aidtya,0,3,6
 ali,0,3,3
-hasan,0,3,5
 ashik pathak,0,3,12
-laxmi ch,0,3,8
+laxmi,0,3,5
 bashudev sharma,0,3,15
 sarafat,0,3,7
 guru charan lal,0,3,15
@@ -2333,14 +2278,12 @@ satyarayan dholi,0,3,16
 adil,0,3,4
 atul rathor,0,3,11
 mehtab,0,3,6
-sh satpal,0,3,9
 manosh yadav,0,3,12
 satya rayan bacchan,0,3,19
 sukhvinder singh,0,3,16
 mnyak sharma,0,3,12
 bal ahamd,0,3,9
 shivcharan,0,3,10
-ganesh p,0,3,8
 dhramveer,0,3,9
 vakesh sulemani,0,3,15
 devendra soni,0,3,13
@@ -2367,7 +2310,7 @@ virender singh,0,3,14
 virendra singh,0,3,14
 mohd uved,0,3,9
 sant ram,0,3,8
-upender kh,0,3,10
+upender,0,3,7
 ravi teja nikkam,0,3,16
 dibakar rout,0,3,12
 mohd salmaan,0,3,12
@@ -2383,7 +2326,6 @@ wasim,0,3,5
 numesh kumar,0,3,12
 aashish kumar,0,3,13
 abhishek tripathi,0,3,17
-aslam,0,3,5
 hament,0,3,6
 nitin jain,0,3,10
 shashi bhushan,0,3,14
@@ -2411,19 +2353,17 @@ yespal singh chauhan,0,3,20
 puskar singh dhami,0,3,18
 modh mustafa,0,3,12
 shree k,0,3,7
-raj u parshad s,0,3,15
+raj  parshad,0,3,12
 dharmendr,0,3,9
 sanwar lal,0,3,10
-kanisk dashora s,0,3,16
-sh madan jain,0,3,13
+kanisk dashora,0,3,14
 mohd rashid,0,3,11
 mohd arsad,0,3,10
 kamal sharma,0,3,12
-ram lakhan s,0,3,12
+ram lakhan,0,3,10
 manjesh,0,3,7
 dharamveer,0,3,10
 abhiv jhori,0,3,11
-pratap singh,0,3,12
 sunil agarwal,0,3,13
 parshant sharma,0,3,15
 shakar,0,3,6
@@ -2459,10 +2399,9 @@ rinku pal,0,3,9
 ovaish,0,3,6
 saroj,0,3,5
 jalmi,0,3,5
-md imtiyaz,0,3,10
+imtiyaz,0,3,7
 rohit verma,0,3,11
 pabu dan,0,3,8
-laxman p,0,3,8
 k singh,0,3,7
 bhanu,0,3,5
 sumit agarwal,0,3,13
@@ -2502,7 +2441,6 @@ sawan kumar,0,3,11
 kartik pawar,0,3,12
 mukund upadhyay,0,3,15
 omjone ibanuil,0,3,14
-mr ram ch,0,3,9
 sachin sharma,0,3,13
 sadab,0,3,5
 amit yadav,0,3,10
@@ -2523,7 +2461,6 @@ nikhil dhariwal,0,3,15
 shyam gopal swarnkar,0,3,20
 pradeep shah,0,3,12
 shivam saini,0,3,12
-raju kumar m,0,3,12
 ram bahadur,0,3,11
 nitish,0,3,6
 jaanu,0,3,5
@@ -2543,7 +2480,7 @@ niraj sahu,0,3,10
 lala,0,3,4
 bhoop singh,0,3,11
 annu sharma,0,3,11
-mr fateh singh,0,3,14
+fateh singh,0,3,11
 shatish kumar,0,3,13
 teerath ram,0,3,11
 rijvan,0,3,6
@@ -2553,7 +2490,7 @@ sheeak azzul hak rahaman,0,3,24
 tilak raj,0,3,9
 sotaj singh,0,3,11
 sambhu paswan,0,3,13
-abdul wahid khan s,0,3,18
+abdul wahid khan,0,3,16
 rakesh tabiyaad,0,3,15
 vijay rajpoot,0,3,13
 ashok kumar sharma,0,3,18
@@ -2578,7 +2515,6 @@ udmai ram,0,3,9
 aditi,0,3,5
 mohd yunus,0,3,10
 sheikh matin,0,3,12
-rohit s,0,3,7
 gorv sharma,0,3,11
 yashpal,0,3,7
 jot singh,0,3,9
@@ -2602,9 +2538,9 @@ firasat,0,3,7
 misri lal,0,3,9
 bhagirath sharma,0,3,16
 virender pal,0,3,12
-gajendra singh s,0,3,16
+gajendra singh,0,3,14
 amit kalara,0,3,11
-tek ch,0,3,6
+tek,0,3,3
 mohd sarfaraz,0,3,13
 vilram,0,3,6
 durga parshad,0,3,13
@@ -2615,7 +2551,6 @@ bachhu singh,0,3,12
 bhura singh,0,3,11
 kanhaiyalal,0,3,11
 laxman rai,0,3,10
-md ali,0,3,6
 priyansu jain,0,3,13
 manvir singh,0,3,12
 mohd arif,0,3,9
@@ -2680,7 +2615,6 @@ abdul rasheed,0,3,13
 amin urf baba,0,3,13
 gurpreet singh,0,3,14
 kanhiya thakur,0,3,14
-rajendra s,0,3,10
 ranjan rawat,0,3,12
 ravi kant,0,3,9
 manohar,0,3,7
@@ -2692,12 +2626,12 @@ jitendra yadav,0,3,14
 ravinder prakash,0,3,16
 gender,0,3,6
 mansharam,0,3,9
-md ibrahim,0,3,10
+ibrahim,0,3,7
 dwarka parsad,0,3,13
 mohm gulbhar,0,3,12
 abdul arbaz,0,3,11
 brijesh kumar,0,3,13
-mr lokesh sharma,0,3,16
+lokesh sharma,0,3,13
 nitin mohan,0,3,11
 riyajudhin,0,3,10
 kuldeep kour,0,3,12
@@ -2718,20 +2652,19 @@ kuldeep gupta,0,3,13
 ishatkar,0,3,8
 malch,0,3,5
 khalid khan,0,3,11
-bhola ram megwal s,0,3,18
+bhola ram megwal,0,3,16
 mahaveer singh yadav,0,3,20
 dalip,0,3,5
-md seem,0,3,7
 sabbir,0,3,6
 job pulikotin,0,3,13
 awdhesh kumar singh,0,3,19
 iqbal masin hans,0,3,16
 dharmender singh,0,3,16
 jankidas,0,3,8
-grish ch,0,3,8
+grish,0,3,5
 santram,0,3,7
 vicky malhotra,0,3,14
-prem th p,0,3,9
+prem th,0,3,7
 kewal singh,0,3,11
 nishith bhattacharya,0,3,20
 tajwar singh,0,3,12
@@ -2739,7 +2672,7 @@ sanjay dayal,0,3,12
 rahmat,0,3,6
 kanwar saini,0,3,12
 harbinder singh,0,3,15
-md savir,0,3,8
+savir,0,3,5
 modh israil,0,3,11
 vijay saini,0,3,11
 zim,0,3,3
@@ -2748,7 +2681,6 @@ sadh,0,3,4
 sabbar,0,3,6
 jis,0,3,3
 heeralal,0,3,8
-ram lakhan,0,3,10
 jai pal,0,3,7
 manoj saini,0,3,11
 kalpadma,0,3,8
@@ -2767,7 +2699,6 @@ jogender kumar,0,3,14
 papa rao,0,3,8
 akshat,0,3,6
 vedan,0,3,5
-dev n,0,3,5
 shahjad khan,0,3,12
 ishwer das,0,3,10
 suman kumar,0,3,11
@@ -2790,13 +2721,11 @@ seem khan,0,3,9
 satyaprakash,0,3,12
 chitu,0,3,5
 ashraf,0,3,6
-vipin s,0,3,7
 ashiya,0,3,6
 gafur,0,3,5
 sitaram pal,0,3,11
 gagan,0,3,5
 ravi raj singh,0,3,14
-sumer ch,0,3,8
 sabir,0,3,5
 netra pal singh,0,3,15
 ram th yadav,0,3,12
@@ -2812,16 +2741,14 @@ hemant kumar,0,3,12
 veerpal,0,3,7
 ashish semwal,0,3,13
 monu gambhir,0,3,12
-ct devesh kumar,0,3,15
+devesh kumar,0,3,12
 sukhbir,0,3,7
 subato mukherjee,0,3,16
 ram kishor,0,3,10
 sundar singh,0,3,12
 man,0,3,3
 birajpal singh,0,3,14
-kishan ch,0,3,9
 raghubir singh fauji,0,3,20
-manish k,0,3,8
 abdul karim,0,3,11
 abhishek singh,0,3,14
 ram sunder,0,3,10
@@ -2842,10 +2769,9 @@ khangara ram,0,3,12
 sir husain,0,3,10
 alaudin,0,3,7
 mohan lal sharma,0,3,16
-amit sharma s,0,3,13
-sujan s,0,3,7
+sujan,0,3,5
 rubal khura,0,3,11
-lakhmi ch,0,3,9
+lakhmi,0,3,6
 rsingh pal,0,3,10
 kanwar sain,0,3,11
 ram lal,0,3,7
@@ -2876,8 +2802,8 @@ keshav kumar,0,3,12
 rupak kanti dass,0,3,16
 sultan singh,0,3,12
 dheeraj joshi,0,3,13
-sh ramrayan,0,3,11
-sh tejpal singh,0,3,15
+ramrayan,0,3,8
+tejpal singh,0,3,12
 jedu,0,3,4
 sehbaj khan,0,3,11
 soni prasad,0,3,11
@@ -2926,7 +2852,6 @@ dhirender,0,3,9
 munnu,0,3,5
 rendera,0,3,7
 ramkish,0,3,7
-rajendra p,0,3,10
 biru ram,0,3,8
 dhiraj singh,0,3,12
 bhola yadav,0,3,11
@@ -2945,7 +2870,6 @@ dhanraj sharma,0,3,14
 meh,0,3,3
 mohd nimat,0,3,10
 deepak ahalawat,0,3,15
-paramjeet s,0,3,11
 thakur das,0,3,10
 prem singh negi,0,3,15
 rakesh yadav,0,3,12
@@ -2953,7 +2877,6 @@ kuldeep kukreti,0,3,15
 babuddin,0,3,8
 sahab singh,0,3,11
 parsuram prasad,0,3,15
-sudhir,0,3,6
 bhuneshwar,0,3,10
 garib das,0,3,9
 bhupen dawara,0,3,13
@@ -2963,12 +2886,10 @@ vishal rastogi,0,3,14
 shankar malhotra,0,3,16
 bhagipuri,0,3,9
 rahul dubey,0,3,11
-ravinder m,0,3,10
 manmath yak,0,3,11
 sanjay sharma,0,3,13
-md aalam,0,3,8
+aalam,0,3,5
 varun bansal,0,3,12
-aman m,0,3,6
 tulsiram,0,3,8
 ahmad,0,3,5
 mohit chaudhary,0,3,15
@@ -3028,7 +2949,6 @@ sukhbeer singh,0,3,14
 kiran kumar,0,3,11
 rishabh kumar,0,3,13
 sukhavinder singh,0,3,17
-suresh ch,0,3,9
 selva raj,0,3,9
 amar th,0,3,7
 majid ansari,0,3,12
@@ -3038,14 +2958,13 @@ munder lal,0,3,10
 bhura khan,0,3,10
 priti,0,3,5
 akash lal,0,3,9
-sh bharu singh,0,3,14
+bharu singh,0,3,11
 sehwaj,0,3,6
 kamaldeep,0,3,9
 sarabjeet singh,0,3,15
 luv kumar,0,3,9
 lakshya sharma,0,3,14
 jahgeer,0,3,7
-sanjay h,0,3,8
 aaeb sheikh,0,3,11
 vikash mirdha,0,3,13
 nitin gupta,0,3,11
@@ -3054,7 +2973,6 @@ lali,0,3,4
 lehru lal,0,3,9
 newal kishor,0,3,12
 ravindr,0,3,7
-ravindra singh k,0,3,16
 pawan jangir,0,3,12
 rati pal,0,3,8
 jisaan,0,3,6
@@ -3068,13 +2986,12 @@ amrit,0,3,5
 constable sanjai kumar,0,3,22
 ameer divan,0,3,11
 jawed ahmad,0,3,11
-nitin or rohit,0,3,14
+nitin  rohit,0,3,12
 gopiram atal,0,3,12
-vikash p,0,3,8
 ramesh babu,0,3,11
 resh semwal,0,3,11
 joholal soren,0,3,13
-akansh an,0,3,9
+akansh,0,3,6
 harsh singh bisht,0,3,17
 kishan yadav,0,3,12
 pushpendr,0,3,9
@@ -3087,7 +3004,6 @@ shubham,0,3,7
 shiv charan,0,3,11
 katwa,0,3,5
 sukhbir singh,0,3,13
-sonu p,0,3,6
 ash,0,3,3
 yogendr,0,3,7
 riyajudin,0,3,9
@@ -3105,20 +3021,20 @@ kumari archa chauhan,0,3,20
 ram bhajan,0,3,10
 raju gupta,0,3,10
 prakesh gupta,0,3,13
-mool ch,0,3,7
+mool,0,3,4
 harender singh,0,3,14
 momin kureshi,0,3,13
-mamraj sharma s,0,3,15
+mamraj sharma,0,3,13
 rakesh sharma,0,3,13
 ramkumari devi,0,3,14
 rajat kumar,0,3,11
-md aariv,0,3,8
+aariv,0,3,5
 yeshpal,0,3,7
 bhauk tyagi,0,3,11
 ramesh ram,0,3,10
 sunil uref gouradhan jat,0,3,24
 sachin kumar sharma,0,3,19
-shashi p,0,3,8
+shashi,0,3,6
 rehaan,0,3,6
 mangol jao singh,0,3,16
 rai singh,0,3,9
@@ -3138,14 +3054,12 @@ banty,0,3,5
 sunil chauhan,0,3,13
 ijhar khan,0,3,10
 shadab ali,0,3,10
-ashok p,0,3,7
-md asif,0,3,7
 abdul hamid,0,3,11
 suraj hajara,0,3,12
 chotan,0,3,6
-babul al,0,3,8
+babul,0,3,5
 omi,0,3,3
-dharm pal s,0,3,11
+dharm pal,0,3,9
 ulakh,0,3,5
 vikash arora,0,3,12
 faimuddin,0,3,9
@@ -3166,7 +3080,6 @@ inkoo,0,3,5
 rajesh gupta,0,3,12
 aakash kumar,0,3,12
 ramvir,0,3,6
-samim,0,3,5
 pransis kallu,0,3,13
 bacche singh,0,3,12
 govind patel,0,3,12
@@ -3216,7 +3129,7 @@ paratibha,0,3,9
 sanjay kumar tripathi,0,3,21
 surgyan,0,3,7
 render saini,0,3,12
-sh amrik singh,0,3,14
+amrik singh,0,3,11
 pappe das,0,3,9
 shri ratan lal,0,3,14
 shri aladeen,0,3,12
@@ -3228,18 +3141,15 @@ asrf,0,3,4
 dama rajan,0,3,10
 anil singh kushwah,0,3,18
 bada ahari,0,3,10
-yogesh ch,0,3,9
 megharaj kirad,0,3,14
-kamlesh kumar urf sonu s,0,3,24
+kamlesh kumar urf sonu,0,3,22
 rantesh,0,3,7
 saad,0,3,4
-umashankar,0,3,10
 bhala ram,0,3,9
 kamal kishor,0,3,12
 shashi bhusan,0,3,13
-harish,0,3,6
 shivam arora,0,3,12
-mohd ch,0,3,7
+mohd,0,3,4
 ram dev yadav,0,3,13
 tanvir ahmad,0,3,12
 ram dulare,0,3,10
@@ -3253,7 +3163,6 @@ javid,0,3,5
 rahul yadav,0,3,11
 happy,0,3,5
 parmod tiwari,0,3,13
-sh ram lal,0,3,10
 heera singh,0,3,11
 deepak ram,0,3,10
 meeta lal gurjar,0,3,16
@@ -3263,7 +3172,6 @@ umar farooq,0,3,11
 fakerey alam,0,3,12
 adarsh,0,3,6
 jagdish prasad,0,3,14
-vipin kumar p,0,3,13
 gyanender singh,0,3,15
 faim,0,3,4
 mohd fish,0,3,9
@@ -3287,7 +3195,7 @@ jasiram,0,3,7
 mukesh kumar echra,0,3,18
 sharwan singh,0,3,13
 kishore yadav,0,3,13
-m ithilesh,0,3,10
+ithilesh,0,3,8
 prince shok,0,3,11
 ajay manjhi,0,3,11
 mohd arbaz,0,3,10
@@ -3309,7 +3217,7 @@ mantosh,0,3,7
 shivam koushik,0,3,14
 aman sharma,0,3,11
 satish kumar sharma,0,3,19
-km arti,0,3,7
+arti,0,3,4
 shobhit prsad,0,3,13
 gordhanlal,0,3,10
 sangeeta,0,3,8
@@ -3332,7 +3240,6 @@ mohd ilyaash,0,3,12
 aaftab,0,3,6
 shobhit kumar,0,3,13
 dharm singh thakur,0,3,18
-joginder,0,3,8
 amit kumar gpal,0,3,15
 vedprakash,0,3,10
 ajeem,0,3,5
@@ -3352,7 +3259,6 @@ mohd sabir anjar,0,3,16
 aasif ali,0,3,9
 aman saroj,0,3,10
 partyush gupta,0,3,14
-sh veer singh,0,3,13
 kapil jakhad,0,3,12
 sitaram,0,3,7
 keshav raj,0,3,10
@@ -3371,7 +3277,6 @@ paramjeet kour,0,3,14
 rajneesh bairwa,0,3,15
 rajdut,0,3,6
 kailash singh adhikari,0,3,22
-kumar an,0,3,8
 abishak soni,0,3,12
 sunder lal mongia,0,3,17
 dinesh mongia,0,3,13
@@ -3388,19 +3293,18 @@ tarun vadhuva,0,3,13
 rajveer singh,0,3,13
 abul kesh ansari,0,3,16
 mohd ahshan,0,3,11
-md sufiyan,0,3,10
+sufiyan,0,3,7
 rolly kumar,0,3,11
 prashant,0,3,8
 makan singh,0,3,11
 baijth thakur,0,3,13
 faizur rehman,0,3,13
-mr devindra singh,0,3,17
+devindra singh,0,3,14
 kayum ali,0,3,9
 giriraj,0,3,7
 hemant pal,0,3,10
 rayan lal,0,3,9
 ajay kumarn mishra,0,3,18
-kailash ch,0,3,10
 guddu singh,0,3,11
 dhanraj prajapat,0,3,16
 choga lal,0,3,9
@@ -3408,13 +3312,12 @@ beeram,0,3,6
 kishan singh,0,3,12
 modh yakum,0,3,10
 mohd hammad ashraf,0,3,18
-varun m,0,3,7
 lateef khan,0,3,11
 ajay mital,0,3,10
 mahendra prajapat,0,3,17
 dharmendra ram,0,3,14
 baleshwar tiwari,0,3,16
-viy kuma r,0,3,10
+viy kuma,0,3,8
 saurabh kumar,0,3,13
 khemch,0,3,6
 mohd imtiyaz,0,3,12
@@ -3427,7 +3330,7 @@ arvind batra,0,3,12
 nikhil chopra,0,3,13
 sher mahomad,0,3,12
 arvind mishra,0,3,13
-mr shaitan,0,3,10
+shaitan,0,3,7
 kundin,0,3,6
 rajvir,0,3,6
 galu,0,3,4
@@ -3454,7 +3357,7 @@ rajkiran,0,3,8
 sahjad,0,3,6
 visan chetri,0,3,12
 kashiv,0,3,6
-shri kistur ch,0,3,14
+shri kistur,0,3,11
 hari singh,0,3,10
 yogesh sharma,0,3,13
 deepak sewani,0,3,13
@@ -3467,8 +3370,8 @@ rohan kumar,0,3,11
 anil singh maharwar,0,3,19
 vinod verma,0,3,11
 amarjit,0,3,7
-md rafi,0,3,7
-hem ch,0,3,6
+rafi,0,3,4
+hem,0,3,3
 abhisek sharma,0,3,14
 bhuvneshwar,0,3,11
 ravikant,0,3,8
@@ -3476,11 +3379,11 @@ mohd shubhan,0,3,12
 koushik dutta,0,3,13
 fahim,0,3,5
 dalip kumar,0,3,11
-shri ram s,0,3,10
+shri ram,0,3,8
 vikash jain,0,3,11
 kamlesh badoni,0,3,14
 bablu raniya,0,3,12
-mr himmat singh,0,3,15
+himmat singh,0,3,12
 daaud,0,3,5
 majunew,0,3,7
 dushyant,0,3,8
@@ -3490,8 +3393,7 @@ roshan ram,0,3,10
 devender pal,0,3,12
 vinod dass,0,3,10
 asif dilkar alam,0,3,16
-m bahadur,0,3,9
-md abbas,0,3,8
+bahadur,0,3,7
 kirshanpal,0,3,10
 padam singh,0,3,11
 rishi pal,0,3,9
@@ -3504,13 +3406,13 @@ ganeshi dass,0,3,12
 manoj sahni,0,3,11
 dharmpal yadav,0,3,14
 rajeev singh,0,3,12
-kashi v,0,3,7
+kashi,0,3,5
 bhisan ram,0,3,10
 khushi ram,0,3,10
 resh yadav,0,3,10
 kapil kumar kashyap,0,3,19
 prabhudayal,0,3,11
-tapas n,0,3,7
+tapas,0,3,5
 munni,0,3,5
 divakar sharma,0,3,14
 rajinder singh,0,3,14
@@ -3528,7 +3430,6 @@ baam,0,3,4
 mahinder bhakuni,0,3,16
 denesh kumar,0,3,12
 kishan dutt,0,3,11
-rajender k,0,3,10
 gurlal,0,3,6
 vijay rai,0,3,9
 ghansyam,0,3,8
@@ -3536,22 +3437,22 @@ hera parshad,0,3,12
 subhan,0,3,6
 afzal,0,3,5
 bhupendra goyal,0,3,15
-devki n,0,3,7
+devki,0,3,5
 virnit,0,3,6
 etahsaam,0,3,8
 jaivind kohali,0,3,14
 pankaj gautam,0,3,13
-mr love soni,0,3,12
+love soni,0,3,9
 vishnu bhati,0,3,12
 gur charan singh,0,3,16
 rejaul sekh,0,3,11
 for rehman,0,3,10
-sh ramhet koli,0,3,14
+ramhet koli,0,3,11
 mohd jafrul,0,3,11
 dharmendera,0,3,11
 ankur solan,0,3,11
 inder dev,0,3,9
-sh birma,0,3,8
+birma,0,3,5
 harish kumar,0,3,12
 gurcharan,0,3,9
 hari shankar,0,3,12
@@ -3588,7 +3489,7 @@ ved parkash shani,0,3,17
 durg parsad dikshit,0,3,19
 vipin yadav,0,3,11
 syed ali hashmi,0,3,15
-tapan m,0,3,7
+tapan,0,3,5
 surajmal,0,3,8
 iqubal,0,3,6
 zishan,0,3,6
@@ -3600,7 +3501,7 @@ rakesh kumar arora,0,3,18
 sodan singh,0,3,11
 sanjay bhati,0,3,12
 mohit singh,0,3,11
-md sehjan,0,3,9
+sehjan,0,3,6
 haseem,0,3,6
 babli,0,3,5
 surender bansal,0,3,15
@@ -3608,7 +3509,7 @@ dhanjay singh,0,3,13
 deepak tiwari,0,3,13
 megharam mee,0,3,12
 noor mhoomad,0,3,12
-md shoab,0,3,8
+shoab,0,3,5
 sumit chakarwarti,0,3,17
 anil raj,0,3,8
 susmata dass,0,3,12
@@ -3623,18 +3524,16 @@ mast ram,0,3,8
 kashish sharma,0,3,14
 mohd sajid,0,3,10
 prashat chabra,0,3,14
-sarvesh kumar,0,3,13
 jaskirat singh,0,3,14
 akhilesh bhagat,0,3,15
 rumeet kumar,0,3,12
 ganesh sanker,0,3,13
 sahajaha,0,3,8
 sanjay saha,0,3,11
-om prakash urf uma,0,3,18
+prakash urf uma,0,3,15
 badri lal,0,3,9
 samir hasan,0,3,11
 ram awtar,0,3,9
-ravi kumar s,0,3,12
 tirlok singh,0,3,12
 omeshkumar urf raju mee,0,3,23
 taslim,0,3,6
@@ -3663,7 +3562,6 @@ angan singh,0,3,11
 tanish,0,3,6
 pawan kumar shri vastav,0,3,23
 vikash choudhary,0,3,16
-vinod ch,0,3,8
 shanvaj,0,3,7
 souvik banerjee,0,3,15
 khalil,0,3,6
@@ -3692,17 +3590,15 @@ kanhiya,0,3,7
 manish chabra,0,3,13
 harsh chawla,0,3,12
 raj dhameja,0,3,11
-md imran,0,3,8
 ram swroop,0,3,10
 khusaboo,0,3,8
 salinder,0,3,8
 samad,0,3,5
 pushpa devi,0,3,11
 suraj pal,0,3,9
-kundan kumar choudhary s,0,3,24
+kundan kumar choudhary,0,3,22
 guddu mishra,0,3,12
 asish agarwal,0,3,13
-umesh ch,0,3,8
 kirsh,0,3,5
 ombeer,0,3,6
 sham singh,0,3,10
@@ -3732,7 +3628,7 @@ ratwari chaudhary,0,3,17
 surender pal arora,0,3,18
 swapam som,0,3,10
 sanjit kumar,0,3,12
-phakir ch,0,3,9
+phakir,0,3,6
 shakil ahamad,0,3,13
 susanto dass,0,3,12
 mintu,0,3,5
@@ -3750,16 +3646,15 @@ lala ram,0,3,8
 pardeep adak,0,3,12
 avdhesh kumar,0,3,13
 paramveer urf chintu,0,3,20
-manmohan k,0,3,10
-ibrahim,0,3,7
+manmohan,0,3,8
 bhola,0,3,5
-md kadir,0,3,8
+kadir,0,3,5
 sarvan mehto,0,3,12
 mahender sharma,0,3,15
 amit singh,0,3,10
 sujit kumar jha,0,3,15
 milkhi ram,0,3,10
-asi p s mahali,0,3,14
+asi   mahali,0,3,12
 dharmender kumar,0,3,16
 sanjeev verma,0,3,13
 pardeep hemraj,0,3,14
@@ -3790,7 +3685,7 @@ khajan singh,0,3,12
 suraj kewat,0,3,11
 dimpal,0,3,6
 puranmal,0,3,8
-visvajeet m,0,3,11
+visvajeet,0,3,9
 subash,0,3,6
 sooraj,0,3,6
 sachin gupta,0,3,12
@@ -3798,10 +3693,7 @@ abhishek tiwari,0,3,15
 sabrajeet,0,3,9
 parmod kumar pal,0,3,16
 shadan,0,3,6
-piyush an,0,3,9
 gotam kumar,0,3,11
-gorav ch,0,3,8
-n kumar,0,3,7
 nizam,0,3,5
 homa soji,0,3,9
 satya sunder pauigrali,0,3,22
@@ -3816,7 +3708,6 @@ ajay choudhary,0,3,14
 dharmender sahu,0,3,15
 ravi rawat,0,3,10
 tashnim,0,3,7
-md salim,0,3,8
 maksood mohd,0,3,12
 sudhdev,0,3,7
 kalap th yadav,0,3,14
@@ -3841,7 +3732,6 @@ prahlad sharma,0,3,14
 ram uadagar jha,0,3,15
 kamla pardad,0,3,12
 mohd kaim,0,3,9
-sh vinod kumar,0,3,14
 manvendra singh,0,3,15
 hanumanram,0,3,10
 shahjad,0,3,7
@@ -3873,8 +3763,8 @@ dhurpati,0,3,8
 hamza shamim,0,3,12
 ryan singh,0,3,10
 manjeet kaur,0,3,12
-mohit gupta s,0,3,13
-baichan p,0,3,9
+mohit gupta,0,3,11
+baichan,0,3,7
 mohammad sim,0,3,12
 mohd zim,0,3,8
 neeraj sharma,0,3,13
@@ -3913,18 +3803,16 @@ pardep kumar mee,0,3,16
 hari lal,0,3,8
 yamin,0,3,5
 mohar snigh,0,3,11
-birbal ram s,0,3,12
+birbal ram,0,3,10
 pyare lal,0,3,9
 vin kumpawat,0,3,12
 aag,0,3,3
-rajpal sharma s,0,3,15
+rajpal sharma,0,3,13
 madhusudan prasad,0,3,17
 mohd parveen,0,3,12
-pramod mishra s,0,3,15
 pramod mishra,0,3,13
 sehin,0,3,5
 hitesh widhuri,0,3,14
-rishi m,0,3,7
 sharanjeet kour,0,3,15
 mun shah,0,3,8
 ajit yadav,0,3,10
@@ -3933,20 +3821,17 @@ bhim kumar,0,3,10
 prateek bahl,0,3,12
 shushil,0,3,7
 moh arif,0,3,8
-p murgesh,0,3,9
-balram bh,0,3,9
+murgesh,0,3,7
 sheh waz,0,3,8
 begraj,0,3,6
 fahim ullah,0,3,11
 shahid khan,0,3,11
 gomti,0,3,5
 rahis ahmed,0,3,11
-krishan ch,0,3,10
 jawed malik,0,3,11
 surender kapoor,0,3,15
-veen ch,0,3,7
 jagth murmu,0,3,11
-mr rendra singh,0,3,15
+rendra singh,0,3,12
 raman kumar,0,3,11
 mali ram,0,3,8
 sanjeet kumar,0,3,13
@@ -3956,7 +3841,7 @@ rauf mohammad,0,3,13
 arch,0,3,4
 sankar lal,0,3,10
 barjesh,0,3,7
-md eklok,0,3,8
+eklok,0,3,5
 mithelash,0,3,9
 meenu kumar,0,3,11
 vikram routela,0,3,14
@@ -3991,12 +3876,12 @@ jasvinder singh,0,3,15
 aashish gupta,0,3,13
 bholu ram,0,3,9
 jahir alam,0,3,10
-md anus,0,3,7
+anus,0,3,4
 jagdambika,0,3,10
 vijay shri vastav,0,3,17
 chunnu sharma,0,3,13
 devi lal,0,3,8
-udai rayan p,0,3,12
+udai rayan,0,3,10
 jai prakash yadav,0,3,17
 isi ram,0,3,7
 kalpesh,0,3,7
@@ -4005,14 +3890,13 @@ abdul kadirjilani khan,0,3,22
 jism mehar singh bedi,0,3,21
 abdul kadir jilani khan,0,3,23
 manish verma,0,3,12
-sh rajendr,0,3,10
+rajendr,0,3,7
 imaman,0,3,6
 kaptan,0,3,6
 sagar kumar,0,3,11
 batu,0,3,4
 vipin gujral,0,3,12
 dil kush mee,0,3,12
-md khalid,0,3,9
 mohd shan,0,3,9
 prabhjit singh,0,3,14
 charan dass,0,3,11
@@ -4035,20 +3919,18 @@ raman rajak,0,3,11
 laxman kumar,0,3,12
 nischaya,0,3,8
 samir,0,3,5
-anil m,0,3,6
 meghath suwedi,0,3,14
 shishul pal,0,3,11
 mazhar,0,3,6
 sheikh azhar ali,0,3,16
 boby farman,0,3,11
-mr mohamad anwar,0,3,16
+mohamad anwar,0,3,13
 ram th choudhary,0,3,16
 ram yadav,0,3,9
 halke,0,3,5
 methun,0,3,6
 mangeshwar,0,3,10
 taiyab khan,0,3,11
-mo dim,0,3,6
 mohammad kaif,0,3,13
 kuparth shah,0,3,12
 vicky singh,0,3,11
@@ -4062,10 +3944,9 @@ muskuran,0,3,8
 sadip,0,3,5
 ratan lal,0,3,9
 raj bala,0,3,8
-manish kumar m,0,3,14
 rishab kumar,0,3,12
 devesh,0,3,6
-muhmad aarif s,0,3,14
+muhmad aarif,0,3,12
 sukhdev manjhi,0,3,14
 ved ali,0,3,7
 in singh,0,3,8
@@ -4073,8 +3954,7 @@ mehboob ali,0,3,11
 sheikh hamidral,0,3,15
 jatin kashyap,0,3,13
 raman singh,0,3,11
-gurvinder singh s,0,3,17
-ant singh s,0,3,11
+ant singh,0,3,9
 ramkishan,0,3,9
 parhalad yadav,0,3,14
 ramkiashan,0,3,10
@@ -4092,7 +3972,7 @@ chorag,0,3,6
 poom,0,3,4
 sukkhu,0,3,6
 angad bhatia,0,3,12
-duni ch,0,3,7
+duni,0,3,4
 sanjeev bhardwaj,0,3,16
 radhamohan,0,3,10
 wazir azam,0,3,10
@@ -4107,9 +3987,9 @@ wazid husain,0,3,12
 neelkant sharma,0,3,15
 geeta bhagat,0,3,12
 mohammad rasid,0,3,14
-sh jardhan prasad,0,3,17
+jardhan prasad,0,3,14
 hardeep singh,0,3,13
-tara ch,0,3,7
+tara,0,3,4
 mahender singh negi,0,3,19
 jamadar yadav,0,3,13
 bal dev,0,3,7
@@ -4176,10 +4056,9 @@ ranbir singh,0,3,12
 bintu,0,3,5
 bhola th,0,3,8
 laxman lal tundwal,0,3,18
-md hassan,0,3,9
+hassan,0,3,6
 hayatul,0,3,7
 santrm,0,3,6
-mohan p,0,3,7
 somth batra,0,3,11
 shahnwaj,0,3,8
 nrendr,0,3,6
@@ -4213,7 +4092,7 @@ rajeshvr,0,3,8
 shahvaj,0,3,7
 pintu meghwal,0,3,13
 thulal,0,3,6
-mo sarif,0,3,8
+sarif,0,3,5
 shivraj,0,3,7
 muksndi lal,0,3,11
 partik kumar,0,3,12
@@ -4223,12 +4102,10 @@ aaftab alam,0,3,11
 subodh yadav,0,3,12
 sujeet haldal,0,3,13
 vijay kumar tiwari,0,3,18
-karan p,0,3,7
 raj kohli,0,3,9
 anli kumar,0,3,10
 shami walia,0,3,11
 gheesa singh,0,3,12
-santosh s,0,3,9
 shvipin kumar yadav,0,3,19
 shah aftab,0,3,10
 kishor,0,3,6
@@ -4251,11 +4128,11 @@ amit sachdeva,0,3,13
 aashish,0,3,7
 lakhi,0,3,5
 omesh,0,3,5
-buhan ch,0,3,8
+buhan,0,3,5
 sahrik,0,3,6
 sarita,0,3,6
 nenhe sidhque,0,3,13
-kesav mehta s,0,3,13
+kesav mehta,0,3,11
 mohd hanif,0,3,10
 mansoor ali,0,3,11
 mustkeem ali,0,3,12
@@ -4268,19 +4145,16 @@ anita,0,3,5
 jile singh,0,3,10
 zahir miyan,0,3,11
 dhuruv shetty,0,3,13
-m rajeev,0,3,8
 kanheya lal,0,3,11
-p dinesh raju,0,3,13
+dinesh raju,0,3,11
 ashu kant,0,3,9
 pooran singh saini,0,3,18
 deepak gupta,0,3,12
 suraj ra,0,3,8
 harvans,0,3,7
 baburam singh,0,3,13
-imtiyaz,0,3,7
 bansi lal,0,3,9
 parvesh kumar,0,3,13
-bahadur,0,3,7
 jak singh dadwal,0,3,16
 rayan ram,0,3,9
 anil jain,0,3,9
@@ -4293,7 +4167,6 @@ hazari lal,0,3,10
 manmeet singh saini,0,3,19
 afzaj ansari,0,3,12
 bhupender singh,0,3,15
-kishan yadav s,0,3,14
 sanjeet,0,3,7
 ranjeet kumar,0,3,13
 iswer singh,0,3,11
@@ -4315,14 +4188,13 @@ ravi kumar gangwal,0,3,18
 upender jha,0,3,11
 aansu,0,3,5
 mani kumar,0,3,10
-md ashik,0,3,8
+ashik,0,3,5
 shyam lal meghawal,0,3,18
-shanker jha s,0,3,13
+shanker jha,0,3,11
 arab singh,0,3,10
 jitan ram,0,3,9
 mukhtar,0,3,7
 kurban ali,0,3,10
-anurag ch,0,3,9
 faizal,0,3,6
 harbansh singh,0,3,14
 kuldeep kumar,0,3,13
@@ -4339,7 +4211,6 @@ shree bhagwat nishad,0,3,20
 mohmad shadi,0,3,12
 rudra pratap,0,3,12
 sundar lal,0,3,10
-akash m,0,3,7
 jalsingh,0,3,8
 amit parasar,0,3,12
 kundan ram,0,3,10
@@ -4355,7 +4226,6 @@ reyaz ahmed malik,0,3,17
 subodh kumar,0,3,12
 rajesh sharma,0,3,13
 mahaveer mehto,0,3,14
-sh phool ch,0,3,11
 raj kumar mee,0,3,13
 shree pal,0,3,9
 netra singh,0,3,11
@@ -4379,10 +4249,9 @@ ashiqu,0,3,6
 gurm singh,0,3,10
 pappu joseph,0,3,12
 ganesh jat,0,3,10
-md jisan,0,3,8
 shayam singh,0,3,12
 shayam kishor singh,0,3,19
-dr gopal bhagat,0,3,15
+gopal bhagat,0,3,12
 dharmender singh solanki,0,3,24
 shyam bihari,0,3,12
 ahmed hussain,0,3,13
@@ -4396,32 +4265,30 @@ veerbhan,0,3,8
 allauddin,0,3,9
 ravi kumar ojha,0,3,15
 viysingh,0,3,8
-sh sardar singh yadav,0,3,21
+sardar singh yadav,0,3,18
 saurabh ujjwal,0,3,14
 parminder singh,0,3,15
 sunil mehta,0,3,11
-aashish mathur s,0,3,16
+aashish mathur,0,3,14
 shiv kumar verma,0,3,16
 geesa kha,0,3,9
 jrin,0,3,4
 chhabeel sharma,0,3,15
 bhanwer singh,0,3,13
-keshri ch,0,3,9
+keshri,0,3,6
 bharat taneja,0,3,13
 bhuri,0,3,5
 mahadev,0,3,7
 eem,0,3,3
 somth barji,0,3,11
-manoj kh,0,3,8
-shri niwas s,0,3,12
+shri niwas,0,3,10
 panchi lal,0,3,10
 sadik husain,0,3,12
 saroop singh,0,3,12
 aalam aara,0,3,10
-vicky kc,0,3,8
 sunil yadav,0,3,11
 partap,0,3,6
-md aakil,0,3,8
+aakil,0,3,5
 ramotar,0,3,7
 himal,0,3,5
 rajat sarma,0,3,11
@@ -4434,7 +4301,7 @@ preeti,0,3,6
 maryam,0,3,6
 ram gopal,0,3,9
 rajan kumar,0,3,11
-sh muzaffar ahmad thoker,0,3,24
+muzaffar ahmad thoker,0,3,21
 sompal,0,3,6
 jayesh singatvadiya,0,3,19
 amit gupta,0,3,10
@@ -4446,7 +4313,7 @@ udal singh,0,3,10
 gurbachan singh,0,3,15
 ashish solanki,0,3,14
 pradeep agrawal,0,3,15
-vb sumramanya jaya prakash ch,0,3,29
+sumramanya jaya prakash,0,3,23
 pintu chaudhary,0,3,15
 kamal jyoti sharma,0,3,18
 suresh dass,0,3,11
@@ -4457,7 +4324,7 @@ ajay saine,0,3,10
 sheilesh kumar,0,3,14
 abdul sattar resi,0,3,17
 razim,0,3,5
-sh reddy ashraiya,0,3,17
+reddy ashraiya,0,3,14
 ishwar bansal,0,3,13
 saket,0,3,5
 biram lal chamar,0,3,16
@@ -4466,13 +4333,13 @@ mousin,0,3,6
 sardar amarjeet sahni,0,3,21
 veen singh,0,3,10
 rajuddin,0,3,8
-trilock ch,0,3,10
+trilock,0,3,7
 jaibhagwan,0,3,10
 hashrat,0,3,7
 amar pal,0,3,8
 laxmi kant,0,3,10
 pallu,0,3,5
-devender yadav s,0,3,16
+devender yadav,0,3,14
 jai kailash,0,3,11
 virender paswan,0,3,15
 patav,0,3,5
@@ -4500,7 +4367,7 @@ amit prasar,0,3,11
 rohit rawat,0,3,11
 param,0,3,5
 badan singh,0,3,11
-md hasrat khan,0,3,14
+hasrat khan,0,3,11
 abhijit singh,0,3,13
 vivek shokeen,0,3,13
 sanjeev ratan,0,3,13
@@ -4517,7 +4384,6 @@ imran khureshi,0,3,14
 sarip ahmad,0,3,11
 arshad ali,0,3,10
 dharmraj,0,3,8
-mr kishan lal,0,3,13
 hardas,0,3,6
 hardass,0,3,7
 devendra,0,3,8
@@ -4529,7 +4395,6 @@ kul kumar singh,0,3,15
 shrikant manjhi,0,3,15
 risiraj,0,3,7
 awedhesh kumar,0,3,14
-shivam s,0,3,8
 dayaram,0,3,7
 elwin lal,0,3,9
 mahender mishra,0,3,15
@@ -4542,7 +4407,7 @@ mohd kamran,0,3,11
 rahul dhawan,0,3,12
 harpreet singh,0,3,14
 ramdev sharma,0,3,13
-mr satyara,0,3,10
+satyara,0,3,7
 sheetal prsad,0,3,13
 akashya tyagi,0,3,13
 mohit brig,0,3,10
@@ -4570,7 +4435,6 @@ mho majid,0,3,9
 satyarayan darji,0,3,16
 perkash,0,3,7
 niranjan choudhary,0,3,18
-md saleem,0,3,9
 bhajan lal,0,3,10
 tek bahadur,0,3,11
 tunda urf thi,0,3,13
@@ -4583,7 +4447,7 @@ chunnu,0,3,6
 rohit sharma,0,3,12
 mohd ashlam,0,3,11
 veen nischal,0,3,12
-sharee ch,0,3,9
+sharee,0,3,6
 akhlesh paswan,0,3,14
 mohini,0,3,6
 allaraji,0,3,8
@@ -4603,9 +4467,8 @@ noor mohammad,0,3,13
 rajibul,0,3,7
 prabhu dayal sharma,0,3,19
 rajnish gupta,0,3,13
-varun s,0,3,7
 rijwan,0,3,6
-chet ram s,0,3,10
+chet ram,0,3,8
 shreee mahaverr prasad,0,3,22
 shri gangabal singh,0,3,19
 shambu dayal,0,3,12
@@ -4617,10 +4480,9 @@ dhrampla,0,3,8
 shiv rayan,0,3,10
 hiten dev,0,3,9
 ankus puri,0,3,10
-shriram s,0,3,9
 abdul samad,0,3,11
 mohd salahuddin,0,3,15
-om prakash maheshwari,0,3,21
+prakash maheshwari,0,3,18
 shyam pal,0,3,9
 lallu,0,3,5
 jeete,0,3,5
@@ -4634,11 +4496,9 @@ sam midde,0,3,9
 bheem mukhiya,0,3,13
 jagdish kumar sagar,0,3,19
 deepak aggarwal,0,3,15
-mukesh ch,0,3,9
 raj dev singh,0,3,13
 pramod tyagi,0,3,12
 madanlal,0,3,8
-deem s,0,3,6
 abhiy,0,3,5
 abhishik partap singh,0,3,21
 balveer sing chawla,0,3,19
@@ -4666,7 +4526,7 @@ dharmveer singh,0,3,15
 kalla,0,3,5
 anish ahamad,0,3,12
 deepak tomar,0,3,12
-shardha n,0,3,9
+shardha,0,3,7
 insaf ali,0,3,9
 tuka ram maruti ghonde,0,3,22
 viney,0,3,5
@@ -4683,7 +4543,6 @@ mani manohar prasad,0,3,19
 idrish ali,0,3,10
 sahbuddin,0,3,9
 maatwar singh,0,3,13
-lalit p,0,3,7
 shaulal,0,3,7
 istkhar ali,0,3,11
 sudesh kumar,0,3,12
@@ -4710,7 +4569,7 @@ saurab,0,3,6
 hanif khan,0,3,10
 dineesh khatik,0,3,14
 saif,0,3,4
-om beer singh,0,3,13
+beer singh,0,3,10
 raju khan,0,3,9
 babu lal yadav,0,3,14
 sunil gujar,0,3,11
@@ -4720,8 +4579,6 @@ upender dass,0,3,12
 azad hussain,0,3,12
 sablu,0,3,5
 parashram,0,3,9
-dayaram s,0,3,9
-rendra singh,0,3,12
 pravin kasa,0,3,11
 furkhan,0,3,7
 ishwar singh aggarwal,0,3,21
@@ -4755,7 +4612,6 @@ tinku singh,0,3,11
 amar deep gupta,0,3,15
 rajeev gupta,0,3,12
 rvindra,0,3,7
-parmod s,0,3,8
 tisar parasar,0,3,13
 miha singh,0,3,10
 rajendra singh,0,3,14
@@ -4768,10 +4624,8 @@ hisham singh,0,3,12
 sitare,0,3,6
 dolat ram,0,3,9
 viccky,0,3,6
-veen kumar p,0,3,12
 saurabh beeryani,0,3,16
 rohit beeryani,0,3,14
-mo firoj,0,3,8
 panchhi ramji,0,3,13
 prabhatyashi urf harsit,0,3,23
 gopal lal mee,0,3,13
@@ -4791,7 +4645,6 @@ noori,0,3,5
 dilip singh,0,3,11
 resh garg,0,3,9
 ramdin,0,3,6
-manish p,0,3,8
 baccha prashad,0,3,14
 aanil yadav,0,3,11
 ved kumar yadav,0,3,15
@@ -4843,7 +4696,7 @@ mohdmujefir,0,3,11
 danish ahmad,0,3,12
 kifayat tula khan,0,3,17
 shri gulshan kumar,0,3,18
-ram ji gupta,0,3,12
+ram  gupta,0,3,10
 raju mahto,0,3,10
 vinod kesri,0,3,11
 ramgopal singh,0,3,14
@@ -4854,7 +4707,6 @@ vaibhav,0,3,7
 prem lal,0,3,8
 mahkar,0,3,6
 imuddin,0,3,7
-vikas s,0,3,7
 jaisigh,0,3,7
 shahir,0,3,6
 uma shankar soni,0,3,16
@@ -4873,7 +4725,7 @@ bulad akhtar,0,3,12
 fakir singh rawat,0,3,17
 mohanram,0,3,8
 jeesan,0,3,6
-sahbaj s,0,3,8
+sahbaj,0,3,6
 rajat gupta,0,3,11
 alok singh,0,3,10
 ansal topo,0,3,10
@@ -4881,7 +4733,6 @@ vinos kumar,0,3,11
 terence meirak pam,0,3,18
 mithlesh mishra,0,3,15
 nnu ram,0,3,7
-bablu p,0,3,7
 surja jat,0,3,9
 joydeep singh,0,3,13
 amit kumar singh,0,3,16
@@ -4910,7 +4761,7 @@ saieman,0,3,7
 redhema munde,0,3,13
 bhajju ram,0,3,10
 ramdev,0,3,6
-ct b sathya murti,0,3,17
+sathya murti,0,3,12
 suraj munda,0,3,11
 samer bahadur,0,3,13
 bhagwan nishad,0,3,14
@@ -4929,10 +4780,10 @@ rajendra chourasiya,0,3,19
 gulab bbi,0,3,9
 yashpal gpal,0,3,12
 varun kumar,0,3,11
-hritik methews s,0,3,16
+hritik methews,0,3,14
 mahesh saini,0,3,12
 veen rastogy,0,3,12
-daya an,0,3,7
+daya,0,3,4
 ali ahmad,0,3,9
 prince singh,0,3,12
 jamad ali,0,3,9
@@ -4940,7 +4791,6 @@ jamil,0,3,5
 amol mishra,0,3,11
 kaushal kumar,0,3,13
 sidharth vermani,0,3,16
-md zahid,0,3,8
 manmeet kumar,0,3,13
 chitra,0,3,6
 moh suhel,0,3,9
@@ -4979,16 +4829,14 @@ bhani ram,0,3,9
 kanchi sing,0,3,11
 bablu jagdish,0,3,13
 ramavtar,0,3,8
-vikas thakur s,0,3,14
+vikas thakur,0,3,12
 sohil,0,3,5
 azad,0,3,4
-md arman,0,3,8
 mohanlal,0,3,8
-tanuj k,0,3,7
+tanuj,0,3,5
 raj kumare,0,3,10
 shambhu jha,0,3,11
 nipun rathee,0,3,12
-md shahwaz,0,3,10
 mohd gulfan,0,3,11
 nikita,0,3,6
 khalidur rehman,0,3,15
@@ -4999,7 +4847,7 @@ yograj,0,3,6
 resh sabarwal,0,3,13
 varun jangra,0,3,12
 dauad beg,0,3,9
-md aagad,0,3,8
+aagad,0,3,5
 shahwaz shah,0,3,12
 harish batra,0,3,12
 irfan salmani,0,3,13
@@ -5011,10 +4859,8 @@ sarves,0,3,6
 rookmani,0,3,8
 gourav mital,0,3,12
 bhajan singh rodhan,0,3,19
-hari ch,0,3,7
 nirmaljeet singh,0,3,16
 vijay nepali,0,3,12
-umesh s,0,3,7
 laxman dash,0,3,11
 muslim,0,3,6
 ram veer,0,3,8
@@ -5027,16 +4873,12 @@ umardeen,0,3,8
 shyam ra,0,3,8
 dhan singh,0,3,10
 ram sawer,0,3,9
-arti,0,3,4
 mohd habib,0,3,10
 manoj vajpay,0,3,12
-varun an,0,3,8
-rajesh m,0,3,8
 moh ali,0,3,7
 guluram urf chutararam,0,3,22
 manisha devi,0,3,12
 raju sonker,0,3,11
-shri ram,0,3,8
 balbir,0,3,6
 kunod kumar ray,0,3,15
 dinesh kumar sharma,0,3,19
@@ -5057,10 +4899,9 @@ sahlesh kumar,0,3,13
 rohit bairagi,0,3,13
 sajid hussain,0,3,13
 tapish chorasiya,0,3,16
-om prakash tyagi,0,3,16
+prakash tyagi,0,3,13
 punit sharam,0,3,12
-sokat,0,3,5
-mr mahendra singh,0,3,17
+mahendra singh,0,3,14
 gug,0,3,3
 bhawan singh gusain,0,3,19
 mohd haseef,0,3,11
@@ -5073,7 +4914,6 @@ ravi bhushan,0,3,12
 sundar,0,3,6
 sachin bhavi,0,3,12
 radhyshyam,0,3,10
-vishal an,0,3,9
 dhram raj,0,3,9
 deepali,0,3,7
 shivam shkula,0,3,13
@@ -5088,17 +4928,15 @@ duraga prashad,0,3,14
 akash rajput,0,3,12
 hem singh,0,3,9
 abhishek kapor,0,3,14
-mukesh m,0,3,8
 salim malik,0,3,11
 kamal kishor soni,0,3,17
-mohd sikender s,0,3,15
+mohd sikender,0,3,13
 vijay thakur,0,3,12
 shamsher singh,0,3,14
 mohd aashiq,0,3,11
 nosad,0,3,5
 tejpal sharma,0,3,13
 karmbir,0,3,7
-dhiraj p,0,3,8
 shadhik alli,0,3,12
 nishal,0,3,6
 mansoor alam,0,3,12
@@ -5107,13 +4945,12 @@ arshad khan,0,3,11
 babram,0,3,6
 vijay kumar ghai,0,3,16
 sarfaraj,0,3,8
-prakash ch,0,3,10
 amit verma,0,3,10
 satveer,0,3,7
 hanny,0,3,5
 mohd javed khan,0,3,15
-dhamender s,0,3,11
-vibhash s,0,3,9
+dhamender,0,3,9
+vibhash,0,3,7
 ram janm,0,3,8
 ramesh dubey,0,3,12
 damodar prasad,0,3,14
@@ -5124,7 +4961,6 @@ sadur rahman,0,3,12
 ramsawroop,0,3,10
 bindu,0,3,5
 rajesh kumar pal,0,3,16
-ct shyam lal,0,3,12
 mohd wazir,0,3,10
 vikas aggarwal,0,3,14
 bulet singh,0,3,11
@@ -5139,7 +4975,6 @@ yash sharma,0,3,11
 pokhar das,0,3,10
 dhanpat ram,0,3,11
 vikas kumar jha,0,3,15
-mukesh s,0,3,8
 ratan,0,3,5
 rambhul,0,3,7
 smt sangita,0,3,11
@@ -5149,12 +4984,11 @@ neeshu,0,3,6
 tarun yadav,0,3,11
 mahaveer singh,0,3,14
 gouri shankar,0,3,13
-santosh kumar p,0,3,15
 anish bansal,0,3,12
 manish malhotra,0,3,15
 pritam kaur,0,3,11
 manish ahuja,0,3,12
-ram partap singh bh,0,3,19
+ram partap singh,0,3,16
 kaishav,0,3,7
 hanish khan,0,3,11
 shankar uppal,0,3,13
@@ -5178,7 +5012,7 @@ subhash vharma,0,3,14
 sanjay bhalla,0,3,13
 aatam parkash,0,3,13
 brajendra singh,0,3,15
-resh mehta s,0,3,12
+resh mehta,0,3,10
 satish kanujiya,0,3,15
 avdesh kumar,0,3,12
 jakir hussain,0,3,13
@@ -5242,14 +5076,13 @@ durgpal,0,3,7
 raju nima,0,3,9
 joy amal,0,3,8
 vijay adn,0,3,9
-vishal bh,0,3,9
-tushal bh,0,3,9
+tushal,0,3,6
 aakash sharma,0,3,13
 shaswat roy,0,3,11
 mohd abusala,0,3,12
 waz sarif,0,3,9
 uday,0,3,4
-jaiveer s,0,3,9
+jaiveer,0,3,7
 amjat,0,3,5
 shelendra,0,3,9
 puspender,0,3,9
@@ -5260,12 +5093,10 @@ mohd azad,0,3,9
 raj kumer,0,3,9
 rakesh kumar bhardwas,0,3,21
 ganga sahey,0,3,11
-girish,0,3,6
 ram shakal,0,3,10
 pushank,0,3,7
 purnmal,0,3,7
 aamil,0,3,5
-ranjeet s,0,3,9
 sukhmit yadav,0,3,13
 alam,0,3,4
 vipul kumar,0,3,11
@@ -5284,16 +5115,14 @@ jugender khetpal,0,3,16
 ganesh malik,0,3,12
 samayddin,0,3,9
 mahinder singh,0,3,14
-jeet d,0,3,6
+jeet,0,3,4
 sumit verma,0,3,11
 ramprasad sodani,0,3,16
 satish kumar bhatgar,0,3,20
 mukesh chaudhry,0,3,15
 ram ayodhya,0,3,11
 mrbhagch,0,3,8
-som w,0,3,5
-jairam,0,3,6
-vishwath mehto s,0,3,16
+vishwath mehto,0,3,14
 ojas,0,3,4
 samim malik,0,3,11
 rohit singh,0,3,11
@@ -5332,9 +5161,7 @@ siya ram gupta,0,3,14
 shanbhu dutt,0,3,12
 praveen kumar chauhan,0,3,21
 heera,0,3,5
-pramod kumar s,0,3,14
 vishal raghav,0,3,13
-md sohail,0,3,9
 zafar alam,0,3,10
 kulbhushan,0,3,10
 shivth shah,0,3,11
@@ -5370,8 +5197,6 @@ lakshmi,0,3,7
 tribavan,0,3,8
 aashish bhartdwaj,0,3,17
 mookan,0,3,6
-roshan kumar s,0,3,14
-rakesh ch,0,3,9
 rsa ram mghwal,0,3,14
 pannu,0,3,5
 nooralha,0,3,8
@@ -5388,35 +5213,29 @@ diljan,0,3,6
 devender kumar sharma,0,3,21
 nooralam,0,3,8
 shri kishansingh,0,3,16
-raman s,0,3,7
 jasveen,0,3,7
 zahid kuraisi,0,3,13
 sunil kimar,0,3,11
 ramsewak,0,3,8
 barham parkash,0,3,14
-sanjay s,0,3,8
-manmohan,0,3,8
 bhismpal,0,3,8
 khushal mani,0,3,12
 satbir chada,0,3,12
 kali,0,3,4
-kaushal s,0,3,9
 sheru,0,3,5
 rinkal,0,3,6
 shahruf,0,3,7
-pappu m,0,3,7
 islamuddin,0,3,10
 vijeta,0,3,6
 ankur gupta,0,3,11
 ajaj ahmad,0,3,10
-mr hera lal,0,3,11
+hera lal,0,3,8
 ramlakhan,0,3,9
 vimal dhakar,0,3,12
 rame,0,3,4
 krishn kant joshi,0,3,17
 ashok bairwa,0,3,12
 gopal tiwari,0,3,12
-mahendra singh,0,3,14
 mohd kashif,0,3,11
 budh prakash,0,3,12
 pradeep rawat,0,3,13
@@ -5435,10 +5254,8 @@ vipin jain,0,3,10
 mohd yusuf,0,3,10
 bal bahadur,0,3,11
 sammiuddin,0,3,10
-aalam,0,3,5
 motilal,0,3,7
-md sabir,0,3,8
-jagdiesh arora s,0,3,16
+jagdiesh arora,0,3,14
 ateek ahmed,0,3,11
 sudhanshu kumar kiran,0,3,21
 gurcharan singh,0,3,15
@@ -5454,9 +5271,9 @@ vishnu singh,0,3,12
 pardeep goyal,0,3,13
 salmam,0,3,6
 gauri sahani,0,3,12
-jeeth p k,0,3,9
+jeeth,0,3,5
 gyarsi lal,0,3,10
-md mustak,0,3,9
+mustak,0,3,6
 monu alias kallan,0,3,17
 beekar singh,0,3,12
 roshanlal,0,3,9
@@ -5482,8 +5299,7 @@ ritunjay tiwari,0,3,15
 jagdish yak,0,3,11
 abdul rajik,0,3,11
 satyrayan,0,3,9
-prithvi ch,0,3,10
-sh yogesh,0,3,9
+prithvi,0,3,7
 michael,0,3,7
 banwari soni,0,3,12
 pravindra singh,0,3,15
@@ -5502,9 +5318,8 @@ amiri kumar,0,3,11
 atul parasar,0,3,12
 harm singh,0,3,10
 radesyam,0,3,8
-mh sahil,0,3,8
 birajbhushan,0,3,12
-sh jairayan,0,3,11
+jairayan,0,3,8
 govind singh,0,3,12
 ashif ali,0,3,9
 abhijeet sarkar,0,3,15
@@ -5527,8 +5342,7 @@ jagdeep,0,3,7
 mudsir,0,3,6
 munsi ram,0,3,9
 dhani dass,0,3,10
-faqir ch,0,3,8
-dharmender s,0,3,12
+faqir,0,3,5
 aadesh,0,3,6
 deepak kumar yadav,0,3,18
 ravi dwivedi,0,3,12
@@ -5557,14 +5371,14 @@ umashankar prajapatti,0,3,21
 ahsan salmani,0,3,13
 vijay kumar raghav,0,3,18
 satpal khan,0,3,11
-samit s,0,3,7
+samit,0,3,5
 murarilal,0,3,9
 kanwar baljit singh,0,3,19
 juhewuddin,0,3,10
 pankaj mehra,0,3,12
 mohd javed,0,3,10
 ganesh jha,0,3,10
-sh santosh choudhary,0,3,20
+santosh choudhary,0,3,17
 rammurti,0,3,8
 mamata,0,3,6
 knheyalal,0,3,9
@@ -5610,7 +5424,7 @@ suraj puri,0,3,10
 budhan yadav,0,3,12
 safe akhter,0,3,11
 koshalya,0,3,8
-shoan singh k,0,3,13
+shoan singh,0,3,11
 hanuman sing,0,3,12
 moharan devi,0,3,12
 hamid khan,0,3,10
@@ -5619,9 +5433,9 @@ dhan bahadur,0,3,12
 anooj,0,3,5
 ritik gupta,0,3,11
 mohan swaroop,0,3,13
-md akhlakh,0,3,10
+akhlakh,0,3,7
 kailash garg,0,3,12
-md mohsin,0,3,9
+mohsin,0,3,6
 meharban,0,3,8
 gurucharan,0,3,10
 kamaljeet,0,3,9
@@ -5631,7 +5445,7 @@ sonu sah,0,3,8
 kabal singh,0,3,11
 rajveer sing,0,3,12
 sariq rahaman,0,3,13
-sh pankaj khura,0,3,15
+pankaj khura,0,3,12
 mittopuri,0,3,9
 mohd tanveer,0,3,12
 imtiaz ali,0,3,10
@@ -5644,7 +5458,6 @@ rajpal singh,0,3,12
 arun kundra,0,3,11
 amratalal,0,3,9
 bhuwan,0,3,6
-rahul p,0,3,7
 hid,0,3,3
 vishamitra,0,3,10
 ashish urf bablu,0,3,16
@@ -5660,14 +5473,11 @@ dukhi ram sharma,0,3,16
 premsingh,0,3,9
 vishal panchal,0,3,14
 samar singh,0,3,11
-prem th,0,3,7
 mahtab,0,3,6
 sanjay singh,0,3,12
 jalwad hushen,0,3,13
 akif mohammad,0,3,13
 satya prakash bansal,0,3,20
-surender m,0,3,10
-mohsin,0,3,6
 himashu chabra,0,3,14
 rafiq,0,3,5
 anwar ansari,0,3,12
@@ -5689,7 +5499,6 @@ pavan kumar aggarwal,0,3,20
 sanju urf yatendra singh,0,3,24
 dipansu,0,3,7
 sohib,0,3,5
-trilok,0,3,6
 anup,0,3,4
 tolaram,0,3,7
 dilip kumar bhattacharjee,0,3,25
@@ -5714,7 +5523,6 @@ meez khan,0,3,9
 rajeev kumar sehti,0,3,18
 anil yadav,0,3,10
 akash sharma,0,3,12
-ravi p,0,3,6
 sanjeev kumar jha,0,3,17
 nishu,0,3,5
 one day male baby,0,3,17
@@ -5740,7 +5548,7 @@ harish arora,0,3,12
 jai shankar,0,3,11
 bablu saini,0,3,11
 multan singh,0,3,12
-padam ch,0,3,8
+padam,0,3,5
 shimuddin,0,3,9
 subham sharma,0,3,13
 sukka singh,0,3,11
@@ -5763,7 +5571,7 @@ anil kumar yadav,0,3,16
 reenu,0,3,5
 sarbjeet mishra,0,3,15
 kunden,0,3,6
-dr mukesh kumar garg,0,3,20
+mukesh kumar garg,0,3,17
 matbar singh,0,3,12
 ram bharose,0,3,11
 deepika,0,3,7
@@ -5774,8 +5582,7 @@ parjinder singh,0,3,15
 kuldeel,0,3,7
 rajeev lochan,0,3,13
 akhlaq ahmad,0,3,12
-rajesh an,0,3,9
-padam bahadur s,0,3,15
+padam bahadur,0,3,13
 bhagwan das,0,3,11
 monu chauhan,0,3,12
 birender kuma,0,3,13
@@ -5795,7 +5602,7 @@ shahid ahmad,0,3,12
 adhish kumar,0,3,12
 devinder singh,0,3,14
 madan kumar,0,3,11
-md anvar,0,3,8
+anvar,0,3,5
 laka ram,0,3,8
 mangla ram,0,3,10
 gopal kumhar,0,3,12
@@ -5831,7 +5638,6 @@ nitish bhardwaj,0,3,15
 rajjit kumar,0,3,12
 brahman,0,3,7
 sanjiv,0,3,6
-suresh kumar s,0,3,14
 jot ram,0,3,7
 satyarayan harijan,0,3,18
 ganga singh,0,3,11
@@ -5839,7 +5645,7 @@ santosh kumar sukala,0,3,20
 firtu lal,0,3,9
 surender pal,0,3,12
 mogan,0,3,5
-mr balveer singh,0,3,16
+balveer singh,0,3,13
 vikash seni,0,3,11
 mesak,0,3,5
 badri mee,0,3,9
@@ -5866,8 +5672,7 @@ karnesh,0,3,7
 kedarmal,0,3,8
 zishan khan,0,3,11
 rajputra sudhakar singh,0,3,23
-suraj p,0,3,7
-md saeed,0,3,8
+saeed,0,3,5
 sanjeevan,0,3,9
 vivek mishra,0,3,12
 arbaj,0,3,5
@@ -5876,7 +5681,7 @@ dharma ram,0,3,10
 shivam kosik,0,3,12
 rajnish kumar,0,3,13
 raman dixit,0,3,11
-v rajan thomas,0,3,14
+rajan thomas,0,3,12
 tikaram,0,3,7
 sidhart shukla,0,3,14
 noor islam,0,3,10
@@ -5885,7 +5690,6 @@ veer bhan,0,3,9
 shubankar,0,3,9
 hamid ahmed,0,3,11
 shrotam sam gosh,0,3,16
-shekhar ch,0,3,10
 ibrahim mohd,0,3,12
 shubham meghwal,0,3,15
 harimohan sharma,0,3,16
@@ -5896,8 +5700,6 @@ bhuralal,0,3,8
 anuj jain,0,3,9
 chakra bahadur,0,3,14
 pankajsheel,0,3,11
-mr kamal kumar,0,3,14
-hari shankar p,0,3,14
 nej bahadur thapa,0,3,17
 mohit bhatia,0,3,12
 suhel,0,3,5
@@ -5921,14 +5723,11 @@ jam lal,0,3,7
 vivek gupta,0,3,11
 keshav mattur,0,3,13
 rahimuddin,0,3,10
-bhupender s,0,3,11
-mahender s,0,3,10
 vrthomas,0,3,8
 sanjay kewat,0,3,12
 sanjeev tirpathi,0,3,16
 bhupendar singh,0,3,15
 ramvihar chorsiya,0,3,17
-daya n,0,3,6
 sekha nur mohmad,0,3,16
 vijaypal,0,3,8
 arham hussain,0,3,13
@@ -5942,7 +5741,6 @@ mahveer singh,0,3,13
 sabbu,0,3,5
 hariom urf kalu yadav,0,3,21
 abhishek seervi,0,3,15
-amrik singh,0,3,11
 kanhyalal,0,3,9
 karamvir agar,0,3,13
 samadhan more,0,3,13
@@ -5961,7 +5759,7 @@ suresh durg,0,3,11
 mahesh balwani,0,3,14
 anil jatav,0,3,10
 gaurav tyagi,0,3,12
-diwan ch,0,3,8
+diwan,0,3,5
 gorav tyagi,0,3,11
 surya kumar saini,0,3,17
 lalu ram,0,3,8
@@ -5989,7 +5787,7 @@ arb,0,3,3
 atul dixit,0,3,10
 sanjeev kumar gupta,0,3,19
 kaari tafseer alam,0,3,18
-prankur dobhal or monu,0,3,22
+prankur dobhal  monu,0,3,20
 keshav bhati,0,3,12
 bhrat singh,0,3,11
 indresh kumar,0,3,13
@@ -6009,13 +5807,11 @@ goutam,0,3,6
 manoj sharma,0,3,12
 badal,0,3,5
 sudesh,0,3,6
-chet ram,0,3,8
 hazi abdul samad,0,3,16
 anil urf rakesh,0,3,15
-sh prem singh,0,3,13
 shyam singh,0,3,11
 shaikh ajamat,0,3,13
-pera ch,0,3,7
+pera,0,3,4
 ravi soni,0,3,9
 manit kumar,0,3,11
 irsad,0,3,5
@@ -6023,7 +5819,7 @@ raheesh,0,3,7
 shivbhagvan,0,3,11
 lallu yadav,0,3,11
 ashish dixit,0,3,12
-jacob paul s,0,3,12
+jacob paul,0,3,10
 tushar singh,0,3,12
 neeraj kalra,0,3,12
 busness gupta,0,3,13
@@ -6033,7 +5829,6 @@ inder pal,0,3,9
 akkni,0,3,5
 gantantra mittal,0,3,16
 jishan rehman,0,3,13
-md kamruddin,0,3,12
 sunil dutt,0,3,10
 anjan jha,0,3,9
 bikram,0,3,6
@@ -6046,11 +5841,10 @@ sube singh,0,3,10
 kamala,0,3,6
 viraj ra,0,3,8
 karan chauhan,0,3,13
-samsung s singh,0,3,15
+samsung  singh,0,3,14
 murli,0,3,5
 mak lal,0,3,7
 kmles kumar,0,3,11
-mr ashok kumar,0,3,14
 vijay shing,0,3,11
 master hansraj,0,3,14
 bhart,0,3,5
@@ -6076,7 +5870,7 @@ mdyunus,0,3,7
 rakesh kumar soni,0,3,17
 sahadeb bhuniya,0,3,15
 rajender singh,0,3,14
-sh manish puri,0,3,14
+manish puri,0,3,11
 satya prakesh malani,0,3,20
 haseen,0,3,6
 sahkir kahan,0,3,12
@@ -6085,10 +5879,9 @@ maniram,0,3,7
 jagdeesh,0,3,8
 omprakesh,0,3,9
 sirazudeen,0,3,10
-md shahid,0,3,9
 lakshmi shah,0,3,12
 suraj sharma,0,3,12
-ranjay p,0,3,8
+ranjay,0,3,6
 laxmi shah,0,3,10
 talib,0,3,5
 pradeep yadav,0,3,13
@@ -6133,7 +5926,7 @@ jagan th,0,3,8
 itwari lal,0,3,10
 sumit yadav,0,3,11
 geernish kumar,0,3,14
-mahendar s,0,3,10
+mahendar,0,3,8
 sanjay bharti,0,3,13
 ajit kapoor,0,3,11
 kamal kishor radhey,0,3,19
@@ -6146,9 +5939,8 @@ tejpal agarwal,0,3,14
 ranjan kumar,0,3,12
 ramesh kuamar,0,3,13
 sazid,0,3,5
-md aarif,0,3,8
 himanshu sahu,0,3,13
-shoyab s,0,3,8
+shoyab,0,3,6
 omprakash chamoli,0,3,17
 arun sangwan,0,3,12
 rehmat,0,3,6
@@ -6159,7 +5951,6 @@ dhurav goyel,0,3,12
 nu ram,0,3,6
 baljeet,0,3,7
 dhirpal,0,3,7
-birender,0,3,8
 gya parsad,0,3,10
 mahesh khura,0,3,12
 ratnesh,0,3,7
@@ -6172,14 +5963,14 @@ ajmer,0,3,5
 nitu,0,3,4
 sami,0,3,4
 sanjay patwa,0,3,12
-gopi ch,0,3,7
-md daim,0,3,7
+gopi,0,3,4
+daim,0,3,4
 nitesh shyam,0,3,12
 brij bhusan sharma,0,3,18
 baudi,0,3,5
 pradeep lakhera,0,3,15
-mr pritesh,0,3,10
-mohd rahim s,0,3,12
+pritesh,0,3,7
+mohd rahim,0,3,10
 jimmi,0,3,5
 ravi shrivastav,0,3,15
 salman ahmad,0,3,12
@@ -6193,7 +5984,6 @@ dinkar sharma,0,3,13
 mukesh gujjar,0,3,13
 shishpal,0,3,8
 ram prashad,0,3,11
-babu ra,0,3,7
 mohamad faruk,0,3,13
 bhadur ram,0,3,10
 mantu,0,3,5
@@ -6209,7 +5999,7 @@ puskar singh,0,3,12
 zmuslam,0,3,7
 sachi chauhan,0,3,13
 atul verma,0,3,10
-raju ram so harlal ji bishnoi r,0,3,31
+raju ram  harlal  bishnoi,0,3,25
 prabhatilal,0,3,11
 hanni kumar,0,3,11
 shabi rza,0,3,9
@@ -6239,7 +6029,6 @@ inderpal singh,0,3,14
 dhmendar,0,3,8
 kaptan singh,0,3,12
 vajid ali,0,3,9
-dhamender,0,3,9
 jamaal,0,3,6
 gladwin massey,0,3,14
 mahender pal,0,3,12
@@ -6250,7 +6039,6 @@ rbahadur,0,3,8
 mohd azam,0,3,9
 rohit yadav,0,3,11
 ram baran,0,3,9
-sanjeev s,0,3,9
 kirodimal,0,3,9
 kishore,0,3,7
 manish taygi,0,3,12
@@ -6269,7 +6057,6 @@ rghuraj singh,0,3,13
 kanhaiya sharma,0,3,15
 bundhu,0,3,6
 vindeshver,0,3,10
-avish ch,0,3,8
 sawarmal,0,3,8
 sanjay gulati,0,3,13
 jagir singh,0,3,11
@@ -6287,13 +6074,12 @@ gaurav rawat,0,3,12
 pintu tarfdar,0,3,13
 jay bhagwan,0,3,11
 budhram,0,3,7
-padam,0,3,5
 guru lal,0,3,8
 kamaljeet singh,0,3,15
 rahul shrivastav,0,3,16
 nitin chahal,0,3,12
 maksud ahmed,0,3,12
-shri ch,0,3,7
+shri,0,3,4
 talvender,0,3,9
 ravi raj sheker,0,3,15
 jalil,0,3,5
@@ -6301,17 +6087,16 @@ tassadul omar,0,3,13
 akash urf deepu,0,3,15
 mudbir khan,0,3,11
 yashpal aan,0,3,11
-aakash or deepu s,0,3,17
+aakash  deepu,0,3,13
 aslam baks,0,3,10
 ashok jarwal,0,3,12
 umlesh,0,3,6
-vikram m,0,3,8
 parlad pilly,0,3,12
 gurudut sharma,0,3,14
-om prakash mishra,0,3,17
+prakash mishra,0,3,14
 bagaram,0,3,7
 deepa,0,3,5
-sk abu hasan,0,3,12
+abu hasan,0,3,9
 rohan kapoor,0,3,12
 chunni,0,3,6
 me singh,0,3,8
@@ -6330,7 +6115,6 @@ jay prkash rohal,0,3,16
 surendra kumar,0,3,14
 gaurav urf raheesh,0,3,18
 sunil kumar gupta,0,3,17
-krish p,0,3,7
 mukhtyar singh,0,3,14
 horam,0,3,5
 pramod gupta,0,3,12
@@ -6338,14 +6122,14 @@ abdul samrad,0,3,12
 chaturbhuj,0,3,10
 trijugi rayan sukla,0,3,19
 aditya prasad,0,3,13
-md tayab,0,3,8
+tayab,0,3,5
 parvej ahmed,0,3,12
 rajesh kumat,0,3,12
-nikhil kr sharma,0,3,16
+nikhil  sharma,0,3,14
 ashok jain,0,3,10
 mahinudin,0,3,9
 so lal,0,3,6
-om pal,0,3,6
+pal,0,3,3
 sundeep kumar singh,0,3,19
 rajat tyagi,0,3,11
 lavkush,0,3,7
@@ -6357,13 +6141,10 @@ amarendra,0,3,9
 nek mohd,0,3,8
 ramsagar maheto,0,3,15
 bachcha ram singh,0,3,17
-mazhar s,0,3,8
 dinesh katara,0,3,13
 kaleram,0,3,7
 ankush sharma,0,3,13
 brij mohan thakur,0,3,17
-sagar p,0,3,7
-pappu kumar m,0,3,13
 bablu mishra,0,3,12
 neeraj gupta,0,3,12
 barj bhusan,0,3,11
@@ -6379,7 +6160,6 @@ pushpender,0,3,10
 mohit mathur,0,3,12
 abhishiek swami,0,3,15
 krishan parkash,0,3,15
-la l babu,0,3,9
 yuveraj,0,3,7
 vikram singh bisht,0,3,18
 azim,0,3,4
@@ -6433,7 +6213,6 @@ ramender,0,3,8
 satendra,0,3,8
 gufraan khan,0,3,12
 satish kumar mee,0,3,16
-p ramkumar,0,3,10
 sunil kumar mehto,0,3,17
 sher mohmd,0,3,10
 jaga singh,0,3,10
@@ -6454,7 +6233,6 @@ vashu,0,3,5
 shanshak sharma,0,3,15
 montu verma,0,3,11
 allabaksh,0,3,9
-mangal ch,0,3,9
 pankaj lal kumar,0,3,16
 gopal ram,0,3,9
 meghashayam sharma,0,3,18
@@ -6475,20 +6253,19 @@ bholaram yadav,0,3,14
 ajeet chaudhary,0,3,15
 noshad,0,3,6
 sanjay bansal,0,3,13
-vikram or baali,0,3,15
+vikram  baali,0,3,13
 swati sharma,0,3,12
 kishor yadav,0,3,12
 badrudeen,0,3,9
 mohdwahid,0,3,9
 gourav jain,0,3,11
 jagmohan gupta,0,3,14
-omprakash p,0,3,11
 jitendra kumar khant,0,3,20
 sushil gupta,0,3,12
 neeraj shokeen,0,3,14
 saroj patel,0,3,11
 mehak singh,0,3,11
-sh ganpat lal,0,3,13
+ganpat lal,0,3,10
 chatter singh,0,3,13
 abhin,0,3,5
 rajdev,0,3,6
@@ -6530,7 +6307,7 @@ kushal gupta,0,3,12
 raj pal,0,3,7
 baby singh,0,3,10
 mitthu,0,3,6
-j nelson abiman,0,3,15
+nelson abiman,0,3,13
 nnu,0,3,3
 alok kumar,0,3,10
 faujdar sharma,0,3,14
@@ -6541,7 +6318,6 @@ rohit gupta,0,3,11
 render kumar gupta,0,3,18
 brijn,0,3,5
 ashlam miya,0,3,11
-babu o m,0,3,8
 sakhich,0,3,7
 shivth,0,3,6
 karan gupta,0,3,11
@@ -6560,11 +6336,11 @@ anuj patni,0,3,10
 jit bahadur,0,3,11
 dhara,0,3,5
 jitu singh,0,3,10
-partab ch,0,3,9
+partab,0,3,6
 piyush kalra,0,3,12
 vipan kumar,0,3,11
 rajender goyal,0,3,14
-shree ch,0,3,8
+shree,0,3,5
 aazad,0,3,5
 thu,0,3,3
 ahamad,0,3,6
@@ -6580,7 +6356,7 @@ rajeshwar,0,3,9
 satya dev singh,0,3,15
 bhorelal,0,3,8
 pankaj sehgal,0,3,13
-md aaqif,0,3,8
+aaqif,0,3,5
 mitthun,0,3,7
 irphan safi,0,3,11
 deepvh,0,3,6
@@ -6600,12 +6376,9 @@ nisar,0,3,5
 anil balai,0,3,10
 vipul agrawal,0,3,13
 dal bahadur thapa,0,3,17
-ajay ch,0,3,7
 bunti kumar,0,3,11
 disha,0,3,5
 jairam singh yadav,0,3,18
-tejpal singh,0,3,12
-sahil kh,0,3,8
 hem raj,0,3,7
 sarbash,0,3,7
 mohamad,0,3,7
@@ -6627,10 +6400,9 @@ chintu lal,0,3,10
 pravendra singhal,0,3,17
 afzal ali,0,3,9
 darshan lal,0,3,11
-sh sri ram,0,3,10
+sri ram,0,3,7
 sadre alam,0,3,10
 gobind,0,3,6
-mo farman,0,3,9
 tufail ahamd,0,3,12
 bhanu pratap morya,0,3,18
 shri pal,0,3,8
@@ -6652,13 +6424,11 @@ mahipal singh yadav,0,3,19
 mohd samim,0,3,10
 pasanjeet,0,3,9
 jagtar singh,0,3,12
-sh santosh s,0,3,12
 sadhu yadav,0,3,11
 akram khan,0,3,10
 lalit saini,0,3,11
 jaskaran singh,0,3,14
 har bilas,0,3,9
-krish n,0,3,7
 darshan lal sonkar,0,3,18
 jishan,0,3,6
 vashisast,0,3,9
@@ -6675,7 +6445,7 @@ harendra singh,0,3,14
 abbal singh,0,3,11
 karan sabharwal,0,3,15
 rajam singh,0,3,11
-yaswani p,0,3,9
+yaswani,0,3,7
 sahab singh alias bitu,0,3,22
 bhud ram,0,3,8
 jai sharma,0,3,10
@@ -6693,7 +6463,7 @@ asha,0,3,4
 suraj tiwari,0,3,12
 gora singh,0,3,10
 aajad singh,0,3,11
-ravinder kr malhotra,0,3,20
+ravinder  malhotra,0,3,18
 mohd mujahid ansari,0,3,19
 deepak midha,0,3,12
 shyam lukka,0,3,11
@@ -6714,40 +6484,32 @@ tahir hussain,0,3,13
 subhash nimbolkar,0,3,17
 munnem mee,0,3,10
 eliyas,0,3,6
-md mujmmil,0,3,10
+mujmmil,0,3,7
 mohjakir,0,3,8
 prakash mee,0,3,11
 ramu urf rambabu,0,3,16
-rajinder s,0,3,10
+rajinder,0,3,8
 ramdutt,0,3,7
 munender pratap singh,0,3,21
 bipin,0,3,5
 aas mohd,0,3,8
 lavish kumar,0,3,12
-md sakil,0,3,8
 rajnesh,0,3,7
 kishn lal,0,3,9
 gulsher,0,3,7
-poom ch,0,3,7
-ct s,0,3,4
-asha n,0,3,6
 rafal singh,0,3,11
 aas mohammad,0,3,12
-poom w,0,3,6
 hardas singh,0,3,12
 shambhu gupta,0,3,13
 ramjam,0,3,6
 rajo dalal,0,3,10
 arbaz,0,3,5
 mahinder yadav,0,3,14
-a suresh,0,3,8
 rajnesh kumar,0,3,13
 veeri singh,0,3,11
 suraj bahadur,0,3,13
-ed mohmad,0,3,9
+mohmad,0,3,6
 raju yadav,0,3,10
-md rahul,0,3,8
-sh ram bahadur,0,3,14
 pardeep saini,0,3,13
 palaram,0,3,7
 mod,0,3,3
@@ -6769,9 +6531,8 @@ ravi tiwari,0,3,11
 garsh,0,3,5
 araslan yusuf,0,3,13
 rohitash,0,3,8
-sh om prakash,0,3,13
 upender choudhry,0,3,16
-dhan ch,0,3,7
+dhan,0,3,4
 rendra kumar,0,3,12
 kush gupta,0,3,10
 mohammad jaan,0,3,13
@@ -6807,7 +6568,7 @@ mohd kamaal,0,3,11
 birender pal,0,3,12
 chhitar lal,0,3,11
 chhantu dass,0,3,12
-nimahe m,0,3,8
+nimahe,0,3,6
 shlender,0,3,8
 mohan adiwasi,0,3,13
 dulal,0,3,5
@@ -6816,7 +6577,6 @@ vedprakash sharma,0,3,17
 nitish kumar,0,3,12
 sarad chaubay,0,3,13
 shalender,0,3,9
-ramjani,0,3,7
 madan mohan,0,3,11
 kaloo giri,0,3,10
 iyat hussen,0,3,11
@@ -6838,7 +6598,7 @@ adan,0,3,4
 ramdhan,0,3,7
 kirshan pal,0,3,11
 ashrfi,0,3,6
-jai ch,0,3,6
+jai,0,3,3
 deepak bhatt,0,3,12
 afsar alam,0,3,10
 mohammad ishtiaque ahmad,0,3,24
@@ -6850,13 +6610,12 @@ raju ghosh,0,3,10
 ravi kant boity,0,3,15
 sachin kumar garg,0,3,17
 klash kumar,0,3,11
-ram,0,3,3
 alim,0,3,4
 dharminder,0,3,10
 bherav dutt,0,3,11
 vikaram,0,3,7
 ayub ali,0,3,8
-md ehasan alam,0,3,14
+ehasan alam,0,3,11
 jafruddin,0,3,9
 faran singh,0,3,11
 sanjiv kumar jain,0,3,17
@@ -6871,25 +6630,22 @@ kale,0,3,4
 banju,0,3,5
 mahboob,0,3,7
 pankaj chobe,0,3,12
-gawali p,0,3,8
-md iam ahmad s,0,3,14
+gawali,0,3,6
+iam ahmad,0,3,9
 lokindra singh,0,3,14
 ram lagan singh,0,3,15
-vikas thakur,0,3,12
-gd harendra yadav,0,3,17
+harendra yadav,0,3,14
 metily ritayard sonu sharma,0,3,27
 hanshraj,0,3,8
 subhash kumar,0,3,13
 barkat,0,3,6
 sohel,0,3,5
-birbal ram,0,3,10
 veeri singh jatav,0,3,17
 keshram,0,3,7
 vendra,0,3,6
 ramesh tiwari,0,3,13
 kishram,0,3,7
 ankur kumar,0,3,11
-md rahmat ali,0,3,13
 josin jomon,0,3,11
 ashok rai,0,3,9
 arhiyant jain,0,3,13
@@ -6905,7 +6661,7 @@ bhasker th tiwari,0,3,17
 abdul hafiz,0,3,11
 tool bahadur,0,3,12
 mukkesh,0,3,7
-jagdish parsad s,0,3,16
+jagdish parsad,0,3,14
 dhanu,0,3,5
 anurag tiwari,0,3,13
 ajit kumar,0,3,10
@@ -6917,7 +6673,7 @@ imam baksh,0,3,10
 devashish sahu,0,3,14
 vishal srivastav,0,3,16
 parsant,0,3,7
-rama n,0,3,6
+rama,0,3,4
 mohamad sahajeet,0,3,16
 deepak tak,0,3,10
 abdul aziz,0,3,10
@@ -6938,19 +6694,17 @@ zamile amhed,0,3,12
 subham madhwal,0,3,14
 mushir,0,3,6
 rambarose,0,3,9
-mohd siraz s,0,3,12
+mohd siraz,0,3,10
 ansar,0,3,5
 parveen sha,0,3,11
 ratan singh,0,3,11
-gautam m,0,3,8
-mr kishan singh,0,3,15
 biram,0,3,5
 jaquir,0,3,6
 deepan dev,0,3,10
 rahu kumar,0,3,10
 meera devi,0,3,10
 mun ram,0,3,7
-ct dilbag singh,0,3,15
+dilbag singh,0,3,12
 sadabrij,0,3,8
 rudra rayan urf sonu,0,3,20
 da ram,0,3,6
@@ -6961,16 +6715,14 @@ aahim,0,3,5
 shyan bahadur,0,3,13
 shahbuddin,0,3,10
 ram singh negi,0,3,14
-sh labh singh,0,3,13
+labh singh,0,3,10
 pervinder,0,3,9
-rohan m,0,3,7
 liyakat ansari,0,3,14
 rendra gda,0,3,10
 deem kha,0,3,8
 mohammad humayoun,0,3,17
 sar ali,0,3,7
 gurdayal,0,3,8
-omprakash s,0,3,11
 keval thakur,0,3,12
 jugal kishor chouhan,0,3,20
 jairam singh,0,3,12
@@ -6979,7 +6731,7 @@ vishnu parshad,0,3,14
 ram kishan gola,0,3,15
 vijay banshwal,0,3,14
 jeet pal,0,3,8
-vidya n,0,3,7
+vidya,0,3,5
 aluddin hushen,0,3,14
 mrityunjay,0,3,10
 masheen yadav,0,3,13
@@ -6987,7 +6739,7 @@ syamsunder,0,3,10
 girjesh kumar,0,3,13
 sattaram,0,3,8
 mangi ram singh,0,3,15
-habib s,0,3,7
+habib,0,3,5
 yan saikh,0,3,9
 rayan singh rawat,0,3,17
 subburaiyalu,0,3,12
@@ -6995,7 +6747,6 @@ himansu garg,0,3,12
 baban mishra,0,3,12
 kched parsad,0,3,12
 sachin raghav,0,3,13
-upender,0,3,7
 saranjeet singh,0,3,15
 ramjiyawan,0,3,10
 ravinder kumar rai,0,3,18
@@ -7005,12 +6756,11 @@ pram jeet dabas,0,3,15
 emilia toppo,0,3,12
 bhraman,0,3,7
 surender kumar yadav,0,3,20
-rathan lal ji,0,3,13
+rathan lal,0,3,10
 akhil ravindran,0,3,15
 akshat baliyan,0,3,14
 ankit negi,0,3,10
 mahtha sahni,0,3,12
-hansraj mee s,0,3,13
 rohit gill,0,3,10
 rajit kumar,0,3,11
 ayush pathak,0,3,12
@@ -7021,7 +6771,6 @@ shambhu munda,0,3,13
 dinesh gupta,0,3,12
 mohd fees,0,3,9
 ganpati korada,0,3,14
-fateh singh,0,3,11
 prince kumar,0,3,12
 chhanoyar shekh,0,3,15
 laxman dass,0,3,11
@@ -7029,7 +6778,6 @@ vikesh kumar,0,3,12
 vivek urfh vin,0,3,14
 bishesh kumar,0,3,13
 riyazuddin,0,3,10
-sh attar singh,0,3,14
 ravi tripathi,0,3,13
 sujit kumar,0,3,11
 urmila,0,3,6
@@ -7043,7 +6791,6 @@ sujata yadav,0,3,12
 jagdish ram,0,3,11
 ramesh mee,0,3,10
 sanjay gupta,0,3,12
-rafi,0,3,4
 tushar vats,0,3,11
 mehtab alam,0,3,11
 manish jain,0,3,11
@@ -7062,7 +6809,7 @@ rahul bhiram,0,3,12
 karan trehan,0,3,12
 niyaaz khan,0,3,11
 ajay tomar,0,3,10
-md afjal,0,3,8
+afjal,0,3,5
 ramkaran gujar,0,3,14
 yaqoob,0,3,6
 ali mohamad,0,3,11
@@ -7096,11 +6843,10 @@ shshiv charan singh,0,3,19
 salim kha,0,3,9
 fakrudeen,0,3,9
 vishal lamba,0,3,12
-mo safik,0,3,8
+safik,0,3,5
 viyak,0,3,5
 munish singhla,0,3,14
 avish jha,0,3,9
-shubham d,0,3,9
 saahil utiyal,0,3,13
 mohd kaish,0,3,10
 braj mohan,0,3,10
@@ -7110,7 +6856,6 @@ akram ali,0,3,9
 jiya rahman,0,3,11
 mohd rizwan,0,3,11
 ryan chamaar,0,3,12
-afjal,0,3,5
 satayarayan,0,3,11
 manoj jha,0,3,9
 maisan,0,3,6
@@ -7151,7 +6896,6 @@ chaman gupta,0,3,12
 ved pal,0,3,7
 ankit gupta,0,3,11
 leelu,0,3,5
-sahbaj,0,3,6
 rahul singh,0,3,11
 bi hussain,0,3,10
 prakash regni,0,3,13
@@ -7159,20 +6903,17 @@ ram kuamr,0,3,9
 mathura singh,0,3,13
 karan gulyani,0,3,13
 man kaushik,0,3,11
-lal ji parshad,0,3,14
+lal  parshad,0,3,12
 nisar ahamad,0,3,12
 abhijeet adhikari,0,3,17
-mayank p,0,3,8
 sachin tomar,0,3,12
 gajendra singh sekhawat,0,3,23
 javed siafi,0,3,11
 sahabudeen,0,3,10
-gurbachan singh s,0,3,17
 devender chodhary,0,3,17
 hari uraown,0,3,11
 satpal kaura,0,3,12
 jaspreet,0,3,8
-hariom p,0,3,8
 asgar kamal,0,3,11
 vijay tyagi,0,3,11
 mukesh chauhan,0,3,14
@@ -7188,7 +6929,6 @@ adalat,0,3,6
 sumnesh,0,3,7
 rajesh arora,0,3,12
 churam,0,3,6
-prabhakar p,0,3,11
 shri kumar,0,3,10
 mohd kasim,0,3,10
 rajiv shah,0,3,10
@@ -7200,7 +6940,7 @@ yadvir,0,3,6
 somprakash,0,3,10
 pradeep singh,0,3,13
 ramniwas,0,3,8
-s p vinit gupta,0,3,15
+vinit gupta,0,3,11
 gulshan singh,0,3,13
 sanjeev kumar soni,0,3,18
 lakki prajapti,0,3,14
@@ -7215,14 +6955,12 @@ sauhal,0,3,6
 kishor saini,0,3,12
 tarun upadhyay,0,3,14
 sardar pal singh,0,3,16
-mustafa m,0,3,9
 shil kherval,0,3,12
 lalit mohan rawat,0,3,17
 parkash agarwal,0,3,15
 rajkumar sharjma,0,3,16
 manish gautam,0,3,13
 hitender kumar,0,3,14
-sanny,0,3,5
 viresh kumar,0,3,12
 mohd arjoo,0,3,10
 shi girdhari,0,3,12
@@ -7253,7 +6991,7 @@ budhi singh,0,3,11
 julfikaar,0,3,9
 chhabil singh,0,3,13
 susan subva,0,3,11
-md alikhan,0,3,10
+alikhan,0,3,7
 mohd sakil,0,3,10
 babudden kuresi,0,3,15
 tilakraj,0,3,8
@@ -7264,7 +7002,7 @@ shekh sir husain,0,3,16
 shri gani mohammad,0,3,18
 animesh kumar suman,0,3,19
 sumit bainsla,0,3,13
-kingkar m,0,3,9
+kingkar,0,3,7
 ram govind,0,3,10
 bheem pal,0,3,9
 maqsood alam,0,3,12
@@ -7283,20 +7021,18 @@ manoj singh bisht,0,3,17
 amrjeet,0,3,7
 rinka,0,3,5
 nikhil saini,0,3,12
-amit t,0,3,6
 vinod sehgal,0,3,12
 dara singh,0,3,10
 girwer singh,0,3,12
 jagdesh ram meghwal,0,3,19
 basibul,0,3,7
-rameh ch,0,3,8
+rameh,0,3,5
 mahesh sharma,0,3,13
 dhulin,0,3,6
 asutosh sharma,0,3,14
 parem varma,0,3,11
 ilyas,0,3,5
 rafeddin,0,3,8
-md waseem,0,3,9
 anurag singh alias banti,0,3,24
 sushil sharma,0,3,13
 shital,0,3,6
@@ -7318,16 +7054,16 @@ shiv prasad,0,3,11
 vijay lal,0,3,9
 dilvar,0,3,6
 devesh sharma,0,3,13
-om prakash jat,0,3,14
+prakash jat,0,3,11
 pritam,0,3,6
 lawli,0,3,5
 yogendra thakur,0,3,15
 jitender yadav,0,3,14
 said ahmed,0,3,10
-mo vahid,0,3,8
+vahid,0,3,5
 ashok agrrwal,0,3,13
 prinsh,0,3,6
-sh lalch,0,3,8
+lalch,0,3,5
 prabhash yadav,0,3,14
 harun,0,3,5
 sonu roy,0,3,8
@@ -7339,7 +7075,7 @@ basant ram,0,3,10
 shahzad,0,3,7
 raju kashyap,0,3,12
 mohan singh mee,0,3,15
-md saran,0,3,8
+saran,0,3,5
 sushpal,0,3,7
 aman deep,0,3,9
 chotum karmokar,0,3,15
@@ -7362,7 +7098,6 @@ rayan sharma,0,3,12
 mho zuber,0,3,9
 aash mohoomad,0,3,13
 sumant,0,3,6
-md ch,0,3,5
 mukat singh,0,3,11
 arjun ram,0,3,9
 santosh kuamr,0,3,13
@@ -7379,7 +7114,6 @@ sanjay ram,0,3,10
 mitlesh kumar mishra,0,3,20
 sanjeev dass,0,3,12
 vakeel,0,3,6
-ramswroop s,0,3,11
 mishrilaal,0,3,10
 shri kumar parthi,0,3,17
 mosim,0,3,5
@@ -7389,7 +7123,7 @@ pradep kumar,0,3,12
 jeet ram,0,3,8
 parth,0,3,5
 bhemji patidar,0,3,14
-moh an kumar,0,3,12
+moh  kumar,0,3,10
 rajat garg,0,3,10
 bisha ram,0,3,9
 sanjeev shekhar,0,3,15
@@ -7423,7 +7157,6 @@ bawan yadav,0,3,11
 jagdish singh,0,3,13
 jyoti prasad,0,3,12
 jatin pal,0,3,9
-surendra kumar m,0,3,16
 manish saini,0,3,12
 arpit aroda,0,3,11
 pachuram verma,0,3,14
@@ -7433,8 +7166,6 @@ amir hasan,0,3,10
 rampal alis ram lal,0,3,19
 seef,0,3,4
 alok,0,3,4
-saurabh p,0,3,9
-harish kumar p,0,3,14
 nikhil urf jimmi choudhri,0,3,25
 pradeep kumar chauhan,0,3,21
 rohit agarwal,0,3,13
@@ -7443,7 +7174,7 @@ akhlish kumar,0,3,13
 vimal nepali,0,3,12
 akhalak,0,3,7
 priju,0,3,5
-thani m,0,3,7
+thani,0,3,5
 kamlesh kumar,0,3,13
 tazaudeen,0,3,9
 tirath,0,3,6
@@ -7483,7 +7214,6 @@ gurupreet singh,0,3,15
 rajish,0,3,6
 chiddu ram,0,3,10
 niranjan lal saini,0,3,18
-dhanraj s,0,3,9
 anoj kumar,0,3,10
 swadhin beswal,0,3,14
 vijesh sahu,0,3,11
@@ -7500,13 +7230,11 @@ ritesh agrwal,0,3,13
 sushmendra kumar,0,3,16
 rahish kha,0,3,10
 paw,0,3,3
-amit pa,0,3,7
 jayrayan mee,0,3,12
 bhagvati parsad,0,3,15
 dinesh yadav,0,3,12
 jisu,0,3,4
-tak ch,0,3,6
-lakhmi,0,3,6
+tak,0,3,3
 kalu bhatiya,0,3,12
 ajad rawal,0,3,10
 akhilesh gupta,0,3,14
@@ -7530,7 +7258,7 @@ seeta ram,0,3,9
 mohsin khan,0,3,11
 dhram sigh,0,3,10
 ayan,0,3,4
-manish kushwaha s,0,3,17
+manish kushwaha,0,3,15
 tasleem,0,3,7
 choturam,0,3,8
 kalyan singh devra,0,3,18
@@ -7546,18 +7274,17 @@ mantu gupta,0,3,11
 shiv sahota,0,3,11
 bundel sahni,0,3,12
 sunil janu,0,3,10
-kiran or vikram,0,3,15
+kiran  vikram,0,3,13
 shankar lal mee,0,3,15
 ravi kumar verma,0,3,16
 soheb,0,3,5
 dasharath,0,3,9
 baga sathyaraya,0,3,15
-md alamin,0,3,9
+alamin,0,3,6
 sombir,0,3,6
 shaturughyan chaudhary,0,3,22
 subham krish,0,3,12
 moinuddin,0,3,9
-sonu s,0,3,6
 ram sharan yadav,0,3,16
 viplo sardar,0,3,12
 kadir ali,0,3,9
@@ -7569,20 +7296,18 @@ kalp,0,3,4
 aman junuja,0,3,11
 faizan khan,0,3,11
 mohd rajiq,0,3,10
-lokesh s,0,3,8
 amba lal,0,3,8
 kalyan datt sharma,0,3,18
 dinesh kumar sawami,0,3,19
 shakti,0,3,6
 nimesh rwani,0,3,12
 monu bansal,0,3,11
-jitender s,0,3,10
 ruchit,0,3,6
 vasuki thakur,0,3,13
 danveer singh,0,3,13
 subham jain,0,3,11
 kulli,0,3,5
-latur s,0,3,7
+latur,0,3,5
 mahud ansari,0,3,12
 baniya,0,3,6
 santosh mahto,0,3,13
@@ -7594,7 +7319,7 @@ ram ashray,0,3,10
 bajulal,0,3,7
 shazad,0,3,6
 rajvi kumar,0,3,11
-bey kumar dube s,0,3,16
+bey kumar dube,0,3,14
 bachan singh ra,0,3,15
 jhawar lal bakshi,0,3,17
 sohan singh ra,0,3,14
@@ -7623,7 +7348,7 @@ mohd marukh,0,3,11
 rizwaan,0,3,7
 puran rai,0,3,9
 mahendra yadav,0,3,14
-hariram s,0,3,9
+hariram,0,3,7
 lalit alias lowan,0,3,17
 rajesh saini,0,3,12
 hakam singh,0,3,11
@@ -7641,14 +7366,13 @@ rajeev sirohi,0,3,13
 monupal,0,3,7
 ravi dutt,0,3,9
 dharvesh kumar,0,3,14
-divaie ch,0,3,9
+divaie,0,3,6
 sintu vishwash,0,3,14
 sahdev tiwari,0,3,13
 mohd hasin,0,3,10
 nooruddin,0,3,9
 mohd ladla,0,3,10
 samir raj pal,0,3,13
-puran,0,3,5
 gagan kumar,0,3,11
 tauseek,0,3,7
 sokin,0,3,5
@@ -7665,10 +7389,9 @@ shivji mathur,0,3,13
 gollu,0,3,5
 ravi sinha,0,3,10
 bhuri singh,0,3,11
-balmiki chauhan s,0,3,17
+balmiki chauhan,0,3,15
 bhagvaan singh,0,3,14
 manish bansal,0,3,13
-jai,0,3,3
 pinki,0,3,5
 vikram bahadur,0,3,14
 kapil dutt,0,3,10

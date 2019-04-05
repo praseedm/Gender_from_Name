@@ -1,10445 +1,3185 @@
 name,gender,race,length
-billy r,0,2,7
-charles d,0,2,9
-clarence d,0,2,10
-justin c,0,2,8
-roy s,0,2,5
-william l,0,2,9
+billy,0,2,5
+charles,0,2,7
+clarence,0,2,8
+justin,0,2,6
+roy,0,2,3
+william,0,2,7
 cary,0,2,4
-manuel j,0,2,8
+manuel,0,2,6
 eric,0,2,4
 kareem,0,2,6
-gary w,0,2,6
-vito g,0,2,6
-william d,0,2,9
-christopher l,0,2,13
-earl w,0,2,6
-erik t,0,2,6
-james a,0,2,7
-jerry l,0,2,7
-jerry w,0,2,7
-john s,0,2,6
-michael d,0,2,9
-robert r,0,2,8
+gary,0,2,4
+vito,0,2,4
+christopher,0,2,11
+earl,0,2,4
+erik,0,2,4
+james,0,2,5
+jerry,0,2,5
 john,0,2,4
+michael,0,2,7
+robert,0,2,6
 issa,0,2,4
 dane,0,2,4
-gary r,0,2,6
 jacob,0,2,5
-robert k,0,2,8
-simon p,0,2,7
-deryl m,0,2,7
+simon,0,2,5
+deryl,0,2,5
 gregory,0,2,7
-jesse e,0,2,7
-justin l,0,2,8
-william,0,2,7
-christopher r,0,2,13
-marc t,0,2,6
-scott r,0,2,7
+jesse,0,2,5
+marc,0,2,4
+scott,0,2,5
 jothan,0,2,6
 peter,0,2,5
 joshua,0,2,6
-anthony d,0,2,9
-oliver b,0,2,8
+anthony,0,2,7
+oliver,0,2,6
 moises,0,2,6
 juny,0,2,4
-sean m,0,2,6
-william e ii,0,2,12
-michael j,0,2,9
-jeffrey c,0,2,9
+sean,0,2,4
+jeffrey,0,2,7
 eugene,0,2,6
-jack m,0,2,6
-joe b,0,2,5
+jack,0,2,4
+joe,0,2,3
 lowell,0,2,6
-samuel g,0,2,8
-marty b,0,2,7
-emilo,0,2,5
-alex r,0,2,6
-jose,0,2,4
-julio c,0,2,7
 samuel,0,2,6
+marty,0,2,5
+emilo,0,2,5
+alex,0,2,4
+jose,0,2,4
+julio,0,2,5
 zachariah,0,2,9
-edward t,0,2,8
-william a ii,0,2,12
-bracey l,0,2,8
-chris l,0,2,7
+edward,0,2,6
+bracey,0,2,6
+chris,0,2,5
 damion,0,2,6
-robert l,0,2,8
-michael,0,2,7
-tayil a,0,2,7
-hassan m,0,2,8
+tayil,0,2,5
+hassan,0,2,6
 mario,0,2,5
 edwin,0,2,5
 ledar,0,2,5
-robert,0,2,6
-kenneth n,0,2,9
-david j,0,2,7
-angelo f,0,2,8
-jade l,0,2,6
+kenneth,0,2,7
+david,0,2,5
+angelo,0,2,6
+jade,0,2,4
 adam,0,2,4
 antonio,0,2,7
 carlos,0,2,6
-david,0,2,5
-edwin o,0,2,7
 esteban,0,2,7
 george,0,2,6
-johnny jr,0,2,9
-jose j,0,2,6
-jose l,0,2,6
-juan t,0,2,6
-raymond r,0,2,9
+johnny,0,2,6
+juan,0,2,4
+raymond,0,2,7
 sergio,0,2,6
-steven a,0,2,8
-ricardo l,0,2,9
+steven,0,2,6
+ricardo,0,2,7
 faustino,0,2,8
-corey m,0,2,7
-james c,0,2,7
+corey,0,2,5
 christian,0,2,9
-kasey l,0,2,7
-kevin e,0,2,7
+kasey,0,2,5
+kevin,0,2,5
 ,0,2,3
 willie,0,2,6
-scott a,0,2,7
 arm,0,2,3
-billy j,0,2,7
 bryan,0,2,5
 edgardo,0,2,7
-edward g,0,2,8
 emilio,0,2,6
-jaime a,0,2,7
-james e,0,2,7
+jaime,0,2,5
 jesus,0,2,5
 joseph,0,2,6
-juan c,0,2,6
 luis,0,2,4
-manuel d,0,2,8
-manuel e,0,2,8
 maximo,0,2,6
 orl,0,2,3
 osvaldo,0,2,7
-pedro m,0,2,7
-robert a,0,2,8
-victor c,0,2,8
+pedro,0,2,5
+victor,0,2,6
 loisselt,0,2,8
-juan y,0,2,6
-justo r,0,2,7
+justo,0,2,5
 dold,0,2,4
-john m,0,2,6
-adam r,0,2,6
-dave b,0,2,6
-william j,0,2,9
-santos a,0,2,8
-edmund a,0,2,8
-glenn a,0,2,7
-anthony b,0,2,9
-arnold s,0,2,8
-ashley g,0,2,8
-austin c,0,2,8
-brian l,0,2,7
-bruce l,0,2,7
-bryan e,0,2,7
-caleb m,0,2,7
-christopher m,0,2,13
-craig w,0,2,7
-daniel r jr,0,2,11
-david g,0,2,7
-david s,0,2,7
-dean r,0,2,6
-derek l,0,2,7
-duane e,0,2,7
-dustin j,0,2,8
-earl l,0,2,6
-frank l,0,2,7
-gregory l,0,2,9
-harold j,0,2,8
-harry j iv,0,2,10
-james,0,2,5
-james h,0,2,7
-jason c,0,2,7
-jason e,0,2,7
-jason w,0,2,7
-jeffrey d,0,2,9
-jeremiah m,0,2,10
-jesse h,0,2,7
-jesse s,0,2,7
-jimmy e jr,0,2,10
-joel d,0,2,6
-joel s iv,0,2,9
-john d,0,2,6
-john j,0,2,6
-john w,0,2,6
-joseph w,0,2,8
-joshua m,0,2,8
-kenneth,0,2,7
-kenneth e,0,2,9
-kevin r,0,2,7
-klaytin e,0,2,9
-lawrence a,0,2,10
-mark w,0,2,6
-matthew b,0,2,9
-matthew c,0,2,9
-matthew j,0,2,9
-matthew t,0,2,9
-michael a,0,2,9
-michael w,0,2,9
-monte r,0,2,7
-nemo d,0,2,6
-nicolas j,0,2,9
-norman r,0,2,8
+dave,0,2,4
+santos,0,2,6
+edmund,0,2,6
+glenn,0,2,5
+arnold,0,2,6
+ashley,0,2,6
+austin,0,2,6
+brian,0,2,5
+bruce,0,2,5
+caleb,0,2,5
+craig,0,2,5
+daniel,0,2,6
+dean,0,2,4
+derek,0,2,5
+duane,0,2,5
+dustin,0,2,6
+frank,0,2,5
+harold,0,2,6
+harry,0,2,5
+jason,0,2,5
+jeremiah,0,2,8
+jimmy,0,2,5
+joel,0,2,4
+klaytin,0,2,7
+lawrence,0,2,8
+mark,0,2,4
+matthew,0,2,7
+monte,0,2,5
+nemo,0,2,4
+nicolas,0,2,7
+norman,0,2,6
 norm,0,2,4
-paul j,0,2,6
+paul,0,2,4
 phillip,0,2,7
-quentin h jr,0,2,12
-richard d jr,0,2,12
-richard l,0,2,9
-robert e,0,2,8
-roderick e,0,2,10
-ronnie g,0,2,8
-scott d,0,2,7
-shane l,0,2,7
-shane l jr,0,2,10
-thomas l,0,2,8
-timothy d,0,2,9
-timothy m,0,2,9
-todd w,0,2,6
-tracy j,0,2,7
-vonsher jr,0,2,10
-eric l,0,2,6
+quentin,0,2,7
+richard,0,2,7
+roderick,0,2,8
+ronnie,0,2,6
+shane,0,2,5
+thomas,0,2,6
+timothy,0,2,7
+todd,0,2,4
+tracy,0,2,5
+vonsher,0,2,7
 alain,0,2,5
-gordon w,0,2,8
-james jr,0,2,8
-justin p,0,2,8
-mitchell d,0,2,10
-shawn l,0,2,7
-allen d,0,2,7
-michael p,0,2,9
-jesse l,0,2,7
-aaron d,0,2,7
-bobby d,0,2,7
-david l,0,2,7
-franklin j,0,2,10
-gregory a,0,2,9
-herbert l,0,2,9
-jason m,0,2,7
-kenneth r,0,2,9
-lawton c,0,2,8
-michael t,0,2,9
-phillip d iii,0,2,13
-roger d,0,2,7
-shane a,0,2,7
-steven e,0,2,8
-steven l,0,2,8
-thomas m,0,2,8
-travis w,0,2,8
-wayne e,0,2,7
-brian w,0,2,7
-jarod m,0,2,7
-joseph t,0,2,8
-justin t,0,2,8
-wilmer r,0,2,8
-jacob d,0,2,7
-rodney d,0,2,8
-terry a,0,2,7
-william t,0,2,9
-aaron r,0,2,7
+gordon,0,2,6
+mitchell,0,2,8
+shawn,0,2,5
+allen,0,2,5
+aaron,0,2,5
+bobby,0,2,5
+franklin,0,2,8
+herbert,0,2,7
+lawton,0,2,6
+phillip  iii,0,2,12
+roger,0,2,5
+travis,0,2,6
+wayne,0,2,5
+jarod,0,2,5
+wilmer,0,2,6
+rodney,0,2,6
+terry,0,2,5
 alec,0,2,4
 jurel,0,2,5
-marc d,0,2,6
-david n,0,2,7
-jose r,0,2,6
-juan,0,2,4
-mark r,0,2,6
-aziz y jr,0,2,9
+aziz,0,2,4
 morteza,0,2,7
-aaron w,0,2,7
-barry e,0,2,7
-james l,0,2,7
-paul,0,2,4
-shawn p,0,2,7
-troy w,0,2,6
+barry,0,2,5
+troy,0,2,4
 adrian,0,2,6
 eddie,0,2,5
 vincent,0,2,7
 jovan,0,2,5
-travis d,0,2,8
-hector l,0,2,8
-michael z,0,2,9
-daniel w,0,2,8
-frank,0,2,5
+hector,0,2,6
 hayron,0,2,6
-george l,0,2,8
-jesus f,0,2,7
 lazaro,0,2,6
 domingo,0,2,7
-elvin m,0,2,7
-ephraim g,0,2,9
-frankie v jr,0,2,12
+elvin,0,2,5
+ephraim,0,2,7
+frankie,0,2,7
 gerardo,0,2,7
 javier,0,2,6
-jose a,0,2,6
-juan a,0,2,6
-laavi d,0,2,7
+laavi,0,2,5
 nelson,0,2,6
 roberto,0,2,7
-victor,0,2,6
 alej,0,2,4
-javier l,0,2,8
-michael l,0,2,9
-daniel,0,2,6
 reynyer,0,2,7
-felix j,0,2,7
-mitchell a,0,2,10
-erin j,0,2,6
-richard,0,2,7
-jose g,0,2,6
-marc,0,2,4
+felix,0,2,5
+erin,0,2,4
 fern,0,2,4
 martin,0,2,6
-joseph m,0,2,8
-joseph c,0,2,8
-anthony,0,2,7
-cameron a,0,2,9
-paul d,0,2,6
-lynn m,0,2,6
+cameron,0,2,7
+lynn,0,2,4
 qib,0,2,3
-david r,0,2,7
-kenneth f,0,2,9
-steven j,0,2,8
 derick,0,2,6
-thomas,0,2,6
-lee a,0,2,5
-joseph d,0,2,8
+lee,0,2,3
 mathew,0,2,6
-michael b,0,2,9
-royal k,0,2,7
-steven m,0,2,8
-david c,0,2,7
+royal,0,2,5
 saul,0,2,4
 riad,0,2,4
 claude,0,2,6
-darin e,0,2,7
-micah n,0,2,7
-todd,0,2,4
-william a,0,2,9
-gregory j,0,2,9
-anthony j,0,2,9
-christopher d,0,2,13
-jody e,0,2,6
-justin s,0,2,8
-richard a,0,2,9
-rodney r,0,2,8
-shawn t,0,2,7
-john r jr,0,2,9
-john c,0,2,6
-monzir g,0,2,8
+darin,0,2,5
+micah,0,2,5
+jody,0,2,4
+monzir,0,2,6
 said,0,2,4
 etem,0,2,4
-john a,0,2,6
-sergio e,0,2,8
-brian,0,2,5
-emanuel r,0,2,9
-manuel,0,2,6
-juan m,0,2,6
-antonio b,0,2,9
-juan j,0,2,6
-kareem m,0,2,8
+emanuel,0,2,7
 mohmmud,0,2,7
-alex,0,2,4
-eduardo t,0,2,9
-nikko g,0,2,7
-jeffrey j,0,2,9
+eduardo,0,2,7
+nikko,0,2,5
 rodelfo,0,2,7
 olivier,0,2,7
-keith l,0,2,7
-eric b,0,2,6
-shuban l,0,2,8
-allen s,0,2,7
+keith,0,2,5
+shuban,0,2,6
 aquila,0,2,6
-james d,0,2,7
-bryon m,0,2,7
-monty g,0,2,7
-blake d,0,2,7
-christopher h,0,2,13
-johnny l,0,2,8
+bryon,0,2,5
+monty,0,2,5
+blake,0,2,5
 julius,0,2,6
-mark a,0,2,6
-mitchell m,0,2,10
-roger a,0,2,7
-timothy,0,2,7
-toby a,0,2,6
-wade d,0,2,6
-wendell a,0,2,9
+toby,0,2,4
+wade,0,2,4
+wendell,0,2,7
 afner,0,2,5
-jody,0,2,4
-william g jr,0,2,12
 jim,0,2,3
-magdaleno c,0,2,11
-robert j,0,2,8
+magdaleno,0,2,9
 jeremy,0,2,6
-pedro,0,2,5
-angel a,0,2,7
-antonio l,0,2,9
+angel,0,2,5
 rosauro,0,2,7
-alex m,0,2,6
-joshua d,0,2,8
-eduardo,0,2,7
 noel,0,2,4
 chad,0,2,4
-glen a,0,2,6
-gene e,0,2,6
-caleb j,0,2,7
-dess c,0,2,6
-larry g,0,2,7
-nikolus d,0,2,9
-phillip e,0,2,9
-robert s,0,2,8
-tracey c,0,2,8
-troy l,0,2,6
-wayne f,0,2,7
-william jr,0,2,10
+glen,0,2,4
+gene,0,2,4
+dess,0,2,4
+larry,0,2,5
+nikolus,0,2,7
+tracey,0,2,6
 raed,0,2,4
-daniel d,0,2,8
-carl j,0,2,6
-edward v,0,2,8
-levis l,0,2,7
-matthew h,0,2,9
-walter a,0,2,8
-jason g,0,2,7
-mark,0,2,4
-windell j,0,2,9
+carl,0,2,4
+levis,0,2,5
+walter,0,2,6
+windell,0,2,7
 zachary,0,2,7
-thomas t jr,0,2,11
-jose f,0,2,6
-wayne a,0,2,7
 johthan,0,2,7
 alexis,0,2,6
 alfonso,0,2,7
-ariel c,0,2,7
+ariel,0,2,5
 arturo,0,2,6
-jimmy j,0,2,7
-julio,0,2,5
-marvin d,0,2,8
+marvin,0,2,6
 meliton,0,2,7
-ricardo,0,2,7
-miguel o,0,2,8
-roberto c,0,2,9
-angel m,0,2,7
-james p,0,2,7
-richard s ii,0,2,12
-barry,0,2,5
-benjamin m,0,2,10
-billy e,0,2,7
-bryan p,0,2,7
-charles r,0,2,9
-christopher,0,2,11
-daniel l,0,2,8
-garry d,0,2,7
-jake j,0,2,6
-james r,0,2,7
-jerett r,0,2,8
-jothan w,0,2,8
-lawrence e,0,2,10
-marty d,0,2,7
-matthew p,0,2,9
-nicolas,0,2,7
-patrick m,0,2,9
+miguel,0,2,6
+benjamin,0,2,8
+garry,0,2,5
+jake,0,2,4
+jerett,0,2,6
+patrick,0,2,7
 perry,0,2,5
-ray jr,0,2,6
-robert c,0,2,8
-scott m,0,2,7
+ray,0,2,3
 stuart,0,2,6
-tenzin w,0,2,8
-william b,0,2,9
-william c,0,2,9
-williams s,0,2,10
-benjamin p,0,2,10
-steven,0,2,6
-alvin r,0,2,7
-freddy g,0,2,8
-gustavo a,0,2,9
-joel,0,2,4
-charles sr,0,2,10
-abel p,0,2,6
+tenzin,0,2,6
+williams,0,2,8
+alvin,0,2,5
+freddy,0,2,6
+gustavo,0,2,7
+abel,0,2,4
 ernesto,0,2,7
-jorge l,0,2,7
+jorge,0,2,5
 ralph,0,2,5
 shannon,0,2,7
-miguel a,0,2,8
-allen j,0,2,7
-charles l,0,2,9
 kenny,0,2,5
-lawrence p,0,2,10
-richard r,0,2,9
-robert b,0,2,8
-sam s,0,2,5
-terry d,0,2,7
+sam,0,2,3
 willard,0,2,7
-alberto r,0,2,9
+alberto,0,2,7
 afeez,0,2,5
 aleen,0,2,5
 jordan,0,2,6
 rol,0,2,3
-kevin l,0,2,7
-scott v,0,2,7
-mourhaf a,0,2,9
+mourhaf,0,2,7
 gerald,0,2,6
-joey l,0,2,6
-derk l,0,2,6
-arthur t jr,0,2,11
-grover r,0,2,8
-jason d,0,2,7
-michael a jr,0,2,12
-aaron k,0,2,7
-adam s,0,2,6
-antonio j,0,2,9
-bobby j,0,2,7
-brian g,0,2,7
-brian k,0,2,7
-bryan d,0,2,7
-bryan k,0,2,7
-cameron j,0,2,9
-carthel d,0,2,9
-conrad a,0,2,8
-dale r,0,2,6
-daniel b,0,2,8
-david h,0,2,7
-dennis j,0,2,8
-dwight e,0,2,8
-edmund r jr,0,2,11
-eric r,0,2,6
-ernest jr,0,2,9
-ernest m,0,2,8
-eugene a,0,2,8
-eugene p,0,2,8
+joey,0,2,4
+derk,0,2,4
+arthur,0,2,6
+grover,0,2,6
+carthel,0,2,7
+conrad,0,2,6
+dale,0,2,4
+dennis,0,2,6
+dwight,0,2,6
+ernest,0,2,6
 garnet iii,0,2,10
-jack e jr,0,2,9
-jack l,0,2,6
-jacob b,0,2,7
-james r jr,0,2,10
-jarrod r,0,2,8
-jason,0,2,5
-jason b,0,2,7
-jeffery j,0,2,9
-jerry m,0,2,7
-jothan t,0,2,8
-jonothan k,0,2,10
-joseph b,0,2,8
-kasey s,0,2,7
-larry k,0,2,7
-lloyd r,0,2,7
-mark k,0,2,6
-martin m,0,2,8
-mathew t,0,2,8
-matthew d,0,2,9
-patrick l,0,2,9
-preston s,0,2,9
-roger l,0,2,7
-ronnie r,0,2,8
-scottie d,0,2,9
-sean p,0,2,6
-terry g,0,2,7
-timothy b,0,2,9
-toby r,0,2,6
-tyler j,0,2,7
-tyler s,0,2,7
-william m jr,0,2,12
-raymond,0,2,7
-paul r,0,2,6
-edmond d,0,2,8
-jeremy t,0,2,8
-thaniel l,0,2,9
-jerry d,0,2,7
-brian t,0,2,7
-bruce m,0,2,7
-marty l,0,2,7
-john h,0,2,6
-paul a,0,2,6
-jessy j,0,2,7
+jarrod,0,2,6
+jeffery,0,2,7
+jonothan,0,2,8
+lloyd,0,2,5
+preston,0,2,7
+scottie,0,2,7
+tyler,0,2,5
+edmond,0,2,6
+thaniel,0,2,7
+jessy,0,2,5
 samir,0,2,5
-fred w,0,2,6
-gilbert l,0,2,9
-matthew w,0,2,9
+fred,0,2,4
+gilbert,0,2,7
 gabriel,0,2,7
-david a,0,2,7
-julian j,0,2,8
-pablo j,0,2,7
-mohamed s,0,2,9
-gostabo a,0,2,9
+julian,0,2,6
+pablo,0,2,5
+mohamed,0,2,7
+gostabo,0,2,7
 lino,0,2,4
-saverio a,0,2,9
-gustavo,0,2,7
-julio e,0,2,7
-anthony r,0,2,9
-fredrick j,0,2,10
+saverio,0,2,7
+fredrick,0,2,8
 guillermo,0,2,9
-reyldo j,0,2,8
-charles h,0,2,9
-daniel j,0,2,8
+reyldo,0,2,6
 ivan,0,2,4
-elasad j,0,2,8
-mohamad n,0,2,9
-christopher u,0,2,13
-lawrence r,0,2,10
-nicholas r,0,2,10
-robert g,0,2,8
-curt e,0,2,6
-joseph r,0,2,8
+elasad,0,2,6
+mohamad,0,2,7
 nicholas,0,2,8
-wade e,0,2,6
-efren a,0,2,7
-jimmy l,0,2,7
-jose s,0,2,6
-adam d,0,2,6
-adrian a,0,2,8
-azaraias a,0,2,10
-jesus i,0,2,7
+curt,0,2,4
+efren,0,2,5
+azaraias,0,2,8
 lindoro,0,2,7
 than,0,2,4
-limo j jr,0,2,9
-oscar o,0,2,7
+limo,0,2,4
+oscar,0,2,5
 rikardo,0,2,7
-stephen c,0,2,9
-alexis m,0,2,8
-alfred w,0,2,8
-ariel,0,2,5
-bladimir b,0,2,10
+stephen,0,2,7
+alfred,0,2,6
+bladimir,0,2,8
 florencio,0,2,9
-frank f,0,2,7
 gilberto,0,2,8
-gilberto a,0,2,10
-hector,0,2,6
 isaac,0,2,5
 jefferson,0,2,9
-joel e,0,2,6
-jordan p,0,2,8
-jorge r,0,2,7
 josue,0,2,5
 lemuel,0,2,6
-luis g,0,2,6
-luis o,0,2,6
-manuel a,0,2,8
-mario m,0,2,7
-martin j,0,2,8
-osmel m,0,2,7
+osmel,0,2,5
 raydel,0,2,6
 rene,0,2,4
-robert w,0,2,8
 ruben,0,2,5
-ruben jr,0,2,8
-luis a,0,2,6
-miguel,0,2,6
 silidonio,0,2,9
-frank n,0,2,7
-anthony c,0,2,9
-gary e,0,2,6
-alberto i,0,2,9
-dylan l,0,2,7
-jerry,0,2,5
-alfonso j,0,2,9
+dylan,0,2,5
 cesar,0,2,5
-jorge,0,2,5
-jorge d,0,2,7
 ramon,0,2,5
-clarence j,0,2,10
-colton j,0,2,8
+colton,0,2,6
 efrain,0,2,6
-victor m,0,2,8
-joseph p,0,2,8
-vincent p,0,2,9
-marco d,0,2,7
+marco,0,2,5
 nelvis,0,2,6
-nicholas j,0,2,10
 rigoberto,0,2,9
-ira m,0,2,5
-francis j,0,2,9
-larry e,0,2,7
-gene f,0,2,6
-johnny r,0,2,8
-patrick,0,2,7
-jeremy m,0,2,8
-james w,0,2,7
-ernest j,0,2,8
-forrest l,0,2,9
-jeffery m,0,2,9
-loren m,0,2,7
-richard d,0,2,9
-robert a jr,0,2,11
-jose i,0,2,6
-shaw d,0,2,6
-charles p,0,2,9
-dold a jr,0,2,9
-scott e,0,2,7
+ira,0,2,3
+francis,0,2,7
+forrest,0,2,7
+loren,0,2,5
+shaw,0,2,4
 douglas,0,2,7
-thomas k,0,2,8
-thomas r,0,2,8
-dominic g,0,2,9
-lloyd e,0,2,7
-rodney w,0,2,8
-stephen r,0,2,9
-thomas g,0,2,8
-anthony s,0,2,9
+dominic,0,2,7
 akin,0,2,4
-anthony m,0,2,9
-alvaro j,0,2,8
-carlos r,0,2,8
-eduardo o,0,2,9
+alvaro,0,2,6
 eugenio,0,2,7
 silbestre,0,2,9
-marco a,0,2,7
-matrix a,0,2,8
-joseph n,0,2,8
-arthur c,0,2,8
-justin v,0,2,8
-chad m,0,2,6
-mark j ii,0,2,9
-adam m,0,2,6
-anthony p,0,2,9
-arnold l,0,2,8
-brian j,0,2,7
-christopher s,0,2,13
-curt d,0,2,6
-david g jr,0,2,10
-david p,0,2,7
-dean c,0,2,6
-dennis l,0,2,8
-dold c,0,2,6
-douglas w,0,2,9
-duane a,0,2,7
-edward,0,2,6
-eric e,0,2,6
-eric g,0,2,6
-gary d,0,2,6
-gerald t,0,2,8
-hans c,0,2,6
-harold g,0,2,8
-howard s,0,2,8
-ian d,0,2,5
-jace w,0,2,6
-jeffrey s,0,2,9
-john m jr,0,2,9
-john t,0,2,6
-jothan e,0,2,8
-joshua e,0,2,8
-joshua s,0,2,8
-joshua w,0,2,8
-kasper d,0,2,8
-keith a,0,2,7
-kenneth c,0,2,9
-larry l,0,2,7
-lawrence j,0,2,10
-lee e,0,2,5
-lee t,0,2,5
-leslie h,0,2,8
-lucky a,0,2,7
-michael g,0,2,9
-mike d,0,2,6
-paul t,0,2,6
-peter a,0,2,7
-porter j,0,2,8
-richard h,0,2,9
-richard k,0,2,9
-richard m,0,2,9
-richard n,0,2,9
-rodney l,0,2,8
+matrix,0,2,6
+hans,0,2,4
+howard,0,2,6
+ian,0,2,3
+jace,0,2,4
+kasper,0,2,6
+leslie,0,2,6
+lucky,0,2,5
+mike,0,2,4
+porter,0,2,6
 ryan,0,2,4
-sean j,0,2,6
-shane j,0,2,7
-stephen a,0,2,9
-steven p,0,2,8
-steven r,0,2,8
-thomas e,0,2,8
-thomas w ii,0,2,11
-timothy a,0,2,9
-timothy p,0,2,9
-timothy r,0,2,9
-tony d,0,2,6
-wayne d,0,2,7
-wesley j,0,2,8
-johnel r,0,2,8
+tony,0,2,4
+wesley,0,2,6
+johnel,0,2,6
 norberto,0,2,8
 fredy,0,2,5
-pasqualino m,0,2,12
-cody j,0,2,6
-daniel c,0,2,8
-dean d,0,2,6
+pasqualino,0,2,10
+cody,0,2,4
 ines,0,2,4
 lucas,0,2,5
 rafael,0,2,6
 dicky,0,2,5
-antonio m,0,2,9
-julian w,0,2,8
-billy d,0,2,7
-robert p,0,2,8
-dustin k,0,2,8
-edward j,0,2,8
-frederick l,0,2,11
-george s ii,0,2,11
-harold w,0,2,8
-jason a,0,2,7
-jason r,0,2,7
-jeffrey l,0,2,9
-lucian d,0,2,8
-steven d,0,2,8
-william e,0,2,9
-william w,0,2,9
-giovanni a,0,2,10
-peter l jr,0,2,10
-kevin f,0,2,7
-wallace l,0,2,9
-douglas d,0,2,9
-christian j,0,2,11
-jose m,0,2,6
-melvin e,0,2,8
+frederick,0,2,9
+lucian,0,2,6
+giovanni,0,2,8
+wallace,0,2,7
+melvin,0,2,6
 umberto,0,2,7
-arthur j,0,2,8
-john f,0,2,6
-michael c,0,2,9
-phillip m,0,2,9
-robert d jr,0,2,11
-steven w,0,2,8
-toney w,0,2,7
-dold e,0,2,6
-marcas c,0,2,8
-ricky g,0,2,7
-wendell s,0,2,9
-philip a,0,2,8
-michael s,0,2,9
-william p,0,2,9
-james j,0,2,7
-tony w,0,2,6
-wesley f,0,2,8
-shannon s,0,2,9
-stephen n,0,2,9
-thomas j,0,2,8
-edward l,0,2,8
-john g,0,2,6
-james m,0,2,7
+toney,0,2,5
+marcas,0,2,6
+ricky,0,2,5
+philip,0,2,6
 mladen,0,2,6
-gaetano j,0,2,9
-martin s,0,2,8
-glen,0,2,4
-nicolas e,0,2,9
-timothy e,0,2,9
-manuel v,0,2,8
-william s,0,2,9
-johnnie w,0,2,9
-stephen l,0,2,9
-adrien j,0,2,8
+gaetano,0,2,7
+johnnie,0,2,7
+adrien,0,2,6
 gonzalo,0,2,7
-jesus a,0,2,7
-jose d,0,2,6
 reildo,0,2,6
-roberto r,0,2,9
-angel,0,2,5
-steven n,0,2,8
-robert c ii,0,2,11
-brian s,0,2,7
-kevin j,0,2,7
-rold r,0,2,6
-jed a,0,2,5
-roy l,0,2,5
-aaron m,0,2,7
-marvin g,0,2,8
-albert t,0,2,8
-ramon a jr,0,2,10
-gilbert,0,2,7
-benito e,0,2,8
-christian r,0,2,11
-anthony g,0,2,9
-gabriel j,0,2,9
-edenmis a,0,2,9
+rold,0,2,4
+jed,0,2,3
+albert,0,2,6
+benito,0,2,6
+edenmis,0,2,7
 jovany,0,2,6
 ramiro,0,2,6
-jorge m,0,2,7
-allan f,0,2,7
-brian r,0,2,7
-edward o,0,2,8
+allan,0,2,5
 dilean,0,2,6
-edgardo j,0,2,9
 merquiades,0,2,10
-walter,0,2,6
-victor p,0,2,8
-robert f,0,2,8
-leord c,0,2,7
-robin l,0,2,7
-walter e,0,2,8
-sergio d,0,2,8
-justin a,0,2,8
-carl w,0,2,6
-stephen j,0,2,9
-steven b,0,2,8
-aaron,0,2,5
-scott,0,2,5
+leord,0,2,5
+robin,0,2,5
 francisco,0,2,9
 eude,0,2,4
-manuel p,0,2,8
 yosue,0,2,5
-richard j,0,2,9
 josh,0,2,4
-adam c,0,2,6
-fabio l,0,2,7
-gabriel l,0,2,9
-craig a,0,2,7
-manuel h,0,2,8
+fabio,0,2,5
 camilo,0,2,6
 hugo,0,2,4
-bryan a,0,2,7
-joshua l,0,2,8
 ismael,0,2,6
-ramon d,0,2,7
-raymond i,0,2,9
-alexis j,0,2,8
-ryan l,0,2,6
-jose o,0,2,6
-antonio e,0,2,9
-kyle m,0,2,6
-martin a,0,2,8
+kyle,0,2,4
 yariel,0,2,6
-bruce,0,2,5
-jerry r,0,2,7
 jiskly,0,2,6
-benjamin l,0,2,10
-mathew e,0,2,8
-corey i,0,2,7
-ryan p,0,2,6
-sean s,0,2,6
-anthony a,0,2,9
-charles f,0,2,9
 cory,0,2,4
-dean,0,2,4
-edward s jr,0,2,11
-james t,0,2,7
-jamie l,0,2,7
-johnny e,0,2,8
-michael e,0,2,9
+jamie,0,2,5
 morgan,0,2,6
-paul n,0,2,6
-peter f,0,2,7
-robert d,0,2,8
-terry l,0,2,7
-walter d iv,0,2,11
-walter v iii,0,2,12
-carl,0,2,4
+walter  iii,0,2,11
 mihai,0,2,5
-judson w,0,2,8
+judson,0,2,6
 camillo,0,2,7
-jason o,0,2,7
-allen e,0,2,7
-brian m,0,2,7
-clinton j,0,2,9
-dold w,0,2,6
-gerald d,0,2,8
-jack d,0,2,6
-james d iii,0,2,11
-james s,0,2,7
-joshua g,0,2,8
-marcus p,0,2,8
-mervyn p,0,2,8
-raymond e,0,2,9
-shawn m,0,2,7
-stephen v,0,2,9
-thomas b,0,2,8
-timothy w,0,2,9
+clinton,0,2,7
+james  iii,0,2,10
+marcus,0,2,6
+mervyn,0,2,6
 tyrel,0,2,5
-vernon j,0,2,8
-zachary t,0,2,9
-sheldon c,0,2,9
-fidelio j,0,2,9
-pablo,0,2,5
-julian m,0,2,8
+vernon,0,2,6
+sheldon,0,2,7
+fidelio,0,2,7
 kelsey,0,2,6
-william r,0,2,9
-richard c,0,2,9
-ricardo g,0,2,9
 edwardo,0,2,7
-leon m,0,2,6
+leon,0,2,4
 arnulfo,0,2,7
-erick j,0,2,7
-juan r,0,2,6
-bobby l,0,2,7
-matthew g,0,2,9
-richard t,0,2,9
-thomas t,0,2,8
-gary a,0,2,6
+erick,0,2,5
 israel,0,2,6
-gary d jr,0,2,9
-rold,0,2,4
-francisco j,0,2,11
 geronimo iii,0,2,12
-alvin,0,2,5
 junior,0,2,6
-da t,0,2,4
-mark d,0,2,6
-nicholas a,0,2,10
-roger h jr,0,2,10
-roberto a,0,2,9
-charles e,0,2,9
-angel r,0,2,7
 harutyun,0,2,8
 romeo,0,2,5
 margarito,0,2,9
 rogelio,0,2,7
-joseph g,0,2,8
-mark j,0,2,6
-james v,0,2,7
-erick,0,2,5
-edwin b,0,2,7
-orestes j,0,2,9
-osvaldo a,0,2,9
-timothy l,0,2,9
-patrick r,0,2,9
-rold c,0,2,6
-timothy j,0,2,9
-wesley k,0,2,8
-charles,0,2,7
-shawn f,0,2,7
-todd c jr,0,2,9
-darren l,0,2,8
-henry t,0,2,7
-jeffrey,0,2,7
-lance a,0,2,7
-trent c,0,2,7
+orestes,0,2,7
+darren,0,2,6
+henry,0,2,5
+lance,0,2,5
+trent,0,2,5
 markos,0,2,6
-philip,0,2,6
-julius l,0,2,8
-jeremy k,0,2,8
-joseph f,0,2,8
-martin e,0,2,8
-erin,0,2,4
-moises l,0,2,8
-stephen m,0,2,9
-ryan c,0,2,6
-joshua p,0,2,8
-david e,0,2,7
-richard e,0,2,9
-wesley,0,2,6
-eric a,0,2,6
-herbert t,0,2,9
-jeffery c,0,2,9
-johnny p,0,2,8
-kevin,0,2,5
-mark l,0,2,6
-ricky h jr,0,2,10
-seth t,0,2,6
-thurmond j,0,2,10
-deyvis c,0,2,8
-joseph v,0,2,8
-leord m,0,2,7
-stephen,0,2,7
+seth,0,2,4
+thurmond,0,2,8
+deyvis,0,2,6
 dakota,0,2,6
-bryan w,0,2,7
-jason t,0,2,7
-lawrence m,0,2,10
-bryan l,0,2,7
-bruce c,0,2,7
-duane p,0,2,7
-roger,0,2,5
-regild l,0,2,8
-russell w,0,2,9
-tyler,0,2,5
-jon e,0,2,5
-arthur m iii,0,2,12
+regild,0,2,6
+russell,0,2,7
+jon,0,2,3
+arthur  iii,0,2,11
 louis,0,2,5
-frank a,0,2,7
-kenneth p,0,2,9
-clayton e,0,2,9
-dale n,0,2,6
-dold j,0,2,6
-howard w,0,2,8
-justin m,0,2,8
-kevin d,0,2,7
-scott l,0,2,7
-steve jr,0,2,8
-tony e,0,2,6
-gregory s,0,2,9
-daniel s,0,2,8
-gene a,0,2,6
-albert l,0,2,8
-francisco o,0,2,11
-brett m,0,2,7
-jimmie l,0,2,8
-ronnie,0,2,6
+clayton,0,2,7
+steve,0,2,5
+brett,0,2,5
+jimmie,0,2,6
 derrek,0,2,6
-brian c,0,2,7
-james f,0,2,7
-kyle b,0,2,6
-angel jr,0,2,8
-benjamin j,0,2,10
-mauricio g,0,2,10
-noel l,0,2,6
-paulino e,0,2,9
-francisco a,0,2,11
-fabian j,0,2,8
-gabriel a,0,2,9
-nelson jr,0,2,9
-vincent j,0,2,9
+mauricio,0,2,8
+paulino,0,2,7
+fabian,0,2,6
 rodivel,0,2,7
 armond,0,2,6
 tommy,0,2,5
-mahmoud g,0,2,9
+mahmoud,0,2,7
 omar,0,2,4
-albert b,0,2,8
-alberto jr,0,2,10
-brian a,0,2,7
 carmelo,0,2,7
 eliezer,0,2,7
-felix,0,2,5
-harry o,0,2,7
 heriberto,0,2,9
-joshua y,0,2,8
-luis m,0,2,6
-oscar s,0,2,7
-reymond g,0,2,9
+reymond,0,2,7
 valentin,0,2,8
-will h,0,2,6
-pedro j,0,2,7
-jorge i,0,2,7
-raymond d,0,2,9
+will,0,2,4
 dewey,0,2,5
-gregorey m,0,2,10
+gregorey,0,2,8
 layton,0,2,6
-todd a,0,2,6
 merlyn,0,2,6
-thomas w jr,0,2,11
-arthur,0,2,6
-micah s,0,2,7
-philip j,0,2,8
-sam,0,2,3
 bobak,0,2,5
 hubert,0,2,6
-john r,0,2,6
-bryon e jr,0,2,10
-christopher a,0,2,13
-clarence a,0,2,10
-destin d,0,2,8
-roger g,0,2,7
+destin,0,2,6
 dusan,0,2,5
 vasiliy,0,2,7
-toby m,0,2,6
-sergio a,0,2,8
 yoan,0,2,4
-jothan j,0,2,8
-cameron d,0,2,9
 farouk,0,2,6
-christopher p,0,2,13
-christopher t,0,2,13
-kevin c,0,2,7
-joseph a,0,2,8
-stanley a,0,2,9
-brett a,0,2,7
-brian e,0,2,7
-patrick m sr,0,2,12
-alberto,0,2,7
-eddie w,0,2,7
-john k,0,2,6
-marc a,0,2,6
-joshua c,0,2,8
-rudy e,0,2,6
-david t jr,0,2,10
-joseph l,0,2,8
-thomas d,0,2,8
-joshua f,0,2,8
-edward l jr,0,2,11
-larry m,0,2,7
+stanley,0,2,7
+rudy,0,2,4
 clifford,0,2,8
-evan g,0,2,6
-francis,0,2,7
+evan,0,2,4
 rusty,0,2,5
-adam b,0,2,6
-alton e,0,2,7
-billy c jr,0,2,10
-brian d,0,2,7
-britt e,0,2,7
-curtis w,0,2,8
-daniel p,0,2,8
-darrell l,0,2,9
-david k,0,2,7
-douglas e,0,2,9
-dustin s,0,2,8
-jacob m,0,2,7
-joshua a,0,2,8
-joshua r,0,2,8
-kalvin e,0,2,8
-kyle w,0,2,6
-luther a,0,2,8
-matthew a,0,2,9
-matthew s,0,2,9
-nicholas s,0,2,10
-patrick w,0,2,9
-richard p,0,2,9
-rickey l,0,2,8
-ricky,0,2,5
-sam j,0,2,5
-troy,0,2,4
-dwight,0,2,6
-walter c,0,2,8
-christopher j,0,2,13
-gary l,0,2,6
+alton,0,2,5
+britt,0,2,5
+curtis,0,2,6
+darrell,0,2,7
+kalvin,0,2,6
+luther,0,2,6
+rickey,0,2,6
 muhamed,0,2,7
-benjamin r,0,2,10
-berrd r,0,2,7
-billie e,0,2,8
+berrd,0,2,5
+billie,0,2,6
 chance,0,2,6
-clyde r,0,2,7
-corey r,0,2,7
+clyde,0,2,5
 dan,0,2,3
-dannie r,0,2,8
-david w,0,2,7
-dennis r,0,2,8
-dold t,0,2,6
-douglas s,0,2,9
-edwin e,0,2,7
+dannie,0,2,6
 garl,0,2,4
-gary s,0,2,6
-harvey a iii,0,2,12
-jason l,0,2,7
-jeremy a,0,2,8
-jessie l,0,2,8
-jojo r,0,2,6
-kevin m,0,2,7
+harvey  iii,0,2,11
+jessie,0,2,6
+jojo,0,2,4
 lonnie,0,2,6
-marques a,0,2,9
-matthew l,0,2,9
-michael r jr,0,2,12
-nichcolas j,0,2,11
+marques,0,2,7
+nichcolas,0,2,9
 nickolas,0,2,8
-raymond p jr,0,2,12
-richard f jr,0,2,12
-richard l jr,0,2,12
-robin r,0,2,7
-rodney e,0,2,8
-rold d jr,0,2,9
-scott a iii,0,2,11
-sean,0,2,4
-thomas a,0,2,8
-thomas c,0,2,8
+scott  iii,0,2,10
 tylor,0,2,5
-vincent l,0,2,9
-pete e,0,2,6
-imadeddin m,0,2,11
-derrick l,0,2,9
-jeffery a,0,2,9
-robbie n,0,2,8
-anthony n,0,2,9
+pete,0,2,4
+imadeddin,0,2,9
+derrick,0,2,7
+robbie,0,2,6
 dallas,0,2,6
-eric k,0,2,6
-lawrence c,0,2,10
-norman c,0,2,8
-owen h,0,2,6
-phillip c,0,2,9
-robert n,0,2,8
-corey l,0,2,7
-eric w,0,2,6
-homer g,0,2,7
-shannon l,0,2,9
+owen,0,2,4
+homer,0,2,5
 silas,0,2,5
-rudolph m,0,2,9
-thomas h jr,0,2,11
-christopher b,0,2,13
-daniel g,0,2,8
-george w ii,0,2,11
-john b,0,2,6
-john g ii,0,2,9
-joshua h,0,2,8
-rold e,0,2,6
-clinton,0,2,7
-daniel k,0,2,8
-jerry b,0,2,7
-rold w ii,0,2,9
-roy p,0,2,5
-juan e,0,2,6
-jerry p,0,2,7
-kristopher c,0,2,12
-george p,0,2,8
+rudolph,0,2,7
+kristopher,0,2,10
 alexus,0,2,6
-ryan h,0,2,6
-agapito j,0,2,9
+agapito,0,2,7
 zacarias,0,2,8
-victor j,0,2,8
 mourad,0,2,6
-jackie r,0,2,8
-craig,0,2,5
-paul b,0,2,6
-keith e,0,2,7
-mitchell l ii,0,2,13
-william l jr,0,2,12
-charles r iii,0,2,13
-denis e,0,2,7
-carlos f,0,2,8
-samuel a iii,0,2,12
-gary p,0,2,6
-brent a jr,0,2,10
-dwayne l,0,2,8
-herbert b,0,2,9
-howard,0,2,6
-jeffery d,0,2,9
-jeffrey b,0,2,9
-jothan l,0,2,8
-robert w jr,0,2,11
-samuel h,0,2,8
-wesley c,0,2,8
-wilfred a,0,2,9
-steven c,0,2,8
-kevin a,0,2,7
-allan o,0,2,7
-jose c,0,2,6
+jackie,0,2,6
+charles  iii,0,2,12
+denis,0,2,5
+samuel  iii,0,2,11
+brent,0,2,5
+dwayne,0,2,6
+wilfred,0,2,7
 camelot,0,2,7
-bobby,0,2,5
-jose l ii,0,2,9
 hany,0,2,4
-john n,0,2,6
-jesus v,0,2,7
-jeremy s,0,2,8
-paul e jr,0,2,9
-charles b,0,2,9
-waring e,0,2,8
-benjamin k,0,2,10
-bruce a,0,2,7
-david v,0,2,7
-henry a,0,2,7
-james d jr,0,2,10
-jerame c,0,2,8
-jimmy e,0,2,7
-lane r,0,2,6
-leon c,0,2,6
-mark s,0,2,6
-marty r,0,2,7
-michael r,0,2,9
-raymond c jr,0,2,12
-richard b,0,2,9
-shane n,0,2,7
-william h,0,2,9
-david b,0,2,7
-george b,0,2,8
+waring,0,2,6
+jerame,0,2,6
+lane,0,2,4
 dominick,0,2,8
-reyldo p,0,2,8
-bruce o,0,2,7
-henry,0,2,5
-charles m iii,0,2,13
-adam a,0,2,6
-stephen p,0,2,9
-kevin s,0,2,7
-gilberto f,0,2,10
-charles a,0,2,9
-eddie d,0,2,7
-erik c,0,2,6
-chad e,0,2,6
-jordan d,0,2,8
-steve,0,2,5
-michael s jr,0,2,12
-gary m,0,2,6
-john w ii,0,2,9
-john w iii,0,2,10
-johnny,0,2,6
-jothan s,0,2,8
-jonnie r,0,2,8
-sonny l,0,2,7
-richard l iii,0,2,13
-aaron a,0,2,7
-anthony k,0,2,9
-dalton l,0,2,8
-danny l,0,2,7
-dennis a,0,2,8
-dold sr,0,2,7
-dold d,0,2,6
-james h jr,0,2,10
-jimmy a,0,2,7
-john i,0,2,6
-joseph s,0,2,8
-keith b,0,2,7
-kenneth g,0,2,9
-leroy f,0,2,7
-lopaka e,0,2,8
-marvin j,0,2,8
-marvin l,0,2,8
-raymond f,0,2,9
-santi e jr,0,2,10
-wilfred l,0,2,9
-gregory o,0,2,9
-jimmy r,0,2,7
-ld d,0,2,4
-lonnie l jr,0,2,11
+john  iii,0,2,9
+jonnie,0,2,6
+sonny,0,2,5
+richard  iii,0,2,12
+dalton,0,2,6
+danny,0,2,5
+leroy,0,2,5
+lopaka,0,2,6
+santi,0,2,5
 newell,0,2,6
-simon,0,2,5
-dustin l,0,2,8
-norman j,0,2,8
-frank h,0,2,7
-peter r,0,2,7
-roy c jr,0,2,8
-timothy v,0,2,9
-rold j,0,2,6
-cory j,0,2,6
 saxon,0,2,5
 jerrold,0,2,7
-cyril v,0,2,7
-preston w,0,2,9
-jack b,0,2,6
-rafael d,0,2,8
-eric c,0,2,6
-omar j,0,2,6
-elmer j jr,0,2,10
-alberto m,0,2,9
-anthony l,0,2,9
+cyril,0,2,5
+elmer,0,2,5
 noylan,0,2,6
-cody w,0,2,6
-evan e,0,2,6
-frederick m,0,2,11
-lawrence,0,2,8
-raymond s,0,2,9
-ryan n,0,2,6
-sean e,0,2,6
-vincent e,0,2,9
 jose iii,0,2,8
-erick g,0,2,7
-francisco jr,0,2,12
 jay,0,2,3
 claudio,0,2,7
 dennys,0,2,6
 jeremias,0,2,8
 yoel,0,2,4
-anibal jr,0,2,9
-francisco r,0,2,11
-lelton l,0,2,8
-raymond b,0,2,9
-thomas f,0,2,8
-timothy z jr,0,2,12
-hugo q,0,2,6
-dold l,0,2,6
-lester o,0,2,8
-mitchell l,0,2,10
-shawn e,0,2,7
-joe c,0,2,5
-lane,0,2,4
-frank j,0,2,7
-jeremiah,0,2,8
-clayton,0,2,7
-donovan b,0,2,9
-john p,0,2,6
-ralph o,0,2,7
+anibal,0,2,6
+lelton,0,2,6
+lester,0,2,6
+donovan,0,2,7
 geordani,0,2,8
 giorgio,0,2,7
-daniel k jr,0,2,11
-clifford e,0,2,10
-charles v,0,2,9
-gregory a jr,0,2,12
-rudolph j,0,2,9
-travis g,0,2,8
-chas m,0,2,6
-darrell m jr,0,2,12
+chas,0,2,4
 darryl,0,2,6
-kamron l,0,2,8
-rold c sr,0,2,9
-sidney d,0,2,8
-frank p,0,2,7
+kamron,0,2,6
+sidney,0,2,6
 tilakdharry,0,2,11
-brent,0,2,5
-brett z,0,2,7
-camrin z,0,2,8
-christopher a ii,0,2,16
-craig r,0,2,7
-dane a,0,2,6
-devin l,0,2,7
-edward m,0,2,8
-frankie l,0,2,9
-gerald h,0,2,8
-jim a,0,2,5
-kevin b,0,2,7
-kyle d,0,2,6
-leord l,0,2,7
-norman,0,2,6
-phillip l jr,0,2,12
-robert c jr,0,2,11
-shawn,0,2,5
-luther,0,2,6
-theodore a,0,2,10
-wilbert c,0,2,9
-damian r,0,2,8
-rold f,0,2,6
-jorge a,0,2,7
-cody v,0,2,6
-jordan l,0,2,8
-arthur f,0,2,8
-wayne,0,2,5
-del l,0,2,5
-james e jr,0,2,10
-paul s,0,2,6
-travis l,0,2,8
-douglas m,0,2,9
-dennis,0,2,6
-gregorio g,0,2,10
-junior j,0,2,8
+camrin,0,2,6
+devin,0,2,5
+theodore,0,2,8
+wilbert,0,2,7
+damian,0,2,6
+del,0,2,3
+gregorio,0,2,8
 mahe,0,2,4
-reyldo,0,2,6
 reytel,0,2,6
-charles w,0,2,9
-neil h,0,2,6
-erick l,0,2,7
-bob c,0,2,5
-kyle s,0,2,6
-george a,0,2,8
-dennis d,0,2,8
-arnie a,0,2,7
-curtis a,0,2,8
-deron j,0,2,7
-erich m jr,0,2,10
-chad c,0,2,6
-jeffrey m,0,2,9
-mark f,0,2,6
-william k,0,2,9
-hugh s,0,2,6
-larry a,0,2,7
-earl,0,2,4
-eddie l,0,2,7
-jimmy d,0,2,7
-jesse,0,2,5
-jorge j,0,2,7
-noe e,0,2,5
-victor l,0,2,8
-jeremy j,0,2,8
-baxter e,0,2,8
-eric m,0,2,6
-brant c,0,2,7
-brigham r,0,2,9
-byron n,0,2,7
-clinton s,0,2,9
-adam j,0,2,6
-rold l,0,2,6
-russell w jr,0,2,12
-thomas p,0,2,8
-hayden m,0,2,8
-patrick j,0,2,9
-derek j,0,2,7
-ross b,0,2,6
-jeffrey a,0,2,9
-omar a,0,2,6
-oscar,0,2,5
+neil,0,2,4
+bob,0,2,3
+arnie,0,2,5
+deron,0,2,5
+erich,0,2,5
+hugh,0,2,4
+noe,0,2,3
+baxter,0,2,6
+brant,0,2,5
+brigham,0,2,7
+byron,0,2,5
+hayden,0,2,6
+ross,0,2,4
 ulice,0,2,5
-samie a,0,2,7
-mitchell v,0,2,10
-ryan k,0,2,6
-danny r,0,2,7
-tod w,0,2,5
-david f,0,2,7
+samie,0,2,5
+tod,0,2,3
 dyl,0,2,3
-james g,0,2,7
-joe h jr,0,2,8
-rocky a,0,2,7
-christopher w,0,2,13
-dold r jr,0,2,9
-george k jr,0,2,11
-harold,0,2,6
-jason j,0,2,7
-john l,0,2,6
-rold d,0,2,6
-roy d,0,2,5
-charles s,0,2,9
+rocky,0,2,5
 delbert,0,2,7
-larry r,0,2,7
-christopher e,0,2,13
-edward s,0,2,8
-joseph e,0,2,8
-larry d,0,2,7
-aaron s,0,2,7
-jothan h,0,2,8
-kenneth w jr,0,2,12
-bryan m,0,2,7
-alton s,0,2,7
-bobby r,0,2,7
-bryan t,0,2,7
 chester,0,2,7
-glenn c jr,0,2,10
-jerry a sr,0,2,10
-jesse r,0,2,7
-johthon a,0,2,9
-marcus d,0,2,8
-robert e sr,0,2,11
-roger f,0,2,7
-rold t,0,2,6
-steven h,0,2,8
-robert a ii,0,2,11
-cameron,0,2,7
-edwin h,0,2,7
-johthon c,0,2,9
-roy e jr,0,2,8
-wade s,0,2,6
+johthon,0,2,7
 ron,0,2,3
-jothan d,0,2,8
-jesse j,0,2,7
-matthew,0,2,7
-carl l,0,2,6
-jeremiah e,0,2,10
-floyd l jr,0,2,10
-rick e,0,2,6
-lazaro c,0,2,8
-carl a jr,0,2,9
-david m,0,2,7
-glen ii,0,2,7
-malcom j,0,2,8
-melvin l,0,2,8
-roy k,0,2,5
-thomas a ii,0,2,11
-dwayne r,0,2,8
-mathew s,0,2,8
-shawn d,0,2,7
-roger j,0,2,7
+floyd,0,2,5
+rick,0,2,4
+malcom,0,2,6
 sampson,0,2,7
-thaniel s,0,2,9
-herbert h iii,0,2,13
-justin,0,2,6
+herbert  iii,0,2,12
 terrell,0,2,7
-aaron c,0,2,7
-john d jr,0,2,9
-peter j,0,2,7
-marc l,0,2,6
-michael e jr,0,2,12
-robbie s,0,2,8
-jimmy,0,2,5
-juan d,0,2,6
-walter d,0,2,8
-johthan d,0,2,9
-jeremy e,0,2,8
-jason n,0,2,7
-matthew r,0,2,9
-eugene j,0,2,8
-jack s,0,2,6
-jesse c,0,2,7
-nicholas w,0,2,10
-gregory t,0,2,9
-jared l,0,2,7
-james q,0,2,7
-raymond p,0,2,9
+jared,0,2,5
 omer,0,2,4
-daniel j sr,0,2,11
-jeffory l,0,2,9
-mikell p,0,2,8
-shane,0,2,5
-vernon d sr,0,2,11
-jacob a,0,2,7
-edward a,0,2,8
-thaniel a,0,2,9
-christian b,0,2,11
+jeffory,0,2,7
+mikell,0,2,6
 maykel,0,2,6
-alex p,0,2,6
-jason f,0,2,7
-clinton w,0,2,9
-denmar sr,0,2,9
-denmar g jr,0,2,11
-roger d jr,0,2,10
-daniel m,0,2,8
-curtis d,0,2,8
-rayburn g,0,2,9
-gary,0,2,4
-arnold,0,2,6
-dennis c,0,2,8
-douglas j,0,2,9
-hubert j,0,2,8
-johnny w,0,2,8
-kyle r,0,2,6
-lymon d,0,2,7
-reedus w,0,2,8
-richard a jr,0,2,12
-stephen d,0,2,9
-tavis l,0,2,7
-jacob s,0,2,7
-kyle j,0,2,6
-brooks j,0,2,8
-justin d,0,2,8
-forrest s,0,2,9
-johnnie d,0,2,9
-edward j jr,0,2,11
-frank e,0,2,7
-james a ii,0,2,10
-alfred l ii,0,2,11
-jackie b jr,0,2,11
-tony,0,2,4
-joshua b,0,2,8
-sean c,0,2,6
-crescencio c,0,2,12
-ralph f,0,2,7
-mauricio,0,2,8
+denmar,0,2,6
+rayburn,0,2,7
+lymon,0,2,5
+reedus,0,2,6
+tavis,0,2,5
+brooks,0,2,6
+crescencio,0,2,10
 jean,0,2,4
-craig t,0,2,7
-berrd,0,2,5
-malacai r,0,2,9
+malacai,0,2,7
 abemar,0,2,6
 tinmoteo,0,2,8
-erik j,0,2,6
-raul r,0,2,6
-sergio v,0,2,8
-jeremy l,0,2,8
-richard s,0,2,9
+raul,0,2,4
 stanislav,0,2,9
-rick j,0,2,6
-gerardo l,0,2,9
-derek w,0,2,7
 yuniel,0,2,6
-brian h,0,2,7
-john j jr,0,2,9
-jose e,0,2,6
-hector m,0,2,8
 igcio,0,2,5
-nestor j,0,2,8
-osvaldo jr,0,2,10
-raymond j,0,2,9
-santos jr,0,2,9
+nestor,0,2,6
 sigifredo,0,2,9
-pedro jr,0,2,8
-jeffery l,0,2,9
-adam w,0,2,6
-allen t,0,2,7
-barry j,0,2,7
-bradley h,0,2,9
+bradley,0,2,7
 brantley,0,2,8
-calbren l,0,2,9
-chance t,0,2,8
-charles c,0,2,9
-chase d,0,2,7
-craig a jr,0,2,10
-darren c,0,2,8
-dold r,0,2,6
-gary s jr,0,2,9
-glenn w,0,2,7
-grant w,0,2,7
-gregory a ii,0,2,12
-jarrett v,0,2,9
-jeff w,0,2,6
-jeffery s,0,2,9
-jeremy w,0,2,8
-jon,0,2,3
-kenneth s,0,2,9
-lyle f iii,0,2,10
-phillip a iii,0,2,13
-travis,0,2,6
-tyson j sr,0,2,10
-william f jr,0,2,12
-zachary f,0,2,9
-aaron p,0,2,7
-tyler a,0,2,7
-wesley e,0,2,8
+calbren,0,2,7
+chase,0,2,5
+grant,0,2,5
+jarrett,0,2,7
+jeff,0,2,4
+lyle  iii,0,2,9
+tyson,0,2,5
 augustine,0,2,9
-kris w,0,2,6
-eddy r,0,2,6
-george h,0,2,8
-anthony w,0,2,9
-jothon b,0,2,8
-joseph j,0,2,8
-ross d,0,2,6
-gerald r,0,2,8
-payton d,0,2,8
-george f,0,2,8
-matthew v,0,2,9
-edward c,0,2,8
+kris,0,2,4
+eddy,0,2,4
+jothon,0,2,6
+payton,0,2,6
 gustave,0,2,7
-charles w jr,0,2,12
-langston p,0,2,10
-brett b,0,2,7
-spencer j,0,2,9
-dwight d,0,2,8
-kiley b,0,2,7
-gorden c,0,2,8
-gregorio,0,2,8
-joshua n,0,2,8
-jared w,0,2,7
-shawn a,0,2,7
-jason s,0,2,7
-erik l,0,2,6
-zhenya v,0,2,8
-matthew e,0,2,9
-than j,0,2,6
-todd j,0,2,6
-fred v,0,2,6
-christopher k,0,2,13
-ryan s,0,2,6
-harold s,0,2,8
+langston,0,2,8
+spencer,0,2,7
+kiley,0,2,5
+gorden,0,2,6
+zhenya,0,2,6
 shelly,0,2,6
-danny jr,0,2,8
-alexangel d,0,2,11
-george m,0,2,8
-gregorio f,0,2,10
-jesus s,0,2,7
+alexangel,0,2,9
 eris,0,2,4
 oriel,0,2,5
-adrian m,0,2,8
-edwin c,0,2,7
-hector v,0,2,8
-prometeo e,0,2,10
-frederick e iii,0,2,15
-david t,0,2,7
-dold a,0,2,6
-bobby a,0,2,7
-derek r,0,2,7
-francis l jr,0,2,12
-michael k,0,2,9
+prometeo,0,2,8
+frederick  iii,0,2,14
 octavio,0,2,7
-kermit j,0,2,8
-alvin w,0,2,7
-joshua j,0,2,8
-kenneth a,0,2,9
-ryan e,0,2,6
-scotty l,0,2,8
-william s jr,0,2,12
-bobby j iii,0,2,11
-michael h,0,2,9
-carlos g,0,2,8
-arthur l,0,2,8
-leo r,0,2,5
-efren jr,0,2,8
-mickey p,0,2,8
-james n,0,2,7
-mahmoud d,0,2,9
-allie c,0,2,7
-derick a,0,2,8
+kermit,0,2,6
+scotty,0,2,6
+bobby  iii,0,2,10
+leo,0,2,3
+mickey,0,2,6
+allie,0,2,5
 lloyd iii,0,2,9
-shiloh a,0,2,8
+shiloh,0,2,6
 erwin,0,2,5
 agustin,0,2,7
-hector e,0,2,8
 hern,0,2,4
-lazaro a,0,2,8
-nelson f,0,2,8
-pascual e,0,2,9
-brant s,0,2,7
-raymond l,0,2,9
-jay m,0,2,5
+pascual,0,2,7
 drew,0,2,4
-leo c jr,0,2,8
-dale k,0,2,6
-roy n,0,2,5
-heith a,0,2,7
-gregory m,0,2,9
-alex s,0,2,6
-arthur b,0,2,8
-jack l jr,0,2,9
-robert h,0,2,8
-philip d,0,2,8
-ross,0,2,4
-travis p,0,2,8
-william t jr,0,2,12
+heith,0,2,5
 kadri,0,2,5
-john h jr,0,2,9
-zachary m,0,2,9
-david d,0,2,7
-richard v,0,2,9
-alain m,0,2,7
-joseph h,0,2,8
-giovan b,0,2,8
-john f iii,0,2,10
+giovan,0,2,6
 trenton,0,2,7
-willie a,0,2,8
-alfredo d,0,2,9
-charles jr,0,2,10
-rodney,0,2,6
-jeremy c,0,2,8
-kenneth a iii,0,2,13
-gerald a,0,2,8
-john a jr,0,2,9
-lukues l,0,2,8
-wilford l,0,2,9
-cory l,0,2,6
-bradley e,0,2,9
-kristopher,0,2,10
-jothon h,0,2,8
-howard a,0,2,8
-steven s,0,2,8
+alfredo,0,2,7
+kenneth  iii,0,2,12
+lukues,0,2,6
+wilford,0,2,7
 barid,0,2,5
-jamie a,0,2,7
 coy,0,2,3
-dwelly m,0,2,8
-ernest,0,2,6
-raymond jr,0,2,10
-tylor t,0,2,7
-daniel h,0,2,8
-saul e,0,2,6
-brendan m,0,2,9
-lonnie c,0,2,8
-dwight c,0,2,8
-zachary s,0,2,9
-gerald j,0,2,8
-donovan w,0,2,9
-phillip e jr,0,2,12
-philip w,0,2,8
-thomas v,0,2,8
-gregory c,0,2,9
-richard f,0,2,9
-justin k,0,2,8
-richard w,0,2,9
-tony p,0,2,6
+dwelly,0,2,6
+brendan,0,2,7
 lorenc,0,2,6
-roy a,0,2,5
-dean a,0,2,6
-henry h iii,0,2,11
-daryl s,0,2,7
+henry  iii,0,2,10
+daryl,0,2,5
 edger,0,2,5
-troy g,0,2,6
-paul e,0,2,6
-darvin m,0,2,8
-daniel t,0,2,8
-jotha w,0,2,7
-bart m,0,2,6
-danny e,0,2,7
-drew k,0,2,6
-dustin,0,2,6
-dustin r,0,2,8
+darvin,0,2,6
+jotha,0,2,5
+bart,0,2,4
 guy,0,2,3
-homer j,0,2,7
-hosston c,0,2,9
-jasen c,0,2,7
-jordon m,0,2,8
-kenneth w,0,2,9
+hosston,0,2,7
+jasen,0,2,5
+jordon,0,2,6
 richard iii,0,2,11
-ronnie l,0,2,8
-rory b,0,2,6
-russell b,0,2,9
-ryan a,0,2,6
-samuel w,0,2,8
-scott j,0,2,7
-slade r,0,2,7
-stephan m,0,2,9
-troy c,0,2,6
-walter h,0,2,8
-wayne r,0,2,7
-javier a,0,2,8
-jerry e jr,0,2,10
-roy i jr,0,2,8
-sheppard m,0,2,10
-aaron b,0,2,7
-albert p,0,2,8
-kyle e,0,2,6
-roderick a,0,2,10
-mario c,0,2,7
-chase s,0,2,7
-darrell a,0,2,9
-johthan b,0,2,9
-jessie j,0,2,8
-glenn l,0,2,7
-edward r,0,2,8
-henry e iii,0,2,11
-maxwell g,0,2,9
-walter l,0,2,8
-timothy c,0,2,9
-fred r,0,2,6
-gerald m,0,2,8
-larry l jr,0,2,10
-daniel r,0,2,8
-timothy s,0,2,9
-alan d,0,2,6
-daniel a,0,2,8
-delma m,0,2,7
-derrick,0,2,7
-jesse m,0,2,7
-roy r,0,2,5
-vasten e,0,2,8
-shane p,0,2,7
-kenneth r jr,0,2,12
-larry,0,2,5
-robert i jr,0,2,11
-freddy d,0,2,8
-travis s,0,2,8
-dick r,0,2,6
-william n,0,2,9
-jeffrey p,0,2,9
-terry k,0,2,7
-todd m,0,2,6
-zachary g,0,2,9
-angel l,0,2,7
+rory,0,2,4
+slade,0,2,5
+stephan,0,2,7
+sheppard,0,2,8
+maxwell,0,2,7
+alan,0,2,4
+delma,0,2,5
+vasten,0,2,6
+dick,0,2,4
 angelou,0,2,7
-emmanuel j,0,2,10
-michael m,0,2,9
+emmanuel,0,2,8
 michell,0,2,7
-oscar l,0,2,7
-regino p,0,2,8
-ricardo f,0,2,9
-ruben e,0,2,7
-william m,0,2,9
-jacob c,0,2,7
-christian m,0,2,11
-mitchell c,0,2,10
-mark c,0,2,6
-ryan r,0,2,6
-jared,0,2,5
+regino,0,2,6
 kyler,0,2,5
-jeffery l jr,0,2,12
-barry n,0,2,7
-ricardo r,0,2,9
-barak a,0,2,7
-samuel r,0,2,8
-ervin l,0,2,7
-harley b sr,0,2,11
-jeffrey a jr,0,2,12
-than t,0,2,6
-kevin w,0,2,7
-james c jr,0,2,10
-christopher c,0,2,13
+barak,0,2,5
+ervin,0,2,5
+harley,0,2,6
 lewis,0,2,5
-joey m,0,2,6
-noah t,0,2,6
-kenneth o,0,2,9
-dalton c,0,2,8
-mark e,0,2,6
-david r iii,0,2,11
-eugene g,0,2,8
-travis m,0,2,8
-trent n,0,2,7
-rusty b,0,2,7
-leo l,0,2,5
-george e,0,2,8
-houston a,0,2,9
-colin d,0,2,7
-judson a,0,2,8
-roger m,0,2,7
-bill m,0,2,6
-riordan e,0,2,9
-chad a,0,2,6
-ryan f,0,2,6
-paul w,0,2,6
+noah,0,2,4
+david  iii,0,2,10
+houston,0,2,7
+colin,0,2,5
+bill,0,2,4
+riordan,0,2,7
 vince,0,2,5
-clint e,0,2,7
-john jr,0,2,7
-william f,0,2,9
-leord,0,2,5
-carlos a,0,2,8
-robert m,0,2,8
-hugh f,0,2,6
-nicholas d,0,2,10
-lazaro d,0,2,8
-cory a,0,2,6
-bert l,0,2,6
-bryan s,0,2,7
-kenneth ii,0,2,10
-taylor j,0,2,8
-robert t jr,0,2,11
-william v,0,2,9
-cody c,0,2,6
-wayne c,0,2,7
-darrell s,0,2,9
-trey a,0,2,6
-bradley w,0,2,9
-jothan m,0,2,8
-morgan a,0,2,8
-daniel e,0,2,8
+clint,0,2,5
+bert,0,2,4
+taylor,0,2,6
+trey,0,2,4
 elton,0,2,5
-jon m,0,2,5
-destin j,0,2,8
-melvin,0,2,6
-roy g,0,2,5
-jackie j,0,2,8
-kori n,0,2,6
-kyle,0,2,4
-oscar r jr,0,2,10
-terrance a,0,2,10
-kyle o,0,2,6
-timothy h,0,2,9
-gerald f,0,2,8
-jeremy p,0,2,8
-dusty t,0,2,7
-carl d,0,2,6
-dustin a,0,2,8
-jerry w jr,0,2,10
-john e,0,2,6
-labruce l,0,2,9
-lee,0,2,3
+kori,0,2,4
+terrance,0,2,8
+dusty,0,2,5
+labruce,0,2,7
 sacha,0,2,5
-stewart c,0,2,9
-howard b,0,2,8
-brenton a,0,2,9
-pedro l,0,2,7
+stewart,0,2,7
+brenton,0,2,7
 shaun,0,2,5
-charles m,0,2,9
 marcos,0,2,6
-stuart e,0,2,8
 rodrigo,0,2,7
-jay d,0,2,5
-roy h,0,2,5
-noe,0,2,3
-billy l,0,2,7
-harold r,0,2,8
-richard s jr,0,2,12
-rold w jr,0,2,9
-ernest k,0,2,8
-jeremy l jr,0,2,11
-jesse j jr,0,2,10
-wyman r,0,2,7
-zachary j,0,2,9
-bryce a,0,2,7
-algie l,0,2,7
+wyman,0,2,5
+bryce,0,2,5
+algie,0,2,5
 audie,0,2,5
-benigno jr,0,2,10
-brett,0,2,5
-felipe d,0,2,8
-caleb a,0,2,7
+benigno,0,2,7
+felipe,0,2,6
 abello,0,2,6
-hector r,0,2,8
-jarod l,0,2,7
-albert,0,2,6
-thymithy a,0,2,10
-orestes,0,2,7
-isaac j,0,2,7
+thymithy,0,2,8
 paulo,0,2,5
-michael f,0,2,9
-paul c,0,2,6
-david a jr,0,2,10
-jothan c,0,2,8
-justin w,0,2,8
-galen n,0,2,7
-jeffrey w,0,2,9
-roger b,0,2,7
-tihomir k,0,2,9
-patrick a jr,0,2,12
-ricky w,0,2,7
-rodney a,0,2,8
-louis f,0,2,7
+galen,0,2,5
+tihomir,0,2,7
 ben,0,2,3
-matthew m,0,2,9
-rold a,0,2,6
-travis r,0,2,8
-louis j,0,2,7
-jason p,0,2,7
-james b,0,2,7
 kenrd iii,0,2,9
-brendon j,0,2,9
-joseph m jr,0,2,11
+brendon,0,2,7
 jamal,0,2,5
-bradley,0,2,7
-neil j,0,2,6
-tommy r,0,2,7
-kenneth m,0,2,9
-benjamin g jr,0,2,13
-byron l,0,2,7
-darol d,0,2,7
-rold w,0,2,6
-gregory w,0,2,9
-steven k,0,2,8
-terry j,0,2,7
-carl k,0,2,6
+darol,0,2,5
 sasha,0,2,5
-earl t,0,2,6
-floyd w,0,2,7
-herbert j,0,2,9
-mitchell,0,2,8
-edwin l,0,2,7
-kristopher m,0,2,12
-douglas k,0,2,9
-ian m,0,2,5
-chase m,0,2,7
-tommy l,0,2,7
-wilburn c,0,2,9
-benjamin s,0,2,10
-cory r,0,2,6
-david w ii,0,2,10
-dusty l,0,2,7
-elmer k,0,2,7
-rold h,0,2,6
-zachary r,0,2,9
-noah e,0,2,6
-ryan m,0,2,6
-carey j,0,2,7
-cassidy w,0,2,9
-gregory e,0,2,9
-kelly s,0,2,7
-raymond a,0,2,9
-reb s,0,2,5
-seth z,0,2,6
-shawn r,0,2,7
-tracy g,0,2,7
-clay e iii,0,2,10
-floyd e iii,0,2,11
-pete,0,2,4
-regild d,0,2,8
-tony a,0,2,6
-tyler m,0,2,7
-travis e,0,2,8
-bronson g,0,2,9
-joe a,0,2,5
-scotty d,0,2,8
+wilburn,0,2,7
+carey,0,2,5
+cassidy,0,2,7
+kelly,0,2,5
+reb,0,2,3
+clay  iii,0,2,9
+floyd  iii,0,2,10
+bronson,0,2,7
 budwin,0,2,6
-troy m,0,2,6
 damien,0,2,6
-jeffrey r,0,2,9
-thomas r iii,0,2,12
-mark o,0,2,6
-david n jr,0,2,10
-teddy l,0,2,7
-jothan g,0,2,8
-dennis m,0,2,8
-jackie l,0,2,8
-justin r,0,2,8
-gary t,0,2,6
-jeff d,0,2,6
-wesley h,0,2,8
-dale a,0,2,6
-derek a,0,2,7
-rickie j,0,2,8
-sean l,0,2,6
-wardon e,0,2,8
-harold t,0,2,8
-russell,0,2,7
-colton,0,2,6
-keith t,0,2,7
-paul l,0,2,6
-shanondoah d,0,2,12
-christopher v,0,2,13
-jeff m,0,2,6
-milton j,0,2,8
-justin j,0,2,8
-steve s,0,2,7
-eric s,0,2,6
-jack,0,2,4
-wesley w,0,2,8
-louis d,0,2,7
-cheyne a,0,2,8
-chad t,0,2,6
-danny,0,2,5
-allen,0,2,5
-chad m jr,0,2,9
-donovan l,0,2,9
-phillip t,0,2,9
-kenneth l,0,2,9
-tracy d,0,2,7
-karl p,0,2,6
-chadwick d,0,2,10
-benjamin a,0,2,10
-jeffry m,0,2,8
-sidney w,0,2,8
-charles g,0,2,9
-richard o ii,0,2,12
-jeffery,0,2,7
-josh w,0,2,6
-kobe j,0,2,6
-alan m,0,2,6
-archie l jr,0,2,11
-bishop a,0,2,8
-blake g,0,2,7
-bryan f,0,2,7
-garris a,0,2,8
-woodraw r,0,2,9
-bryan d sr,0,2,10
-leo c,0,2,5
-arold w,0,2,7
-jared s,0,2,7
+thomas  iii,0,2,11
+teddy,0,2,5
+rickie,0,2,6
+wardon,0,2,6
+shanondoah,0,2,10
+milton,0,2,6
+cheyne,0,2,6
+karl,0,2,4
+chadwick,0,2,8
+jeffry,0,2,6
+kobe,0,2,4
+archie,0,2,6
+bishop,0,2,6
+garris,0,2,6
+woodraw,0,2,7
+arold,0,2,5
 damaso,0,2,6
 gumersindo,0,2,10
 idanio,0,2,6
-pedro a,0,2,7
-artemio p,0,2,9
-julian,0,2,6
-christopher g,0,2,13
-willie jr,0,2,9
-kelvin m,0,2,8
-zachary a,0,2,9
-herbert h,0,2,9
-timothy e jr,0,2,12
-billy e jr,0,2,10
-fredrick,0,2,8
-emanuel j,0,2,9
-jody d,0,2,6
-alburn l,0,2,8
-steve a,0,2,7
-garry l,0,2,7
-raymond w,0,2,9
-darrell m,0,2,9
-jamison m,0,2,9
-gary b,0,2,6
-skyler c,0,2,8
-murray a,0,2,8
+artemio,0,2,7
+kelvin,0,2,6
+alburn,0,2,6
+jamison,0,2,7
+skyler,0,2,6
+murray,0,2,6
 homar,0,2,5
-albert e,0,2,8
-frank jr,0,2,8
-keith m,0,2,7
-josh m,0,2,6
-bennie m ii,0,2,11
-gerald c,0,2,8
-jeremy r,0,2,8
-patrick a,0,2,9
-phillip d,0,2,9
-ross v,0,2,6
-samuel a,0,2,8
-steven i,0,2,8
-john iv,0,2,7
-morris d,0,2,8
-tyler n,0,2,7
-darren j,0,2,8
-bryan b,0,2,7
-david w jr,0,2,10
-edwin m,0,2,7
-casey a,0,2,7
-dustin d,0,2,8
-wesley a,0,2,8
-russell e,0,2,9
-stacy w,0,2,7
-dillon j,0,2,8
-wallace g,0,2,9
-irby d,0,2,6
-adrien c,0,2,8
-dion l,0,2,6
-virgil l,0,2,8
-austin p,0,2,8
-rex j,0,2,5
-darrell,0,2,7
-marvin w,0,2,8
-bradley c,0,2,9
-taylor k,0,2,8
-juan p,0,2,6
-eric j,0,2,6
-juan a jr,0,2,9
-jerry t,0,2,7
-kolby c,0,2,7
-cory m,0,2,6
-leon j,0,2,6
-antonio t,0,2,9
+bennie,0,2,6
+morris,0,2,6
+casey,0,2,5
+stacy,0,2,5
+dillon,0,2,6
+irby,0,2,4
+dion,0,2,4
+virgil,0,2,6
+rex,0,2,3
+kolby,0,2,5
 evisl,0,2,5
-jorge f,0,2,7
-luis r,0,2,6
-ricardo a,0,2,9
-danny c,0,2,7
-jeffrey r jr,0,2,12
-kinchen t,0,2,9
-tross o,0,2,7
-earl s,0,2,6
-johnnie m,0,2,9
-adrian c,0,2,8
-dalton r,0,2,8
-peter m,0,2,7
-robert l ii,0,2,11
-silas e,0,2,7
-albert r iv,0,2,11
-ramon j,0,2,7
+kinchen,0,2,7
+tross,0,2,5
 roman,0,2,5
-arley j iii,0,2,11
-bruce n,0,2,7
-harry e jr,0,2,10
-jared c,0,2,7
-preston a,0,2,9
-wade o jr,0,2,9
-salomon v,0,2,9
-wade n,0,2,6
-joshua t,0,2,8
-eillis d,0,2,8
-shawne d,0,2,8
-walter j iii,0,2,12
-stephen s,0,2,9
-jeff l jr,0,2,9
-perry f,0,2,7
-ricky j,0,2,7
-larry d jr,0,2,10
-romano a,0,2,8
-roy e,0,2,5
-clyde,0,2,5
+arley  iii,0,2,10
+salomon,0,2,7
+eillis,0,2,6
+shawne,0,2,6
+romano,0,2,6
 dru,0,2,3
-angel d,0,2,7
-clinton e jr,0,2,12
-dale m jr,0,2,9
-franklin,0,2,8
-homer f,0,2,7
-jefferson e,0,2,11
-joe j,0,2,5
-rickey m,0,2,8
-shloh m,0,2,7
-dallas s,0,2,8
-bruce e jr,0,2,10
-shaun r jr,0,2,10
-jeffrie a ii,0,2,12
+shloh,0,2,5
+jeffrie,0,2,7
 beau,0,2,4
-harold n,0,2,8
-jon b,0,2,5
-john v,0,2,6
-roy a jr,0,2,8
-stephen w,0,2,9
-casey r,0,2,7
-royce c,0,2,7
-aubrey mari c jr,0,2,16
-austin t,0,2,8
-benjamin n,0,2,10
-billy b,0,2,7
-bradley p,0,2,9
-brian d jr,0,2,10
-carl t,0,2,6
-carlos m,0,2,8
-charles n,0,2,9
-clayton m,0,2,9
-clifton r,0,2,9
-colby a,0,2,7
-curly w iii,0,2,11
-curtis c,0,2,8
-curtis j jr,0,2,11
-curtis r,0,2,8
-dale,0,2,4
-danny f,0,2,7
-danny k,0,2,7
-darren b,0,2,8
-dekon d,0,2,7
-derek s,0,2,7
-dold m,0,2,6
-dold v,0,2,6
-dovon w,0,2,7
-doni r,0,2,6
-donovan m,0,2,9
-douglas r,0,2,9
-earl a,0,2,6
-edward d,0,2,8
-emmett j,0,2,8
-franklin a,0,2,10
-frazier t iii,0,2,13
-frederick,0,2,9
-galeon e iii,0,2,12
-garrett l,0,2,9
-george r,0,2,8
-hubert v,0,2,8
-isaiah y,0,2,8
-jeremy d,0,2,8
-jerome d,0,2,8
-jesse g,0,2,7
-jon a,0,2,5
-jothan a,0,2,8
-joseph w jr,0,2,11
-keith o,0,2,7
-kenneth j,0,2,9
-kenneth l jr,0,2,12
-kevin t,0,2,7
-larry s,0,2,7
-leroy,0,2,5
-lester e,0,2,8
-mickey d,0,2,8
-miles l,0,2,7
-miller c,0,2,8
-mitchell r,0,2,10
-monte d,0,2,7
-oliver d,0,2,8
-philip a ii,0,2,11
-ralph e,0,2,7
-rance e,0,2,7
-ray a,0,2,5
-rick,0,2,4
-ronnie d,0,2,8
-sasha c,0,2,7
-scott t,0,2,7
-shawn j,0,2,7
-simon l,0,2,7
-steven g,0,2,8
-terry f,0,2,7
-thomas i,0,2,8
-tobias r,0,2,8
-tony j,0,2,6
-walter n,0,2,8
-weldon c,0,2,8
-william d jr,0,2,12
-william l iii,0,2,13
+royce,0,2,5
+aubrey mari,0,2,11
+clifton,0,2,7
+colby,0,2,5
+curly  iii,0,2,10
+dekon,0,2,5
+dovon,0,2,5
+doni,0,2,4
+emmett,0,2,6
+frazier  iii,0,2,12
+galeon  iii,0,2,11
+garrett,0,2,7
+isaiah,0,2,6
+jerome,0,2,6
+miles,0,2,5
+miller,0,2,6
+rance,0,2,5
+tobias,0,2,6
+weldon,0,2,6
+william  iii,0,2,12
 zacharia,0,2,8
-fred s,0,2,6
-clarence p,0,2,10
-darren e,0,2,8
 seamus,0,2,6
-cody l,0,2,6
-george t,0,2,8
-keith c,0,2,7
-bradley s,0,2,9
-freddie r,0,2,9
-garrett f,0,2,9
-jeremiah d,0,2,10
-nicholas c,0,2,10
-rod l,0,2,5
-douglas c,0,2,9
-jared m,0,2,7
-garry l jr,0,2,10
-norman g,0,2,8
-tristan j,0,2,9
-fred l,0,2,6
-robert e jr,0,2,11
-sean i,0,2,6
-aaron j,0,2,7
-guillermo j,0,2,11
+freddie,0,2,7
+rod,0,2,3
+tristan,0,2,7
 zaro,0,2,4
-wendell o,0,2,9
-ricky s,0,2,7
-ronnie e,0,2,8
-ted j,0,2,5
-theron a,0,2,8
-dold l iii,0,2,10
-stuart d,0,2,8
-louie n,0,2,7
-chase l,0,2,7
-chester a iii,0,2,13
-clinton r,0,2,9
-justin h,0,2,8
-matthew o,0,2,9
-riley f,0,2,7
-bobby n,0,2,7
-cody d,0,2,6
-damon s,0,2,7
-frederick w,0,2,11
-jerry jr,0,2,8
-logan e,0,2,7
-eric t,0,2,6
-shelby t,0,2,8
-brett s,0,2,7
-steve w,0,2,7
-ralph h iv,0,2,10
+ted,0,2,3
+theron,0,2,6
+dold  iii,0,2,9
+louie,0,2,5
+chester  iii,0,2,12
+riley,0,2,5
+damon,0,2,5
+logan,0,2,5
+shelby,0,2,6
 chip,0,2,4
-dwane e,0,2,7
-harold p,0,2,8
-mark g,0,2,6
-tommy w,0,2,7
-james f iii,0,2,11
-calvin j,0,2,8
-devon a,0,2,7
-jothan p,0,2,8
-keil a,0,2,6
-alvin g,0,2,7
-tos q,0,2,5
-dewey l,0,2,7
-dold w jr,0,2,9
-jerry m jr,0,2,10
-charlton b,0,2,10
-angelo j jr,0,2,11
-mickey l,0,2,8
+dwane,0,2,5
+calvin,0,2,6
+devon,0,2,5
+keil,0,2,4
+tos,0,2,3
+charlton,0,2,8
 abraham,0,2,7
-luis m jr,0,2,9
-bryon j,0,2,7
-george n,0,2,8
-dold n,0,2,6
-elliot c,0,2,8
+elliot,0,2,6
 orville,0,2,7
-gary w jr,0,2,9
-shawn c,0,2,7
-zacary d,0,2,8
-jackie,0,2,6
-billy,0,2,5
-ronnie a,0,2,8
-steven t,0,2,8
-kristopher j,0,2,12
-scott g,0,2,7
-gerald w,0,2,8
-frederick d,0,2,11
-cody t,0,2,6
-billy g,0,2,7
-russell j sr,0,2,12
-thomas h,0,2,8
-riley g,0,2,7
-troy r,0,2,6
-darryl w,0,2,8
-adam p,0,2,6
-barry w,0,2,7
-freddy p,0,2,8
-joe c jr,0,2,8
-patrick s,0,2,9
-larry w ii,0,2,10
-gerald g,0,2,8
-jeramy j,0,2,8
-kendal a,0,2,8
-shawn s,0,2,7
-rodney s,0,2,8
-william f iii,0,2,13
-coree m,0,2,7
-ryan i,0,2,6
-sanford a ii,0,2,12
-brent j,0,2,7
-thaniel j,0,2,9
-christopher n,0,2,13
+zacary,0,2,6
+jeramy,0,2,6
+kendal,0,2,6
+coree,0,2,5
+sanford,0,2,7
 badi,0,2,4
-catalino jr,0,2,11
-edwin r,0,2,7
-jamie jr,0,2,8
-luis e,0,2,6
-robert sr,0,2,9
-albert w,0,2,8
-louis r,0,2,7
+catalino,0,2,8
 gendiy,0,2,6
-conley r,0,2,8
-devin,0,2,5
-dustin e,0,2,8
-floyd l,0,2,7
-george w,0,2,8
-jerry a,0,2,7
-jimmy h,0,2,7
-melvin o,0,2,8
-thomas s,0,2,8
-carmen n,0,2,8
-colin e,0,2,7
-danny w,0,2,7
-dustin b,0,2,8
-skyler j,0,2,8
-carl f,0,2,6
-jesse f,0,2,7
-ralph l jr,0,2,10
-spencer t,0,2,9
-lloyd t,0,2,7
-norman a,0,2,8
-bruce e,0,2,7
-henry m,0,2,7
-karl e,0,2,6
+conley,0,2,6
+carmen,0,2,6
 luke,0,2,4
-jared b,0,2,7
-jesse p,0,2,7
-gerald p,0,2,8
-lee h,0,2,5
-david t iii,0,2,11
-brian f ii,0,2,10
-james a jr,0,2,10
-robert c sr,0,2,11
-dennis p,0,2,8
-wesley m,0,2,8
-jephthah d,0,2,10
-timothy s jr,0,2,12
-travis k,0,2,8
-glenn d,0,2,7
-richard jr,0,2,10
-anthony v,0,2,9
-carter t,0,2,8
-chadwick b,0,2,10
-earl g,0,2,6
-larry j,0,2,7
-scott f,0,2,7
-travis j,0,2,8
-sean g,0,2,6
-eusebio jr,0,2,10
-mario a,0,2,7
+jephthah,0,2,8
+carter,0,2,6
+eusebio,0,2,7
 ramon iii,0,2,9
 elvis,0,2,5
 wilson,0,2,6
 van,0,2,3
-blake,0,2,5
-charles s jr,0,2,12
-dylan c,0,2,7
-george w iii,0,2,12
+george  iii,0,2,11
 harvey,0,2,6
-jack r,0,2,6
-jake e,0,2,6
-marcus a,0,2,8
-robin c,0,2,7
-rocky l,0,2,7
-rodger n,0,2,8
-walton h,0,2,8
+rodger,0,2,6
+walton,0,2,6
 metro,0,2,5
-robert v,0,2,8
-peter l,0,2,7
-gary j,0,2,6
-winfield s,0,2,10
-ronnie n,0,2,8
-rickie w jr,0,2,11
-cameron r,0,2,9
-eugene m,0,2,8
-stephen t,0,2,9
-alan j,0,2,6
-casey j,0,2,7
-kelly,0,2,5
-timothy m ii,0,2,12
-jeremiah r,0,2,10
-jamie s,0,2,7
-leroy e,0,2,7
-milford w,0,2,9
-spencer d,0,2,9
-patrick v,0,2,9
-timothy k,0,2,9
-dennis f,0,2,8
-robert t,0,2,8
-johthan p,0,2,9
+winfield,0,2,8
+milford,0,2,7
 cosme,0,2,5
-ebert u,0,2,7
+ebert,0,2,5
 leonel,0,2,6
 humberto,0,2,8
-adrian b,0,2,8
 alcides,0,2,7
 aldolivio,0,2,9
-berrdino z,0,2,10
-carlos t,0,2,8
-ernesto r,0,2,9
-felix m,0,2,7
-keith j,0,2,7
-nicholas e,0,2,10
+berrdino,0,2,8
 reinold,0,2,7
-leol d,0,2,6
+leol,0,2,4
 ulises,0,2,6
-evan l,0,2,6
-george i,0,2,8
-kenith r,0,2,8
+kenith,0,2,6
 enrique,0,2,7
-bobby l jr,0,2,10
-louis e jr,0,2,10
-albert c,0,2,8
-bert e jr,0,2,9
-jeremiah p,0,2,10
-ruben d,0,2,7
-sidney b,0,2,8
-billy w,0,2,7
-isaiah c,0,2,8
-johnny k,0,2,8
-kim d,0,2,5
-marcus l jr,0,2,11
-patrick t,0,2,9
-terry n,0,2,7
-luis f,0,2,6
-roque e,0,2,7
-adam l,0,2,6
-antony a,0,2,8
+kim,0,2,3
+roque,0,2,5
+antony,0,2,6
 slavisa,0,2,7
-zachery a,0,2,9
-alexie j,0,2,8
-maykel c,0,2,8
+zachery,0,2,7
+alexie,0,2,6
 neftali,0,2,7
-felipe c,0,2,8
-blake m,0,2,7
-dean m,0,2,6
-jackie l jr,0,2,11
-johnny m,0,2,8
-shannon m,0,2,9
-wallin f,0,2,8
+wallin,0,2,6
 emerson,0,2,7
-wendell,0,2,7
-christopher f,0,2,13
-edward k,0,2,8
-michael d jr,0,2,12
-neil g,0,2,6
-michael w jr,0,2,12
-benito b,0,2,8
 jairali,0,2,7
-ray c jr,0,2,8
-alan s,0,2,6
-dustin g,0,2,8
-geoffrey w,0,2,10
+geoffrey,0,2,8
 wilfredo,0,2,8
-agustin j,0,2,9
-felix f,0,2,7
-frankie,0,2,7
 isreal,0,2,6
-ivan j,0,2,6
-wilfredo o,0,2,10
-grant m,0,2,7
 leordo,0,2,6
-gero jr,0,2,7
-warren w,0,2,8
-miguel g,0,2,8
-yordy d,0,2,7
-denis i,0,2,7
-chase t,0,2,7
-hugh b,0,2,6
-jeffrey t jr,0,2,12
-lindsey e jr,0,2,12
-stuart a,0,2,8
-gene,0,2,4
-benjamin g,0,2,10
-benjamin t,0,2,10
-charles j,0,2,9
-chase z,0,2,7
-coy a,0,2,5
-drew d,0,2,6
-edward p,0,2,8
-edwin d,0,2,7
-eulis r,0,2,7
-glenn,0,2,5
-glenn e,0,2,7
-lester k,0,2,8
-nicholas t,0,2,10
-robert m jr,0,2,11
-thomas w,0,2,8
-tim j,0,2,5
-zack a,0,2,6
+gero,0,2,4
+warren,0,2,6
+yordy,0,2,5
+lindsey,0,2,7
+eulis,0,2,5
+tim,0,2,3
+zack,0,2,4
 zackary,0,2,7
-udell s,0,2,7
-jose t,0,2,6
-sergio g,0,2,8
-giovanny f,0,2,10
+udell,0,2,5
+giovanny,0,2,8
 liev,0,2,4
 beto,0,2,4
 gabby,0,2,5
-ceasar f,0,2,8
+ceasar,0,2,6
 roosevelt,0,2,9
-jose a jr,0,2,9
-vincent c,0,2,9
-scott z,0,2,7
-raymond h,0,2,9
-william r jr,0,2,12
-alonzo j,0,2,8
-bobby e,0,2,7
-clifford r sr,0,2,13
-curtis j,0,2,8
-johnny f,0,2,8
-shaun l,0,2,7
-tracy k,0,2,7
-nelson a,0,2,8
-marvin r,0,2,8
-richard a iii,0,2,13
-gabriel d,0,2,9
-junior l,0,2,8
-schilo w,0,2,8
-steven a jr,0,2,11
-vancleve v,0,2,10
-albert j,0,2,8
-marion r jr,0,2,11
-garry s,0,2,7
-edsel p,0,2,7
-jay e,0,2,5
-steven f,0,2,8
-jereme l,0,2,8
-frankie y,0,2,9
-adalberto l,0,2,11
+alonzo,0,2,6
+schilo,0,2,6
+vancleve,0,2,8
+marion,0,2,6
+edsel,0,2,5
+jereme,0,2,6
+adalberto,0,2,9
 maique,0,2,6
-carlos e,0,2,8
-rafael a,0,2,8
 giuseppe,0,2,8
-victor a,0,2,8
-james a sr,0,2,10
-paul s jr,0,2,9
-jodie t,0,2,7
-alfredo r,0,2,9
-juan g,0,2,6
-selvin a,0,2,8
+jodie,0,2,5
+selvin,0,2,6
 yenier,0,2,6
-alfonso jr,0,2,10
-esdras s,0,2,8
-javier c,0,2,8
+esdras,0,2,6
 lorenzo,0,2,7
-nelson g,0,2,8
-oscar d,0,2,7
-rene a,0,2,6
-dion r,0,2,6
-kyle f,0,2,6
 yensi,0,2,5
 carmichael,0,2,10
-frank e jr,0,2,10
-james i,0,2,7
-john c jr,0,2,9
-kelly p,0,2,7
-eddie g,0,2,7
-darin a,0,2,7
-raul,0,2,4
-tyler r,0,2,7
-vincent m,0,2,9
-brett l,0,2,7
-ransford p,0,2,10
-brett h,0,2,7
-carl e,0,2,6
-william d iii,0,2,13
-jeffery p,0,2,9
-jason k,0,2,7
+ransford,0,2,8
 kurtis,0,2,6
-darrin l,0,2,8
-nico m,0,2,6
-mike,0,2,4
-washington m,0,2,12
-gonzalo a,0,2,9
-wilbert,0,2,7
-jabe i,0,2,6
-gene k jr,0,2,9
-rickey,0,2,6
-thomas j jr,0,2,11
-zacherey t,0,2,10
-gerald v,0,2,8
-dominique j,0,2,11
-kody d,0,2,6
-martin c jr,0,2,11
-tyler k,0,2,7
-berrd j iii,0,2,11
-dennis v,0,2,8
-giovanni,0,2,8
+darrin,0,2,6
+nico,0,2,4
+washington,0,2,10
+jabe,0,2,4
+zacherey,0,2,8
+dominique,0,2,9
+kody,0,2,4
+berrd  iii,0,2,10
 alez,0,2,4
-jessie,0,2,6
-ramiro a,0,2,8
-efrain v,0,2,8
-jose j jr,0,2,9
-sterling k,0,2,10
-adrian e,0,2,8
-kelvin r,0,2,8
-jeffery e,0,2,9
+sterling,0,2,8
 herldo,0,2,6
-marco t,0,2,7
-noel s,0,2,6
 tomas,0,2,5
-trent a,0,2,7
-amado m,0,2,7
-ediverto b,0,2,10
-bobby g,0,2,7
-buford g,0,2,8
-cody a,0,2,6
-donnie m,0,2,8
-duane s,0,2,7
-harold h,0,2,8
-jerry e,0,2,7
-josh j,0,2,6
-russell a,0,2,9
-wayne p,0,2,7
+amado,0,2,5
+ediverto,0,2,8
+buford,0,2,6
+donnie,0,2,6
 edil,0,2,4
-shane r,0,2,7
-joseph d sr,0,2,11
-jon l,0,2,5
-russell l,0,2,9
-thaniel d,0,2,9
-friere j,0,2,8
-barry j jr,0,2,10
-calvin h,0,2,8
-carrol a,0,2,8
-christian t,0,2,11
-clayton b,0,2,9
-colelle e,0,2,9
-dakota g,0,2,8
-derek e,0,2,7
-don c jr,0,2,8
-franklin c,0,2,10
-geoffrey s,0,2,10
-gregory r,0,2,9
-howard l iii,0,2,12
-jay l,0,2,5
-jessie d,0,2,8
+friere,0,2,6
+carrol,0,2,6
+colelle,0,2,7
+don,0,2,3
+howard  iii,0,2,11
 john iii,0,2,8
-kenneth m jr,0,2,12
-mark b,0,2,6
-patrick g,0,2,9
-pinkney w,0,2,9
-richard g ii,0,2,12
-robert a iii,0,2,12
-robert j jr,0,2,11
-robert p sr,0,2,11
-roger w,0,2,7
-rueben m,0,2,8
-samuel d,0,2,8
-shane m,0,2,7
-sidney j,0,2,8
-stanley r,0,2,9
-toby l,0,2,6
-allan s,0,2,7
-bert a,0,2,6
-gordon t,0,2,8
-carl a,0,2,6
-abelardo e,0,2,10
-abram n,0,2,7
-calvin jr,0,2,9
-dusty f,0,2,7
-dylan k,0,2,7
-charles o,0,2,9
-yunior g,0,2,8
-harvey f,0,2,8
-jacob j,0,2,7
-shaun p,0,2,7
+pinkney,0,2,7
+robert  iii,0,2,11
+rueben,0,2,6
+abelardo,0,2,8
+abram,0,2,5
+yunior,0,2,6
 lesmes,0,2,6
-charlie e jr,0,2,12
-halden l,0,2,8
-scott p,0,2,7
-sean d,0,2,6
-shaun t,0,2,7
-calvin a,0,2,8
-freddie j,0,2,9
-jaime l,0,2,7
-dalton t,0,2,8
+charlie,0,2,7
+halden,0,2,6
 elmanuel,0,2,8
-steven j jr,0,2,11
-harold e,0,2,8
-mauricio c,0,2,10
-erik,0,2,4
-preston,0,2,7
-philip c,0,2,8
-eric o,0,2,6
-damien c,0,2,8
-roger c,0,2,7
 cecilio iii,0,2,11
 mateo,0,2,5
-rigoberto m,0,2,11
-delio j,0,2,7
+delio,0,2,5
 maurice,0,2,7
-kristopher b,0,2,12
-jaime j,0,2,7
-manuel w,0,2,8
-rory,0,2,4
 freedom,0,2,7
-michael n,0,2,9
-yudex c,0,2,7
-salvador r,0,2,10
-benjamin,0,2,8
-shawn v,0,2,7
-alex jr,0,2,7
-alonso j,0,2,8
-antonio sr,0,2,10
+yudex,0,2,5
+salvador,0,2,8
+alonso,0,2,6
 corbin,0,2,6
-daniel z,0,2,8
 geronimo,0,2,8
 ibrahim,0,2,7
-issac d,0,2,7
-juan v,0,2,6
+issac,0,2,5
 juventino,0,2,9
-kevyn a,0,2,7
-oscar h,0,2,7
-salvador s,0,2,10
-santos j,0,2,8
-bailey g,0,2,8
-chad w,0,2,6
-clarence r,0,2,10
-delmar g,0,2,8
+kevyn,0,2,5
+bailey,0,2,6
+delmar,0,2,6
 evert,0,2,5
-phillip w,0,2,9
-dexter w,0,2,8
-frank s,0,2,7
-abel n jr,0,2,9
-brady a,0,2,7
-celio s,0,2,7
+dexter,0,2,6
+brady,0,2,5
+celio,0,2,5
 edgar,0,2,5
-edgard v,0,2,8
-franklin o,0,2,10
-franklyn a,0,2,10
-gero j,0,2,6
-javier o,0,2,8
-karl w,0,2,6
-lidio v,0,2,7
-mario j,0,2,7
-thaniel r,0,2,9
-oscar e,0,2,7
-rafael g,0,2,8
-reyldo m,0,2,8
-rodisney s,0,2,10
-yoni v,0,2,6
+edgard,0,2,6
+franklyn,0,2,8
+lidio,0,2,5
+rodisney,0,2,8
+yoni,0,2,4
 rufino,0,2,6
-winel a,0,2,7
-marcus l,0,2,8
-philip l jr,0,2,11
+winel,0,2,5
 brijito,0,2,7
-charles e ii,0,2,12
 victorino,0,2,9
-jack p,0,2,6
-jack f,0,2,6
-kris e,0,2,6
-forrest g,0,2,9
-benjamin c,0,2,10
-chase,0,2,5
-shannon d,0,2,9
-henry k,0,2,7
 diego,0,2,5
-frank d,0,2,7
-liam c,0,2,6
-phillip f,0,2,9
-jesus j,0,2,7
+liam,0,2,4
 stevie,0,2,6
 luizmar,0,2,7
-howard j,0,2,8
-allen r,0,2,7
-ossnel j,0,2,8
-alfred r,0,2,8
+ossnel,0,2,6
 coty,0,2,4
-jake r,0,2,6
 otto,0,2,4
-joel a,0,2,6
-adam n,0,2,6
-teofilo b,0,2,9
-angel a jr,0,2,10
-bill,0,2,4
-frank r jr,0,2,10
-francisco l,0,2,11
-coby l,0,2,6
-abelardo,0,2,8
+teofilo,0,2,7
+coby,0,2,4
 raul iii,0,2,8
-douglas g jr,0,2,12
-edwin v,0,2,7
-shawn g,0,2,7
 elbys,0,2,5
-harvey g,0,2,8
-james h ii,0,2,10
-lester l,0,2,8
-tyson l,0,2,7
-vincente jr,0,2,11
-david i,0,2,7
-geoffrey l,0,2,10
+vincente,0,2,8
 lucke,0,2,5
-dwayne e,0,2,8
-glen s,0,2,6
-keith k,0,2,7
-kyle l,0,2,6
-thomas m jr,0,2,11
-derrell j,0,2,9
-chance h,0,2,8
-trey l,0,2,6
-bayardo r,0,2,9
+derrell,0,2,7
+bayardo,0,2,7
 marlon,0,2,6
-buddy d jr,0,2,10
-daniel o,0,2,8
-patrick c,0,2,9
-carlos s,0,2,8
-hardin c,0,2,8
-james w iii,0,2,11
-lewis j jr,0,2,10
-travis c,0,2,8
-bobby o,0,2,7
-claude a,0,2,8
-dorman d,0,2,8
-gordon a,0,2,8
-james m jr,0,2,10
-shay l,0,2,6
-william b iii,0,2,13
-reggie j,0,2,8
-ricky c,0,2,7
-trinity k,0,2,9
-michaell c,0,2,10
-alfredo,0,2,7
-darell e,0,2,8
-delbert w,0,2,9
-ernest w,0,2,8
-harvey d,0,2,8
-james l jr,0,2,10
-joel l,0,2,6
-jothan o,0,2,8
-ralph n,0,2,7
-richard m jr,0,2,12
-ross c,0,2,6
-scott w,0,2,7
-toby d,0,2,6
-alberto c,0,2,9
-austin s,0,2,8
-charlie m,0,2,9
-jothan b,0,2,8
-chad p,0,2,6
-joseph k,0,2,8
-lazaro o,0,2,8
-leo e,0,2,5
-drew e,0,2,6
-jamie,0,2,5
+buddy,0,2,5
+hardin,0,2,6
+dorman,0,2,6
+shay,0,2,4
+reggie,0,2,6
+trinity,0,2,7
+michaell,0,2,8
+darell,0,2,6
 reyes,0,2,5
-ruben a,0,2,7
-logan j,0,2,7
-israel c,0,2,8
-ivan y,0,2,6
-dold l ii,0,2,9
-dold s,0,2,6
-leord g,0,2,7
-madison t,0,2,9
-william h iii,0,2,13
-floyd m,0,2,7
+madison,0,2,7
 yasani,0,2,6
-taylor w,0,2,8
-ernesto n,0,2,9
-don l,0,2,5
-norman e,0,2,8
-oscar j,0,2,7
-justin b,0,2,8
 aristides,0,2,9
-augustin a,0,2,10
-denis,0,2,5
-flavio jr,0,2,9
-florencio v,0,2,11
-juan jr,0,2,7
-ricky m,0,2,7
-joseph a ii,0,2,11
-jaime m,0,2,7
-trey s,0,2,6
-raymond a iii,0,2,13
+augustin,0,2,8
+flavio,0,2,6
+raymond  iii,0,2,12
 renny,0,2,5
-dale e,0,2,6
-stuart f,0,2,8
-alan r,0,2,6
-robert w iii,0,2,12
-mathew r,0,2,8
-alton b,0,2,7
-nolan d,0,2,7
-bryant p,0,2,8
-vincent w,0,2,9
-aaron f,0,2,7
-martin g,0,2,8
-rickie e,0,2,8
-ray,0,2,3
-jamie j,0,2,7
-carlton j,0,2,9
-curtis e,0,2,8
-gregory b,0,2,9
-kyle c,0,2,6
-shane v,0,2,7
-caleb b,0,2,7
-hugh t jr,0,2,9
-roderick,0,2,8
-sterling,0,2,8
-bryant m jr,0,2,11
-shad a,0,2,6
-erik d,0,2,6
-chester a,0,2,9
-alfred r iii,0,2,12
-alvaro m,0,2,8
-edward sr,0,2,9
-hans y,0,2,6
-charlie e,0,2,9
-joey f,0,2,6
-rocky t,0,2,7
-martin l,0,2,8
-howard h iii,0,2,12
-samuel s,0,2,8
-lloyd s,0,2,7
-rodger c,0,2,8
-jesse a,0,2,7
-terry t,0,2,7
-dong h,0,2,6
+nolan,0,2,5
+bryant,0,2,6
+carlton,0,2,7
+shad,0,2,4
+alfred  iii,0,2,11
+dong,0,2,4
 jolan,0,2,5
-anthony j jr,0,2,12
-ralph l,0,2,7
-seth d,0,2,6
 emir,0,2,4
 tereso,0,2,6
-edwin a,0,2,7
 elimanuel,0,2,9
-elvin r,0,2,7
-ricco m,0,2,7
-don e,0,2,5
-salvatore j,0,2,11
-abimael,0,2,7
-justino a,0,2,9
-rold a ii,0,2,9
-agustin c,0,2,9
-eduardo a,0,2,9
-francisco d,0,2,11
-rueben s,0,2,8
-vito p,0,2,6
-alan b,0,2,6
-brett r,0,2,7
-luther j,0,2,8
-wilber jr,0,2,9
-steven jr,0,2,9
-steve m,0,2,7
-greg s,0,2,6
-albert w jr,0,2,11
-billy h,0,2,7
-chad l,0,2,6
-charles t iii,0,2,13
-danny j,0,2,7
-donovan e,0,2,9
-douglas a,0,2,9
-douglas g,0,2,9
-earle p,0,2,7
-edward e,0,2,8
-furman o jr,0,2,11
-gatlin m,0,2,8
-gentleman j,0,2,11
-grant k,0,2,7
-harold f,0,2,8
-john v iii,0,2,10
-john w jr,0,2,9
-keith f,0,2,7
-larry w,0,2,7
-lloyd c iii,0,2,11
-phillip b,0,2,9
-rold l jr,0,2,9
-steve b,0,2,7
-thomas g jr,0,2,11
-tilmond d,0,2,9
-willis jr,0,2,9
-zachary n,0,2,9
-alec j,0,2,6
-barry a,0,2,7
-frederick r,0,2,11
-jeffrey v,0,2,9
-lawrence p iii,0,2,14
-orin a,0,2,6
-amauri j,0,2,8
-herman w jr,0,2,11
-christopher lee,0,2,15
-duane c,0,2,7
-brad t,0,2,6
-cole g,0,2,6
-gary d iii,0,2,10
-johthan h,0,2,9
-brad a,0,2,6
-alan f,0,2,6
-emory c,0,2,7
-spencer,0,2,7
-samuel e,0,2,8
-gerard,0,2,6
-harlie f,0,2,8
-lawrence l,0,2,10
-allen a,0,2,7
-seth,0,2,4
-clayton k,0,2,9
-alec m,0,2,6
-cecil r,0,2,7
-harold e jr,0,2,11
-johnny t,0,2,8
-richard c jr,0,2,12
-bo w,0,2,4
-damian p,0,2,8
-edward c jr,0,2,11
-marlin,0,2,6
-paul j jr,0,2,9
-kenneth d,0,2,9
-kenneth d jr,0,2,12
-paul m,0,2,6
-shepard n,0,2,9
-wayne m,0,2,7
-bryon,0,2,5
-michael n jr,0,2,12
-patrick b,0,2,9
-john n iii,0,2,10
-kody j,0,2,6
-keith,0,2,5
-robert o,0,2,8
-tyler b,0,2,7
-dennis k,0,2,8
-alton jr,0,2,8
-gary ii,0,2,7
-james t sr,0,2,10
-sam e,0,2,5
-george c iv,0,2,11
-henry l,0,2,7
-martin r,0,2,8
-reece l,0,2,7
-shawn w,0,2,7
-stephen e,0,2,9
-felix i,0,2,7
-barry b,0,2,7
-horace b jr,0,2,11
-skyler w,0,2,8
-austin b,0,2,8
-clyde b,0,2,7
-johnny w iii,0,2,12
-ronie e,0,2,7
-richard o,0,2,9
-carl m,0,2,6
-casey t,0,2,7
-rocco,0,2,5
-phillip j jr,0,2,12
-clay b,0,2,6
-chase a,0,2,7
-carlis g,0,2,8
-cary j,0,2,6
-edward f jr,0,2,11
-sean t,0,2,6
-tracy l,0,2,7
-kevin g,0,2,7
-stephen h,0,2,9
-solomon a,0,2,9
-spencer l,0,2,9
-jon p,0,2,5
-dylan m,0,2,7
-regild c,0,2,8
-johthan e,0,2,9
-albert m,0,2,8
-joseph r jr,0,2,11
-dan r,0,2,5
-wayne t,0,2,7
-cecil h,0,2,7
-james d ii,0,2,10
-james w jr,0,2,10
-loran k,0,2,7
-marc c,0,2,6
-roy l jr,0,2,8
-troy a,0,2,6
-bradley k,0,2,9
-clark r,0,2,7
-george jr,0,2,9
-jerry c,0,2,7
-johthan a,0,2,9
-jordan t,0,2,8
-jordan w,0,2,8
-wayne k,0,2,7
-walter p,0,2,8
-ronnie e jr,0,2,11
-lazaro j,0,2,8
-jabiel,0,2,6
-jesus m,0,2,7
-joseph m iii,0,2,12
-josue d,0,2,7
-luis j,0,2,6
-herschal c,0,2,10
-than d,0,2,6
-emanuel l,0,2,9
-blake a,0,2,7
-brooks l,0,2,8
-harold d jr,0,2,11
-ryan t,0,2,6
-rubin d,0,2,7
-austin m,0,2,8
-bing,0,2,4
-chad r,0,2,6
-corey w,0,2,7
-damion r,0,2,8
-derek h,0,2,7
-elliott n,0,2,9
-george d,0,2,8
-gerald jr,0,2,9
-luke m,0,2,6
-malcolm w,0,2,9
-marcus w jr,0,2,11
-pierce e jr,0,2,11
-richard g,0,2,9
-roscoe,0,2,6
-scott r jr,0,2,10
-tanner j,0,2,8
-theodore l,0,2,10
-tobin d,0,2,7
-todd t,0,2,6
-wesley d,0,2,8
-winton r,0,2,8
-loren h,0,2,7
-stuart t,0,2,8
-luis l,0,2,6
-alexs,0,2,5
-eddie r,0,2,7
-esteban a,0,2,9
-felix r,0,2,7
-geovani s,0,2,9
-jos a,0,2,5
-juan b,0,2,6
-justo o,0,2,7
-luis d,0,2,6
-marco a jr,0,2,10
-merbie,0,2,6
-pablo jr,0,2,8
-reyldo a,0,2,8
-williams,0,2,8
-arthur r,0,2,8
-lucas a,0,2,7
-jayson a,0,2,8
-ross e,0,2,6
-jothan r,0,2,8
-darrell e,0,2,9
-glenn r,0,2,7
-james b jr,0,2,10
-glennis d,0,2,9
-robert i,0,2,8
-ricky w jr,0,2,10
-vincent a,0,2,9
-damian,0,2,6
-thomas j iii,0,2,12
-daryl l,0,2,7
-joseph f jr,0,2,11
-daniel o jr,0,2,11
-donnie e,0,2,8
-nicholus c,0,2,10
-christian s,0,2,11
-geovanny o,0,2,10
-hern l,0,2,6
-juan f,0,2,6
-nivaldo,0,2,7
-roberto d,0,2,9
-benito jr,0,2,9
-lawrence a jr,0,2,13
-rory e,0,2,6
-jerry f,0,2,7
-samuel r ii,0,2,11
-seth a,0,2,6
-dustin w,0,2,8
-robert s jr,0,2,11
-charles r jr,0,2,12
-gary m iii,0,2,10
-nicholas k,0,2,10
-joseph iii,0,2,10
-ryan j,0,2,6
-corey t,0,2,7
-joe d,0,2,5
-talmadge r jr,0,2,13
-zachary k,0,2,9
-bill d ii,0,2,9
-dale l sr,0,2,9
-terry,0,2,5
-derek m,0,2,7
-troy k,0,2,6
-thomas s jr,0,2,11
-yunier,0,2,6
-robin p,0,2,7
-thomas jr,0,2,9
-cesar a,0,2,7
-yuri c,0,2,6
-julio s,0,2,7
-lucio,0,2,5
-charles w iii,0,2,13
-clifton d,0,2,9
-gary m jr,0,2,9
-grady a,0,2,7
-jayson w,0,2,8
-kimberly k jr,0,2,13
-larry c,0,2,7
-lewis h iii,0,2,11
-lloyd m,0,2,7
-mycle t,0,2,7
-phillip a,0,2,9
-rold k,0,2,6
-royce,0,2,5
-stanley m,0,2,9
-tony g,0,2,6
-trevor t,0,2,8
-virgil v,0,2,8
-garrison r,0,2,10
-jody c,0,2,6
-calvin r iii,0,2,12
-gregg,0,2,5
-sean r,0,2,6
-wayne l,0,2,7
-patrick d,0,2,9
-bryce j,0,2,7
-aaron l,0,2,7
-arthur d,0,2,8
-dillon e,0,2,8
-fred d,0,2,6
-frederick a,0,2,11
-jerry g,0,2,7
-kent c,0,2,6
-marvin e jr,0,2,11
-raymond e jr,0,2,12
-robert e ii,0,2,11
-vernon r,0,2,8
-vohn r,0,2,6
-william a jr,0,2,12
-shayne r,0,2,8
-monte h iii,0,2,11
-taylor,0,2,6
-ellison o,0,2,9
-jay a,0,2,5
-jerrad h,0,2,8
-tanner m,0,2,8
-santo,0,2,5
-guillermo m,0,2,11
-santos,0,2,6
-ward m ii,0,2,9
-rayburn m,0,2,9
-avery m,0,2,7
-israel u,0,2,8
-belarmino,0,2,9
-bruce j,0,2,7
-elisha w,0,2,8
-gino,0,2,4
-raul v,0,2,6
+ricco,0,2,5
 salvatore,0,2,9
-chad d,0,2,6
-lester,0,2,6
-walter m,0,2,8
-marion l,0,2,8
-clarence l,0,2,10
-kyle g,0,2,6
-bren e,0,2,6
-brett w,0,2,7
-william j iii,0,2,13
-clifton l jr,0,2,12
-ott j ii,0,2,8
-william h jr,0,2,12
-eugene t,0,2,8
-ryan g,0,2,6
+abimael,0,2,7
+justino,0,2,7
+wilber,0,2,6
+greg,0,2,4
+earle,0,2,5
+furman,0,2,6
+gatlin,0,2,6
+gentleman,0,2,9
+lloyd  iii,0,2,10
+tilmond,0,2,7
+willis,0,2,6
+lawrence  iii,0,2,13
+orin,0,2,4
+amauri,0,2,6
+herman,0,2,6
+christopher lee,0,2,15
+brad,0,2,4
+cole,0,2,4
+gary  iii,0,2,9
+emory,0,2,5
+gerard,0,2,6
+harlie,0,2,6
+cecil,0,2,5
+marlin,0,2,6
+shepard,0,2,7
+reece,0,2,5
+horace,0,2,6
+johnny  iii,0,2,11
+ronie,0,2,5
+rocco,0,2,5
+clay,0,2,4
+carlis,0,2,6
+solomon,0,2,7
+loran,0,2,5
+clark,0,2,5
+jabiel,0,2,6
+joseph  iii,0,2,11
+herschal,0,2,8
+rubin,0,2,5
+bing,0,2,4
+elliott,0,2,7
+malcolm,0,2,7
+pierce,0,2,6
+roscoe,0,2,6
+tanner,0,2,6
+tobin,0,2,5
+winton,0,2,6
+alexs,0,2,5
+geovani,0,2,7
+jos,0,2,3
+merbie,0,2,6
+jayson,0,2,6
+glennis,0,2,7
+nicholus,0,2,8
+geovanny,0,2,8
+nivaldo,0,2,7
+joseph iii,0,2,10
+talmadge,0,2,8
+yunier,0,2,6
+yuri,0,2,4
+lucio,0,2,5
+grady,0,2,5
+kimberly,0,2,8
+lewis  iii,0,2,10
+mycle,0,2,5
+trevor,0,2,6
+garrison,0,2,8
+calvin  iii,0,2,11
+gregg,0,2,5
+kent,0,2,4
+vohn,0,2,4
+shayne,0,2,6
+monte  iii,0,2,10
+ellison,0,2,7
+jerrad,0,2,6
+santo,0,2,5
+ward,0,2,4
+avery,0,2,5
+belarmino,0,2,9
+elisha,0,2,6
+gino,0,2,4
+bren,0,2,4
+ott,0,2,3
 gavino,0,2,6
-pedro s,0,2,7
-peter c,0,2,7
-roque m,0,2,7
-walter w,0,2,8
-michael jr,0,2,10
-abraham c,0,2,9
-jorge jr,0,2,8
-luis c,0,2,6
 adolph,0,2,6
 arldo,0,2,5
-froilon a,0,2,9
-zario jr,0,2,8
-garret j,0,2,8
-felix l jr,0,2,10
-lionel j,0,2,8
-raul e,0,2,6
-darrie s,0,2,8
+froilon,0,2,7
+zario,0,2,5
+garret,0,2,6
+lionel,0,2,6
+darrie,0,2,6
 santiago,0,2,8
-michael v,0,2,9
 glian,0,2,5
-mario t,0,2,7
-eli m,0,2,5
-javier d,0,2,8
-manuel g,0,2,8
-stephen k,0,2,9
-walter s,0,2,8
-allen b iii,0,2,11
-benjamin a iii,0,2,14
-herbert m,0,2,9
-jeffrey e iii,0,2,13
-davy k,0,2,6
-jeremiah h,0,2,10
-alan,0,2,4
-harvey l,0,2,8
-justyn p,0,2,8
-clyde e,0,2,7
-curtis l jr,0,2,11
-jim g,0,2,5
-john h iv,0,2,9
-nicholas l,0,2,10
+eli,0,2,3
+allen  iii,0,2,10
+benjamin  iii,0,2,13
+jeffrey  iii,0,2,12
+davy,0,2,4
+justyn,0,2,6
 stephane,0,2,8
-albert g,0,2,8
-dexter l,0,2,8
-clenton d,0,2,9
-cory s,0,2,6
-russel l,0,2,8
-shaun m,0,2,7
-heath l,0,2,7
-allen w,0,2,7
-amos l,0,2,6
-bill c,0,2,6
+clenton,0,2,7
+russel,0,2,6
+heath,0,2,5
+amos,0,2,4
 bret,0,2,4
-bruce r,0,2,7
-carlos c,0,2,8
-casey d,0,2,7
-dallas j,0,2,8
-daniel e iii,0,2,12
-earnest e,0,2,9
-jack g,0,2,6
-jack j,0,2,6
-jared a,0,2,7
-kenneth c iii,0,2,13
-manuel u,0,2,8
-micheal j,0,2,9
-perry e,0,2,7
-philip r,0,2,8
-wesley w jr,0,2,11
-gary h,0,2,6
-richard g mr,0,2,12
+daniel  iii,0,2,11
+earnest,0,2,7
+micheal,0,2,7
 branigan,0,2,8
-bobby c,0,2,7
-brenton j,0,2,9
-christon l,0,2,10
-jimmie,0,2,6
-peter s,0,2,7
-elijah a,0,2,8
-jamie r jr,0,2,10
-augustus h iv,0,2,13
-frank g jr,0,2,10
-khristopher w,0,2,13
-lawrence g,0,2,10
-tommy g jr,0,2,10
-willie s jr,0,2,11
-alan e,0,2,6
+christon,0,2,8
+elijah,0,2,6
+augustus,0,2,8
+khristopher,0,2,11
 lennox,0,2,6
-albert f,0,2,8
-brett c,0,2,7
-hoyt b,0,2,6
-phillip r,0,2,9
-richard r jr,0,2,12
-dakota w,0,2,8
-paul j iv,0,2,9
-bret r,0,2,6
-daniel j jr,0,2,11
-leord j,0,2,7
-bert g iv,0,2,9
+hoyt,0,2,4
 brain,0,2,5
-dale v jr,0,2,9
-david r jr,0,2,10
-donnie h,0,2,8
-linsey a,0,2,8
-thomas ii,0,2,9
-travis b,0,2,8
-clinton e,0,2,9
-dold d jr,0,2,9
-marshall m,0,2,10
-sammy l,0,2,7
-stephan,0,2,7
-clifford d,0,2,10
-clyde f,0,2,7
-kerry l,0,2,7
-stevon l jr,0,2,11
-luther jr,0,2,9
-christohper g,0,2,13
-victor h,0,2,8
-lloyd w,0,2,7
-charlie j,0,2,9
-dino k,0,2,6
+linsey,0,2,6
+marshall,0,2,8
+sammy,0,2,5
+kerry,0,2,5
+stevon,0,2,6
+christohper,0,2,11
+dino,0,2,4
 danilo iii,0,2,10
 demetrio,0,2,8
-dennis g,0,2,8
-oscar f,0,2,7
 servilio,0,2,8
-chris w,0,2,7
-alvin h,0,2,7
-archie,0,2,6
-charles c jr,0,2,12
-foye e,0,2,6
-harry d jr,0,2,10
-kennith j,0,2,9
-larry w jr,0,2,10
-ray d,0,2,5
-danny m,0,2,7
-ira c,0,2,5
-dustin h,0,2,8
-patrick k,0,2,9
-john p jr,0,2,9
-joel b,0,2,6
-ian f,0,2,5
-david b jr,0,2,10
-robert m iii,0,2,12
-breck a,0,2,7
-marshall s,0,2,10
-marvin m,0,2,8
-jason h,0,2,7
+foye,0,2,4
+kennith,0,2,7
+breck,0,2,5
 chauncey,0,2,8
-cody s,0,2,6
-elton p,0,2,7
-ricky d,0,2,7
-adrian j,0,2,8
-donny l,0,2,7
-ronnie h,0,2,8
-waylon g,0,2,8
-stanley n,0,2,9
-brett t,0,2,7
-bryce e,0,2,7
-freeman e,0,2,9
-jerry a jr,0,2,10
-delmas a iii,0,2,12
-hank t jr,0,2,9
-warren m,0,2,8
-dallis w,0,2,8
-charlie b iii,0,2,13
-jimmy w jr,0,2,10
-justin g,0,2,8
-terry w,0,2,7
-collis a,0,2,8
-brian b,0,2,7
-clifford w,0,2,10
-willard r,0,2,9
-zane d,0,2,6
-barry l,0,2,7
-daryle r,0,2,8
-gary e jr,0,2,9
-jamie r,0,2,7
-roger r,0,2,7
-dakota d,0,2,8
-jeffrey n ii,0,2,12
-jody m,0,2,6
-keith r,0,2,7
-darin w ii,0,2,10
+donny,0,2,5
+waylon,0,2,6
+freeman,0,2,7
+delmas  iii,0,2,11
+hank,0,2,4
+dallis,0,2,6
+charlie  iii,0,2,12
+collis,0,2,6
+zane,0,2,4
+daryle,0,2,6
 herbie,0,2,6
-alexis o,0,2,8
-alfred l,0,2,8
 dany,0,2,4
-darnell a,0,2,9
-felipe s,0,2,8
+darnell,0,2,7
 filipe,0,2,6
-hilario jr,0,2,10
-ishmael jr,0,2,10
-joel v,0,2,6
-kelvin n sr,0,2,11
-maynor e,0,2,8
+hilario,0,2,7
+ishmael,0,2,7
+maynor,0,2,6
 moses,0,2,5
-noel r,0,2,6
 paciano,0,2,7
-phillip j,0,2,9
 raymundo,0,2,8
-roberto m,0,2,9
 sabier,0,2,6
-samuel m,0,2,8
-yosmanis a,0,2,10
-rene o,0,2,6
+yosmanis,0,2,8
 sario,0,2,5
 denes,0,2,5
-eugenio e,0,2,9
-edel a,0,2,6
-jody b,0,2,6
+edel,0,2,4
 matias,0,2,6
 eryc,0,2,4
 manuel iii,0,2,10
-daryl w,0,2,7
-da j,0,2,4
-dominic,0,2,7
-hayward p,0,2,9
-howard c,0,2,8
+hayward,0,2,7
 asa,0,2,3
-eugene r,0,2,8
-john t jr,0,2,9
-daniel l jr,0,2,11
-james s ii,0,2,10
-garrett v,0,2,9
-charles i,0,2,9
-stephen j jr,0,2,12
-allen m,0,2,7
-francis p,0,2,9
-cote l,0,2,6
+cote,0,2,4
 doug,0,2,4
-tanner s,0,2,8
-robert u,0,2,8
-jeremiah s,0,2,10
-juamai e,0,2,8
-joel m,0,2,6
+juamai,0,2,6
 renee,0,2,5
-julio l,0,2,7
-roger t,0,2,7
-noah a,0,2,6
-chad b,0,2,6
-jack t,0,2,6
-charlie g,0,2,9
-gary wayne w jr,0,2,15
-cory w,0,2,6
-devin t,0,2,7
-fred,0,2,4
-frederick e,0,2,11
-jay r,0,2,5
-jessie o,0,2,8
-lloyd p,0,2,7
-mchael r,0,2,8
-clint r,0,2,7
-clinton d,0,2,9
-ethzel h,0,2,8
+gary wayne,0,2,10
+mchael,0,2,6
+ethzel,0,2,6
 pavert,0,2,6
-nicholas b,0,2,10
-richard j jr,0,2,12
-dold p,0,2,6
-dold ii,0,2,7
-reggie l,0,2,8
-stanely p,0,2,9
-marcus e jr,0,2,11
-roy,0,2,3
-bart a jr,0,2,9
-carl o,0,2,6
-joel p,0,2,6
-mackenzie l,0,2,11
-loyal e,0,2,7
-rex a,0,2,5
-jon c,0,2,5
+stanely,0,2,7
+mackenzie,0,2,9
+loyal,0,2,5
 dario,0,2,5
-joseph l iii,0,2,12
-tomi j,0,2,6
-ryle d,0,2,6
-billy d sr,0,2,10
-george z,0,2,8
-will e,0,2,6
-brice s,0,2,7
-jesse v jr,0,2,10
-tyler c jr,0,2,10
-scott a jr,0,2,10
-antonio a,0,2,9
-rain f,0,2,6
-hoang m,0,2,7
-jimmy c,0,2,7
-ricardo d,0,2,9
-beau e,0,2,6
-clarence h,0,2,10
-dale t,0,2,6
-edward jr,0,2,9
-eric s jr,0,2,9
-gordon g,0,2,8
-melton jr,0,2,9
-vernon l,0,2,8
-william g,0,2,9
-holden j,0,2,8
-harold c,0,2,8
-francis d,0,2,9
-justin e,0,2,8
-dixon p,0,2,7
-ramon f jr,0,2,10
-billy a,0,2,7
-samuel p,0,2,8
-cliff v,0,2,7
-jerod l,0,2,7
-owen w jr,0,2,9
-william w iii,0,2,13
-simei m,0,2,7
-peter g,0,2,7
-than p,0,2,6
-gilbert n,0,2,9
-archie f,0,2,8
-billy t,0,2,7
+tomi,0,2,4
+ryle,0,2,4
+brice,0,2,5
+rain,0,2,4
+hoang,0,2,5
+melton,0,2,6
+holden,0,2,6
+dixon,0,2,5
+cliff,0,2,5
+jerod,0,2,5
+simei,0,2,5
 collin,0,2,6
-joey e,0,2,6
-timothy w sr,0,2,12
-damon d,0,2,7
-kirk l,0,2,6
-ronnie j,0,2,8
-brian p,0,2,7
-douglas m iii,0,2,13
-douglas p,0,2,9
-drew w,0,2,6
-hubert c,0,2,8
-jessi a,0,2,7
-joey a,0,2,6
-john f jr,0,2,9
-kenny r,0,2,7
-scotty j,0,2,8
-victor b,0,2,8
-clinton c,0,2,9
-devon,0,2,5
-hern q,0,2,6
-ricardo j,0,2,9
-joel g,0,2,6
-frankie w,0,2,9
-alan l,0,2,6
-allan,0,2,5
-allen l,0,2,7
-austin d,0,2,8
-austin j,0,2,8
-bobby r iii,0,2,11
-bruce w,0,2,7
-charles e sr,0,2,12
-clay a,0,2,6
-clenny t,0,2,8
-clifford a,0,2,10
-clyde b jr,0,2,10
-cory d,0,2,6
-curry d,0,2,7
-dallas d,0,2,8
-dwayne,0,2,6
-emery c,0,2,7
-ernest w iii,0,2,12
-evan r,0,2,6
-floyd c,0,2,7
-franklin b,0,2,10
-george m iii,0,2,12
-glen w,0,2,6
-gregg m,0,2,7
-jefferson w,0,2,11
-jeffery w,0,2,9
-jeffrey e ii,0,2,12
-jerome j,0,2,8
-jesse b,0,2,7
-johnny d,0,2,8
-karl s,0,2,6
-kyle a,0,2,6
-leon a,0,2,6
-merlan f,0,2,8
-mitchell t,0,2,10
-mon m,0,2,5
-patrick j iii,0,2,13
-phillip l,0,2,9
-rickie w,0,2,8
-ricky l,0,2,7
-samuel l,0,2,8
-shawn a jr,0,2,10
-shelby d,0,2,8
-skylar c,0,2,8
-steve a jr,0,2,10
-stuart l,0,2,8
-terry l jr,0,2,10
-tipton h,0,2,8
-warren t,0,2,8
-wayde c,0,2,7
-william f iv,0,2,12
-william r iii,0,2,13
-zachary e,0,2,9
-jeff l,0,2,6
-augustus c,0,2,10
-edmund k,0,2,8
-davis g,0,2,7
-michael f jr,0,2,12
+kirk,0,2,4
+douglas  iii,0,2,12
+jessi,0,2,5
+clenny,0,2,6
+curry,0,2,5
+emery,0,2,5
+ernest  iii,0,2,11
+merlan,0,2,6
+mon,0,2,3
+patrick  iii,0,2,12
+skylar,0,2,6
+tipton,0,2,6
+wayde,0,2,5
+davis,0,2,5
 edward iii,0,2,10
-george l jr,0,2,11
-raymond t,0,2,9
-zachrey a,0,2,9
-james k,0,2,7
-james s jr,0,2,10
-jarrid d,0,2,8
+zachrey,0,2,7
+jarrid,0,2,6
 jerid,0,2,5
-shaun c,0,2,7
-warren f,0,2,8
-bernie c,0,2,8
-edmond r,0,2,8
-howard l jr,0,2,11
+bernie,0,2,6
 adelmis,0,2,7
-jorge p,0,2,7
-heriberto e,0,2,11
 aurelio,0,2,7
-jean c,0,2,6
-felipe,0,2,6
-estevan l,0,2,9
-eudi m,0,2,6
-michelle a,0,2,10
-roberto jr,0,2,10
-jhothan a,0,2,9
-jesse d,0,2,7
-julian t,0,2,8
-keith i,0,2,7
-marcus,0,2,6
-theofane j,0,2,10
-buell r jr,0,2,10
-than r,0,2,6
-jerry a ii,0,2,10
-trent e,0,2,7
-blake l,0,2,7
+estevan,0,2,7
+eudi,0,2,4
+michelle,0,2,8
+jhothan,0,2,7
+theofane,0,2,8
+buell,0,2,5
 shan,0,2,4
-silas p,0,2,7
-derek d,0,2,7
-billy w ii,0,2,10
-wayne h,0,2,7
-francis x,0,2,9
-ionio a,0,2,7
-howard v,0,2,8
-cole s,0,2,6
-everett jr,0,2,10
-gregory e jr,0,2,12
-vincent r,0,2,9
-anthony m jr,0,2,12
-harold m,0,2,8
-ernie w,0,2,7
-ricky n,0,2,7
-wesley b,0,2,8
-mathew j,0,2,8
-brett d,0,2,7
-william j jr,0,2,12
-than f,0,2,6
-lewis a jr,0,2,10
-roman g,0,2,7
-jerrod p,0,2,8
-nicholas m,0,2,10
-aaron x,0,2,7
-darin,0,2,5
-emanuel jr,0,2,10
+ionio,0,2,5
+everett,0,2,7
+ernie,0,2,5
+jerrod,0,2,6
 enoch,0,2,5
-reildo jr,0,2,9
-matthew i,0,2,9
-neil a,0,2,6
-nelson j,0,2,8
 ober,0,2,4
-carlos i,0,2,8
 dagoberto,0,2,9
-jeffrey e,0,2,9
-milton b,0,2,8
-roger e,0,2,7
-jaime,0,2,5
 josbanne,0,2,8
-elieser l,0,2,9
+elieser,0,2,7
 frenchy,0,2,7
-wendell b,0,2,9
-enrique t,0,2,9
-german e,0,2,8
-maykel r,0,2,8
-eric n,0,2,6
-miguel m,0,2,8
-rodney f sr,0,2,11
-gerro j jr,0,2,10
+german,0,2,6
+gerro,0,2,5
 talio,0,2,5
 secundino iii,0,2,13
 roberto iii,0,2,11
 gilgardo,0,2,8
-heriberto b,0,2,11
-jamie e,0,2,7
-jorge e,0,2,7
 vidal,0,2,5
 misael,0,2,6
-darbel f,0,2,8
-dean j,0,2,6
-rojelio jr,0,2,10
-frankie c,0,2,9
-oden c iii,0,2,10
-robert l jr,0,2,11
-craig s,0,2,7
-pedro p,0,2,7
-stefano s,0,2,9
-louis c,0,2,7
-joseph c jr,0,2,11
-monday l,0,2,8
-gilbert jr,0,2,10
-nicholas jr,0,2,11
-angelo,0,2,6
-chris o,0,2,7
-erik m,0,2,6
-daniel n,0,2,8
-corbin r,0,2,8
-edward b,0,2,8
-clifton b,0,2,9
-jarret d,0,2,8
-stuart m,0,2,8
-jacob t,0,2,7
-darrell p,0,2,9
-dentcho r,0,2,9
-greg l,0,2,6
+darbel,0,2,6
+rojelio,0,2,7
+oden  iii,0,2,9
+stefano,0,2,7
+monday,0,2,6
+jarret,0,2,6
+dentcho,0,2,7
 rodobaldo,0,2,9
-rold s,0,2,6
-delma b jr,0,2,10
-monte j,0,2,7
-roger j jr,0,2,10
-christopher i,0,2,13
-danny a,0,2,7
-jerry l ii,0,2,10
-charles m jr,0,2,12
-cecil m jr,0,2,10
-kalvin,0,2,6
-devin s,0,2,7
-todd r,0,2,6
-mark q,0,2,6
-russell g,0,2,9
-marshall i,0,2,10
-jon d,0,2,5
-darrell f,0,2,9
 larkin,0,2,6
-fred h,0,2,6
-lloyd h jr,0,2,10
-samuel j,0,2,8
-logan m,0,2,7
-dylan e,0,2,7
-michael t jr,0,2,12
-nicholas p,0,2,10
-levon l,0,2,7
-marcel a,0,2,8
-dion s,0,2,6
-trevor i,0,2,8
-erich n,0,2,7
-frank c jr,0,2,10
-lonnie a,0,2,8
-aaron t,0,2,7
-clifford c,0,2,10
-anthony f,0,2,9
-dwayne s,0,2,8
-brent k,0,2,7
-wendell t,0,2,9
-dold o,0,2,6
-douglas l,0,2,9
-charlie h,0,2,9
-olin j jr,0,2,9
-stanley e,0,2,9
-trigg h,0,2,7
-terry e,0,2,7
-john l jr,0,2,9
-curtis,0,2,6
-bradley a,0,2,9
-cody,0,2,4
-jothan n,0,2,8
-albon c iii,0,2,11
-gilbert s,0,2,9
-fagner b,0,2,8
-mike j,0,2,6
-alcazar e,0,2,9
-alfredo a,0,2,9
-aliex r,0,2,7
-barbaro f,0,2,9
+levon,0,2,5
+marcel,0,2,6
+olin,0,2,4
+trigg,0,2,5
+albon  iii,0,2,10
+fagner,0,2,6
+alcazar,0,2,7
+aliex,0,2,5
+barbaro,0,2,7
 beraldo,0,2,7
-calvert r,0,2,9
+calvert,0,2,7
 cornelio,0,2,8
 delbis,0,2,6
-edgar m ii,0,2,10
 elier,0,2,5
-gerardo a,0,2,9
-gustavo j,0,2,9
 idelfonso,0,2,9
 ivo,0,2,3
-julio a,0,2,7
 maikel,0,2,6
-marcos l jr,0,2,11
-marcos r,0,2,8
-reny i,0,2,6
-roberto l,0,2,9
-scotty s,0,2,8
-victor r,0,2,8
+reny,0,2,4
 victoriano,0,2,10
 wilmen,0,2,6
-yuri,0,2,4
-alexis r,0,2,8
 neptali,0,2,7
-dominic j,0,2,9
-nicolas c,0,2,9
 ariquer,0,2,7
-william a sr,0,2,12
-rold m jr,0,2,9
-jessie s,0,2,8
-leigh d,0,2,7
-samuel n,0,2,8
-cody f,0,2,6
-lawrence d,0,2,10
-mark h,0,2,6
-seth jr,0,2,7
-everett o,0,2,9
-kurt a,0,2,6
-alan c,0,2,6
-gregory f,0,2,9
-marco,0,2,5
-diego j,0,2,7
-douglas b jr,0,2,12
-russell j,0,2,9
-ashley,0,2,6
-eladio n,0,2,8
-alex a,0,2,6
-vito j,0,2,6
-richard h jr,0,2,12
-hi h,0,2,4
+leigh,0,2,5
 kurt,0,2,4
-george j jr,0,2,11
-joseph p sr,0,2,11
-abel c,0,2,6
-clarence,0,2,8
-corey s,0,2,7
-joseph j iii,0,2,12
-brock p,0,2,7
-arthur l jr,0,2,11
-dold r iii,0,2,10
-paul k,0,2,6
-rex s,0,2,5
-olden j,0,2,7
-blaide r,0,2,8
-bryan r,0,2,7
-floyd a,0,2,7
-kirk,0,2,4
-llewellyn r jr,0,2,14
-ralph w,0,2,7
-rick b,0,2,6
-ademar r,0,2,8
-ellery l,0,2,8
-bo d,0,2,4
-forrest p,0,2,9
-jody l,0,2,6
-raymond a jr,0,2,12
-albert a,0,2,8
-rold g,0,2,6
-bruce d iii,0,2,11
-bryan j,0,2,7
-lewis l,0,2,7
-shane d,0,2,7
-dieterich a jr,0,2,14
-ned j iii,0,2,9
-codi a,0,2,6
-troy t,0,2,6
-kim s,0,2,5
-harold d,0,2,8
+eladio,0,2,6
+brock,0,2,5
+olden,0,2,5
+blaide,0,2,6
+llewellyn,0,2,9
+ademar,0,2,6
+ellery,0,2,6
+bruce  iii,0,2,10
+dieterich,0,2,9
+ned  iii,0,2,8
+codi,0,2,4
 bolivar,0,2,7
-horacio f,0,2,9
-hugo d,0,2,6
-igcio jr,0,2,8
-josvani t,0,2,9
-raul m,0,2,6
+horacio,0,2,7
+josvani,0,2,7
 yaciel,0,2,6
-yoan r,0,2,6
-justo,0,2,5
-bryan c,0,2,7
-kelly l,0,2,7
-lance e,0,2,7
-edgardo r,0,2,9
-dold b,0,2,6
-harvey b,0,2,8
 coleman,0,2,7
-elwood h,0,2,8
-darren,0,2,6
-forrest b,0,2,9
-karl d,0,2,6
-leo j,0,2,5
-carlo g,0,2,7
-blake e,0,2,7
-johnny s,0,2,8
-dennett d,0,2,9
-da r jr,0,2,7
-john o ii,0,2,9
-kenneth b,0,2,9
-caleb,0,2,5
-colomer l,0,2,9
-da c,0,2,4
-guy l,0,2,5
-lonnie j,0,2,8
-timmie l,0,2,8
-joseph g sr,0,2,11
-johthon r,0,2,9
-kevin n,0,2,7
-jessey l,0,2,8
-vance m,0,2,7
-wesley r,0,2,8
-calvin w,0,2,8
-bradford o,0,2,10
-henry w,0,2,7
+elwood,0,2,6
+carlo,0,2,5
+dennett,0,2,7
+colomer,0,2,7
+timmie,0,2,6
+jessey,0,2,6
+vance,0,2,5
+bradford,0,2,8
 jakota,0,2,6
-clay,0,2,4
-larry g iii,0,2,11
+larry  iii,0,2,10
 cortl,0,2,5
-jack o,0,2,6
-timothy t,0,2,9
-thaniel b,0,2,9
-ernest c,0,2,8
-rold e jr,0,2,9
 william iii,0,2,11
-allan m,0,2,7
-everet j,0,2,8
-joseph s jr,0,2,11
-patrick e,0,2,9
-rory p,0,2,6
+everet,0,2,6
 slobodan,0,2,8
-clinton t,0,2,9
-ricky b,0,2,7
-wayne j,0,2,7
-nickolas j,0,2,10
-george o,0,2,8
-russell c,0,2,9
-thomas n,0,2,8
-erich s,0,2,7
-bj m,0,2,4
-bobbie d,0,2,8
-floyd,0,2,5
-cameron l,0,2,9
-colton l,0,2,8
-dale g,0,2,6
-earl m,0,2,6
-norman p jr,0,2,11
-sammy d,0,2,7
-thomas a jr,0,2,11
-daryl r,0,2,7
+bobbie,0,2,6
 mitch,0,2,5
-arique jr,0,2,9
-mark m,0,2,6
-jothon j,0,2,8
-shea s,0,2,6
-jared f,0,2,7
+arique,0,2,6
+shea,0,2,4
 harlle,0,2,6
-joaquin l,0,2,9
-pablo s,0,2,7
+joaquin,0,2,7
 yony,0,2,4
 ediel,0,2,5
-carey e,0,2,7
-sammie e,0,2,8
-corey a,0,2,7
-abel,0,2,4
-kenneth e ii,0,2,12
-stanley g,0,2,9
-thomas p jr,0,2,11
-pierre l,0,2,8
+sammie,0,2,6
+pierre,0,2,6
 paul iii,0,2,8
-anthony t,0,2,9
-clarence g,0,2,10
-lydon p,0,2,7
-johnny j,0,2,8
-paul g,0,2,6
-john c iii,0,2,10
-blake j,0,2,7
-darrell r,0,2,9
-clayton l,0,2,9
-kevin d jr,0,2,10
-maxwell,0,2,7
-philip l,0,2,8
-dale j,0,2,6
-francis m,0,2,9
-gordon f iii,0,2,12
-bob j,0,2,5
-cecil,0,2,5
-rufus e,0,2,7
-angel e,0,2,7
-tye j,0,2,5
-dennis s,0,2,8
-timothy p ii,0,2,12
-bobby j jr,0,2,10
-bruce g,0,2,7
-carter l,0,2,8
-david c jr,0,2,10
-donn a,0,2,6
-harvey l sr,0,2,11
-hensley s,0,2,9
-ian j,0,2,5
-jesse e iii,0,2,11
-stevie r,0,2,8
-joseph t jr,0,2,11
-glen d,0,2,6
-jessie l jr,0,2,11
-kelly d,0,2,7
-trevor d,0,2,8
-jerry l jr,0,2,10
-douglas h,0,2,9
-roger o,0,2,7
-dillon p,0,2,8
-lee d,0,2,5
-tony o,0,2,6
+lydon,0,2,5
+gordon  iii,0,2,11
+rufus,0,2,5
+tye,0,2,3
+donn,0,2,4
+hensley,0,2,7
+jesse  iii,0,2,10
 greomar,0,2,7
-jean l,0,2,6
-adolfo n,0,2,8
-allen c,0,2,7
-beventura b,0,2,11
-gustavo q,0,2,9
-pedro g,0,2,7
-rodil o,0,2,7
+adolfo,0,2,6
+beventura,0,2,9
+rodil,0,2,5
 darwin,0,2,6
-lynn a,0,2,6
-steven i ii,0,2,11
-kanyon d,0,2,8
+kanyon,0,2,6
 edvin,0,2,5
-douglas t,0,2,9
-malcolm g,0,2,9
-tracy s,0,2,7
-brian n,0,2,7
-darren m,0,2,8
-tristan d,0,2,9
-jerald e,0,2,8
+jerald,0,2,6
 ilir,0,2,4
-frederick c jr,0,2,14
-terry c,0,2,7
-wayne s,0,2,7
-gerrell b,0,2,9
+gerrell,0,2,7
 frederico,0,2,9
-ryan d,0,2,6
 royal iii,0,2,9
-garrett j,0,2,9
-thomas l iii,0,2,12
-heath o,0,2,7
-rold t sr,0,2,9
-scott c,0,2,7
-lonnie d,0,2,8
-jack e,0,2,6
-everett l,0,2,9
-peter p,0,2,7
-johnnie,0,2,7
-dwight t,0,2,8
-bryan k jr,0,2,10
-john d ii,0,2,9
-lee b,0,2,5
-erik p,0,2,6
-lance w,0,2,7
-marc s,0,2,6
-brent c,0,2,7
-marcus r,0,2,8
-ivan w,0,2,6
 mylowe,0,2,6
-dold h,0,2,6
-chase b,0,2,7
-clayton w,0,2,9
-corey g,0,2,7
-tony l,0,2,6
-kermit e,0,2,8
-corey,0,2,5
-bradford j,0,2,10
-emanuel m,0,2,9
-igcio g,0,2,7
 alekz,0,2,5
-jorge v,0,2,7
-raudel p,0,2,8
-christian a,0,2,11
+raudel,0,2,6
 electo,0,2,6
 mariano,0,2,7
-julian d,0,2,8
-stanley,0,2,7
-gustavo w,0,2,9
-terry r,0,2,7
-ty e,0,2,4
-lucus w,0,2,7
-chris a,0,2,7
-george m jr,0,2,11
-clayton j,0,2,9
-jared n,0,2,7
-jamey l,0,2,7
-anthony e,0,2,9
-george c,0,2,8
-chad j,0,2,6
-terry k ii,0,2,10
-thomas m iii,0,2,12
-luiz a,0,2,6
-gerald s,0,2,8
-allen p,0,2,7
-bradford l,0,2,10
-buddie d sr,0,2,11
-calvin k,0,2,8
-clyde j jr,0,2,10
-harvey j jr,0,2,11
-homer h,0,2,7
-joshua jame s,0,2,13
-kent w,0,2,6
-kyndal r,0,2,8
-monroe m,0,2,8
-morgan p,0,2,8
-paul jr,0,2,7
-zackary t,0,2,9
-curtis h,0,2,8
-roman l,0,2,7
-virgle l jr,0,2,11
-daniel w jr,0,2,11
-william l ii,0,2,12
-clifford j,0,2,10
+lucus,0,2,5
+jamey,0,2,5
+luiz,0,2,4
+buddie,0,2,6
+joshua jame,0,2,11
+kyndal,0,2,6
+monroe,0,2,6
+virgle,0,2,6
 jorin,0,2,5
-leslie v ii,0,2,11
-jeramie l,0,2,9
-blake s,0,2,7
-amer a,0,2,6
-rakad i,0,2,7
-gregory d,0,2,9
-shawn u,0,2,7
-coty r,0,2,6
-ray b,0,2,5
-webster m,0,2,9
-miltiadis i,0,2,11
+jeramie,0,2,7
+amer,0,2,4
+rakad,0,2,5
+webster,0,2,7
+miltiadis,0,2,9
 hakim,0,2,5
-walter g,0,2,8
-ladd e,0,2,6
+ladd,0,2,4
 blaine,0,2,6
-damone s,0,2,8
-keith s,0,2,7
-jimmie n iii,0,2,12
-brad j,0,2,6
-kyle p,0,2,6
-terry m jr,0,2,10
-dennis w,0,2,8
-dudley r,0,2,8
-lance c,0,2,7
-wes w,0,2,5
-james e iii,0,2,11
-morris e jr,0,2,11
-james k jr,0,2,10
-eugene jr,0,2,9
-alton l,0,2,7
-scott s,0,2,7
-lamar p iii,0,2,11
-lazaro g,0,2,8
-clyde g jr,0,2,10
-richard i,0,2,9
+damone,0,2,6
+jimmie  iii,0,2,11
+dudley,0,2,6
+wes,0,2,3
+lamar  iii,0,2,10
 ulysses,0,2,7
-beau a,0,2,6
-peter d,0,2,7
-geoffrey a,0,2,10
 ernestor,0,2,8
-michael a sr,0,2,12
-darrin m,0,2,8
-arnell a,0,2,8
-erik a,0,2,6
-lynn s,0,2,6
-joseph g jr,0,2,11
-everett a,0,2,9
-james h iii,0,2,11
-sean a,0,2,6
-clint c,0,2,7
-peter o,0,2,7
-clay l,0,2,6
-tony r,0,2,6
+arnell,0,2,6
 nolberto,0,2,8
-kawika r,0,2,8
-thaniel,0,2,7
-trevor q,0,2,8
-harens a,0,2,8
-thaniel t,0,2,9
-than l,0,2,6
-kristopher w,0,2,12
-lee p,0,2,5
-scott n,0,2,7
-jerry m ii,0,2,10
-marvin p,0,2,8
-tillman a iii,0,2,13
+kawika,0,2,6
+harens,0,2,6
+tillman  iii,0,2,12
 iyoley,0,2,6
 aniel,0,2,5
-giovanni f,0,2,10
-guelmer j,0,2,9
-marcelo v,0,2,9
-mayron a,0,2,8
-rey a,0,2,5
-jerbel c,0,2,8
-jose jr,0,2,7
-louis a,0,2,7
+guelmer,0,2,7
+marcelo,0,2,7
+mayron,0,2,6
+rey,0,2,3
+jerbel,0,2,6
 michel,0,2,6
-gavin a,0,2,7
+gavin,0,2,5
 geosvani,0,2,8
-humberto a,0,2,10
-ramon l,0,2,7
-christian e,0,2,11
-daniel i,0,2,8
-ernest d,0,2,8
-lowen i,0,2,7
-deury y,0,2,7
-fransisco m,0,2,11
-jeronimo a sr,0,2,13
-trevor w,0,2,8
+lowen,0,2,5
+deury,0,2,5
+fransisco,0,2,9
+jeronimo,0,2,8
 saturnino,0,2,9
-derrick g,0,2,9
-demmer c,0,2,8
-dale h,0,2,6
-victor s,0,2,8
-yuri l,0,2,6
-david h sr,0,2,10
-jean r,0,2,6
-romano,0,2,6
-carlos h,0,2,8
-morgan c,0,2,8
-dillon m,0,2,8
-guy d,0,2,5
-kerry c,0,2,7
-brent m jr,0,2,10
-byron a,0,2,7
-conley l,0,2,8
-dalton g,0,2,8
-ezra m,0,2,6
-francis k,0,2,9
-harry r,0,2,7
-jordan c,0,2,8
-matthew f,0,2,9
-nelson e,0,2,8
+demmer,0,2,6
+ezra,0,2,4
 orra,0,2,4
-paul h,0,2,6
-roger v,0,2,7
-sonny r,0,2,7
-darroll e,0,2,9
-durwood g jr,0,2,12
-hugh c,0,2,6
-tyson b,0,2,7
-chris h,0,2,7
-edison e,0,2,8
-david o,0,2,7
-mohamed r,0,2,9
+darroll,0,2,7
+durwood,0,2,7
+edison,0,2,6
 walid,0,2,5
-ralph j,0,2,7
 ovidio,0,2,6
-stormy d,0,2,8
-william p jr,0,2,12
-dold e jr,0,2,9
-allen k,0,2,7
-tommy e jr,0,2,10
-carmine c,0,2,9
-vincenzo j,0,2,10
-mathew c,0,2,8
-rold a iii,0,2,10
+stormy,0,2,6
+carmine,0,2,7
+vincenzo,0,2,8
+rold  iii,0,2,9
 shkelqim,0,2,8
 yamil,0,2,5
-bryant,0,2,6
-sean w,0,2,6
-trever a,0,2,8
-wade,0,2,4
-arthur e ii,0,2,11
-dennis e,0,2,8
-edgar b,0,2,7
-melvin r,0,2,8
-vance j,0,2,7
-vernon s,0,2,8
-braxton d,0,2,9
+trever,0,2,6
+braxton,0,2,7
 kristian,0,2,8
 kurtiss,0,2,7
-lucas s,0,2,7
-tracy a,0,2,7
 ambrozy,0,2,7
-glen p,0,2,6
-jesse t iii,0,2,11
-colton h,0,2,8
-marty a,0,2,7
-scottie l,0,2,9
-clifford j jr,0,2,13
-falcon r,0,2,8
-jack w,0,2,6
-samir m,0,2,7
-casey s,0,2,7
-garrett a,0,2,9
-stonewall j,0,2,11
-hayward n,0,2,9
-logan t,0,2,7
-roy b,0,2,5
-clayton d,0,2,9
+falcon,0,2,6
+stonewall,0,2,9
 davee,0,2,5
 eliseo,0,2,6
-ramon f,0,2,7
-todd m ii,0,2,9
-alfredo r jr,0,2,12
-cavin m,0,2,7
-eloy jr,0,2,7
-hugo a,0,2,6
-jothan i,0,2,8
-antonio f,0,2,9
+cavin,0,2,5
+eloy,0,2,4
 cristian,0,2,8
-german,0,2,6
-corey j,0,2,7
-mike a,0,2,6
-forrest k,0,2,9
-houston j,0,2,9
-leroy jr,0,2,8
-gene l,0,2,6
-noah j,0,2,6
-kevin p,0,2,7
 teobaldo,0,2,8
-evan f,0,2,6
-dudley m,0,2,8
-benjamin d,0,2,10
-eric v,0,2,6
-luke b,0,2,6
-vinson r,0,2,8
-jothan f,0,2,8
+vinson,0,2,6
 thiago,0,2,6
-alain f,0,2,7
-alexis f,0,2,8
-axel d,0,2,6
-carmelo l,0,2,9
-emilio d,0,2,8
+axel,0,2,4
 evenezer,0,2,8
-humberto p,0,2,10
-joe,0,2,3
-jorge q,0,2,7
-lazaro r,0,2,8
-leordo b,0,2,8
-marino j,0,2,8
-mario n,0,2,7
-osmel,0,2,5
-pablo e,0,2,7
+marino,0,2,6
 rodolfo,0,2,7
-ron a,0,2,5
 wenceslao,0,2,9
-xavier l,0,2,8
+xavier,0,2,6
 yosvani,0,2,7
 yusdel,0,2,6
 zenon,0,2,5
 danilo,0,2,6
-pablo a,0,2,7
 isidro,0,2,6
-neil l,0,2,6
-rodrick j,0,2,9
-carlo,0,2,5
+rodrick,0,2,7
 liosbel,0,2,7
-percival c,0,2,10
-gero,0,2,4
-brian k sr,0,2,10
-theodore r,0,2,10
-charles a jr,0,2,12
+percival,0,2,8
 sione,0,2,5
-alvin m,0,2,7
-walter e jr,0,2,11
-tilden l,0,2,8
-alan d jr,0,2,9
-martin h jr,0,2,11
-bert j,0,2,6
-raymond v,0,2,9
+tilden,0,2,6
 ross iii,0,2,8
 tathan,0,2,6
-timothy r jr,0,2,12
-zackee r,0,2,8
-darwin j,0,2,8
+zackee,0,2,6
 edilberto,0,2,9
-manuel o,0,2,8
-carlos d,0,2,8
-carlos j,0,2,8
-domingo p,0,2,9
-edward i,0,2,8
-ervin t,0,2,7
 fulvio,0,2,6
 marcelino,0,2,9
-oscar a,0,2,7
-rene v,0,2,6
 roblero,0,2,7
-tulio t,0,2,7
-victor e,0,2,8
+tulio,0,2,5
 yusney,0,2,6
-abbys n,0,2,7
-leord r,0,2,7
-eduardo i,0,2,9
-kiefer r,0,2,8
-bradley r,0,2,9
-leeroy t,0,2,8
-william e iii,0,2,13
-willie t iii,0,2,12
-owen r,0,2,6
-jeffrey t,0,2,9
-garry e,0,2,7
-mitchell e,0,2,10
-alvin l jr,0,2,10
-jack t jr,0,2,9
-kelly j,0,2,7
-edward a jr,0,2,11
-marty m,0,2,7
-john j ii,0,2,9
-harvey r,0,2,8
+abbys,0,2,5
+kiefer,0,2,6
+leeroy,0,2,6
+willie  iii,0,2,11
 rexx,0,2,4
-gerald b,0,2,8
-cody m,0,2,6
-dekota l,0,2,8
-devin w,0,2,7
-gary n,0,2,6
-keith h,0,2,7
-luke r,0,2,6
-james v jr,0,2,10
-jojo,0,2,4
+dekota,0,2,6
 ole,0,2,3
-troy i,0,2,6
-bryant e,0,2,8
-jack h,0,2,6
-derrick j,0,2,9
 joevonne,0,2,8
-freddie l,0,2,9
-jackie m,0,2,8
 iran,0,2,4
-vincent o,0,2,9
-adam g,0,2,6
-dylan j,0,2,7
-ralph h jr,0,2,10
-tod,0,2,3
-christian l,0,2,11
-dalton j,0,2,8
-dean t,0,2,6
-eric p,0,2,6
-harry k,0,2,7
-jakob l,0,2,7
-jefferey l,0,2,10
-mack g,0,2,6
-alex l,0,2,6
+jakob,0,2,5
+jefferey,0,2,8
+mack,0,2,4
 raleigh,0,2,7
 ralph iii,0,2,9
-francisco f,0,2,11
-jose u,0,2,6
-luis jr,0,2,7
-miguel a jr,0,2,11
-roberto g,0,2,9
-valentin j,0,2,10
 anner,0,2,5
-christian d,0,2,11
-lenin f,0,2,7
-franklin d,0,2,10
-jerry e ii,0,2,10
-than c,0,2,6
-benjamin w,0,2,10
-little j,0,2,8
-daniel r ii,0,2,11
-walter r,0,2,8
-wesley t jr,0,2,11
-keith w,0,2,7
-robert j iii,0,2,12
-frederick g,0,2,11
+lenin,0,2,5
+little,0,2,6
 frank iii,0,2,9
 giancarlo,0,2,9
-raul j,0,2,6
-dj m,0,2,4
-lewis a,0,2,7
-anthony jr,0,2,10
 silverio,0,2,8
-gary l jr,0,2,9
-gene p,0,2,6
-earl r,0,2,6
-ellis d,0,2,7
-jerry c iii,0,2,11
-reese g,0,2,7
+ellis,0,2,5
+jerry  iii,0,2,10
+reese,0,2,5
 dylon,0,2,5
-stanley j,0,2,9
-joseph o,0,2,8
-seamus d,0,2,8
-gavin m,0,2,7
-lyle f jr,0,2,9
-tommy j,0,2,7
-enoch j,0,2,7
+lyle,0,2,4
 enrico,0,2,6
-craig m,0,2,7
-patrick a sr,0,2,12
-alton a,0,2,7
-archie l iii,0,2,12
-charles k,0,2,9
-clayborn w iii,0,2,14
-jarrod p,0,2,8
-joshua i,0,2,8
-kristian s,0,2,10
-seth m,0,2,6
-thomas e ii,0,2,11
+archie  iii,0,2,11
+clayborn  iii,0,2,13
 tory,0,2,4
-konstantin o,0,2,12
-brenn c,0,2,7
-george a iii,0,2,12
-harmon d,0,2,8
-wendell v,0,2,9
-benjamin h,0,2,10
-billy d jr,0,2,10
-chadd e,0,2,7
-douglas e jr,0,2,12
-jimmie n,0,2,8
-joseph z,0,2,8
-kelvin,0,2,6
-alan p,0,2,6
-bradley l,0,2,9
-dale l,0,2,6
-edward w ii,0,2,11
-gottfried j,0,2,11
-paul p,0,2,6
-samuel l jr,0,2,11
-steven b jr,0,2,11
-stuart w,0,2,8
-raymond m,0,2,9
-charles t,0,2,9
+konstantin,0,2,10
+brenn,0,2,5
+harmon,0,2,6
+chadd,0,2,5
+gottfried,0,2,9
 fransico,0,2,8
-michael b jr,0,2,12
-austin l,0,2,8
-diego p,0,2,7
-pascual,0,2,7
 icio,0,2,4
-uriel g,0,2,7
-lester d,0,2,8
-thomas j iv,0,2,11
-calvin,0,2,6
+uriel,0,2,5
 bhaktivinod,0,2,11
-trevor c,0,2,8
-shannon k,0,2,9
-george h iii,0,2,12
-ollis a jr,0,2,10
-enno c,0,2,6
-rocky,0,2,5
-braidden m,0,2,10
-dakota j,0,2,8
-jothanrob e,0,2,11
-morris r,0,2,8
-kristian l,0,2,10
-kyle h,0,2,6
+ollis,0,2,5
+enno,0,2,4
+braidden,0,2,8
+jothanrob,0,2,9
 patricio,0,2,8
-darryl j,0,2,8
-aubry a jr,0,2,10
-austin,0,2,6
-gregg w,0,2,7
-john m iii,0,2,10
-kristopher g,0,2,12
-lantz a,0,2,7
-mark t,0,2,6
-maurice c,0,2,9
-willam j,0,2,8
-bobby e jr,0,2,10
-yirco b,0,2,7
-corey d,0,2,7
+aubry,0,2,5
+lantz,0,2,5
+willam,0,2,6
+yirco,0,2,5
 lucilo,0,2,6
-karl r,0,2,6
-ian e,0,2,5
-harry j ii,0,2,10
-arlen m,0,2,7
-adalberto,0,2,9
-aldo r,0,2,6
+arlen,0,2,5
+aldo,0,2,4
 heber,0,2,5
-ray w,0,2,5
-louis l,0,2,7
-eric d,0,2,6
-lonnie l,0,2,8
-jake,0,2,4
-brian r sr,0,2,10
-cory b,0,2,6
-aurelian r,0,2,10
-marcus s,0,2,8
-allen l jr,0,2,10
-russell l jr,0,2,12
-willie r,0,2,8
-zachary d,0,2,9
-colby r,0,2,7
-damian m,0,2,8
-jorge l jr,0,2,10
-maryo a,0,2,7
-maurice a,0,2,9
-rafael v,0,2,8
-manley m iii,0,2,12
-jeremie b,0,2,9
-wesley t sr,0,2,11
-lewis e,0,2,7
-lamar j,0,2,7
-evan c,0,2,6
-james m ii,0,2,10
-elvis d,0,2,7
-chassen t,0,2,9
-mason w,0,2,7
-jody r,0,2,6
-robert jr,0,2,9
-al t,0,2,4
-charles a iii,0,2,13
-curtis l,0,2,8
+aurelian,0,2,8
+maryo,0,2,5
+manley  iii,0,2,11
+jeremie,0,2,7
+lamar,0,2,5
+chassen,0,2,7
+mason,0,2,5
 tra,0,2,3
-chadwick j,0,2,10
 ramses,0,2,6
-omar b,0,2,6
-demetrio r,0,2,10
-xavier,0,2,6
 piotr,0,2,5
-nelson c,0,2,8
-don a,0,2,5
-wayne b,0,2,7
-jeramie c,0,2,9
-johnny b,0,2,8
-paul n ii,0,2,9
-jamie g,0,2,7
-lee m,0,2,5
-jordan e,0,2,8
-van l,0,2,5
 thimber,0,2,7
-luis a jr,0,2,9
-brent t,0,2,7
-eduardo l,0,2,9
 jarred,0,2,6
-lazaro h,0,2,8
-conor e,0,2,7
-curtis p,0,2,8
-edward e ii,0,2,11
-gerald e,0,2,8
-jared j,0,2,7
-hector g,0,2,8
-antonio l jr,0,2,12
-fermin s,0,2,8
+conor,0,2,5
+fermin,0,2,6
 fidensio,0,2,8
-johnnie e,0,2,9
-marc s jr,0,2,9
-darrell w,0,2,9
 britton,0,2,7
-leon r,0,2,6
-lazaro v,0,2,8
 ubaldo,0,2,6
-gonzalo m,0,2,9
-guy r,0,2,5
-angel e jr,0,2,10
-javier g,0,2,8
-jose e jr,0,2,9
 lenny,0,2,5
-irvin a,0,2,7
-waylon d,0,2,8
-kelley g,0,2,8
+irvin,0,2,5
+kelley,0,2,6
 tom,0,2,3
-emmanuel,0,2,8
-stacy,0,2,5
-dave,0,2,4
-victor jr,0,2,9
-alex j,0,2,6
-arturo jr,0,2,9
-benjamin z,0,2,10
-calixtro a,0,2,10
-christopher o,0,2,13
-clemente f,0,2,10
-damaso e,0,2,8
-edgardo d,0,2,9
-eduardo v,0,2,9
-eloy,0,2,4
-erik i,0,2,6
+calixtro,0,2,8
+clemente,0,2,8
 felierix,0,2,8
-felix c,0,2,7
-francisco n,0,2,11
-gabriel s,0,2,9
-geraldo r,0,2,9
-gregorio jr,0,2,11
-harol j,0,2,7
-harris t,0,2,8
-helmiro a,0,2,9
+geraldo,0,2,7
+harol,0,2,5
+harris,0,2,6
+helmiro,0,2,7
 ishmal,0,2,6
-isidro a,0,2,8
-ismael v,0,2,8
-javier jr,0,2,9
-jeffrey o,0,2,9
-jose n,0,2,6
-jose p,0,2,6
-juan l,0,2,6
-juan luis v,0,2,11
-julio g,0,2,7
-lazaro e,0,2,8
-louis n,0,2,7
-nesdy m,0,2,7
+juan luis,0,2,9
+nesdy,0,2,5
 niarcos,0,2,7
-nickie d,0,2,8
+nickie,0,2,6
 odelyn,0,2,6
 oreste,0,2,6
-oscar jr,0,2,8
-raul g,0,2,6
-roy j jr,0,2,8
-saul h,0,2,6
-steve g,0,2,7
-tito w,0,2,6
+tito,0,2,4
 uvaldo,0,2,6
-vic a,0,2,5
-victor f,0,2,8
-wilber,0,2,6
+vic,0,2,3
 aureliano,0,2,9
-jaime e,0,2,7
-santiago d,0,2,10
-angel j,0,2,7
-fredy m,0,2,7
 blas,0,2,4
-christian c,0,2,11
-byron w,0,2,7
-charles e iii,0,2,13
-donnie j,0,2,8
-dustin c,0,2,8
-ian r,0,2,5
-jerry w iii,0,2,11
-powell e,0,2,8
-rold g jr,0,2,9
-tommy a,0,2,7
-ruben l,0,2,7
-marco jr,0,2,8
-willard j jr,0,2,12
-jay f,0,2,5
-max b,0,2,5
-stevie d,0,2,8
-wilfred,0,2,7
-damon k,0,2,7
-jordan s,0,2,8
-moe l,0,2,5
-roger m jr,0,2,10
+powell,0,2,6
+max,0,2,3
+moe,0,2,3
 savoy,0,2,5
-leydel m,0,2,8
-jonnie b,0,2,8
-ian p,0,2,5
-jamie c,0,2,7
-hector jr,0,2,9
-homer,0,2,5
-raymundo g,0,2,10
-reyes m,0,2,7
-sesario g,0,2,9
-zamir m,0,2,7
+leydel,0,2,6
+sesario,0,2,7
+zamir,0,2,5
 fehmi,0,2,5
-khalil j,0,2,8
-elpidio t,0,2,9
-herschel l jr,0,2,13
-sylvian r,0,2,9
-gabriel m,0,2,9
-thomas m ii,0,2,11
-ernesto h,0,2,9
-alex f,0,2,6
-roque,0,2,5
-dennis g ii,0,2,11
-louie k,0,2,7
-terence l,0,2,9
+khalil,0,2,6
+elpidio,0,2,7
+herschel,0,2,8
+sylvian,0,2,7
+terence,0,2,7
 thermon,0,2,7
-tom m,0,2,5
-rold e sr,0,2,9
-matthew k,0,2,9
-roy w jr,0,2,8
-troy j,0,2,6
-alvaro l,0,2,8
-anis s,0,2,6
-carl r,0,2,6
-linfred a,0,2,9
-kris,0,2,4
-noah r,0,2,6
-carlos n,0,2,8
-chet a,0,2,6
-walter j,0,2,8
-jeffrey d jr,0,2,12
-garrett s,0,2,9
-jerry r ii,0,2,10
-rocco d,0,2,7
+anis,0,2,4
+linfred,0,2,7
+chet,0,2,4
 micki,0,2,5
-thor i,0,2,6
+thor,0,2,4
 alfio,0,2,5
-fred a,0,2,6
-dylan,0,2,5
-brian jr,0,2,8
-james c ii,0,2,10
-tracy t sr,0,2,10
-tyler y,0,2,7
-william a iii,0,2,13
-dold f,0,2,6
-eli,0,2,3
-russell f ii,0,2,12
-glen r,0,2,6
-francis r,0,2,9
-omar m,0,2,6
-panfilo e,0,2,9
-dorian j,0,2,8
-darreld b,0,2,9
-charlie b,0,2,9
-max e jr,0,2,8
-richard e ii,0,2,12
-theodore e,0,2,10
-braxton c,0,2,9
-dock e,0,2,6
-ramsey j,0,2,8
-clarence d iii,0,2,14
-john q,0,2,6
-steve e,0,2,7
-than a,0,2,6
-judson l,0,2,8
-corban m,0,2,8
-elbert l jr,0,2,11
-keefe p,0,2,7
-jeff,0,2,4
-berrd e,0,2,7
-darrell r iii,0,2,13
-kerry t,0,2,7
-marvin,0,2,6
-moices m,0,2,8
-ricardo i,0,2,9
-stephan r,0,2,9
-earl h,0,2,6
-shane e,0,2,7
-brent p,0,2,7
-logan s,0,2,7
-trent d,0,2,7
-barry d,0,2,7
-lenward b,0,2,9
-gerald p jr,0,2,11
-thomas e jr,0,2,11
-william a iv,0,2,12
-rickie l,0,2,8
-dean p,0,2,6
-jordan m,0,2,8
-terry o,0,2,7
-adam h,0,2,6
-barry r,0,2,7
-keven d,0,2,7
+panfilo,0,2,7
+dorian,0,2,6
+darreld,0,2,7
+dock,0,2,4
+ramsey,0,2,6
+clarence  iii,0,2,13
+corban,0,2,6
+elbert,0,2,6
+keefe,0,2,5
+darrell  iii,0,2,12
+moices,0,2,6
+lenward,0,2,7
+keven,0,2,5
 comer,0,2,5
-charles z,0,2,9
-rodney c,0,2,8
-derek c,0,2,7
-wendell l,0,2,9
-bryan n ii,0,2,10
-jackson h,0,2,9
-emmet c,0,2,7
-francis w,0,2,9
-raymond c,0,2,9
-alan w jr,0,2,9
-dold t jr,0,2,9
-paul l jr,0,2,9
-clarence e,0,2,10
-geoffery m,0,2,10
-russell s,0,2,9
-jackson w,0,2,9
-terrell j,0,2,9
-raymie l,0,2,8
-will a,0,2,6
-amarsinh n,0,2,10
-dale d,0,2,6
-jordan a,0,2,8
-galen g,0,2,7
-marvin d ii,0,2,11
-samuel c,0,2,8
-christopher j ii,0,2,16
-thaniel m,0,2,9
-kelly a ii,0,2,10
-balazs k,0,2,8
+jackson,0,2,7
+emmet,0,2,5
+geoffery,0,2,8
+raymie,0,2,6
+amarsinh,0,2,8
+balazs,0,2,6
 alexey,0,2,6
-alfredo l,0,2,9
-alfredo s,0,2,9
-argelio s,0,2,9
+argelio,0,2,7
 ashton,0,2,6
 augusto,0,2,7
 cenobio,0,2,7
-denis a,0,2,7
-edison,0,2,6
-elias l,0,2,7
-fabio a,0,2,7
+elias,0,2,5
 fabricio,0,2,8
-felipe a,0,2,8
-gerardo b,0,2,9
 guadalupe,0,2,9
-hilario m,0,2,9
 ibes,0,2,4
-jeronimo,0,2,8
-leordo p,0,2,8
-manuel i,0,2,8
-ramon e,0,2,7
-silvio a,0,2,8
-tomas r,0,2,7
-yon g,0,2,5
+silvio,0,2,6
+yon,0,2,3
 yosvany,0,2,7
 yuddiet,0,2,7
 dayan,0,2,5
-angel i,0,2,7
-william i,0,2,9
-fidel p,0,2,7
-emmanuel a,0,2,10
-guadalupe jr,0,2,12
-jorge c,0,2,7
-manuel jr,0,2,9
-miquel g,0,2,8
-adoi s,0,2,6
-adrian o,0,2,8
-agapito f,0,2,9
-alberto f,0,2,9
-alexei m,0,2,8
-alfonso a,0,2,9
-amado,0,2,5
-antonio c,0,2,9
+fidel,0,2,5
+miquel,0,2,6
+adoi,0,2,4
+alexei,0,2,6
 aquilino,0,2,8
-arselio j,0,2,9
-arthur g,0,2,8
-arturo g,0,2,8
-augustine jr,0,2,12
-baudilio r,0,2,10
-benito g jr,0,2,11
-benito l,0,2,8
-breno a,0,2,7
-caleb w,0,2,7
-carlos b,0,2,8
+arselio,0,2,7
+baudilio,0,2,8
+breno,0,2,5
 cheyenne,0,2,8
-cortney a,0,2,9
-dariel l,0,2,8
+cortney,0,2,7
+dariel,0,2,6
 deymus,0,2,6
-dorian s,0,2,8
 edelberto,0,2,9
-edison r,0,2,8
-edsel,0,2,5
-eliezer jr,0,2,10
-enrique a,0,2,9
-enrique l,0,2,9
 esequiel,0,2,8
-estaban e,0,2,9
-felix b,0,2,7
-frank m,0,2,7
+estaban,0,2,7
 geodis,0,2,6
-georgie d,0,2,9
-guillermo d,0,2,11
-igcio j,0,2,7
-israel g,0,2,8
-ivan s,0,2,6
-javiel f,0,2,8
-jesus r,0,2,7
-joaquin,0,2,7
-juan j jr,0,2,9
-julio m,0,2,7
-leord p jr,0,2,10
+georgie,0,2,7
+javiel,0,2,6
 malaquias,0,2,9
-marlon j,0,2,8
-maxwell a,0,2,9
-melvin a,0,2,8
-nelson v,0,2,8
-nicholas ii,0,2,11
-pedro sr,0,2,8
-rafael jr,0,2,9
-rafael j,0,2,8
-ramon b,0,2,7
 reinel,0,2,6
 roeidi,0,2,6
 roel,0,2,4
-rueben,0,2,6
-saul g,0,2,6
 srirama,0,2,7
 sudan,0,2,5
-tito,0,2,4
-yadier r,0,2,8
-yasmani v,0,2,9
+yadier,0,2,6
+yasmani,0,2,7
 yoanky,0,2,6
-yoel c,0,2,6
 yunesky,0,2,7
 gerson,0,2,6
 manual,0,2,6
-dayan s,0,2,7
 ommy,0,2,4
 wilberto,0,2,8
-clemente,0,2,8
-salvador,0,2,8
-jeremiah l,0,2,10
-michael j jr,0,2,12
-clark g,0,2,7
-delbert l,0,2,9
-ethan p,0,2,7
-terrence l,0,2,10
-kamron j,0,2,8
-geoffrey e,0,2,10
-neal e,0,2,6
-floyd t,0,2,7
-gregory g,0,2,9
-derick l,0,2,8
-johnson c,0,2,9
-paul f,0,2,6
-rayford c,0,2,9
-tyler c,0,2,7
-brett e,0,2,7
-franklin t,0,2,10
-jamie w,0,2,7
-matthew q,0,2,9
-raymond n,0,2,9
-richard w jr,0,2,12
-wayne f jr,0,2,10
-grady j,0,2,7
+ethan,0,2,5
+terrence,0,2,8
+neal,0,2,4
+johnson,0,2,7
+rayford,0,2,7
 ilya,0,2,4
-tony c,0,2,6
-theodore b,0,2,10
-shane w,0,2,7
-daniel e jr,0,2,11
-chris g,0,2,7
-jasper b,0,2,8
-adam f,0,2,6
+jasper,0,2,6
 ruben iii,0,2,9
-thaddeus n,0,2,10
-milton r jr,0,2,11
+thaddeus,0,2,8
 mathieu,0,2,7
-darby l,0,2,7
-walter k,0,2,8
-geoffrey m,0,2,10
-theodore j,0,2,10
-guy o jr,0,2,8
-kenneth h jr,0,2,12
-shannon c,0,2,9
-edmond,0,2,6
+darby,0,2,5
 erasmo,0,2,6
-gerard a,0,2,8
-luke p,0,2,6
-bill jr,0,2,7
-dillon w,0,2,8
-gage g,0,2,6
-hoyet d,0,2,7
-albert d jr,0,2,11
-beau r,0,2,6
-bonny s,0,2,7
-doyle c,0,2,7
-glenn k,0,2,7
-jeramy l,0,2,8
-jessie lee w,0,2,12
-bryant l,0,2,8
-merle d,0,2,7
-buddy,0,2,5
+gage,0,2,4
+hoyet,0,2,5
+bonny,0,2,5
+doyle,0,2,5
+jessie lee,0,2,10
+merle,0,2,5
 josesph,0,2,7
 jeltsin,0,2,7
-jacob f,0,2,7
-mathew l,0,2,8
-rold e iii,0,2,10
-stephen i,0,2,9
-willilam p,0,2,10
-adam t,0,2,6
-dold g,0,2,6
-gary f,0,2,6
-maurice k jr,0,2,12
-taylor a,0,2,8
-edward w,0,2,8
-dominic a,0,2,9
-james r ii,0,2,10
+willilam,0,2,8
 ren,0,2,3
-jaymie l,0,2,8
-mark w jr,0,2,9
-mikell e jr,0,2,11
-ocial o,0,2,7
-perry a,0,2,7
-rian r,0,2,6
-roger s,0,2,7
-scotty m,0,2,8
-shelton e,0,2,9
-timothy l jr,0,2,12
-henry p,0,2,7
-stormy m,0,2,8
-sebastian d,0,2,11
-ray c,0,2,5
-levi d,0,2,6
-theron o jr,0,2,11
-zachary v,0,2,9
-brent a,0,2,7
-jeff a,0,2,6
-stacy l,0,2,7
+jaymie,0,2,6
+ocial,0,2,5
+rian,0,2,4
+shelton,0,2,7
+sebastian,0,2,9
+levi,0,2,4
 serv,0,2,4
-guy b,0,2,5
-timothy g,0,2,9
-daniel p jr,0,2,11
-james l iii,0,2,11
-peter jr,0,2,8
-noah c,0,2,6
-louis m,0,2,7
-lawrence w,0,2,10
-taylor s,0,2,8
-calvin e jr,0,2,11
-chancey g,0,2,9
-charles e jr,0,2,12
-dennis l jr,0,2,11
-earnest a,0,2,9
-elbert c,0,2,8
-joshua v,0,2,8
-quenton d,0,2,9
-ryan b,0,2,6
-sam h,0,2,5
-warren l,0,2,8
-abram,0,2,5
-darryl a,0,2,8
-elick l,0,2,7
-riley l jr,0,2,10
-steven e jr,0,2,11
+chancey,0,2,7
+quenton,0,2,7
+elick,0,2,5
 cary iii,0,2,8
-damian c,0,2,8
-james o,0,2,7
-millard h,0,2,9
-nel t,0,2,5
-steve n,0,2,7
-tommy d,0,2,7
-rory l,0,2,6
+millard,0,2,7
+nel,0,2,3
 casimar iii,0,2,11
-johnnie r jr,0,2,12
-norman m,0,2,8
-javis c,0,2,7
-rodney j,0,2,8
-leslie c,0,2,8
-derick j,0,2,8
-talmadge d,0,2,10
-rold e ii,0,2,9
-jeread d,0,2,8
-vitaliy a,0,2,9
-elvis a,0,2,7
-edward f,0,2,8
-casey,0,2,5
-dino j,0,2,6
-richard e jr,0,2,12
-bruce h jr,0,2,10
-robbie c,0,2,8
-scott b,0,2,7
-bruce b,0,2,7
-jermie l,0,2,8
+javis,0,2,5
+jeread,0,2,6
+vitaliy,0,2,7
+jermie,0,2,6
 nicky,0,2,5
 aleks,0,2,5
-luke t,0,2,6
 eulises,0,2,7
-ivan jr,0,2,7
-antonio jr,0,2,10
-yan c,0,2,5
+yan,0,2,3
 werner,0,2,6
-olin j,0,2,6
-castro j,0,2,8
-jesus g,0,2,7
-jorge y,0,2,7
-liod f,0,2,6
-fabio u,0,2,7
-juan o,0,2,6
+castro,0,2,6
+liod,0,2,4
 orwhin,0,2,6
-elias a,0,2,7
-jayro m,0,2,7
-mario iv,0,2,8
-ismael a,0,2,8
-emmett e jr,0,2,11
-atom c,0,2,6
-jonny w,0,2,7
-johnny c,0,2,8
-mathew q,0,2,8
-jansen h,0,2,8
-jasper s,0,2,8
-larry h,0,2,7
-james j iii,0,2,11
-shannon e,0,2,9
-mason e,0,2,7
-jorge g,0,2,7
+jayro,0,2,5
+atom,0,2,4
+jonny,0,2,5
+jansen,0,2,6
 adiel,0,2,5
-alonzo,0,2,6
-ariel m,0,2,7
 etian,0,2,5
-mario d,0,2,7
-ortellio a,0,2,10
+ortellio,0,2,8
 presley,0,2,7
-ray s,0,2,5
 robby,0,2,5
-ulises j,0,2,8
 eulogio,0,2,7
-del e,0,2,5
-esteban i,0,2,9
 evelio,0,2,6
-gabriel jr,0,2,10
-gerardo g,0,2,9
-pedro j jr,0,2,10
-max m,0,2,5
-franklin r jr,0,2,13
-cameron p,0,2,9
-huy n,0,2,5
+huy,0,2,3
 forest,0,2,6
-howard r,0,2,8
-justin i,0,2,8
 burkhard,0,2,8
-carl j jr,0,2,9
-harry s,0,2,7
-wahill s,0,2,8
-russell h,0,2,9
-philip m jr,0,2,11
-wilburn,0,2,7
-myron e,0,2,7
-perry l,0,2,7
-lonnie y,0,2,8
-rudy s,0,2,6
-jeffry a jr,0,2,11
-arthur d jr,0,2,11
-ricky e,0,2,7
-harold l,0,2,8
-thaddeus,0,2,8
-mark p,0,2,6
-johnthan w,0,2,10
-rold b,0,2,6
-guy e,0,2,5
-orville f,0,2,9
-philip e,0,2,8
-reed a,0,2,6
-eddie a,0,2,7
-raymond g,0,2,9
-kalvin m,0,2,8
-allen m ii,0,2,10
-charles x,0,2,9
-martin z,0,2,8
-thon a,0,2,6
-rondal f,0,2,8
-troy e,0,2,6
-gordon,0,2,6
-patryck m,0,2,9
-alfred b ii,0,2,11
-allan l,0,2,7
-blake h,0,2,7
-delbert g,0,2,9
+wahill,0,2,6
+myron,0,2,5
+johnthan,0,2,8
+reed,0,2,4
+thon,0,2,4
+rondal,0,2,6
+patryck,0,2,7
 denver,0,2,6
-glen e,0,2,6
-harold h iii,0,2,12
-hunter l,0,2,8
-kerry d,0,2,7
-kris a,0,2,6
+harold  iii,0,2,11
+hunter,0,2,6
 kyl,0,2,3
-larry b,0,2,7
-leroy m,0,2,7
-morgan h,0,2,8
-norman l,0,2,8
-spencer c jr,0,2,12
-steven c iii,0,2,12
-thelton v,0,2,9
-willie a iii,0,2,12
-shaun d,0,2,7
-joshua k,0,2,8
-gordon l,0,2,8
-jackie w,0,2,8
-darrell n jr,0,2,12
-wayne w,0,2,7
+steven  iii,0,2,11
+thelton,0,2,7
 mohammad,0,2,8
-zahri y,0,2,7
-richard t jr,0,2,12
-stephan m jr,0,2,12
-dale e jr,0,2,9
-elliott p,0,2,9
-garrett c,0,2,9
-jimmy p,0,2,7
-noah n,0,2,6
-norman b iii,0,2,12
-trey w,0,2,6
-carlton l,0,2,9
-conrad e,0,2,8
-donny a,0,2,7
-leslie l,0,2,8
-matthew n,0,2,9
-steven l jr,0,2,11
-terry r jr,0,2,10
-edward i jr,0,2,11
-elliot j,0,2,8
-gordon f,0,2,8
-guy f,0,2,5
-dallas e jr,0,2,11
-clyde f jr,0,2,10
-jeffery b,0,2,9
-william l iv,0,2,12
-kyle k,0,2,6
+zahri,0,2,5
+norman  iii,0,2,11
 abdelaziz,0,2,9
-jack a,0,2,6
-jeremy i,0,2,8
-verle m,0,2,7
-winfield l jr,0,2,13
-gabriel f,0,2,9
-larry j iii,0,2,11
-shane s,0,2,7
-jacob w,0,2,7
-scot w,0,2,6
-ralph d,0,2,7
-tony m,0,2,6
-charles n ii,0,2,12
-marty w,0,2,7
-kirk a,0,2,6
-jens p,0,2,6
-johathan c,0,2,10
-fred p,0,2,6
-jothon a,0,2,8
-lance g,0,2,7
-gary c,0,2,6
-rold j jr,0,2,9
+verle,0,2,5
+scot,0,2,4
+jens,0,2,4
+johathan,0,2,8
 jedediah,0,2,8
-rusty a,0,2,7
 dhanesh,0,2,7
-martin a iii,0,2,12
-shaun r,0,2,7
-derek t,0,2,7
-graham d,0,2,8
-lyndon g,0,2,8
-john g jr,0,2,9
-richard d ii,0,2,12
-charles d ii,0,2,12
-don a jr,0,2,8
-brian l sr,0,2,10
-edgar d,0,2,7
-lenson a,0,2,8
-jimmy t jr,0,2,10
+martin  iii,0,2,11
+graham,0,2,6
+lyndon,0,2,6
+lenson,0,2,6
 stefan,0,2,6
-ricky a,0,2,7
-willard c,0,2,9
-herman p,0,2,8
-douglas a jr,0,2,12
-marcus w,0,2,8
-willliam c,0,2,10
-zackery h,0,2,9
-cory f,0,2,6
-kenneth k,0,2,9
-hants q,0,2,7
-arlin j,0,2,7
-bart,0,2,4
-chester r,0,2,9
-dakota z,0,2,8
-doyle n,0,2,7
-dusty d,0,2,7
-eddie j,0,2,7
-glen f,0,2,6
-hale r,0,2,6
-henry s jr,0,2,10
-justine a,0,2,9
-leon n,0,2,6
-lesley t,0,2,8
-linwood w,0,2,9
-peter h,0,2,7
-steve t,0,2,7
-trey j,0,2,6
-tyler g,0,2,7
-willie j,0,2,8
-yuri a,0,2,6
-belvie p,0,2,8
-hobart o,0,2,8
-peter j jr,0,2,10
-roy s jr,0,2,8
-tanner b,0,2,8
-tommy i,0,2,7
-beau w,0,2,6
-byron c,0,2,7
+willliam,0,2,8
+zackery,0,2,7
+hants,0,2,5
+arlin,0,2,5
+hale,0,2,4
+justine,0,2,7
+lesley,0,2,6
+linwood,0,2,7
+belvie,0,2,6
+hobart,0,2,6
 woodrow,0,2,7
-clint a,0,2,7
-keegen m,0,2,8
-lee c,0,2,5
-rocky m,0,2,7
-craig c,0,2,7
-chadwick s,0,2,10
-curtis g,0,2,8
-drew c,0,2,6
-thomas f jr,0,2,11
-carroll w iii,0,2,13
-than h,0,2,6
-otto d,0,2,6
-william e jr,0,2,12
-james g ii,0,2,10
-jarod s,0,2,7
-roddy l,0,2,7
-lance t,0,2,7
-shayne s,0,2,8
-cane a,0,2,6
-lawrence k,0,2,10
-glenn m,0,2,7
-trevor,0,2,6
-austin r,0,2,8
-harold l jr,0,2,11
-steven p jr,0,2,11
-alan t,0,2,6
-chuck a,0,2,7
-johthon s,0,2,9
-laurence d,0,2,10
-ira c jr,0,2,8
-timothy j jr,0,2,12
-alfred e iii,0,2,12
-melvin d,0,2,8
-robbie,0,2,6
-jothan k,0,2,8
+keegen,0,2,6
+carroll  iii,0,2,12
+roddy,0,2,5
+cane,0,2,4
+chuck,0,2,5
+laurence,0,2,8
 sherwin,0,2,7
-simon s,0,2,7
-travitz d,0,2,9
-cody r,0,2,6
-harold o,0,2,8
-damon,0,2,5
-lamar d iv,0,2,10
-thaniel c,0,2,9
+travitz,0,2,7
 dameian,0,2,7
-edward m iii,0,2,12
-stacy a,0,2,7
-david e ii,0,2,10
-lyle d,0,2,6
-zachary w,0,2,9
-tyler e,0,2,7
-george g,0,2,8
-ralph w jr,0,2,10
-edgar e,0,2,7
-rold p,0,2,6
-smokey d,0,2,8
+edward  iii,0,2,11
+smokey,0,2,6
 sonney,0,2,6
 columbus,0,2,8
-brendan,0,2,7
-dustin p,0,2,8
-toby,0,2,4
 giosbel,0,2,7
-arthur w,0,2,8
-daniel m jr,0,2,11
-robbie w,0,2,8
-todd d,0,2,6
-george w jr,0,2,11
-rickey a,0,2,8
-teddy,0,2,5
-gray r,0,2,6
-peter e,0,2,7
-dakota r,0,2,8
-johnnie g,0,2,9
-carl jr,0,2,7
-nichlos a,0,2,9
-skyler a,0,2,8
-scot a,0,2,6
-skylar d,0,2,8
-dale f ii,0,2,9
-kurt e,0,2,6
-boyce e,0,2,7
-brent w,0,2,7
-jesse w,0,2,7
-steve d,0,2,7
-bradford d,0,2,10
+gray,0,2,4
+nichlos,0,2,7
+boyce,0,2,5
 cedell,0,2,6
-darrell r ii,0,2,12
-hillary c,0,2,9
-levi r,0,2,6
-zackary l,0,2,9
-carson g,0,2,8
-than m,0,2,6
-mechael t,0,2,9
-taylor l,0,2,8
-mikell d,0,2,8
-walter v,0,2,8
-quinton f,0,2,9
-axel,0,2,4
-vance e,0,2,7
-corey e,0,2,7
-simmon c,0,2,8
-david j jr,0,2,10
-johthan j,0,2,9
-marcus h,0,2,8
+hillary,0,2,7
+carson,0,2,6
+mechael,0,2,7
+quinton,0,2,7
+simmon,0,2,6
 connor,0,2,6
-berl d,0,2,6
-brent l,0,2,7
-jayson,0,2,6
-troy s,0,2,6
-alan b jr,0,2,9
-josvani r,0,2,9
-mark n,0,2,6
+berl,0,2,4
 adonys,0,2,6
-alberto j,0,2,9
 aldegundo,0,2,9
 aleli,0,2,5
-alexis e,0,2,8
-alfredo m,0,2,9
-angel g,0,2,7
-antonio h,0,2,9
 augustino,0,2,9
 benny,0,2,5
 carloz,0,2,6
 cleofas,0,2,7
-dallis,0,2,6
-damian k,0,2,8
-denis p,0,2,7
-dwayne j,0,2,8
-eduardo c,0,2,9
-enmanuel b,0,2,10
-eusebio a,0,2,9
-felipe m,0,2,8
-fidel d,0,2,7
-freddie,0,2,7
-hector h,0,2,8
-ho chi ming,0,2,11
-jesus jr,0,2,8
-joel r,0,2,6
-joey,0,2,4
-jothon,0,2,6
-jorge s,0,2,7
-keith z,0,2,7
-lazaro jr,0,2,9
-lazaro m jr,0,2,11
+enmanuel,0,2,8
+chi ming,0,2,8
 lopaz,0,2,5
-luis u,0,2,6
-macario a,0,2,9
-mario l,0,2,7
-mario r,0,2,7
-max d,0,2,5
-moses s,0,2,7
-than k,0,2,6
-nicolas a,0,2,9
-octavio a,0,2,9
-octavio l,0,2,9
+macario,0,2,7
 odelio,0,2,6
-omar c,0,2,6
 osvani,0,2,6
-pedro v,0,2,7
-procoro l,0,2,9
-ramiro w,0,2,8
-ramon jr,0,2,8
-ramon a,0,2,7
+procoro,0,2,7
 raymon,0,2,6
 reiner,0,2,6
-roman d,0,2,7
-silvio o,0,2,8
-teofilo e,0,2,9
-tommy sr,0,2,8
-xavier m,0,2,8
 kaosayn,0,2,7
 octaviano,0,2,9
-amir a,0,2,6
-cesar g,0,2,7
-erasmo jr,0,2,9
-jansys l,0,2,8
-marcos j,0,2,8
+amir,0,2,4
+jansys,0,2,6
 vaugn,0,2,5
-santos r,0,2,8
-rayner n,0,2,8
-cameron m,0,2,9
-frederick p,0,2,11
-jarrod a,0,2,8
-kye j,0,2,5
-dolph l,0,2,7
-blaine a,0,2,8
-guerry w,0,2,8
+rayner,0,2,6
+kye,0,2,3
+dolph,0,2,5
+guerry,0,2,6
 colt,0,2,4
-billie j,0,2,8
 dwan,0,2,4
-roy w,0,2,5
-stanley k,0,2,9
-carter,0,2,6
-dale b,0,2,6
-david m jr,0,2,10
-ken g,0,2,5
+ken,0,2,3
 tyller,0,2,6
-wayne b iii,0,2,11
-spencer s,0,2,9
+wayne  iii,0,2,10
 burt,0,2,4
-victor t,0,2,8
-ashton m,0,2,8
-everette e,0,2,10
-george r iii,0,2,12
-jeff r,0,2,6
-teddy l jr,0,2,10
-tommy k,0,2,7
-marcos e,0,2,8
-dannie l,0,2,8
-gene w,0,2,6
-jeremiah k,0,2,10
-johnny a,0,2,8
-brendan n,0,2,9
-jeffery r,0,2,9
-arthur t,0,2,8
-todd e,0,2,6
+everette,0,2,8
 rhuan,0,2,5
-tomas j,0,2,7
-bradley t,0,2,9
-charles l jr,0,2,12
-claude l,0,2,8
-cole f,0,2,6
-david p sr,0,2,10
-donnie l,0,2,8
-erik r,0,2,6
-everrett l,0,2,10
-harold g ii,0,2,11
-harry a,0,2,7
-jack c jr,0,2,9
-laurence j,0,2,10
-lee w,0,2,5
-leslie p,0,2,8
-rexmond w,0,2,9
-robert g ii,0,2,11
-robert l iii,0,2,12
-shadow a,0,2,8
-shane c,0,2,7
-stan d,0,2,6
-taylor r,0,2,8
-thomas l jr,0,2,11
-wiley e,0,2,7
-edwin l ii,0,2,10
-benjamin f,0,2,10
-nicholas h,0,2,10
-ashton s,0,2,8
+everrett,0,2,8
+rexmond,0,2,7
+shadow,0,2,6
+stan,0,2,4
+wiley,0,2,5
 adelbert,0,2,8
-chad h,0,2,6
-donnie,0,2,6
-everton a,0,2,9
-damon j,0,2,7
-billy c,0,2,7
-earl j,0,2,6
-derek g,0,2,7
-damon p,0,2,7
-garrison c,0,2,10
-carroll l,0,2,9
-arthur w jr,0,2,11
-rexford f jr,0,2,12
-colt m,0,2,6
-earl j jr,0,2,9
-earnest jr,0,2,10
-darin s,0,2,7
-duong t,0,2,7
-bruce r jr,0,2,10
-ed w,0,2,4
-jeremiah j,0,2,10
-chris,0,2,5
-franklin l,0,2,10
-howard d,0,2,8
-parkis v,0,2,8
-quentin g,0,2,9
-robert d sr,0,2,11
-cody e,0,2,6
-justin o,0,2,8
-norman b,0,2,8
-thurman f,0,2,9
-harry l,0,2,7
-russell j iv,0,2,12
-russell d,0,2,9
+everton,0,2,7
+carroll,0,2,7
+rexford,0,2,7
+duong,0,2,5
+parkis,0,2,6
+thurman,0,2,7
 gerhard,0,2,7
-amos g,0,2,6
-warren c,0,2,8
-jared d,0,2,7
-james c iv,0,2,10
-ernest e iii,0,2,12
-carl r jr,0,2,9
-gordon b,0,2,8
-greg d,0,2,6
-larry t jr,0,2,10
-robert b jr,0,2,11
-shannon w,0,2,9
-trea m,0,2,6
-wayne g,0,2,7
-nichols j,0,2,9
-william j ii,0,2,12
-elam s,0,2,6
-james e ii,0,2,10
-dold c jr,0,2,9
-donny w,0,2,7
-weldon j,0,2,8
-brady o,0,2,7
-chester b,0,2,9
-stobert l,0,2,9
-timothy a jr,0,2,12
+trea,0,2,4
+nichols,0,2,7
+elam,0,2,4
+stobert,0,2,7
 kilpatrick,0,2,10
-murl w,0,2,6
-luke d,0,2,6
-keith a jr,0,2,10
-jeremiah b,0,2,10
-rick s,0,2,6
-fred e,0,2,6
-kristopher d,0,2,12
-paul h jr,0,2,9
-bradley d,0,2,9
-glenn f,0,2,7
-daniel w sr,0,2,11
-jacob e,0,2,7
-hayden c,0,2,8
-jase e,0,2,6
-al r,0,2,4
-hayward,0,2,7
-henry c,0,2,7
-joe r,0,2,5
-miles d jr,0,2,10
-casey l,0,2,7
-john t ii,0,2,9
-brendan b,0,2,9
-collin c,0,2,8
-carl s,0,2,6
+murl,0,2,4
+jase,0,2,4
 hanoi,0,2,5
-adrian l,0,2,8
-anthony i,0,2,9
-harold r iv,0,2,11
-jerime a,0,2,8
-luther a iii,0,2,12
-durwood c,0,2,9
-earl d,0,2,6
-emerson t,0,2,9
-luke f,0,2,6
-eugene k iii,0,2,12
-noah g,0,2,6
-laszlo a,0,2,8
-clint g,0,2,7
-kristopher l,0,2,12
-malcolm f,0,2,9
-marshall e,0,2,10
-kelly e,0,2,7
-collin r,0,2,8
-ernest t,0,2,8
-herbert e,0,2,9
-darby r,0,2,7
-jarell j,0,2,8
-jamie f,0,2,7
+jerime,0,2,6
+luther  iii,0,2,11
+eugene  iii,0,2,11
+laszlo,0,2,6
+jarell,0,2,6
 broughton,0,2,9
-edward s iii,0,2,12
-floyd m iii,0,2,11
 irving,0,2,6
-isaac c,0,2,7
 lel,0,2,3
-lyle r,0,2,6
-robert l iv,0,2,11
-ryann a,0,2,7
-zaen g,0,2,6
-auburn l,0,2,8
-chris r,0,2,7
-davie j,0,2,7
-lowell d iii,0,2,12
-thomas c iv,0,2,11
-bryan n,0,2,7
-rod,0,2,3
+ryann,0,2,5
+zaen,0,2,4
+auburn,0,2,6
+davie,0,2,5
+lowell  iii,0,2,11
 taber,0,2,5
 ali,0,2,3
-kristopher h,0,2,12
-kyaw m,0,2,6
-carey w,0,2,7
-mitchell w,0,2,10
-darrin e,0,2,8
-rold j ii,0,2,9
-brent r,0,2,7
-wesley g,0,2,8
-byron t,0,2,7
-calvin p jr,0,2,11
-craig j,0,2,7
-harmon m,0,2,8
-lewis v,0,2,7
-manuel s,0,2,8
-miles d,0,2,7
-ron l,0,2,5
+kyaw,0,2,4
 evasio,0,2,6
-gustavo b,0,2,9
-tod a,0,2,5
-keiv g,0,2,6
-kenny w,0,2,7
-wade c,0,2,6
-mychal l,0,2,8
+keiv,0,2,4
+mychal,0,2,6
 tary,0,2,4
-leord v,0,2,7
-weston e,0,2,8
-harrison b,0,2,10
-blending d iii,0,2,14
+weston,0,2,6
+harrison,0,2,8
+blending  iii,0,2,13
 denny,0,2,5
-douglas jr,0,2,10
-edman m,0,2,7
-gene s,0,2,6
-levon w,0,2,7
-lowell e,0,2,8
-steven f jr,0,2,11
-todd c,0,2,6
-william w jr,0,2,12
-zachariah j,0,2,11
-berrd a,0,2,7
-sam p,0,2,5
+edman,0,2,5
 victorio,0,2,8
-clifford o,0,2,10
-spencer i,0,2,9
-george s,0,2,8
-ehren f,0,2,7
-levy a,0,2,6
-daye m,0,2,6
-miles a,0,2,7
-monty a,0,2,7
-curtis o,0,2,8
-jothon d,0,2,8
-levi z,0,2,6
-lucas r,0,2,7
-zachary l,0,2,9
-ramon r,0,2,7
-ward j,0,2,6
-adam e,0,2,6
-horace jr,0,2,9
+ehren,0,2,5
+levy,0,2,4
+daye,0,2,4
 verdell iii,0,2,11
-allen h,0,2,7
-bruce w ii,0,2,10
-carl s jr,0,2,9
-darrel j,0,2,8
-daryl e,0,2,7
-harold d ii,0,2,11
-hugh d,0,2,6
-jimmy r jr,0,2,10
-ronnie t ii,0,2,11
+darrel,0,2,6
 tush,0,2,4
-willie l,0,2,8
-greg m,0,2,6
-jeromy a,0,2,8
-ridge t,0,2,7
-alfred,0,2,6
-bubba j,0,2,7
-del f,0,2,5
-dorion j,0,2,8
-wendell r,0,2,9
+jeromy,0,2,6
+ridge,0,2,5
+bubba,0,2,5
+dorion,0,2,6
 kristoffer,0,2,10
-chaney r,0,2,8
-sterling c,0,2,10
-theodore f jr,0,2,13
-lloyd j,0,2,7
-seldon k,0,2,8
+chaney,0,2,6
+seldon,0,2,6
 imran,0,2,5
-heath b,0,2,7
-ivan r,0,2,6
-greg a,0,2,6
-dustin t,0,2,8
-terry jr,0,2,8
-allan b,0,2,7
-jeffrey g,0,2,9
-eran r,0,2,6
-lonnie r,0,2,8
-tyler w,0,2,7
-arthur a,0,2,8
-jeffrey k,0,2,9
-clifford p,0,2,10
-leord p,0,2,7
-robert j ii,0,2,11
-darrin d,0,2,8
-angelo c,0,2,8
-da d,0,2,4
-joseph i,0,2,8
-pablo m,0,2,7
+eran,0,2,4
 misal,0,2,5
 abdul,0,2,5
-a j,0,2,3
-gabriel e,0,2,9
-leon l,0,2,6
 sokheang,0,2,8
-dean f,0,2,6
-duane t ii,0,2,10
-brad,0,2,4
-gary c jr,0,2,9
-lester jr,0,2,9
-eladio,0,2,6
-jack d iii,0,2,10
+jack  iii,0,2,9
 jestin,0,2,6
-david p jr,0,2,10
-mitchel a,0,2,9
+mitchel,0,2,7
 luigi,0,2,5
-dmitry c,0,2,8
-rold jr,0,2,7
+dmitry,0,2,6
 sigfredo,0,2,8
-luke a,0,2,6
-brian j jr,0,2,10
-dean s,0,2,6
-edgar a,0,2,7
-regild j jr,0,2,11
-victor k,0,2,8
-wade t,0,2,6
 hicham,0,2,6
-miguel d,0,2,8
-nikolay v,0,2,9
-regino,0,2,6
-jose y,0,2,6
-raymound d,0,2,10
-zacarias j,0,2,10
-gassan m,0,2,8
-bernier g,0,2,9
-bradley j,0,2,9
-charles h jr,0,2,12
-dennie r,0,2,8
-erik n,0,2,6
-hewitt l,0,2,8
-jerry j jr,0,2,10
-jimmie r jr,0,2,11
-joel s,0,2,6
-joey d,0,2,6
-leron l jr,0,2,10
-ralph h,0,2,7
-robbie l,0,2,8
-shelby,0,2,6
-shelby d iii,0,2,12
-travis h,0,2,8
-tyree d,0,2,7
-kerry a,0,2,7
+nikolay,0,2,7
+raymound,0,2,8
+gassan,0,2,6
+bernier,0,2,7
+dennie,0,2,6
+hewitt,0,2,6
+leron,0,2,5
+shelby  iii,0,2,11
+tyree,0,2,5
 isaias,0,2,6
-bryce d,0,2,7
-ellis,0,2,5
-george j,0,2,8
-hugh,0,2,4
 jarvey,0,2,6
-jay p,0,2,5
-jay t,0,2,5
-jj c,0,2,4
-roy m,0,2,5
 stetsen,0,2,7
-karl,0,2,4
-neal m,0,2,6
-tyler l,0,2,7
 obelin,0,2,6
-carmello e,0,2,10
+carmello,0,2,8
 thaddeus iii,0,2,12
 afif,0,2,4
-gilbert g,0,2,9
-neil,0,2,4
-simon d ii,0,2,10
-von k,0,2,5
+von,0,2,3
 samy,0,2,4
-jacques p,0,2,9
-soares d,0,2,8
+jacques,0,2,7
+soares,0,2,6
 celestino,0,2,9
-tommy e,0,2,7
-salvador h,0,2,10
 joelis,0,2,6
-leord w,0,2,7
-dold n iii,0,2,10
-denver c,0,2,8
-jahn c,0,2,6
-john h ii,0,2,9
-kary r,0,2,6
-pete h,0,2,6
-edmund,0,2,6
-max r,0,2,5
+jahn,0,2,4
+kary,0,2,4
 cesario,0,2,7
-yosmel j,0,2,8
-mohammad s,0,2,10
+yosmel,0,2,6
 ilia,0,2,4
 lahrizi,0,2,7
-darren a,0,2,8
-lucas g,0,2,7
-tristian s,0,2,10
-stanley r jr,0,2,12
-dale l jr,0,2,9
-da l,0,2,4
-edward o jr,0,2,11
-fred e ii,0,2,9
-glenn c,0,2,7
-harley r,0,2,8
-marshall f,0,2,10
-miles t,0,2,7
-milton l,0,2,8
-tyrone j,0,2,8
-jerold l,0,2,8
-cory c,0,2,6
-devon c,0,2,7
-jesse t,0,2,7
-kristopher s,0,2,12
-wesley t,0,2,8
-cecil j,0,2,7
-ronny l,0,2,7
-winston j,0,2,9
+tristian,0,2,8
+tyrone,0,2,6
+jerold,0,2,6
+ronny,0,2,5
+winston,0,2,7
 jussen,0,2,6
-charles d jr,0,2,12
-merrill j jr,0,2,12
-anibal p,0,2,8
-bertin h,0,2,8
-elias,0,2,5
+merrill,0,2,7
+bertin,0,2,6
 gysklys,0,2,7
-harif j sr,0,2,10
-marcus c,0,2,8
-sergio m,0,2,8
-vicente l,0,2,9
-yoannes a,0,2,9
+harif,0,2,5
+vicente,0,2,7
+yoannes,0,2,7
 yosky,0,2,5
 baltazar,0,2,8
 johel,0,2,5
-dane w,0,2,6
 sib,0,2,3
-killian d,0,2,9
-leord s iii,0,2,11
-aldo,0,2,4
-raul a,0,2,6
-bo l,0,2,4
-clarence r ii,0,2,13
-frank w,0,2,7
-joe p,0,2,5
-lucas h,0,2,7
-russell k,0,2,9
-berry e,0,2,7
-brittany s,0,2,10
-bruce p,0,2,7
+killian,0,2,7
+leord  iii,0,2,10
+berry,0,2,5
+brittany,0,2,8
 calon,0,2,5
-carl w sr,0,2,9
-chris c,0,2,7
-cliffton t,0,2,10
-cole h,0,2,6
-corey h,0,2,7
-daniel f,0,2,8
-delbert e,0,2,9
-derek p,0,2,7
-dold l jr,0,2,9
-donnie r,0,2,8
-edward h,0,2,8
-forrest m,0,2,9
-freddie f,0,2,9
-garrett w,0,2,9
-garry a,0,2,7
-gary s sr,0,2,9
-gregory p,0,2,9
-guies u,0,2,7
-hagan a,0,2,7
-harry c,0,2,7
-henry j,0,2,7
-jack c,0,2,6
-jaime s,0,2,7
-jereb s,0,2,7
-jerry h,0,2,7
-jesse l jr,0,2,10
-joe h,0,2,5
-lance p,0,2,7
-lawerence k,0,2,11
-leslie r,0,2,8
-levi w,0,2,6
-lewis e jr,0,2,10
-loren,0,2,5
-malvin l,0,2,8
-mark d jr,0,2,9
-matthew m ii,0,2,12
-neil r,0,2,6
-nikki p,0,2,7
-noah d,0,2,6
-ralph g,0,2,7
-raven v,0,2,7
-rodney j jr,0,2,11
-ronnie w,0,2,8
-shannon ray jr,0,2,14
-sterling a,0,2,10
-terrance j,0,2,10
-terrell m,0,2,9
-thurston h,0,2,10
-wesley i,0,2,8
-casey m,0,2,7
-deane m,0,2,7
-hunter e,0,2,8
-jack sr,0,2,7
-joseph q,0,2,8
-ray l,0,2,5
-travis a,0,2,8
-mac c,0,2,5
-stacey c,0,2,8
-aric a,0,2,6
-aron m,0,2,6
-ben e,0,2,5
-bert h jr,0,2,9
-billy m,0,2,7
-claude k,0,2,8
-courtney r,0,2,10
-damian l,0,2,8
-darian c,0,2,8
-dewayne a,0,2,9
-dillan c,0,2,8
-dustin m,0,2,8
-ernest f,0,2,8
-floyd p,0,2,7
-frederick n,0,2,11
-glen t,0,2,6
-guy m,0,2,5
-harrison h,0,2,10
-herbert c,0,2,9
-herman,0,2,6
+cliffton,0,2,8
+guies,0,2,5
+hagan,0,2,5
+jereb,0,2,5
+lawerence,0,2,9
+malvin,0,2,6
+nikki,0,2,5
+raven,0,2,5
+shannon ray,0,2,11
+thurston,0,2,8
+deane,0,2,5
+mac,0,2,3
+stacey,0,2,6
+aric,0,2,4
+aron,0,2,4
+courtney,0,2,8
+darian,0,2,6
+dewayne,0,2,7
+dillan,0,2,6
 jett,0,2,4
-jiles s,0,2,7
-keith p jr,0,2,10
-levi s,0,2,6
-murray d,0,2,8
-olan w,0,2,6
-robey k,0,2,7
-robin r jr,0,2,10
+jiles,0,2,5
+olan,0,2,4
+robey,0,2,5
 shadrach,0,2,8
-theodor d,0,2,9
-theryon c,0,2,9
-tyrone c,0,2,8
-wally j,0,2,7
+theodor,0,2,7
+theryon,0,2,7
+wally,0,2,5
 piyaphong,0,2,9
-harvey s,0,2,8
-james f jr,0,2,10
-jay c,0,2,5
-jessie w,0,2,8
-kyler r,0,2,7
-marshall r,0,2,10
-terrell l ii,0,2,12
-westley p,0,2,9
+westley,0,2,7
 ozzie,0,2,5
-dominic r,0,2,9
 gangleri,0,2,8
 regan,0,2,5
-paul v,0,2,6
-tracy,0,2,5
-esteban b,0,2,9
-ricardo m,0,2,9
 berbe,0,2,5
-israel a,0,2,8
-rocky g,0,2,7
-fidel a,0,2,7
-melvin a jr,0,2,11
-jadie h jr,0,2,10
-karl jr,0,2,7
-frederick j iii,0,2,15
-laine a,0,2,7
-americo g,0,2,9
-johan p,0,2,7
-awldie w,0,2,8
-kenneth r iii,0,2,13
-lance r,0,2,7
-leo l iii,0,2,9
-leo l jr,0,2,8
+jadie,0,2,5
+laine,0,2,5
+americo,0,2,7
+johan,0,2,5
+awldie,0,2,6
+leo  iii,0,2,8
 julias,0,2,6
-waylon a,0,2,8
-senewa l,0,2,8
+senewa,0,2,6
 ammar,0,2,5
 fareed,0,2,6
-christian k,0,2,11
-hans,0,2,4
-benigno h,0,2,9
-george k,0,2,8
-taras m,0,2,7
-jeffery f,0,2,9
-philippe j,0,2,10
-almedin n,0,2,9
-sheldon,0,2,7
-karl f,0,2,6
-george a jr,0,2,11
+taras,0,2,5
+philippe,0,2,8
+almedin,0,2,7
 mercury,0,2,7
-tate d,0,2,6
-luke i,0,2,6
-than s,0,2,6
+tate,0,2,4
 efstratios,0,2,10
-gustave j,0,2,9
-peter p jr,0,2,10
-bert,0,2,4
-dion a,0,2,6
-martin w,0,2,8
 schauki,0,2,7
-steven c jr,0,2,11
-edrian t,0,2,8
-kyle z,0,2,6
-teddy p,0,2,7
-herman w,0,2,8
-norman r jr,0,2,11
+edrian,0,2,6
 telly,0,2,5
-joseph m ii,0,2,11
-homer n,0,2,7
-houston w,0,2,9
-jody marcus j,0,2,13
-blake b,0,2,7
-johthan w,0,2,9
-kevin s jr,0,2,10
-rodney w jr,0,2,11
-robert q,0,2,8
-philip m,0,2,8
-casey g,0,2,7
-curtis l ii,0,2,11
-marion g,0,2,8
-gerald l,0,2,8
-christopher j jr,0,2,16
-leroy d jr,0,2,10
-edgar j jr,0,2,10
-louis e,0,2,7
-neil t,0,2,6
-brian s jr,0,2,10
-cory e,0,2,6
-duane l,0,2,7
+jody marcus,0,2,11
 nigel,0,2,5
-theodore h,0,2,10
-franklin e,0,2,10
-willie m,0,2,8
-angus n,0,2,7
-corey p,0,2,7
-daniel jr,0,2,9
-garth p,0,2,7
-hugh a,0,2,6
-jacob r,0,2,7
-jess c,0,2,6
-mike o,0,2,6
-neil m,0,2,6
-tadhg m,0,2,7
+angus,0,2,5
+garth,0,2,5
+jess,0,2,4
+tadhg,0,2,5
 theaniel,0,2,8
-theodore c,0,2,10
-chester l,0,2,9
-george ii,0,2,9
-jason a jr,0,2,10
-bradford a sr,0,2,13
-arron t,0,2,7
-jackie s,0,2,8
-robert a sr,0,2,11
-alfred j,0,2,8
-augusta f,0,2,9
-cecil d sr,0,2,10
-derrick e,0,2,9
-michael g ii,0,2,12
-terrence,0,2,8
-darryl r,0,2,8
-gerald h jr,0,2,11
-jimmie e,0,2,8
+arron,0,2,5
+augusta,0,2,7
 samsath,0,2,7
-reiyn j,0,2,7
-frank t,0,2,7
-brent s,0,2,7
-frank l jr,0,2,10
-garrett m,0,2,9
-kenneth p jr,0,2,12
-colt r,0,2,6
-dourglas e,0,2,10
-stefen m,0,2,8
-william c jr,0,2,12
-carlton w,0,2,9
-pastor j,0,2,8
-jackie g,0,2,8
-uriah m,0,2,7
-eddie h,0,2,7
-kurt w,0,2,6
-anwar m,0,2,7
+reiyn,0,2,5
+dourglas,0,2,8
+stefen,0,2,6
+pastor,0,2,6
+uriah,0,2,5
+anwar,0,2,5
 veed,0,2,4
 sayyid,0,2,6
-saysinh p,0,2,9
-alexey y,0,2,8
-everette d,0,2,10
-michael w ii,0,2,12
-brodie h,0,2,8
-zachary p,0,2,9
-ricky l jr,0,2,10
-than b,0,2,6
-trent k,0,2,7
-herschel e,0,2,10
-brendon,0,2,7
-sang y,0,2,6
-morris s,0,2,8
-jeremy f,0,2,8
-toby w,0,2,6
-burlie b iii,0,2,12
-cameron b,0,2,9
-rickey b,0,2,8
-benny b,0,2,7
-carroll w,0,2,9
-damien l,0,2,8
-davis p,0,2,7
-ethan l,0,2,7
-glenn a jr,0,2,10
-harley j,0,2,8
-ira c iii,0,2,9
-kenneth l sr,0,2,12
-kurt d,0,2,6
-lewis c jr,0,2,10
-raymond j jr,0,2,12
-thomas h iv,0,2,11
-vernon e,0,2,8
-wiley j,0,2,7
-gerry a,0,2,7
-paul i,0,2,6
-lyndon j,0,2,8
-perry w,0,2,7
-jay b,0,2,5
-royle j,0,2,7
+saysinh,0,2,7
+brodie,0,2,6
+sang,0,2,4
+burlie  iii,0,2,11
+ira  iii,0,2,8
+gerry,0,2,5
+royle,0,2,5
 emmitt iii,0,2,10
-malcom e,0,2,8
-marc j,0,2,6
-walter m jr,0,2,11
-keith d,0,2,7
-jasper t,0,2,8
-russell r,0,2,9
-seth r,0,2,6
-casey k,0,2,7
-chester m,0,2,9
-edison a,0,2,8
-luke e,0,2,6
-makion j jr,0,2,11
-wilbur r,0,2,8
-lance,0,2,5
-lewis s,0,2,7
-nelson m,0,2,8
-robert e iv,0,2,11
-claude o,0,2,8
-grady m,0,2,7
-neal r,0,2,6
-johthon j,0,2,9
-kevin j sr,0,2,10
-arnold d,0,2,8
-krzysztof k,0,2,11
+makion,0,2,6
+wilbur,0,2,6
+krzysztof,0,2,9
 jireh,0,2,5
-daniel v,0,2,8
-lacy a,0,2,6
-tracy w,0,2,7
-victor g,0,2,8
-terry s,0,2,7
-erick t,0,2,7
-tronny a,0,2,8
-elliott,0,2,7
-joseph p ii,0,2,11
+lacy,0,2,4
+tronny,0,2,6
 nick,0,2,4
-abner p jr,0,2,10
-austin h,0,2,8
-bert k,0,2,6
-bertram f,0,2,9
-danny g,0,2,7
-garry l ii,0,2,10
-keven r,0,2,7
-trenton b,0,2,9
-worlen g,0,2,8
-telly j,0,2,7
-aubrey r jr,0,2,11
-freddie l iii,0,2,13
-jerome s,0,2,8
-john b iii,0,2,10
-genghis n,0,2,9
-victor a jr,0,2,11
+abner,0,2,5
+bertram,0,2,7
+worlen,0,2,6
+aubrey,0,2,6
+freddie  iii,0,2,12
+genghis,0,2,7
 pornsak,0,2,7
 tibor,0,2,5
-dold k,0,2,6
 mykhaylo,0,2,8
-kenneth j jr,0,2,12
-sam t jr,0,2,8
-kenneth e iii,0,2,13
-allan e,0,2,7
-martin d,0,2,8
-garrett,0,2,7
-job p,0,2,5
-phillip g,0,2,9
+job,0,2,3
 bogdan,0,2,6
-christopher c ii,0,2,16
-reino a jr,0,2,10
+reino,0,2,5
 justen,0,2,6
-lucas j,0,2,7
-da b,0,2,4
 sergey,0,2,6
-phillip p,0,2,9
-thomas f ii,0,2,11
-dalton s,0,2,8
 benedict,0,2,8
 anton,0,2,5
-bradon m,0,2,8
-reuben g,0,2,8
-kennedy j,0,2,9
-sheldon l,0,2,9
-fred c,0,2,6
-dimitrios v,0,2,11
-rory a,0,2,6
-theodore s,0,2,10
-pierre j,0,2,8
-michael r v,0,2,11
+bradon,0,2,6
+reuben,0,2,6
+kennedy,0,2,7
+dimitrios,0,2,9
 stanislaw,0,2,9
-thanial d,0,2,9
-ernest l,0,2,8
+thanial,0,2,7
 rafal,0,2,5
-ciro j,0,2,6
-stanley p,0,2,9
-colin a,0,2,7
-james sr,0,2,8
-edward n,0,2,8
-howard m,0,2,8
-kurt o,0,2,6
-jon w,0,2,5
-sylvester f,0,2,11
-hugh o,0,2,6
-curtiss v,0,2,9
-berrd j,0,2,7
-brady p,0,2,7
-shanti h,0,2,8
-chaunce q,0,2,9
-danny p,0,2,7
-fred j ii,0,2,9
-douglas b,0,2,9
-thaniel w,0,2,9
-carmen c,0,2,8
-horacio,0,2,7
-louis h j,0,2,9
-monty l,0,2,7
-darrell t,0,2,9
-frederick c,0,2,11
-erich e,0,2,7
-roy j,0,2,5
-keith g,0,2,7
-albert s,0,2,8
-kirby t,0,2,7
-david l jr,0,2,10
-winston b,0,2,9
-clancy j,0,2,8
-yves a,0,2,6
-nhut q,0,2,6
-phong t,0,2,7
-tu t,0,2,4
-aj c,0,2,4
-laniel j,0,2,8
-daniel d ii,0,2,11
-lynn d,0,2,6
-wilburn a,0,2,9
-kyle c jr,0,2,9
-galen r,0,2,7
-glenn j jr,0,2,10
-lance s,0,2,7
-michael e ii,0,2,12
-roger p,0,2,7
-stacey r,0,2,8
-todd p,0,2,6
-zachary h,0,2,9
-lukas l,0,2,7
-brent d,0,2,7
-freeman l,0,2,9
-danny r jr,0,2,10
-devin e,0,2,7
-mikel j,0,2,7
-tharon j,0,2,8
-terrance e,0,2,10
-freddie a,0,2,9
-terrill e,0,2,9
-kaleb b,0,2,7
-ronny a,0,2,7
+ciro,0,2,4
+sylvester,0,2,9
+curtiss,0,2,7
+shanti,0,2,6
+chaunce,0,2,7
+kirby,0,2,5
+clancy,0,2,6
+yves,0,2,4
+nhut,0,2,4
+phong,0,2,5
+laniel,0,2,6
+lukas,0,2,5
+mikel,0,2,5
+tharon,0,2,6
+terrill,0,2,7
+kaleb,0,2,5
 steven iii,0,2,10
-edward r jr,0,2,11
-cedar d,0,2,7
-fred n,0,2,6
-kerby w,0,2,7
-rodney m,0,2,8
-steven m ii,0,2,11
-wendell d,0,2,9
-virgil r,0,2,8
-brad d,0,2,6
-henry d jr,0,2,10
-herbert o,0,2,9
-jamie m,0,2,7
-bo c,0,2,4
-dylan r,0,2,7
+cedar,0,2,5
+kerby,0,2,5
 benson,0,2,6
-alton r,0,2,7
-arthur e,0,2,8
-leord jr,0,2,8
-phillip e iii,0,2,13
-phillip a jr,0,2,12
-tristan a,0,2,9
-perry t,0,2,7
-jacinto v,0,2,9
-jesus b,0,2,7
-leroy j,0,2,7
-luciano iv,0,2,10
+jacinto,0,2,7
+luciano,0,2,7
 yorbelys,0,2,8
-allen j jr,0,2,10
-shaun a,0,2,7
-walter l jr,0,2,11
 neils,0,2,5
-vance l,0,2,7
-fredrik p,0,2,9
-bryce p,0,2,7
+fredrik,0,2,7
 devan,0,2,5
-neil b,0,2,6
-derek,0,2,5
-rocky r,0,2,7
-jerry r jr,0,2,10
-emanuel,0,2,7
-robert g jr,0,2,11
-alaric l,0,2,8
-vernon,0,2,6
-jacob p,0,2,7
-charleton d,0,2,11
-louis m jr,0,2,10
-carl g,0,2,6
-shayne e,0,2,8
+alaric,0,2,6
+charleton,0,2,9
 duncan,0,2,6
-fredrick a,0,2,10
 elio,0,2,4
-nicholas g,0,2,10
-frank i,0,2,7
-coke p,0,2,6
-da e jr,0,2,7
-darrell b ii,0,2,12
-jericho p,0,2,9
-micah l,0,2,7
-ross j,0,2,6
+coke,0,2,4
+jericho,0,2,7
 orren,0,2,5
-christopher j iii,0,2,17
-corey b,0,2,7
-jay s jr,0,2,8
-leord a,0,2,7
-ned j,0,2,5
-hug q,0,2,5
-nghia t,0,2,7
+christopher  iii,0,2,16
+ned,0,2,3
+hug,0,2,3
+nghia,0,2,5
 nhan,0,2,4
-phong h,0,2,7
-edwin x,0,2,7
-raymond k,0,2,9
 pargu,0,2,5
-john l iii,0,2,10
 hal,0,2,3
-harold a,0,2,8
-darryl l,0,2,8
-richard h ii,0,2,12
-clarence b,0,2,10
-heath r,0,2,7
 maxie,0,2,5
-cleo d,0,2,6
+cleo,0,2,4
 jefforey,0,2,8
-fabian,0,2,6
-jesus e,0,2,7
-ray a iii,0,2,9
-benjamin o,0,2,10
-bunnie j,0,2,8
-jami e,0,2,6
-jeremiah a,0,2,10
-lester w,0,2,8
-lexly j jr,0,2,10
-raymon m,0,2,8
+ray  iii,0,2,8
+bunnie,0,2,6
+jami,0,2,4
+lexly,0,2,5
 sanny,0,2,5
-timmy j,0,2,7
-trenity e,0,2,9
-nicodemis a,0,2,11
+timmy,0,2,5
+trenity,0,2,7
+nicodemis,0,2,9
 adelard,0,2,7
-arthur v vii,0,2,12
-ernest e,0,2,8
-chad s,0,2,6
-duane,0,2,5
-herman r,0,2,8
-jeon p,0,2,6
-rene p,0,2,6
-stuart j jr,0,2,11
-samuel f,0,2,8
-lorenzo l,0,2,9
-peter w,0,2,7
-darrell c,0,2,9
-adrian w,0,2,8
-dionisio p,0,2,10
+arthur  vii,0,2,11
+jeon,0,2,4
+dionisio,0,2,8
 kristo,0,2,6
-leonel d,0,2,8
-eduardo r,0,2,9
-terence f,0,2,9
-tyler p,0,2,7
 leonides,0,2,8
-zacaree s,0,2,9
-arlen k,0,2,7
-preston j,0,2,9
-angelo v,0,2,8
-donnell d jr,0,2,12
-thierry j,0,2,9
-ted,0,2,3
-emmett l,0,2,8
-barry s,0,2,7
-robbie c jr,0,2,11
-astor l,0,2,7
-shaun j,0,2,7
-alston m,0,2,8
-arthur v,0,2,8
-carliss w,0,2,9
-darek l,0,2,7
-dennis b,0,2,8
-elliott a,0,2,9
-ellis t iii,0,2,11
-grady,0,2,5
-heath d,0,2,7
-howell g,0,2,8
-johthan m,0,2,9
-kirk b,0,2,6
-koty c,0,2,6
-lawrence f,0,2,10
-robert m ii,0,2,11
-ronnie r jr,0,2,11
-todd k,0,2,6
-tristan m,0,2,9
-weston c,0,2,8
+zacaree,0,2,7
+donnell,0,2,7
+thierry,0,2,7
+astor,0,2,5
+alston,0,2,6
+carliss,0,2,7
+darek,0,2,5
+ellis  iii,0,2,10
+howell,0,2,6
+koty,0,2,4
 claudychel,0,2,10
-fidel l,0,2,7
-guillermo r,0,2,11
-pedro t,0,2,7
 alcadio,0,2,7
-dino r,0,2,6
 mordechai,0,2,9
-phillip l iii,0,2,13
-george r jr,0,2,11
-james r iii,0,2,11
-kenneth i,0,2,9
-irving p,0,2,8
-jeremy n,0,2,8
-chaston t,0,2,9
+chaston,0,2,7
 hermis,0,2,6
-humberto r,0,2,10
-blake c,0,2,7
 ilidio,0,2,6
-allen n,0,2,7
-benton d,0,2,8
-zane j,0,2,6
-tra e,0,2,5
-earnest,0,2,7
-troyonta s,0,2,10
-bryant d,0,2,8
-everly s,0,2,8
-jerry d jr,0,2,10
-wellington d,0,2,12
-israel r,0,2,8
-robby l,0,2,7
-arturo j,0,2,8
-shepherd g,0,2,10
-da m,0,2,4
-terry m,0,2,7
-damion c,0,2,8
-hayden e,0,2,8
-stephen g,0,2,9
-carl p,0,2,6
-duane j,0,2,7
-than g,0,2,6
-dustan l,0,2,8
-rudolph p,0,2,9
+benton,0,2,6
+troyonta,0,2,8
+everly,0,2,6
+wellington,0,2,10
+shepherd,0,2,8
+dustan,0,2,6
 arius,0,2,5
-elio e,0,2,6
-ernest b,0,2,8
-michael o,0,2,9
-torrence d,0,2,10
-giovanny,0,2,8
+torrence,0,2,8
 lennys,0,2,6
-jose v,0,2,6
-calvin r,0,2,8
-david m ii,0,2,10
-oliver e,0,2,8
-preston b,0,2,9
-rodney o,0,2,8
-jessie k,0,2,8
-marcus b,0,2,8
-george d jr,0,2,11
-tomas e,0,2,7
-lee e jr,0,2,8
-leord d,0,2,7
-alex d,0,2,6
-brad g,0,2,6
-jamie b,0,2,7
-jordan g,0,2,8
-fabian a,0,2,8
-bart c,0,2,6
-ashton t,0,2,8
 vittorio,0,2,8
-ricky p,0,2,7
-aubrey d iii,0,2,12
-coley e,0,2,7
-darryle b,0,2,9
-jordon d,0,2,8
-lynn t,0,2,6
-rodney l jr,0,2,11
-schaun m,0,2,8
-alfonzo l,0,2,9
-james p jr,0,2,10
-james f iv,0,2,10
-stephen h ii,0,2,12
+aubrey  iii,0,2,11
+coley,0,2,5
+darryle,0,2,7
+schaun,0,2,6
+alfonzo,0,2,7
 stevan,0,2,6
-seth h,0,2,6
-aires a jr,0,2,10
-abel j,0,2,6
+aires,0,2,5
 adans,0,2,5
-angel h,0,2,7
-benjamin q,0,2,10
-brigdare j,0,2,10
-carmelo j,0,2,9
-cruz c,0,2,6
-damien m,0,2,8
-dan e,0,2,5
-darwin a,0,2,8
-david jr,0,2,8
+brigdare,0,2,8
+cruz,0,2,4
 dayam,0,2,5
 dezler,0,2,6
 doldo,0,2,5
-eddie e,0,2,7
-edgar j,0,2,7
-eduardo b,0,2,9
-ernest r,0,2,8
 evangelista,0,2,11
 genris,0,2,6
-guillermo ii,0,2,12
-hilder a,0,2,8
-irvin c jr,0,2,10
-javier b,0,2,8
+hilder,0,2,6
 jeiker,0,2,6
-jessie a,0,2,8
-johnny g,0,2,8
-johnny s jr,0,2,11
-jose c jr,0,2,9
-juan d jr,0,2,9
-kristian r,0,2,10
 mayquel,0,2,7
-miguel r,0,2,8
-reildo l,0,2,8
-roberto j,0,2,9
-ruben m jr,0,2,10
 rudys,0,2,5
-yanko m,0,2,7
-yoan d,0,2,6
+yanko,0,2,5
 frauly,0,2,6
-charlie,0,2,7
-edgar s,0,2,7
-felix h,0,2,7
-osman a,0,2,7
-adolfo,0,2,6
-wilson j,0,2,8
+osman,0,2,5
 cristobal,0,2,9
-cipriano a,0,2,10
-joaquin a,0,2,9
-leordo a,0,2,8
-walter o,0,2,8
-emery m,0,2,7
+cipriano,0,2,8
 lian,0,2,4
-demola j,0,2,8
-kirk s,0,2,6
-bruce l jr,0,2,10
-johnny e iii,0,2,12
-ken e,0,2,5
-antonious g,0,2,11
-kerry g,0,2,7
-johthan l,0,2,9
-brian k ii,0,2,10
-joe jr,0,2,6
-chris b,0,2,7
-alex h,0,2,6
-denis l,0,2,7
-russell j ii,0,2,12
-vil l,0,2,5
-van d,0,2,5
-sanford b,0,2,9
-aaron q,0,2,7
-hamilton e,0,2,10
-hayse h,0,2,7
-elmer t jr,0,2,10
-wilbert jr,0,2,10
-stevon d,0,2,8
-clifford m,0,2,10
-cecilio r,0,2,9
-fabian o,0,2,8
-fidel jr,0,2,8
-barney j,0,2,8
+demola,0,2,6
+antonious,0,2,9
+vil,0,2,3
+hamilton,0,2,8
+hayse,0,2,5
+cecilio,0,2,7
+barney,0,2,6
 witar,0,2,5
-dean n,0,2,6
-lamar c,0,2,7
-timothy n,0,2,9
-stephen b,0,2,9
-jestin a,0,2,8
-clentis e,0,2,9
-torre f,0,2,7
-johthon l,0,2,9
-edison t,0,2,8
-ernesto j,0,2,9
-jacob n,0,2,7
+clentis,0,2,7
+torre,0,2,5
 zadbiel,0,2,7
-edgar l,0,2,7
 alban,0,2,5
-carlis,0,2,6
-julian g,0,2,8
-zachariah r,0,2,11
-eliseo e,0,2,8
-ramon a iii,0,2,11
-salomon p,0,2,9
-chad k,0,2,6
-leif c,0,2,6
-patrick a ii,0,2,12
-walter i,0,2,8
-jay s,0,2,5
-james d sr,0,2,10
-rickey j,0,2,8
-dann r,0,2,6
-larrame d,0,2,9
-jeremie l,0,2,9
-wilmer,0,2,6
-dominic c,0,2,9
-rodney f,0,2,8
-benson d,0,2,8
-rayld c,0,2,7
-ernest v,0,2,8
-joseph a jr,0,2,11
-kip a,0,2,5
-stanley s,0,2,9
-nick e,0,2,6
-esam j,0,2,6
-ward e jr,0,2,9
-bobby w,0,2,7
-dwane,0,2,5
-theodore,0,2,8
-bradford,0,2,8
-earnest l,0,2,9
-joao p,0,2,6
-carmine,0,2,7
-carlos a jr,0,2,11
-shawn h,0,2,7
-modelin d,0,2,9
-diego f,0,2,7
-elio j,0,2,6
-peter m jr,0,2,10
-clark,0,2,5
-mike e,0,2,6
-thomas w iii,0,2,12
-billy f,0,2,7
-tyler h,0,2,7
-doyle e,0,2,7
-shaun v,0,2,7
-brien r jr,0,2,10
-louis t,0,2,7
-ward,0,2,4
-christen f,0,2,10
-eurel e iii,0,2,11
+ramon  iii,0,2,10
+leif,0,2,4
+dann,0,2,4
+larrame,0,2,7
+rayld,0,2,5
+kip,0,2,3
+esam,0,2,4
+joao,0,2,4
+modelin,0,2,7
+brien,0,2,5
+christen,0,2,8
+eurel  iii,0,2,10
 franklin iii,0,2,12
-giovanni j,0,2,10
 tanislao,0,2,8
-ezra i,0,2,6
-jessie f,0,2,8
-esteban c,0,2,9
-igcio m,0,2,7
-osvaldo l,0,2,9
-ralph r,0,2,7
 lakhram,0,2,7
 krish,0,2,5
-maverick c,0,2,10
-stewart w,0,2,9
+maverick,0,2,8
 yosi,0,2,4
-ihab m,0,2,6
-umid r,0,2,6
-jeramie s,0,2,9
-philip j jr,0,2,11
-elmer r,0,2,7
+ihab,0,2,4
+umid,0,2,4
 willaim,0,2,7
-jairo e,0,2,7
-malcom t,0,2,8
-robert b iii,0,2,12
-jurgen h,0,2,8
+jairo,0,2,5
+jurgen,0,2,6
 raymond iii,0,2,11
-eli l,0,2,5
-ivan a,0,2,6
-eddie jr,0,2,8
-jose h jr,0,2,9
-sammy,0,2,5
-samuel a jr,0,2,11
 olegario,0,2,8
-anthony l jr,0,2,12
-jib u,0,2,5
-damen d,0,2,7
-chance g,0,2,8
-arthur k iii,0,2,12
-patrick p,0,2,9
-clifton l,0,2,9
-josue n,0,2,7
-leugim o,0,2,8
-max a,0,2,5
-edmund h,0,2,8
-marc r,0,2,6
+jib,0,2,3
+damen,0,2,5
+leugim,0,2,6
 norge,0,2,5
 jeses,0,2,5
-stefano p,0,2,9
-douglas f,0,2,9
-henry r,0,2,7
-orion h,0,2,7
-bertram s,0,2,9
-lucas d,0,2,7
-rold o,0,2,6
-jerry g jr,0,2,10
-kelvin d,0,2,8
-willis q,0,2,8
-cova j,0,2,6
-lwane a,0,2,7
-henry s,0,2,7
-miles f,0,2,7
-sebastian a,0,2,11
-christopher p jr,0,2,16
-josue g,0,2,7
-jaramie a,0,2,9
-jairo p,0,2,7
-krish g,0,2,7
+orion,0,2,5
+cova,0,2,4
+lwane,0,2,5
+jaramie,0,2,7
 surish,0,2,6
 doodth,0,2,6
-cesar j,0,2,7
-barry d jr,0,2,10
-erwin r,0,2,7
-edgar w,0,2,7
-robin,0,2,5
-elvi j,0,2,6
-clifford l,0,2,10
-alford l,0,2,8
-marco r,0,2,7
-julio r,0,2,7
-myron a,0,2,7
-cale e,0,2,6
-logan c,0,2,7
-lundy m,0,2,7
-robert r jr,0,2,11
-lanny r ii,0,2,10
-bryant w,0,2,8
-josh l,0,2,6
-zachery r,0,2,9
-bill p,0,2,6
-barbaro,0,2,7
-elijah,0,2,6
-pedro d,0,2,7
-raphael a,0,2,9
-gary jr,0,2,7
-rold n,0,2,6
-julio i,0,2,7
-noel j,0,2,6
-salvador g,0,2,10
-samuel jr,0,2,9
-yoan h,0,2,6
-bienvenido,0,2,10
-britton c,0,2,9
-german g,0,2,8
-roldo j,0,2,7
-zackery j,0,2,9
-dexter d,0,2,8
-edkah l iii,0,2,11
-harry j jr,0,2,10
-jefferson t,0,2,11
-marvin e,0,2,8
-rady,0,2,4
-antonio r,0,2,9
-billy f ii,0,2,10
-billy f iii,0,2,11
-dennis m jr,0,2,11
-devyn j,0,2,7
-dwight w jr,0,2,11
-dylan d,0,2,7
-frederick j,0,2,11
-giacinto,0,2,8
-howard n,0,2,8
-jerral d,0,2,8
-jestin c,0,2,8
-joel h,0,2,6
-joseph p jr,0,2,11
-kennith r,0,2,9
-larry t,0,2,7
-perry k,0,2,7
-rodney p,0,2,8
-roy f,0,2,5
-samson w,0,2,8
-shay t,0,2,6
-uvon j,0,2,6
-warren r jr,0,2,11
-willard r jr,0,2,12
-zachary c,0,2,9
-casey b,0,2,7
-donnie c,0,2,8
-acencion l,0,2,10
-albino,0,2,6
-antonio g,0,2,9
-arturo r,0,2,8
-aviesel,0,2,7
-benny a,0,2,7
-cesar p jr,0,2,10
-dany r,0,2,6
-eddy a,0,2,6
-eddy d,0,2,6
-eduani,0,2,6
-elan c,0,2,6
-eluisl,0,2,6
-epifanio c,0,2,10
-erick m,0,2,7
-eudaldo,0,2,7
-felix a,0,2,7
-fidel,0,2,5
-freddy,0,2,6
-freddy r,0,2,8
-geraldo,0,2,7
-german c,0,2,8
-guillermo a,0,2,11
-hugo j,0,2,6
-inocercio a,0,2,11
-jair b,0,2,6
-javiel,0,2,6
-jerome m,0,2,8
-julian r,0,2,8
-junior d,0,2,8
-martin p,0,2,8
-mikey,0,2,5
-moises j,0,2,8
-nianthony,0,2,9
-niko j,0,2,6
-oscar m,0,2,7
+elvi,0,2,4
+alford,0,2,6
+cale,0,2,4
+lundy,0,2,5
+lanny,0,2,5
 raphael,0,2,7
-raynier o,0,2,9
-rene l,0,2,6
-roberto c jr,0,2,12
-ruben j,0,2,7
-ruby jr,0,2,7
-victor y,0,2,8
+bienvenido,0,2,10
+roldo,0,2,5
+edkah  iii,0,2,10
+rady,0,2,4
+billy  iii,0,2,10
+devyn,0,2,5
+giacinto,0,2,8
+jerral,0,2,6
+samson,0,2,6
+uvon,0,2,4
+acencion,0,2,8
+albino,0,2,6
+aviesel,0,2,7
+eduani,0,2,6
+elan,0,2,4
+eluisl,0,2,6
+epifanio,0,2,8
+eudaldo,0,2,7
+inocercio,0,2,9
+jair,0,2,4
+mikey,0,2,5
+nianthony,0,2,9
+niko,0,2,4
+raynier,0,2,7
+ruby,0,2,4
 yoslan,0,2,6
 rosalino,0,2,8
-erving f,0,2,8
+erving,0,2,6
 virgilio,0,2,8
-sixto j,0,2,7
-hector a,0,2,8
-manuel j jr,0,2,11
-josue j,0,2,7
-salvatore c,0,2,11
-antonio v,0,2,9
-benny n,0,2,7
-felix w,0,2,7
-darrell j,0,2,9
+sixto,0,2,5
 alvis,0,2,5
-vadim i,0,2,7
-casey e,0,2,7
-raymond d iii,0,2,13
-rhett c,0,2,7
-fred g,0,2,6
-dwane t,0,2,7
-billie,0,2,6
-burt g,0,2,6
-harold a jr,0,2,11
-john r sr,0,2,9
-marks a,0,2,7
-zachary b,0,2,9
-nick j,0,2,6
-nikolas d,0,2,9
-gene h,0,2,6
-dezmond l,0,2,9
-robert f ii,0,2,11
-brian v,0,2,7
-keaton r,0,2,8
+vadim,0,2,5
+rhett,0,2,5
+marks,0,2,5
+nikolas,0,2,7
+dezmond,0,2,7
+keaton,0,2,6
 elizeo,0,2,6
-alex b,0,2,6
-derrick a,0,2,9
-howard e,0,2,8
-aubrey c,0,2,8
-herbert r,0,2,9
-max w,0,2,5
-marlin j,0,2,8
-devon r,0,2,7
-nelson d,0,2,8
-omar e,0,2,6
-domenic j,0,2,9
-alvin l,0,2,7
-shane o,0,2,7
-tracy s sr,0,2,10
-dallas e iii,0,2,12
-shawn k,0,2,7
-julio f,0,2,7
+domenic,0,2,7
+dallas  iii,0,2,11
 vladimir,0,2,8
-aludin j,0,2,8
-velislav v,0,2,10
-alan r iii,0,2,10
-angelo j,0,2,8
-scottie j,0,2,9
-ian c,0,2,5
-william l sr,0,2,12
-windell a,0,2,9
-carlos o,0,2,8
-caleb g,0,2,7
-edwin g,0,2,7
-herman jr,0,2,9
-cyrus d,0,2,7
-dwayne c,0,2,8
-orphie d,0,2,8
-yachua i,0,2,8
-phillip s,0,2,9
-francesco g,0,2,11
-rami m,0,2,6
-max j,0,2,5
-dennis o,0,2,8
-clyde w jr,0,2,10
-denis f,0,2,7
-conor p,0,2,7
-willard l,0,2,9
-asa w,0,2,5
-ian,0,2,3
-ney v,0,2,5
-charlie f,0,2,9
-miles m,0,2,7
-adrian v,0,2,8
-conrad j,0,2,8
-john b iv,0,2,9
-kendal j,0,2,8
-robert r ii,0,2,11
-elijah m,0,2,8
-cody b,0,2,6
-preston d ii,0,2,12
-adrian q,0,2,8
-howell r,0,2,8
-kodi d,0,2,6
-mun a,0,2,5
-steve c,0,2,7
-daryl j,0,2,7
-dewayne r ii,0,2,12
-carl e jr,0,2,9
-dalton k,0,2,8
-blake r,0,2,7
-mikel g,0,2,7
-leroy w,0,2,7
-justin n,0,2,8
-mathew p,0,2,8
-joey s,0,2,6
-elliot s,0,2,8
-jorge j jr,0,2,10
-ted e,0,2,5
-steve f jr,0,2,10
-arendell c,0,2,10
-christoper s,0,2,12
-curtis t,0,2,8
-dallas l,0,2,8
-jeffrey h,0,2,9
-kenneth r ii,0,2,12
-lorenzo c,0,2,9
-sean m jr,0,2,9
-tony b,0,2,6
-harry f jr,0,2,10
-tillman j,0,2,9
-jacy d,0,2,6
-medford r,0,2,9
-rick r,0,2,6
-dexter e iii,0,2,12
-austin z,0,2,8
-benjamin e,0,2,10
-dale i,0,2,6
-nolan r,0,2,7
-stacy j,0,2,7
-kelley p,0,2,8
-arnold e,0,2,8
-alto o,0,2,6
-kenneth t,0,2,9
-timothy g jr,0,2,12
-robert r iii,0,2,12
-shawn m jr,0,2,10
-micheal a,0,2,9
-rold s jr,0,2,9
-travis f,0,2,8
-henry e,0,2,7
-lester r,0,2,8
-jeffery h,0,2,9
-shayne t,0,2,8
-mickey j,0,2,8
-henry l iii,0,2,11
-timothy f,0,2,9
-damon e,0,2,7
-jimmy w,0,2,7
-malcolm t jr,0,2,12
-shannon t,0,2,9
-bardley j,0,2,9
-nick r,0,2,6
-curtis s,0,2,8
-grant a,0,2,7
-mickey,0,2,6
-ellis s,0,2,7
-vaughn l,0,2,8
-clinton j iii,0,2,13
-devin r,0,2,7
-dylan b,0,2,7
-mark a ii,0,2,9
-micheal,0,2,7
-josiah f,0,2,8
-robert k jr,0,2,11
-harry jr,0,2,8
-marty,0,2,5
-regild m,0,2,8
-dewayne r,0,2,9
-kelly m,0,2,7
-kerwin w,0,2,8
-shannon j,0,2,9
-dwayne r ii,0,2,11
-kenny a,0,2,7
-delbert p,0,2,9
-daniel j ii,0,2,11
-quinten d,0,2,9
-daniel t jr,0,2,11
-dart l,0,2,6
-buddy b,0,2,7
-everett a jr,0,2,12
-rickey d,0,2,8
-darren g,0,2,8
+aludin,0,2,6
+velislav,0,2,8
+alan  iii,0,2,9
+cyrus,0,2,5
+orphie,0,2,6
+yachua,0,2,6
+francesco,0,2,9
+rami,0,2,4
+ney,0,2,3
+kodi,0,2,4
+mun,0,2,3
+arendell,0,2,8
+christoper,0,2,10
+tillman,0,2,7
+jacy,0,2,4
+medford,0,2,7
+dexter  iii,0,2,11
+alto,0,2,4
+bardley,0,2,7
+vaughn,0,2,6
+clinton  iii,0,2,12
+josiah,0,2,6
+kerwin,0,2,6
+quinten,0,2,7
+dart,0,2,4
 jesaiah,0,2,7
-mayrd l,0,2,7
-curt b,0,2,6
-dold jr,0,2,7
-david f iii,0,2,11
-mckinley j,0,2,10
-than e,0,2,6
-patrick i,0,2,9
-blaine s,0,2,8
-cassidy jr,0,2,10
-franklyn w jr,0,2,13
-jody v,0,2,6
-adrian i,0,2,8
-dominique,0,2,9
-eusebio l,0,2,9
-guillermo u,0,2,11
-heriberto r,0,2,11
+mayrd,0,2,5
+mckinley,0,2,8
 joh,0,2,3
-rusbel b,0,2,8
-jose h,0,2,6
-dairon m,0,2,8
-kendall s,0,2,9
-mitchell j,0,2,10
-treavor m,0,2,9
+rusbel,0,2,6
+dairon,0,2,6
+kendall,0,2,7
+treavor,0,2,7
 seferino,0,2,8
-johthan r,0,2,9
-spencer p,0,2,9
-nelson b,0,2,8
-sergio o,0,2,8
-jose d jr,0,2,9
 mehdi,0,2,5
-reildo a,0,2,8
 arnoldo,0,2,7
-edilberto b,0,2,11
 edrick,0,2,6
-vic,0,2,3
-dominic i,0,2,9
-ariel e,0,2,7
-mitchel,0,2,7
-felix v,0,2,7
-frank g,0,2,7
-garnett l,0,2,9
-samuel a sr,0,2,11
+garnett,0,2,7
 fidencio,0,2,8
-alfonso f,0,2,9
-carlos l,0,2,8
-eric i,0,2,6
-freddie w,0,2,9
 hansedt,0,2,7
-lazaro y,0,2,8
-samuel y,0,2,8
-abner o,0,2,7
 aquileo,0,2,7
-eliseo s,0,2,8
-harry,0,2,5
 marbel,0,2,6
 romaldo,0,2,7
-alain l,0,2,7
-theodore d,0,2,10
-billy n,0,2,7
-homero d,0,2,8
-trevor k,0,2,8
-ellis w iii,0,2,11
-julius r iii,0,2,12
-tommie v,0,2,8
-troy jr,0,2,7
-jackie e,0,2,8
-juan x,0,2,6
-alvin b iii,0,2,11
-mason l,0,2,7
-seth l,0,2,6
-gregg j,0,2,7
-scotty,0,2,6
-humberto e,0,2,10
-michel r,0,2,8
-vladimir e,0,2,10
+homero,0,2,6
+julius  iii,0,2,11
+tommie,0,2,6
+alvin  iii,0,2,10
 yasmany,0,2,7
-carter w,0,2,8
-ragan d,0,2,7
-tommy p,0,2,7
-wesley s,0,2,8
-dominic p,0,2,9
-karl c,0,2,6
-trevin c,0,2,8
-warren r,0,2,8
+ragan,0,2,5
+trevin,0,2,6
 pavlos,0,2,6
-ben l,0,2,5
-earl m jr,0,2,9
-david e jr,0,2,10
-dennis w ii,0,2,11
-brice c,0,2,7
-jake w,0,2,6
-anton d,0,2,7
-maximillan j,0,2,12
-steven y,0,2,8
-daren j,0,2,7
-jimmy l jr,0,2,10
-kerry r,0,2,7
-stephen d jr,0,2,12
-aaron o,0,2,7
-stefan a,0,2,8
-pat c,0,2,5
-emir a,0,2,6
-abraham w,0,2,9
-peter i,0,2,7
-heath e,0,2,7
-cory n,0,2,6
+maximillan,0,2,10
+daren,0,2,5
+pat,0,2,3
 emette,0,2,6
-luis s,0,2,6
-reildo m,0,2,8
-damon m,0,2,7
-arnold w,0,2,8
-bayard d,0,2,8
-cecil t,0,2,7
-chris m,0,2,7
-cyril j,0,2,7
-dale p,0,2,6
-da p,0,2,4
-darrell g,0,2,9
-david k jr,0,2,10
-eugene c,0,2,8
-francis e jr,0,2,12
-glen c,0,2,6
-kalen k,0,2,7
-lincoln p,0,2,9
-lionel,0,2,6
-marc v,0,2,6
-mitchell p,0,2,10
-nolan e,0,2,7
-oakley j,0,2,8
-quinton,0,2,7
-ray j,0,2,5
-reilies w,0,2,9
-rick l,0,2,6
-ross a,0,2,6
-rufus s,0,2,7
+bayard,0,2,6
+kalen,0,2,5
+lincoln,0,2,7
+oakley,0,2,6
+reilies,0,2,7
 somchai,0,2,7
-theodore f,0,2,10
-wilfred p,0,2,9
-wilson ii,0,2,9
-jerold,0,2,6
-geoff a,0,2,7
-ricardo e,0,2,9
-cary g,0,2,6
-creighdon a,0,2,11
-darris d,0,2,8
-donnie q jr,0,2,11
-gavin t,0,2,7
-jothan d sr,0,2,11
-marion c jr,0,2,11
-mark j jr,0,2,9
-toney l,0,2,7
-joel c,0,2,6
+geoff,0,2,5
+creighdon,0,2,9
+darris,0,2,6
 emil,0,2,4
-guillermo p,0,2,11
-loren j,0,2,7
-rusty j,0,2,7
-whitman d,0,2,9
-shannon f,0,2,9
-hubertus p,0,2,10
-colt a,0,2,6
-russell leo n,0,2,13
-roberto b,0,2,9
+whitman,0,2,7
+hubertus,0,2,8
+russell leo,0,2,11
 tolga,0,2,5
-alexi l,0,2,7
-edgar i,0,2,7
+alexi,0,2,5
 elfego,0,2,6
-hiram e,0,2,7
-isaiah v,0,2,8
-manuel g ii,0,2,11
-mario p jr,0,2,10
-roman jr,0,2,8
-silverio g jr,0,2,13
-rex,0,2,3
-vladimir g,0,2,10
-jay n,0,2,5
-sean f,0,2,6
-danny l jr,0,2,10
-jacob l,0,2,7
-nickolas m,0,2,10
-hans j,0,2,6
-kelvin l,0,2,8
-da a,0,2,4
+hiram,0,2,5
 broward,0,2,7
-dallas r,0,2,8
-gregory h,0,2,9
-harlin w,0,2,8
-harry w,0,2,7
-james t iv,0,2,10
-kenneth t jr,0,2,12
-kristopher a,0,2,12
-melton w,0,2,8
-rold h jr,0,2,9
-terry w jr,0,2,10
-silvio j,0,2,8
-dean e,0,2,6
-philip p,0,2,8
-thomas o,0,2,8
+harlin,0,2,6
 darijan,0,2,7
-brian f,0,2,7
-johnnie r,0,2,9
-dion t,0,2,6
-dusty c,0,2,7
-donnie j ii,0,2,11
-guy s,0,2,5
-jessie m,0,2,8
-keith p,0,2,7
-fiezal i,0,2,8
+fiezal,0,2,6
 ashraf,0,2,6
-ieem s,0,2,6
-clinton m,0,2,9
-khalid a,0,2,8
-leroy a,0,2,7
-jean p,0,2,6
-nelson l,0,2,8
-nestor g,0,2,8
-olvan o,0,2,7
+ieem,0,2,4
+khalid,0,2,6
+olvan,0,2,5
 ifrain,0,2,6
-ivan p,0,2,6
-william r ii,0,2,12
-hector n,0,2,8
-gary k,0,2,6
-harley w,0,2,8
-isidro g,0,2,8
-sebastian,0,2,9
-domenic,0,2,7
 efraim,0,2,6
-amilcar f,0,2,9
+amilcar,0,2,7
 josian,0,2,6
-eduardo j,0,2,9
-benigno,0,2,7
-eddie f,0,2,7
-stephen f,0,2,9
 johni,0,2,5
-brad l,0,2,6
-drew j,0,2,6
 feliciano,0,2,9
-angelo d,0,2,8
-julian v jr,0,2,11
 chayanne,0,2,8
-tamerlane d,0,2,11
-calvin e,0,2,8
-darryl t,0,2,8
-robin a,0,2,7
-trinity,0,2,7
-adren r,0,2,7
-britt c,0,2,7
-bruce d,0,2,7
-bud k,0,2,5
-carl b,0,2,6
-david h jr,0,2,10
-douglas d ii,0,2,12
-hania t,0,2,7
-jayson r,0,2,8
-jerry p jr,0,2,10
-john p sr,0,2,9
-lorin c,0,2,7
-mackenzie a,0,2,11
-norman a ii,0,2,11
+tamerlane,0,2,9
+adren,0,2,5
+bud,0,2,3
+hania,0,2,5
+lorin,0,2,5
 opie,0,2,4
-phillip o,0,2,9
-wallace e,0,2,9
-wayne p ii,0,2,10
-alfredo g,0,2,9
 deivi,0,2,5
-alberto g,0,2,9
-anibal,0,2,6
-dakota m,0,2,8
-edgar v,0,2,7
-eduardo f,0,2,9
-emilio j,0,2,8
-fraga i,0,2,7
-francisco x,0,2,11
-gilbert r,0,2,9
+fraga,0,2,5
 inty,0,2,4
-jairo j,0,2,7
-jovani s,0,2,8
-lauro f,0,2,7
+jovani,0,2,6
+lauro,0,2,5
 loicel,0,2,6
-luis i,0,2,6
-martin jr,0,2,9
-moises r,0,2,8
-rafael h,0,2,8
-raul i,0,2,6
-rigoberto jr,0,2,12
-sephiomar r,0,2,11
-sonny,0,2,5
+sephiomar,0,2,9
 yosl,0,2,4
 elisamuel,0,2,9
 eligio,0,2,6
 crescencian,0,2,11
 leonelo,0,2,7
-elpidio,0,2,7
-anthony g jr,0,2,12
-eliesbel p,0,2,10
-esteban r,0,2,9
-osiris f,0,2,8
-gary v,0,2,6
-tyrone e,0,2,8
-robert f jr,0,2,11
-angel o,0,2,7
-bryan o,0,2,7
-davinson c,0,2,10
-duan e,0,2,6
-jimmy s,0,2,7
-jonhantan a,0,2,11
+eliesbel,0,2,8
+osiris,0,2,6
+davinson,0,2,8
+duan,0,2,4
+jonhantan,0,2,9
 leopoldo,0,2,8
-ivan m,0,2,6
-neury r,0,2,7
-jeston l,0,2,8
+neury,0,2,5
+jeston,0,2,6
 osmar,0,2,5
-dale v,0,2,6
-gene j jr,0,2,9
-shain o,0,2,7
-colin,0,2,5
-pasquale j,0,2,10
-modesto a,0,2,9
-jordan r,0,2,8
-leroy g,0,2,7
-brock r,0,2,7
-dallian t,0,2,9
-dean v,0,2,6
-ernie r,0,2,7
-jabe e,0,2,6
-jeffie d jr,0,2,11
+shain,0,2,5
+pasquale,0,2,8
+modesto,0,2,7
+dallian,0,2,7
+jeffie,0,2,6
 jeremey,0,2,7
-jessie e,0,2,8
-jimi c,0,2,6
-john t iii,0,2,10
-owen k,0,2,6
-schuyler j,0,2,10
-jackie y,0,2,8
-rhyan j,0,2,7
-leord i jr,0,2,10
-frank j jr,0,2,10
-londell c,0,2,9
-emory s,0,2,7
+jimi,0,2,4
+schuyler,0,2,8
+rhyan,0,2,5
+londell,0,2,7
 raffaele,0,2,8
-joseph ii,0,2,9
-geoffry e,0,2,9
-oleg v,0,2,6
-emanuel f,0,2,9
-ray m,0,2,5
-samuel b,0,2,8
-allen b,0,2,7
-boyce,0,2,5
-jay v,0,2,5
-michael k jr,0,2,12
-clifton s,0,2,9
-scott m jr,0,2,10
-cletus d jr,0,2,11
+geoffry,0,2,7
+oleg,0,2,4
+cletus,0,2,6
 serge,0,2,5
-derrick m,0,2,9
-renn l,0,2,6
-julio d,0,2,7
-jerad w,0,2,7
-nery e jr,0,2,9
-noel a,0,2,6
-thain l,0,2,7
-rasley b,0,2,8
+renn,0,2,4
+jerad,0,2,5
+nery,0,2,4
+thain,0,2,5
+rasley,0,2,6
 admir,0,2,5
-ian a,0,2,5
-cherles a,0,2,9
-brian r jr,0,2,10
-george c jr,0,2,11
+cherles,0,2,7
 akeem,0,2,5
-carlos jr,0,2,9
-grant e,0,2,7
-clyde a,0,2,7
-kody c,0,2,6
-cecil d,0,2,7
-dewey r,0,2,7
-eddy r sr,0,2,9
-otis w jr,0,2,9
-troy d,0,2,6
-wiley jr,0,2,8
-herman k,0,2,8
-konrad w ii,0,2,11
-duane r,0,2,7
+otis,0,2,4
+konrad,0,2,6
 addonis,0,2,7
-luciano,0,2,7
-arldo r,0,2,7
-clementino j,0,2,12
+clementino,0,2,10
 edurardo,0,2,8
-victo e,0,2,7
+victo,0,2,5
 bentsy,0,2,6
-almedin,0,2,7
 rictor,0,2,6
-maynor j,0,2,8
-elton b,0,2,7
-jace r,0,2,6
-jimmy b,0,2,7
-michael j iii,0,2,13
-stuart e iii,0,2,12
-charles h iv,0,2,12
-devin m,0,2,7
+michael  iii,0,2,12
+stuart  iii,0,2,11
 james iii,0,2,9
-kent a,0,2,6
 zuhdi,0,2,5
-terrell a,0,2,9
-evgeniy i,0,2,9
-will k,0,2,6
-jon r,0,2,5
+evgeniy,0,2,7
 fares,0,2,5
-clarence j jr,0,2,13
-courtney,0,2,8
-claude m,0,2,8
-howard c iii,0,2,12
-jamie t,0,2,7
-lee s,0,2,5
-micah a,0,2,7
-reef b,0,2,6
-theodore jr,0,2,11
-damian f,0,2,8
-scot b,0,2,6
+reef,0,2,4
 saloman,0,2,7
-roman m,0,2,7
 astasaos,0,2,8
-fallon a,0,2,8
-christal w,0,2,10
-sheldon r,0,2,9
-isaiah d,0,2,8
-jaidon m,0,2,8
+fallon,0,2,6
+christal,0,2,8
+jaidon,0,2,6
 gopaul,0,2,6
-alexis t,0,2,8
-john j sr,0,2,9
 franco,0,2,6
-alberto l,0,2,9
-silvio e,0,2,8
 devoise,0,2,7
-george f jr,0,2,11
-joe l,0,2,5
-rocky b,0,2,7
-abraham a,0,2,9
-felix o,0,2,7
 germaine,0,2,8
 olaya,0,2,5
-denver d,0,2,8
-christian g,0,2,11
-clarence c,0,2,10
-russell t,0,2,9
-jasper e,0,2,8
-bryndyn l,0,2,9
-raymond m jr,0,2,12
-dallas a,0,2,8
-stewart,0,2,7
-sidney e,0,2,8
-gregor p,0,2,8
-jim l,0,2,5
-darrel w,0,2,8
-devon m,0,2,7
-fred b,0,2,6
-jason v,0,2,7
-karl i,0,2,6
-lloyd,0,2,5
-oliver a,0,2,8
-arthur l iv,0,2,11
-joe s,0,2,5
-john s jr,0,2,9
-jesus c,0,2,7
-bobby f,0,2,7
-darrell d,0,2,9
-chancellor a,0,2,12
-george v,0,2,8
-blake w,0,2,7
-scott m sr,0,2,10
-everett w jr,0,2,12
-bert a jr,0,2,9
-irn d jr,0,2,8
+bryndyn,0,2,7
+gregor,0,2,6
+chancellor,0,2,10
+irn,0,2,3
 ramey,0,2,5
-denny l jr,0,2,10
-dutch a,0,2,7
-kristjan o,0,2,10
+dutch,0,2,5
+kristjan,0,2,8
 nicholes,0,2,8
-norman d,0,2,8
-willard m,0,2,9
-alek l,0,2,6
-aaron e,0,2,7
-ronl a,0,2,6
-berrd f,0,2,7
-brenden a,0,2,9
-cameron s,0,2,9
-bryon d,0,2,7
-jerome t,0,2,8
-chi y,0,2,5
-chau q,0,2,6
-tuan c,0,2,6
-monte q,0,2,7
-albert d,0,2,8
-chadwick a,0,2,10
-clifton t,0,2,9
-derick c,0,2,8
-everett l ii,0,2,12
-floyd e,0,2,7
-jacian a,0,2,8
-jerry j,0,2,7
-joseph e jr,0,2,11
-matthew g g,0,2,11
-rickie s,0,2,8
+alek,0,2,4
+ronl,0,2,4
+brenden,0,2,7
+chi,0,2,3
+chau,0,2,4
+tuan,0,2,4
+jacian,0,2,6
 ranckdy,0,2,7
-lewis d,0,2,7
-chance w,0,2,8
 reynier,0,2,7
-kohl r,0,2,6
-nikolas s,0,2,9
-warren,0,2,6
-derek s ii,0,2,10
-victor c jr,0,2,11
-erick e,0,2,7
-david j ii,0,2,10
-margarito l,0,2,11
-delfin r,0,2,8
-fabio,0,2,5
+kohl,0,2,4
+delfin,0,2,6
 idael,0,2,5
-jacques d,0,2,9
 maximiliano,0,2,11
-santos e,0,2,8
-nelson i,0,2,8
 milan,0,2,5
-isaac g,0,2,7
 livan,0,2,5
-eric h,0,2,6
-doyle j,0,2,7
-fayv b,0,2,6
-silas l,0,2,7
-edward r ii,0,2,11
-kenyon m,0,2,8
-javier p,0,2,8
-airik a,0,2,7
-james c sr,0,2,10
-lloyd k,0,2,7
+fayv,0,2,4
+kenyon,0,2,6
+airik,0,2,5
 norwood,0,2,7
-daniel a jr,0,2,11
 derwin,0,2,6
-kent,0,2,4
-shelby e,0,2,8
-setton l,0,2,8
-darren s,0,2,8
-dale w,0,2,6
-carey g,0,2,7
-kevin b ii,0,2,10
-boris i,0,2,7
-kurtis d,0,2,8
-burwell e,0,2,9
-fabio n,0,2,7
-alirio l,0,2,8
+setton,0,2,6
+boris,0,2,5
+burwell,0,2,7
+alirio,0,2,6
 baldomero,0,2,9
-dante j,0,2,7
-gian c,0,2,6
-john y,0,2,6
+dante,0,2,5
+gian,0,2,4
 kimanee,0,2,7
-lester j iii,0,2,12
-manuel l,0,2,8
+lester  iii,0,2,11
 nivardo,0,2,7
-noel d,0,2,6
-sergio j,0,2,8
-kevin o,0,2,7
-tudor j,0,2,7
-clas c,0,2,6
-bradford a,0,2,10
-dold l sr,0,2,9
-harrison l,0,2,10
-timothy c jr,0,2,12
-herbert p,0,2,9
-bubba w,0,2,7
-corbet j,0,2,8
-dillon,0,2,6
-devin p,0,2,7
-oliver t,0,2,8
-stanley w,0,2,9
-patrick f,0,2,9
-francis a,0,2,9
-nestor a,0,2,8
+tudor,0,2,5
+clas,0,2,4
+corbet,0,2,6
 vishnu,0,2,6
-dewey m,0,2,7
-allan g,0,2,7
-cory p,0,2,6
-miguel a ii,0,2,11
-dominick a,0,2,10
-ricardo jr,0,2,10
 berrdo,0,2,6
-jesus d,0,2,7
 rudolfo,0,2,7
-jeremie s,0,2,9
-brant l,0,2,7
-jeffery t,0,2,9
-lance d,0,2,7
-terrance,0,2,8
-earl c,0,2,6
-jarrid j,0,2,8
-joey w,0,2,6
-shamus m,0,2,8
-osmani m,0,2,8
+shamus,0,2,6
+osmani,0,2,6
 reynold,0,2,7
-rodolfo a,0,2,9
-goronwy m,0,2,9
-huey l,0,2,6
-porfirio g,0,2,10
-alberto d,0,2,9
-alexey p,0,2,8
+goronwy,0,2,7
+huey,0,2,4
+porfirio,0,2,8
 bruno,0,2,5
-marcelo,0,2,7
-charlton,0,2,8
-chaz n,0,2,6
-eddy h ii,0,2,9
-eddy h iii,0,2,10
-edgar m,0,2,7
-johthan o,0,2,9
-ricky t,0,2,7
+chaz,0,2,4
+eddy  iii,0,2,9
 donel,0,2,5
 teodro,0,2,6
 ales,0,2,4
-allan p jr,0,2,10
-dylan p,0,2,7
-berrdo g,0,2,8
-jameson p,0,2,9
-christian p,0,2,11
-giles e,0,2,7
-luis b,0,2,6
-javier e,0,2,8
-roderick m,0,2,10
-osman g,0,2,7
-ray e jr,0,2,8
-anthony r jr,0,2,12
-gioser c,0,2,8
-jairo,0,2,5
+jameson,0,2,7
+giles,0,2,5
+gioser,0,2,6
 jhotan,0,2,6
-octavio t,0,2,9
-nestor l,0,2,8
-atacio jr,0,2,9
-azael v,0,2,7
-bartholomew j,0,2,13
+atacio,0,2,6
+azael,0,2,5
+bartholomew,0,2,11
 bencio,0,2,6
-bryan v,0,2,7
-ernesto jr,0,2,10
-higinio g,0,2,9
-humberto l,0,2,10
-jose r iii,0,2,10
-julian e,0,2,8
-mateo m,0,2,7
+higinio,0,2,7
+jose  iii,0,2,9
 abimelec,0,2,8
-jothan v,0,2,8
-byron,0,2,5
 eleuterio,0,2,9
-ivan v,0,2,6
-shayne,0,2,6
-rickey s,0,2,8
-don,0,2,3
-erik e,0,2,6
-ezra,0,2,4
-millard d,0,2,9
-russell j jr,0,2,12
-teddy m,0,2,7
 azar,0,2,4
-moises v,0,2,8
 rommel,0,2,6
-freddie e,0,2,9
-jess b,0,2,6
 gannon,0,2,6
-melvin l jr,0,2,11
-leslie w,0,2,8
-silvio m,0,2,8
-edwin j,0,2,7
-hendrik a,0,2,9
-cary l,0,2,6
-austin e,0,2,8
-calvin l jr,0,2,11
-lyndon b,0,2,8
-howard s jr,0,2,11
-stephen p jr,0,2,12
-durwood v,0,2,9
-erwin j,0,2,7
-leord w iii,0,2,11
-steve m jr,0,2,10
+hendrik,0,2,7
 sitki,0,2,5
-reymundo n,0,2,10
+reymundo,0,2,8
 tividad,0,2,7
-edwin f,0,2,7
-micah,0,2,5
-francis s,0,2,9
 adan,0,2,4
-duane d,0,2,7
-heriberto f,0,2,11
-elvin j,0,2,7
 nesti,0,2,5
-bruce h,0,2,7
-ben b,0,2,5
-davey h,0,2,7
-domingo jr,0,2,10
-edis e,0,2,6
+davey,0,2,5
+edis,0,2,4
 isaul,0,2,5
 liansy,0,2,6
 eliu,0,2,4
-victor h jr,0,2,11
-anibal l,0,2,8
-berchman d jr,0,2,13
-kayce j,0,2,7
-rex c ii,0,2,8
-dayron p,0,2,8
-patrick h,0,2,9
-thomas e iii,0,2,12
-george w iv,0,2,11
-marton s,0,2,8
-cristobal a,0,2,11
+berchman,0,2,8
+kayce,0,2,5
+dayron,0,2,6
+marton,0,2,6
 rosendo,0,2,7
-manuel f,0,2,8
-evelio a,0,2,8
-ricky g jr,0,2,10
-taylor d,0,2,8
-zachariah d,0,2,11
-sammie,0,2,6
-nicolas jr,0,2,10
-edward h jr,0,2,11
-ross m,0,2,6
-ralf j,0,2,6
+ralf,0,2,4
 orazio,0,2,6
-mateo p,0,2,7
-terence,0,2,7
-dennis a jr,0,2,11
-dick b,0,2,6
-reiniel e,0,2,9
-ronly d,0,2,7
+reiniel,0,2,7
+ronly,0,2,5
 yeffrey,0,2,7
-sylvio n,0,2,8
+sylvio,0,2,6
 taurus,0,2,6
 emanuele,0,2,8
-larry k iii,0,2,11
-darrick a,0,2,9
-dean w,0,2,6
-dwight l,0,2,8
-dwight w,0,2,8
-eddie c,0,2,7
-kenneth c jr,0,2,12
-kim f,0,2,5
-mearl d,0,2,7
-michael g sr,0,2,12
-paul r jr,0,2,9
-scott o jr,0,2,10
-wiley,0,2,5
-zackary s,0,2,9
-dallas w jr,0,2,11
-dusty s,0,2,7
-jourdan d,0,2,9
+darrick,0,2,7
+mearl,0,2,5
+jourdan,0,2,7
 leroy iii,0,2,9
-robin q,0,2,7
-winston r,0,2,9
-yonny t,0,2,7
-charles l iii,0,2,13
-alfred d jr,0,2,11
-daniel l iii,0,2,12
-arthur r jr,0,2,11
-lafe b,0,2,6
-vanis r,0,2,7
-zachary o,0,2,9
-danny e jr,0,2,10
-douglass a,0,2,10
-leroy a iv,0,2,10
-phillup a,0,2,9
-parley j,0,2,8
+yonny,0,2,5
+lafe,0,2,4
+vanis,0,2,5
+douglass,0,2,8
+phillup,0,2,7
+parley,0,2,6
 gianni,0,2,6
-arthur p,0,2,8
-felipe h,0,2,8
-edwyn h,0,2,7
-mikeal d,0,2,8
-anil r,0,2,6
+edwyn,0,2,5
+mikeal,0,2,6
+anil,0,2,4
 chirag,0,2,6
-manish p,0,2,8
-nimesh r,0,2,8
-harry i,0,2,7
-rodney c jr,0,2,11
-ace r,0,2,5
-frederick w iii,0,2,15
-hardy f jr,0,2,10
-horace l,0,2,8
-lawrence w iii,0,2,14
-lowell h,0,2,8
-robert p jr,0,2,11
-ivan c,0,2,6
-evan s,0,2,6
-rollie f,0,2,8
-viahaul a,0,2,9
-viron a,0,2,7
-jared e,0,2,7
-kyle t,0,2,6
-dillan d,0,2,8
+manish,0,2,6
+nimesh,0,2,6
+ace,0,2,3
+hardy,0,2,5
+rollie,0,2,6
+viahaul,0,2,7
+viron,0,2,5
 darling,0,2,7
-cash w,0,2,6
-alex g,0,2,6
-galen t,0,2,7
-herlen w,0,2,8
-edgar r,0,2,7
-richard j ii,0,2,12
-wallace r,0,2,9
+cash,0,2,4
+herlen,0,2,6
 parker,0,2,6
-jeramy,0,2,6
-faunce l,0,2,8
-mark c jr,0,2,9
-alfred t,0,2,8
-frank r,0,2,7
-gilbert d,0,2,9
-nolan a,0,2,7
-patrick w ii,0,2,12
-shane t,0,2,7
-thaddeus l,0,2,10
-luther h,0,2,8
-presley r,0,2,9
-grover w,0,2,8
+faunce,0,2,6
 ulisez,0,2,6
-tyler d,0,2,7
-otte m,0,2,6
-ruben m,0,2,7
+otte,0,2,4
 ortilio,0,2,7
-lindsay t sr,0,2,12
-shelton b,0,2,9
-scott i,0,2,7
-julian k,0,2,8
+lindsay,0,2,7
 keyler,0,2,6
-john e iii,0,2,10
-elijah s,0,2,8
-billy j jr,0,2,10
-adolfo l,0,2,8
-eliseo j,0,2,8
 esparquy,0,2,8
-jorge x,0,2,7
-ramiro m,0,2,8
-sergio h,0,2,8
-eder d,0,2,6
-richard k iii,0,2,13
-torrey a,0,2,8
-clerence a,0,2,10
-leroy s,0,2,7
-dylan t,0,2,7
-rafael m,0,2,8
-codey r,0,2,7
-jaime p,0,2,7
-johthan k,0,2,9
-vincent b,0,2,9
-angel n,0,2,7
-eymer j,0,2,7
-santos h,0,2,8
-alain d,0,2,7
-diego r,0,2,7
-igcio a,0,2,7
-robel g,0,2,7
+eder,0,2,4
+torrey,0,2,6
+clerence,0,2,8
+codey,0,2,5
+eymer,0,2,5
+robel,0,2,5
 ebiasaf,0,2,7
-ismael g,0,2,8
-rene i,0,2,6
-abel m,0,2,6
-alexei,0,2,6
-angelo l,0,2,8
 baesmarc,0,2,8
-celso a,0,2,7
-dante,0,2,5
+celso,0,2,5
 dimingo,0,2,7
-dionisio f,0,2,10
-domingo l,0,2,9
-eduardo d,0,2,9
-eli s,0,2,5
-elmer,0,2,5
-eraldo a,0,2,8
-ernestor l,0,2,10
-esteban e,0,2,9
-eveilo h,0,2,8
-felix s,0,2,7
-francisco a jr,0,2,14
-frank c,0,2,7
-hector d,0,2,8
-janiel m,0,2,8
-jjoseph r,0,2,9
-johan,0,2,5
-john julius f,0,2,13
-joseph m sr,0,2,11
-julio a jr,0,2,10
-kelvin a,0,2,8
-kreg s,0,2,6
-luis s jr,0,2,9
-marcos g,0,2,8
-mauro s,0,2,7
-nilo m,0,2,6
-oliver,0,2,6
-omilquer g,0,2,10
-otilio a,0,2,8
-pedro c,0,2,7
-remijio s,0,2,9
-rene s,0,2,6
-rodolfo j,0,2,9
-xavier d,0,2,8
-xavier h,0,2,8
+eraldo,0,2,6
+eveilo,0,2,6
+janiel,0,2,6
+jjoseph,0,2,7
+john julius,0,2,11
+kreg,0,2,4
+mauro,0,2,5
+nilo,0,2,4
+omilquer,0,2,8
+otilio,0,2,6
+remijio,0,2,7
 irvinson,0,2,8
 yohiko,0,2,6
-gelson o,0,2,8
+gelson,0,2,6
 eldrick,0,2,7
-berrdino,0,2,8
-santiago sr,0,2,11
 gabino,0,2,6
-marshall c ii,0,2,13
-frank e iii,0,2,11
-derrick w,0,2,9
-harmon l,0,2,8
-perry c,0,2,7
-perry j,0,2,7
-michele p,0,2,9
-kirby c,0,2,7
-alonso h,0,2,8
-atwood a jr,0,2,11
-brad a jr,0,2,9
-christofer d,0,2,12
-cory t,0,2,6
-francis n,0,2,9
-leo e jr,0,2,8
-sammy g,0,2,7
-von e,0,2,5
+frank  iii,0,2,10
+michele,0,2,7
+atwood,0,2,6
+christofer,0,2,10
 orlirio,0,2,7
-chadwick r,0,2,10
-scott k,0,2,7
-rodney k,0,2,8
-brian k jr,0,2,10
-caleb o,0,2,7
-heathcliff k,0,2,12
-jamie d,0,2,7
-marshall d,0,2,10
-zachery c,0,2,9
-chad f,0,2,6
-ethan s,0,2,7
-wilbur a,0,2,8
-anthony c iii,0,2,13
-voil d,0,2,6
+heathcliff,0,2,10
+anthony  iii,0,2,12
+voil,0,2,4
 gleb,0,2,4
-warren d,0,2,8
-nico j,0,2,6
-gene c jr,0,2,9
-paul e sr,0,2,9
-aubry j jr,0,2,10
-robert b ii,0,2,11
-kurt f,0,2,6
 frances,0,2,7
-tai a,0,2,5
-barrett r,0,2,9
-carey l,0,2,7
-jimmy d jr,0,2,10
-mickel l,0,2,8
-bill a,0,2,6
-brent e,0,2,7
-c w,0,2,3
-derreck d,0,2,9
-dionicio a,0,2,10
-donnie w,0,2,8
-donny r,0,2,7
-joe e,0,2,5
-levi t,0,2,6
-paul a jr,0,2,9
-rod jr,0,2,6
-ryan w,0,2,6
-walter b,0,2,8
-dold h iii,0,2,10
+tai,0,2,3
+barrett,0,2,7
+mickel,0,2,6
+derreck,0,2,7
+dionicio,0,2,8
 mantra,0,2,6
-prince n,0,2,8
-ira l,0,2,5
-kirk m,0,2,6
-buddy d,0,2,7
-charlie a,0,2,9
-allan p,0,2,7
+prince,0,2,6
 yemill,0,2,6
-sonny e,0,2,7
-wyatt r,0,2,7
-halsey d,0,2,8
-saul b,0,2,6
-braxton,0,2,7
-shiloh j,0,2,8
-elliot o,0,2,8
-tristan c,0,2,9
-manuel m,0,2,8
-edgar g,0,2,7
-timmy e,0,2,7
-bobby a jr,0,2,10
-dakota l,0,2,8
-gene c,0,2,6
-walter jr,0,2,9
-max l,0,2,5
-alain j,0,2,7
-gabriel n,0,2,9
-angel f,0,2,7
-cirilo r,0,2,8
-tomas f,0,2,7
+wyatt,0,2,5
+halsey,0,2,6
+cirilo,0,2,6
 walfrido,0,2,8
-rold p sr,0,2,9
-marc w,0,2,6
 artie,0,2,5
-argel m,0,2,7
-franciso j,0,2,10
-gabriel c,0,2,9
+argel,0,2,5
+franciso,0,2,8
 mayker,0,2,6
 dennes,0,2,6
-roger p jr,0,2,10
-johthon,0,2,7
-ren e,0,2,5
-quinton j,0,2,9
 george iii,0,2,10
-bruce n iii,0,2,11
-kory a,0,2,6
-mccord w,0,2,8
-roy c,0,2,5
-savario s,0,2,9
-ismael j jr,0,2,11
-wilfredo r,0,2,10
-salvatore f,0,2,11
+kory,0,2,4
+mccord,0,2,6
+savario,0,2,7
 serguey,0,2,7
 eniel,0,2,5
-martin w jr,0,2,11
 reign,0,2,5
-girard g,0,2,8
-david p iii,0,2,11
-bill e,0,2,6
-sebastian j,0,2,11
-cecil e,0,2,7
-charles a ii,0,2,12
-lenny r,0,2,7
-don m,0,2,5
-dewey v,0,2,7
-sydney e jr,0,2,11
-shane k,0,2,7
-teddy b,0,2,7
+girard,0,2,6
+sydney,0,2,6
 diviel,0,2,6
-mario g,0,2,7
-gary h jr,0,2,9
-dwaine e,0,2,8
-lloyd c,0,2,7
-jarod,0,2,5
-alin c,0,2,6
-vondell e,0,2,9
-steve j,0,2,7
-gustavo o,0,2,9
-eduardo sr,0,2,10
-dold w iii,0,2,10
-john r iii,0,2,10
-paul o,0,2,6
-blass r,0,2,7
-salomon,0,2,7
-jacob i,0,2,7
-issac,0,2,5
-ovidio a,0,2,8
-chaseton j,0,2,10
-glenn j,0,2,7
-brian q,0,2,7
-richard a ii,0,2,12
-darryn a,0,2,8
-orliff c,0,2,8
-terrence d,0,2,10
-christian v,0,2,11
-yosmar a,0,2,8
-earlton t,0,2,9
-harlan t,0,2,8
-cecil l jr,0,2,10
-clinton l,0,2,9
-glenn g,0,2,7
-jed m,0,2,5
-matthew e ii,0,2,12
-jerald l,0,2,8
-jerry n,0,2,7
-emiliano l,0,2,10
-hendri d,0,2,8
-levi,0,2,4
-jessey j,0,2,8
-clyde w,0,2,7
-shawn o,0,2,7
-connor d,0,2,8
-don d,0,2,5
-bodustin b,0,2,10
-buddy l,0,2,7
-carrel s,0,2,8
-chad g,0,2,6
-chester d,0,2,9
-floyd d,0,2,7
+dwaine,0,2,6
+alin,0,2,4
+vondell,0,2,7
+blass,0,2,5
+chaseton,0,2,8
+darryn,0,2,6
+orliff,0,2,6
+yosmar,0,2,6
+earlton,0,2,7
+harlan,0,2,6
+emiliano,0,2,8
+hendri,0,2,6
+bodustin,0,2,8
+carrel,0,2,6
 thomas iii,0,2,10
-larry b jr,0,2,10
-ralph m,0,2,7
-chalmes a,0,2,9
-connor j,0,2,8
-osmar s,0,2,7
-maximilian n,0,2,12
-coty b,0,2,6
-clarence m,0,2,10
-louis n iv,0,2,10
-chayne e,0,2,8
+chalmes,0,2,7
+maximilian,0,2,10
+chayne,0,2,6
 niklas,0,2,6
 dmitriy,0,2,7
-jeffery r jr,0,2,12
 alva,0,2,4
 jhon,0,2,4
-yosmel m,0,2,8
-ramon h,0,2,7
 radames,0,2,7
-muhammed a,0,2,10
-wayne a jr,0,2,10
-vincent f jr,0,2,12
+muhammed,0,2,8
 heeralall,0,2,9
-gilbert b,0,2,9
-dalton d,0,2,8
-jeffery a jr,0,2,12
-cary t,0,2,6
-dakota s,0,2,8
-trevor s,0,2,8
-tracy m,0,2,7
-daven w,0,2,7
-alcides m,0,2,9
-axel m,0,2,6
+daven,0,2,5
 beltran,0,2,7
-evan,0,2,4
-hiram,0,2,5
-ruben g,0,2,7
-eduardo jr,0,2,10
 jeriel,0,2,6
-rafael r,0,2,8
-nicolas h,0,2,9
 jotan,0,2,5
-rayldo r,0,2,8
-francisco m,0,2,11
+rayldo,0,2,6
 mubarak,0,2,7
-johnnie t,0,2,9
 rustin,0,2,6
-carmello,0,2,8
-derryl f,0,2,8
-gero p,0,2,6
-terry f jr,0,2,10
-john o,0,2,6
-demps r,0,2,7
-jimmy t,0,2,7
+derryl,0,2,6
+demps,0,2,5
 alexeis,0,2,7
-willis l,0,2,8
 edson,0,2,5
-antonio s,0,2,9
-chrispin p,0,2,10
+chrispin,0,2,8
 derm,0,2,4
-elmer l,0,2,7
-emilio jr,0,2,9
 gilbert iii,0,2,11
-gonzalo b,0,2,9
-joan m,0,2,6
-jose a iii,0,2,10
-manuel r,0,2,8
-noel e,0,2,6
+joan,0,2,4
 otniel,0,2,6
-rafael f,0,2,8
-ramiro jr,0,2,9
-ramon g,0,2,7
-rudy a,0,2,6
-sergio jr,0,2,9
 vlademire,0,2,9
 yudorki,0,2,7
-franklyn,0,2,8
 roshan,0,2,6
-angelo r,0,2,8
-denis r,0,2,7
 efrawin,0,2,7
-esmeraldo v,0,2,11
-felipe jr,0,2,9
-flex r,0,2,6
+esmeraldo,0,2,9
+flex,0,2,4
 hever,0,2,5
-jeff e,0,2,6
-jorge o,0,2,7
-lorenzo jr,0,2,10
-martino m,0,2,9
+martino,0,2,7
 maxl,0,2,4
-maynor m,0,2,8
-ramson l,0,2,8
-rodolfo f,0,2,9
-samuel k,0,2,8
-axel j,0,2,6
-cristhian j,0,2,11
+ramson,0,2,6
+cristhian,0,2,9
 berldino,0,2,8
 bhupendra,0,2,9
-olley f,0,2,7
-rique j,0,2,7
-joseph a iii,0,2,12
-rocco r,0,2,7
-ira a,0,2,5
-jack w jr,0,2,9
-darrel d,0,2,8
-christian w,0,2,11
-jake a,0,2,6
-brendan w,0,2,9
-reyldo e,0,2,8
-evan k,0,2,6
-herbert,0,2,7
-dahish a,0,2,8
-douglas r jr,0,2,12
-rajiv p,0,2,7
-carl h,0,2,6
-chester w,0,2,9
-claude r jr,0,2,11
-graham n,0,2,8
+olley,0,2,5
+rique,0,2,5
+dahish,0,2,6
+rajiv,0,2,5
 kishore,0,2,7
-romero e,0,2,8
-trejo jr,0,2,8
-sebastian s,0,2,11
-ryan o,0,2,6
-berrd s,0,2,7
-ira f iii,0,2,9
-clifton e,0,2,9
-larry g ii,0,2,10
-roger l jr,0,2,10
-terry p,0,2,7
-rex a jr,0,2,8
-chevy d,0,2,7
-rold a jr,0,2,9
-michael p jr,0,2,12
-daryl a,0,2,7
-henry m iii,0,2,11
-ashley w,0,2,8
-loy d,0,2,5
-berrdo j,0,2,8
-vito m,0,2,6
-glenn h,0,2,7
-wade j jr,0,2,9
-fermin,0,2,6
-william p ii,0,2,12
-jeffrey n,0,2,9
-william g iii,0,2,13
-hugh m,0,2,6
-robin k,0,2,7
-dallas b sr,0,2,11
-dwight j,0,2,8
-lonnie w,0,2,8
-hudson r,0,2,8
-clark v,0,2,7
-craig v,0,2,7
-creighton b,0,2,11
-edward j iv,0,2,11
-grover b,0,2,8
-harold k,0,2,8
-kodi s,0,2,6
-rondell h,0,2,9
-seth n,0,2,6
-travis r jr,0,2,11
-charles c iii,0,2,13
-everett r,0,2,9
-lane c,0,2,6
-kimball e,0,2,9
-thomas r jr,0,2,11
-devin c,0,2,7
-barrett k,0,2,9
-johnny i,0,2,8
-jeison g,0,2,8
-bret c,0,2,6
-justus l,0,2,8
-clarence w,0,2,10
-nelson r,0,2,8
-delman g,0,2,8
-julius j,0,2,8
-sordo e,0,2,7
+romero,0,2,6
+trejo,0,2,5
+chevy,0,2,5
+loy,0,2,3
+hudson,0,2,6
+creighton,0,2,9
+rondell,0,2,7
+kimball,0,2,7
+jeison,0,2,6
+justus,0,2,6
+delman,0,2,6
+sordo,0,2,5
 adriano,0,2,7
-evan m,0,2,6
-henry h,0,2,7
-devin n,0,2,7
-ramon w,0,2,7
-leord r jr,0,2,10
-aaron l ii,0,2,10
-rascual m,0,2,9
-darran s,0,2,8
-louis w,0,2,7
-kenton j,0,2,8
-ruben r,0,2,7
-joe m,0,2,5
-miles,0,2,5
-sam f,0,2,5
-jackie v,0,2,8
-calvin d,0,2,8
-devan r,0,2,7
-dalvin r,0,2,8
-dionicio d,0,2,10
-eliasin j,0,2,9
+rascual,0,2,7
+darran,0,2,6
+kenton,0,2,6
+dalvin,0,2,6
+eliasin,0,2,7
 ezequiel,0,2,8
 fonzie,0,2,6
 joab,0,2,4
-kris m,0,2,6
-luis e jr,0,2,9
 marcello,0,2,8
 marcos iii,0,2,10
-mauricio d,0,2,10
-modesto,0,2,7
-oswaldo l,0,2,9
-rol a,0,2,5
-yuriel r,0,2,8
-yecin j,0,2,7
-esteban o,0,2,9
-cliff w,0,2,7
-darin g,0,2,7
-darl l,0,2,6
-joel t,0,2,6
-r j jr,0,2,6
-fredrick m,0,2,10
-darrick d,0,2,9
-dylan w,0,2,7
-gerald j jr,0,2,11
-weston,0,2,6
-gary u jr,0,2,9
-urbano jr,0,2,9
+oswaldo,0,2,7
+yuriel,0,2,6
+yecin,0,2,5
+darl,0,2,4
+urbano,0,2,6
 walmo,0,2,5
-mario e,0,2,7
-luke c,0,2,6
-vincent g,0,2,9
-cortez l jr,0,2,11
-jayson m,0,2,8
-larry p jr,0,2,10
-terrell r,0,2,9
-guy j,0,2,5
-charles b iii,0,2,13
-earl e,0,2,6
-frank iv,0,2,8
-harley,0,2,6
-kenneth h,0,2,9
-colby h,0,2,7
-freddy e jr,0,2,11
-jackson t,0,2,9
-joseph d jr,0,2,11
-louis c jr,0,2,10
-scotty e,0,2,8
+cortez,0,2,6
 sustain,0,2,7
-terrel h,0,2,8
-rold m,0,2,6
-omar v,0,2,6
-trevor a,0,2,8
-allan d,0,2,7
-kenneth d sr,0,2,12
-myatt l,0,2,7
+terrel,0,2,6
+myatt,0,2,5
 dieter,0,2,6
-tobias g,0,2,8
-karl j,0,2,6
-reford e,0,2,8
-kevin h,0,2,7
-travis n,0,2,8
-franz h,0,2,7
-arthur a iv,0,2,11
-kyle v,0,2,6
+reford,0,2,6
+franz,0,2,5
 elden,0,2,5
-steven o,0,2,8
-coty j,0,2,6
-kalop e,0,2,7
-kelly w,0,2,7
-scott h,0,2,7
-shane e jr,0,2,10
-steven m sr,0,2,11
-brad e,0,2,6
-macario,0,2,7
+kalop,0,2,5
 marcario,0,2,8
 sylvestre,0,2,9
-bladimir,0,2,8
-cristian r,0,2,10
-manuel t jr,0,2,11
-raphael j,0,2,9
-roberto sr,0,2,10
-levon k,0,2,7
-rick d,0,2,6
-ansiel p,0,2,8
-riley j,0,2,7
-charles f jr,0,2,12
-ernie e,0,2,7
-constantine g,0,2,13
-alvaro,0,2,6
-adonis m,0,2,8
-alberto sr,0,2,10
-antonio d,0,2,9
-arldo j,0,2,7
+ansiel,0,2,6
+constantine,0,2,11
+adonis,0,2,6
 dalhi,0,2,5
-felix l,0,2,7
-harrison j jr,0,2,13
-hector u,0,2,8
-henry d,0,2,7
-joao,0,2,4
-jovanni j,0,2,9
-jovany e,0,2,8
-julio o,0,2,7
-junior a,0,2,8
-lemuel g,0,2,8
-lenoy a,0,2,7
-max o,0,2,5
-michael sr,0,2,10
-miguel e,0,2,8
-oscar k,0,2,7
-pacu w,0,2,6
-raul l,0,2,6
+jovanni,0,2,7
+lenoy,0,2,5
+pacu,0,2,4
 sesar,0,2,5
-tulio,0,2,5
 vigilio,0,2,7
 wildo,0,2,5
-yousel l,0,2,8
-bennie c,0,2,8
-mizraim a,0,2,9
-lazaro m,0,2,8
-reynerio a,0,2,10
-colton a,0,2,8
+yousel,0,2,6
+mizraim,0,2,7
+reynerio,0,2,8
 sibtain,0,2,7
-vincent d,0,2,9
-tony r i,0,2,8
-kenneth b iii,0,2,13
 buck,0,2,4
-nelson l jr,0,2,11
-rufino d,0,2,8
-emory d,0,2,7
-jody a,0,2,6
-berry l,0,2,7
-earl h jr,0,2,9
 macgreger,0,2,9
-frank w jr,0,2,10
-arrie f jr,0,2,10
-brent g,0,2,7
-charles j jr,0,2,12
-damian w,0,2,8
-darryl s,0,2,8
-dol w jr,0,2,8
-eddie n,0,2,7
-hobert jr,0,2,9
-jewell v,0,2,8
-john w iv,0,2,9
-kyle n,0,2,6
-lemuel e,0,2,8
-lyle,0,2,4
-marty j,0,2,7
-porter l,0,2,8
-garry,0,2,5
-scot m,0,2,6
-shawn n,0,2,7
-rickey t,0,2,8
-dold r ii,0,2,9
-ernest j iv,0,2,11
-gilford d,0,2,9
-hugh w jr,0,2,9
-johnny b iii,0,2,12
-karl a,0,2,6
+arrie,0,2,5
+dol,0,2,3
+hobert,0,2,6
+jewell,0,2,6
+gilford,0,2,7
 kristin,0,2,7
-lawrence b,0,2,10
-myles c,0,2,7
-neil l jr,0,2,9
-shannon a,0,2,9
-clark a,0,2,7
+myles,0,2,5
 eber,0,2,4
 olivar,0,2,6
 geremias,0,2,8
-omar g,0,2,6
-jerimy l,0,2,8
-daren,0,2,5
-allan j,0,2,7
-rudolph,0,2,7
-lennie r,0,2,8
-than w jr,0,2,9
-meguel a,0,2,8
-adalberto jr,0,2,12
+jerimy,0,2,6
+lennie,0,2,6
+meguel,0,2,6
 adrain,0,2,6
-anibal a,0,2,8
 arami,0,2,5
-arturo e,0,2,8
 cabrales,0,2,8
-carlos w,0,2,8
-dennis jr,0,2,9
 doriel,0,2,6
 eden,0,2,4
-edwardo l,0,2,9
-elizardo v,0,2,10
-elvin,0,2,5
-enoch b,0,2,7
-erik s,0,2,6
+elizardo,0,2,8
 eryberto,0,2,8
-evodio m,0,2,8
-felix luis c,0,2,12
-fidencio l,0,2,10
-german a,0,2,8
+evodio,0,2,6
+felix luis,0,2,10
 harry iii,0,2,9
-henry jr,0,2,8
-honorio n,0,2,9
-ismael h,0,2,8
-jasen a,0,2,7
-jerod,0,2,5
-jesus n,0,2,7
+honorio,0,2,7
 kassin,0,2,6
-lazaro l,0,2,8
-leonel g,0,2,8
-maico m,0,2,7
-marcelino jr,0,2,12
-mateo a,0,2,7
-miguel v,0,2,8
+maico,0,2,5
 moeses,0,2,6
 moise,0,2,5
-moises a,0,2,8
-omar jr,0,2,7
-pedro b,0,2,7
-reyldo t,0,2,8
-roberto v,0,2,9
 romelio,0,2,7
-samson p,0,2,8
-selvin e,0,2,8
-sergio r,0,2,8
-sixto,0,2,5
-tupanes n,0,2,9
-vincente,0,2,8
-wallace,0,2,7
+tupanes,0,2,7
 wilder,0,2,6
-william o,0,2,9
-wilmer a,0,2,8
-yoel p,0,2,6
 horio,0,2,5
 salvado,0,2,7
 darien,0,2,6
-christian o,0,2,11
-marvin s,0,2,8
-josue v,0,2,7
 jacobo,0,2,6
-dale c,0,2,6
-emery e,0,2,7
-joe e jr,0,2,8
-morris,0,2,6
-jerome,0,2,6
 baldemar,0,2,8
-edwin p,0,2,7
 celedonio,0,2,9
-luis v,0,2,6
-martin v,0,2,8
 sabatio,0,2,7
-roger y,0,2,7
-demonte c,0,2,9
-lyle d jr,0,2,9
-jairo a,0,2,7
-marcos jr,0,2,9
-wilhelm d,0,2,9
-preston m jr,0,2,12
-alan w,0,2,6
-eugene s,0,2,8
-gilberto r,0,2,10
-jesus t,0,2,7
+demonte,0,2,7
+wilhelm,0,2,7
 obed,0,2,4
 williard,0,2,8
-delio,0,2,5
-luciano j,0,2,9
-nicholas v,0,2,10
 addy,0,2,4
-dorian r,0,2,8
-foster j,0,2,8
-juan p c,0,2,8
+foster,0,2,6
 laureano,0,2,8
-leordo o,0,2,8
 maykell,0,2,7
-osmar a,0,2,7
-pabel m,0,2,7
-robin j,0,2,7
-jerry s,0,2,7
-paublo l,0,2,8
-noah i,0,2,6
-devin a,0,2,7
-devin g,0,2,7
-byron j,0,2,7
-robbie r,0,2,8
-devin j,0,2,7
-dith r,0,2,6
-ernesto g,0,2,9
-frank a jr,0,2,10
+pabel,0,2,5
+paublo,0,2,6
+dith,0,2,4
 froylan,0,2,7
-josue m,0,2,7
-jovany n,0,2,8
-wellington,0,2,10
 inocencio,0,2,9
 wilkins,0,2,7
-ernesto m,0,2,9
 rciso,0,2,5
-robinson y,0,2,10
-braian a,0,2,8
+robinson,0,2,8
+braian,0,2,6
 prudencio,0,2,9
-darcy h,0,2,7
-elwin j,0,2,7
-jothon w,0,2,8
-milo a,0,2,6
-tracey l,0,2,8
-ty s,0,2,4
-zev a,0,2,5
+darcy,0,2,5
+elwin,0,2,5
+milo,0,2,4
+zev,0,2,3
 regil,0,2,5
-blaine d,0,2,8
-joel w,0,2,6
-rocky s,0,2,7
-wilton a,0,2,8
-milton a,0,2,8
-garrett t,0,2,9
-pasquale j ii,0,2,13
-stephen g ii,0,2,12
-kenneth s jr,0,2,12
-omer j,0,2,6
-juan l jr,0,2,9
-michael j ii,0,2,12
-franklin h,0,2,10
-steven r jr,0,2,11
+wilton,0,2,6
 demetrios,0,2,9
-gabriel w,0,2,9
-rick k,0,2,6
-martin j ii,0,2,11
-dickie l,0,2,8
-francis j jr,0,2,12
-jothan m iii,0,2,12
-norman k,0,2,8
-william c iii,0,2,13
+dickie,0,2,6
+jothan  iii,0,2,11
 tyronne,0,2,7
-gordon k iii,0,2,12
-jessie r,0,2,8
 lall,0,2,4
-darrell h,0,2,9
-terry v jr,0,2,10
-dold j jr,0,2,9
-kerry s,0,2,7
-cesar e jr,0,2,10
-curt l,0,2,6
-alvin c jr,0,2,10
-billy s,0,2,7
-homer d,0,2,7
-tray c,0,2,6
-gary g,0,2,6
-humberto n,0,2,10
-caleb n,0,2,7
-toby j,0,2,6
-casey w,0,2,7
+tray,0,2,4
 aydan,0,2,5
-edgardo a,0,2,9
-edgardo v,0,2,9
-erick r,0,2,7
-isais j,0,2,7
-jeremias j iii,0,2,14
-jesus l,0,2,7
+isais,0,2,5
+jeremias  iii,0,2,13
 mervin,0,2,6
 rosalio,0,2,7
-santos t,0,2,8
 valery,0,2,6
-jeramy d,0,2,8
-kristan j,0,2,9
-marshall a,0,2,10
-victor e sr,0,2,11
-norman h,0,2,8
-carlton b,0,2,9
-haynh v,0,2,7
-rock a,0,2,6
-billy r jr,0,2,10
-colon h,0,2,7
-dakota b,0,2,8
-garlon h,0,2,8
-lynn r,0,2,6
-marion,0,2,6
-max p,0,2,5
-winston,0,2,7
-lawrence j jr,0,2,13
-isaac e,0,2,7
-gene e jr,0,2,9
-stanley t,0,2,9
-devon k,0,2,7
+kristan,0,2,7
+haynh,0,2,5
+rock,0,2,4
+colon,0,2,5
+garlon,0,2,6
 davor,0,2,5
-angelo r jr,0,2,11
 matt,0,2,4
-earl jr,0,2,7
-chrystofer j,0,2,12
-johnny l jr,0,2,11
+chrystofer,0,2,10
 rufat,0,2,5
-johthan c,0,2,9
-byron d,0,2,7
-jimmie j,0,2,8
-gustin j ii,0,2,11
+gustin,0,2,6
 leo iii,0,2,7
 samag,0,2,5
-yeiniel t,0,2,9
-dalton o,0,2,8
-camilo a,0,2,8
-cresencio c jr,0,2,14
+yeiniel,0,2,7
+cresencio,0,2,9
 jeosvany,0,2,8
-jesus l jr,0,2,10
-jose f ii,0,2,9
-benigno a,0,2,9
-federico l,0,2,10
-julian a,0,2,8
-julian m jr,0,2,11
-rudy,0,2,4
+federico,0,2,8
 faith,0,2,5
-leordo j,0,2,8
-oliber d,0,2,8
-everett d,0,2,9
+oliber,0,2,6
 efran,0,2,5
 eduan,0,2,5
-harlan w,0,2,8
-isaiah b,0,2,8
-lance m,0,2,7
-marcos p,0,2,8
-kris r,0,2,6
-erik f,0,2,6
-raed a,0,2,6
-malcolm,0,2,7
-dold e iii,0,2,10
-jorman jr,0,2,9
-yoinkel p,0,2,9
-yunior,0,2,6
-alejo c,0,2,7
-carmelo a,0,2,9
+jorman,0,2,6
+yoinkel,0,2,7
+alejo,0,2,5
 eliesky,0,2,7
 fedrico,0,2,7
-heber f,0,2,7
 irwin,0,2,5
-javier i,0,2,8
-jiovani e,0,2,9
-julio b,0,2,7
-lazaro b,0,2,8
-pizarro a,0,2,9
+jiovani,0,2,7
+pizarro,0,2,7
 teodoro,0,2,7
-windell,0,2,7
 yordan,0,2,6
 yuliany,0,2,7
 zleymen,0,2,7
-cecilio,0,2,7
-cirilo,0,2,6
 ferdin,0,2,6
 gualberto,0,2,9
 silvestre,0,2,9
-jacinto,0,2,7
-eric f,0,2,6
-thomas a iii,0,2,12
-cary l iii,0,2,10
-clifton h,0,2,9
-manfred v,0,2,9
-marcus f,0,2,8
-sammie l iii,0,2,12
-sharyon m,0,2,9
-ian s,0,2,5
-louville j,0,2,10
-than w,0,2,6
-timmie r,0,2,8
-william y,0,2,9
-jan b,0,2,5
+cary  iii,0,2,9
+manfred,0,2,7
+sammie  iii,0,2,11
+sharyon,0,2,7
+louville,0,2,8
+jan,0,2,3
 fabrizzio,0,2,9
-owen,0,2,4
 abrahm,0,2,6
-kermit l,0,2,8
-melvin g,0,2,8
-pick d,0,2,6
-gero d,0,2,6
-diomedes d,0,2,10
-melbin a,0,2,8
-billy b jr,0,2,10
-adalino a,0,2,9
-dylan h,0,2,7
-emmanuel p,0,2,10
-felix d,0,2,7
-isaiah n,0,2,8
-kelvin n,0,2,8
-lemuel v,0,2,8
+pick,0,2,4
+diomedes,0,2,8
+melbin,0,2,6
+adalino,0,2,7
 omee,0,2,4
 robertson,0,2,9
 samille,0,2,7
-wilfrido b,0,2,10
+wilfrido,0,2,8
 hazael,0,2,6
-guilio f,0,2,8
-flavio,0,2,6
-alonzo d,0,2,8
-joedy v iv,0,2,10
+guilio,0,2,6
+joedy,0,2,5
 alphonso,0,2,8
-javier v,0,2,8
-quinn a,0,2,7
-ian w,0,2,5
-fady i,0,2,6
-tommy r jr,0,2,10
-virgil,0,2,6
-arnold jr,0,2,9
-kevin k,0,2,7
-zachery s,0,2,9
-abraham jr,0,2,10
-colby i,0,2,7
-donovan a,0,2,9
-chesley e,0,2,9
-robert d iii,0,2,12
-royal c jr,0,2,10
-walter d iii,0,2,12
-kong k,0,2,6
-harry v,0,2,7
-stanley l,0,2,9
-fady n,0,2,6
+quinn,0,2,5
+fady,0,2,4
+chesley,0,2,7
+kong,0,2,4
 willy,0,2,5
-lewis jr,0,2,8
-loren c,0,2,7
-sean n,0,2,6
-albert r iii,0,2,12
-arba g jr,0,2,9
-conrad,0,2,6
-maxwell t,0,2,9
-ryker w,0,2,7
-kent m,0,2,6
-jeromy s,0,2,8
+albert  iii,0,2,11
+arba,0,2,4
+ryker,0,2,5
 stone,0,2,5
-claude j,0,2,8
-brad p,0,2,6
-melvin t,0,2,8
-kristopher r,0,2,12
-garrett p,0,2,9
-ozzy m,0,2,6
-tim a jr,0,2,8
-leo r jr,0,2,8
-john j v,0,2,8
-kraig a,0,2,7
-lawrence w jr,0,2,13
-william z jr,0,2,12
-brenton m,0,2,9
-trevor j,0,2,8
-frederick f jr,0,2,14
-duston w,0,2,8
-todd l,0,2,6
-preston c,0,2,9
-kennis l,0,2,8
-bruce k,0,2,7
-seth s,0,2,6
-alfred c,0,2,8
-jeffry c,0,2,8
-ralph a,0,2,7
-bennie d,0,2,8
-john e jr,0,2,9
-rex r,0,2,5
-bobby b,0,2,7
-charles t jr,0,2,12
-curt j,0,2,6
-francis l,0,2,9
-barry g,0,2,7
-mike c,0,2,6
+ozzy,0,2,4
+kraig,0,2,5
+duston,0,2,6
+kennis,0,2,6
 alaa,0,2,4
-harlan l,0,2,8
-routy w,0,2,7
-jammie l,0,2,8
-dillon t,0,2,8
-ben h,0,2,5
-clayton v,0,2,9
-jefrey s,0,2,8
-ramon m,0,2,7
-clint,0,2,5
-danny s,0,2,7
-bobauk m,0,2,8
-ramiro j,0,2,8
-jerry v,0,2,7
-austin a,0,2,8
-ezra d,0,2,6
-steve r,0,2,7
-zachery,0,2,7
-melvin s,0,2,8
-thomas u,0,2,8
-micah j,0,2,7
-jim r,0,2,5
-rodger d,0,2,8
-cloro v,0,2,7
-morgan j,0,2,8
-darren p,0,2,8
-orion r,0,2,7
-jeffery k,0,2,9
-chon e,0,2,6
-thael d,0,2,7
-russ b,0,2,6
+routy,0,2,5
+jammie,0,2,6
+jefrey,0,2,6
+bobauk,0,2,6
+cloro,0,2,5
+chon,0,2,4
+thael,0,2,5
+russ,0,2,4
 chico,0,2,5
 majed,0,2,5
-carey,0,2,5
-melvin w,0,2,8
-elijah t,0,2,8
-rudy l,0,2,6
-josha c,0,2,7
-vanu k,0,2,6
-irvin b,0,2,7
-jansen,0,2,6
-regild g,0,2,8
-william z,0,2,9
-chancey l,0,2,9
-ed d,0,2,4
-raylon r,0,2,8
-garry w,0,2,7
-bryan h,0,2,7
-sidney,0,2,6
-jerome a,0,2,8
-alton w,0,2,7
-gordon d,0,2,8
-willie c,0,2,8
-glendle w,0,2,9
-kirby l,0,2,7
-joe n,0,2,5
-shannon b,0,2,9
-danny t,0,2,7
-leolin w,0,2,8
-oscar c,0,2,7
-obie m,0,2,6
-jacob k,0,2,7
-bryce r,0,2,7
-clayton g,0,2,9
-lennie j,0,2,8
-byron k,0,2,7
-clint j,0,2,7
-brice a,0,2,7
+josha,0,2,5
+vanu,0,2,4
+raylon,0,2,6
+glendle,0,2,7
+leolin,0,2,6
+obie,0,2,4
 laken,0,2,5
-darwin k,0,2,8
-jamison,0,2,7
-brannon m,0,2,9
-clark e,0,2,7
-jeff c,0,2,6
-kaleb t,0,2,7
-zackery,0,2,7
-chris d,0,2,7
-damon l,0,2,7
-ralph s,0,2,7
+brannon,0,2,7
 dustyn,0,2,6
-nolan s,0,2,7
-alvin p,0,2,7
-lowell a,0,2,8
-michel d,0,2,8
-richmond d,0,2,10
-tylor s,0,2,7
-willie g,0,2,8
-edwin w,0,2,7
-royce d,0,2,7
-herbert g,0,2,9
-alvin t,0,2,7
-beau s,0,2,6
-dell l,0,2,6
-moody k,0,2,7
-mickel d,0,2,8
-harry f,0,2,7
-austin g,0,2,8
-maron r,0,2,7
-bert e,0,2,6
-loyd d,0,2,6
-jeryl d,0,2,7
-smith p,0,2,7
-daryll d,0,2,8
-aldridge c,0,2,10
-brock m,0,2,7
-marion j,0,2,8
-curtis n,0,2,8
-brent m,0,2,7
-jamie p,0,2,7
+richmond,0,2,8
+dell,0,2,4
+moody,0,2,5
+maron,0,2,5
+loyd,0,2,4
+jeryl,0,2,5
+smith,0,2,5
+daryll,0,2,6
+aldridge,0,2,8
 arbury,0,2,6
-bret a,0,2,6
-chas s,0,2,6
-alvin b,0,2,7
-jimmie d,0,2,8
-robby m,0,2,7
-cody n,0,2,6
-sidney r,0,2,8
-earnest j,0,2,9
-arlin m,0,2,7
-levi h,0,2,6
-olen s,0,2,6
-cr f,0,2,4
-lewie e,0,2,7
-tony n,0,2,6
-reggie,0,2,6
-jeffery g,0,2,9
-amos m,0,2,6
-arron l,0,2,7
-owen j,0,2,6
-josh h,0,2,6
-holbert e,0,2,9
-delbert d,0,2,9
-ronney d,0,2,8
-larry n,0,2,7
-ellis l,0,2,7
-burlie r,0,2,8
-hunter j,0,2,8
-buddy j,0,2,7
-e b,0,2,3
+olen,0,2,4
+lewie,0,2,5
+holbert,0,2,7
+ronney,0,2,6
+burlie,0,2,6
 callum,0,2,6
-dustin n,0,2,8
-enis m,0,2,6
-homer e,0,2,7
-hubert l,0,2,8
-leffell e,0,2,9
-sam d,0,2,5
-sebastian t,0,2,11
-jay o,0,2,5
-hank e,0,2,6
-marion o,0,2,8
-jeremie d,0,2,9
-lloyal w,0,2,8
-zakery d,0,2,8
-clifford r,0,2,10
-eddie t,0,2,7
-briceon a,0,2,9
-joel z,0,2,6
-craig h,0,2,7
-allan w,0,2,7
-elliott g,0,2,9
-kirby o,0,2,7
-lacy s,0,2,6
-hardy w,0,2,7
-lonny w,0,2,7
-nimous d,0,2,8
+enis,0,2,4
+leffell,0,2,7
+lloyal,0,2,6
+zakery,0,2,6
+briceon,0,2,7
+lonny,0,2,5
+nimous,0,2,6
 deward,0,2,6
-zackery s,0,2,9
-eldon k,0,2,7
-gillard c,0,2,9
-sheldon n,0,2,9
-freddy e,0,2,8
-jerry k,0,2,7
-tanner r,0,2,8
-micah w,0,2,7
-teddy r,0,2,7
-lester p,0,2,8
+eldon,0,2,5
+gillard,0,2,7
 gail,0,2,4
-thurman c,0,2,9
-cale a,0,2,6
-ronney w,0,2,8
-cecil w,0,2,7
-coby j,0,2,6
-wyouman d,0,2,9
-jerrel d,0,2,8
-sidney a,0,2,8
-sylvio e,0,2,8
-norman f,0,2,8
-garon t,0,2,7
-vernon k,0,2,8
-chance l,0,2,8
-simon a,0,2,7
-donnie a,0,2,8
-davis d,0,2,7
-stewart a,0,2,9
+wyouman,0,2,7
+jerrel,0,2,6
+garon,0,2,5
 elgie,0,2,5
-lloyd l,0,2,7
-pryor j,0,2,7
-layne e,0,2,7
-doy r,0,2,5
-paden l,0,2,7
-ronnie t,0,2,8
+pryor,0,2,5
+layne,0,2,5
+doy,0,2,3
+paden,0,2,5
 charley,0,2,7
-charley d,0,2,9
-leon f,0,2,6
-phillip k,0,2,9
-braxton m,0,2,9
-ross l,0,2,6
-dalton b,0,2,8
-aric l,0,2,6
-cabrin m,0,2,8
-eugene f,0,2,8
-earnest d,0,2,9
-warren e,0,2,8
-markeen a,0,2,9
-jeremiah t,0,2,10
-clint b,0,2,7
-hudson b,0,2,8
-austin w,0,2,8
-beauford a,0,2,10
-clay c,0,2,6
-dusty,0,2,5
-hunter a,0,2,8
-loman c,0,2,7
-tad a,0,2,5
-dustyn d,0,2,8
-shon m,0,2,6
-derrick r,0,2,9
-michael i,0,2,9
-morris h,0,2,8
-benny l,0,2,7
-kenny l,0,2,7
-kirby j,0,2,7
-khristopher l,0,2,13
-waylon l,0,2,8
-alvin e,0,2,7
-donny j,0,2,7
-douglas n,0,2,9
-josh a,0,2,6
-eddie b,0,2,7
-j d,0,2,3
-farris e,0,2,8
-bo a,0,2,4
-brock a,0,2,7
-lyle t,0,2,6
-j c,0,2,3
-carl n,0,2,6
-colburn l,0,2,9
-josey w,0,2,7
-cody g,0,2,6
-quentin l,0,2,9
-antone n,0,2,8
+cabrin,0,2,6
+markeen,0,2,7
+beauford,0,2,8
+loman,0,2,5
+tad,0,2,3
+shon,0,2,4
+farris,0,2,6
+colburn,0,2,7
+josey,0,2,5
+antone,0,2,6
 roll,0,2,4
-lewis w,0,2,7
-leslie,0,2,6
-cody h,0,2,6
-abie l,0,2,6
-arthur h,0,2,8
-darin d,0,2,7
-jarrod m,0,2,8
-radford b,0,2,9
-stoney j,0,2,8
+abie,0,2,4
+radford,0,2,7
+stoney,0,2,6
 lathe,0,2,5
-leon w,0,2,6
-leeroy e,0,2,8
-jim h,0,2,5
-vern a,0,2,6
-davey l,0,2,7
-ted d,0,2,5
-austin k,0,2,8
-everette g,0,2,10
-merton e,0,2,8
+vern,0,2,4
+merton,0,2,6
 jarrell,0,2,7
-ricky h,0,2,7
-jackey l,0,2,8
-melvin j,0,2,8
+jackey,0,2,6
 rion,0,2,4
-franklin w,0,2,10
-shon r,0,2,6
-mick j,0,2,6
-lonnie m,0,2,8
-ashley d,0,2,8
-bobby s,0,2,7
-brock y,0,2,7
-clayton s,0,2,9
-cliffton l,0,2,10
-cohen j,0,2,7
-david z,0,2,7
-don w,0,2,5
-evin l,0,2,6
-jamie h,0,2,7
-jefferson j,0,2,11
-kendall m,0,2,9
-lynn o,0,2,6
-tommie r,0,2,8
-keegan i,0,2,8
-zacharie t,0,2,10
-dustin f,0,2,8
-raymon d,0,2,8
-lesley e,0,2,8
+mick,0,2,4
+cohen,0,2,5
+evin,0,2,4
+keegan,0,2,6
+zacharie,0,2,8
 laron,0,2,5
-blain k,0,2,7
-gerrad b,0,2,8
-mikel c,0,2,7
-rayvis l,0,2,8
+blain,0,2,5
+gerrad,0,2,6
+rayvis,0,2,6
 midian,0,2,6
-heath,0,2,5
-bodie t,0,2,7
-erich l,0,2,7
-quentin s,0,2,9
-tom a,0,2,5
-ivan l,0,2,6
-jamey c,0,2,7
-barney l,0,2,8
-wallace j,0,2,9
-floyd j,0,2,7
-chad v,0,2,6
-dustyn w,0,2,8
-oliver n,0,2,8
-ian h,0,2,5
-silas r,0,2,7
-rocky d,0,2,7
-virgil c,0,2,8
-dylon j,0,2,7
-dallas c,0,2,8
-jimmy g,0,2,7
-amos j,0,2,6
-jacen z,0,2,7
-coty w,0,2,6
-brendon s,0,2,9
-jarrod,0,2,6
-tom c,0,2,5
-enoch r,0,2,7
-rickey w,0,2,8
-max c,0,2,5
-gerald k,0,2,8
-kendall c,0,2,9
-jeramiah j,0,2,10
-monty m,0,2,7
-bronson w,0,2,9
-jasen p,0,2,7
-lloyd g,0,2,7
-clayton o,0,2,9
-levi e,0,2,6
-leslie e,0,2,8
-abel d,0,2,6
-wilbern l,0,2,9
-robin w,0,2,7
-bill i,0,2,6
-obdnlio m,0,2,9
-doyle g,0,2,7
-jerrad s,0,2,8
-darin m,0,2,7
-obern l,0,2,7
-clayton r,0,2,9
-damon r,0,2,7
-derik e,0,2,7
-keen j,0,2,6
-ronnie b,0,2,8
-spencer w,0,2,9
-kim a,0,2,5
-billie g,0,2,8
-jerry o,0,2,7
-whitney s,0,2,9
-scottie r,0,2,9
-brennon t,0,2,9
-duane h,0,2,7
-jaron l,0,2,7
+bodie,0,2,5
+jacen,0,2,5
+jeramiah,0,2,8
+wilbern,0,2,7
+obdnlio,0,2,7
+obern,0,2,5
+derik,0,2,5
+keen,0,2,4
+whitney,0,2,7
+brennon,0,2,7
+jaron,0,2,5
 jaimie,0,2,6
-jesee c,0,2,7
-grover a,0,2,8
-davyd r,0,2,7
-roderick l,0,2,10
-ben g,0,2,5
-harrison j,0,2,10
-shaun e,0,2,7
-jefferson b,0,2,11
-ferrell r,0,2,9
-scottie w,0,2,9
-noel w,0,2,6
-rodney g,0,2,8
-oliver w,0,2,8
-maurice l,0,2,9
-ira e,0,2,5
+jesee,0,2,5
+davyd,0,2,5
+ferrell,0,2,7
 kevvy,0,2,5
-chet w,0,2,6
-prince w,0,2,8
-weldon r,0,2,8
-jordan b,0,2,8
-kenno a,0,2,7
-clenton j,0,2,9
-civin e,0,2,7
-larry i,0,2,7
-kendall r,0,2,9
-stacey d,0,2,8
-everette l,0,2,10
-barry c,0,2,7
-jan m,0,2,5
-tracy f,0,2,7
-ethan r,0,2,7
-bobby m,0,2,7
+kenno,0,2,5
+civin,0,2,5
 oren,0,2,4
-doyle d,0,2,7
-jess a,0,2,6
-craig d,0,2,7
-lester a,0,2,8
-donovan,0,2,7
-heath g,0,2,7
-alonso,0,2,6
-robby j,0,2,7
-jame e,0,2,6
-avery l,0,2,7
-darren r,0,2,8
-danyel e,0,2,8
-bowen w,0,2,7
-stephan a,0,2,9
-chestly w,0,2,9
+jame,0,2,4
+danyel,0,2,6
+bowen,0,2,5
+chestly,0,2,7
 keelan,0,2,6
-tadd a,0,2,6
-jayson l,0,2,8
-jeremy g,0,2,8
-jeremiah g,0,2,10
-kendall g,0,2,9
-kirk j,0,2,6
-hayden j,0,2,8
-lance j,0,2,7
-josh d,0,2,6
-lucas c,0,2,7
-elliot g,0,2,8
-stewart l,0,2,9
-glendon j,0,2,9
-johnse d,0,2,8
-bobby p,0,2,7
-shelby p,0,2,8
-jayson s,0,2,8
-fredrick g,0,2,10
-zackery r,0,2,9
-orville m,0,2,9
-shane h,0,2,7
-tobias j,0,2,8
-todd s,0,2,6
-guy a,0,2,5
-danny o,0,2,7
-ernest a,0,2,8
+tadd,0,2,4
+glendon,0,2,7
+johnse,0,2,6
 elwyn,0,2,5
-teddy w,0,2,7
-tony h,0,2,6
-jabari l,0,2,8
-ethan,0,2,5
+jabari,0,2,6
 arlis,0,2,5
-glen m,0,2,6
-freddie k,0,2,9
-quincy d,0,2,8
-levi p,0,2,6
-murel d,0,2,7
-claude b,0,2,8
-dacey d,0,2,7
-jesse k,0,2,7
-rickey i,0,2,8
-jothon c,0,2,8
-eldon r,0,2,7
-asa j,0,2,5
-rold y,0,2,6
-truman c,0,2,8
-peter v,0,2,7
-hank d,0,2,6
-elmer d,0,2,7
-gideon p,0,2,8
-markcus r,0,2,9
-olen r,0,2,6
-tobe w,0,2,6
-gordon r,0,2,8
-sam w,0,2,5
-frankie d,0,2,9
-terrell k,0,2,9
-sven t,0,2,6
-ian g,0,2,5
-bosephis l,0,2,10
-jediah r,0,2,8
-hunter,0,2,6
-neal a,0,2,6
-weylin b,0,2,8
-dexter a,0,2,8
-hayden s,0,2,8
-houston c,0,2,9
-harry j,0,2,7
-lloyd n,0,2,7
-enoch d,0,2,7
-teal z,0,2,6
-shelton l,0,2,9
-sherman r,0,2,9
-delvin t,0,2,8
-charlie l,0,2,9
-gabe t,0,2,6
-lonnie t,0,2,8
-noah h,0,2,6
-geoffrey,0,2,8
-shain l,0,2,7
-garner h,0,2,8
-derrick s,0,2,9
-buster n,0,2,8
-joey r,0,2,6
-kelly c,0,2,7
-mack,0,2,4
-quinton d,0,2,9
-rusty l,0,2,7
-kirk d,0,2,6
-dean l,0,2,6
-wesley l,0,2,8
-buril,0,2,5
-colton c,0,2,8
-tony i,0,2,6
-aaron g,0,2,7
-eugene l,0,2,8
-stony l,0,2,7
-gregory k,0,2,9
-oval g,0,2,6
-mickey o,0,2,8
-dinky j,0,2,7
-lonnie h,0,2,8
-justin f,0,2,8
-indio,0,2,5
-cason l,0,2,7
-simon d,0,2,7
-milton r,0,2,8
-malcolm j,0,2,9
-joshua o,0,2,8
-kobie j,0,2,7
-rasih x,0,2,7
-corbin j,0,2,8
-guzman j,0,2,8
-jared t,0,2,7
-alton h,0,2,7
-rickey e,0,2,8
-howard g,0,2,8
-ellis r,0,2,7
-kennon e,0,2,8
-theotis,0,2,7
-franklin p,0,2,10
-leslie g,0,2,8
-lester j,0,2,8
-limuel l,0,2,8
-steve l,0,2,7
-gaylon,0,2,6
-van b,0,2,5
-joe f,0,2,5
-mack l,0,2,6
-corben r,0,2,8
-ronny d,0,2,7
-lindel b,0,2,8
-everett s,0,2,9
-brouce p,0,2,8
-herman m,0,2,8
-trenton w,0,2,9
-joe w,0,2,5
-rickie a,0,2,8
-harold b,0,2,8
-doyle w,0,2,7
-jarrod w,0,2,8
-deric j,0,2,7
-doyle,0,2,5
-brian o,0,2,7
-bondie a,0,2,8
-krinden,0,2,7
-shay c,0,2,6
-hendrik j,0,2,9
-cleo m,0,2,6
-mikel,0,2,5
-sammy m,0,2,7
-clifford n,0,2,10
-sherman l,0,2,9
-jimmy n,0,2,7
-trevis l,0,2,8
-derik a,0,2,7
-jarrod d,0,2,8
-nike l,0,2,6
-jim t,0,2,5
-mickey e,0,2,8
-dewayne,0,2,7
-finus,0,2,5
-dalvid a,0,2,8
-theodore g,0,2,10
-coby t,0,2,6
-josh r,0,2,6
-hayden w,0,2,8
-jamie k,0,2,7
-matt c,0,2,6
-tanner a,0,2,8
-derric,0,2,6
-eddie m,0,2,7
-alvin j,0,2,7
-buddy w,0,2,7
-chaz m,0,2,6
-clyde c,0,2,7
-donnie b,0,2,8
-jeremie,0,2,7
-leighton r,0,2,10
-tanner l,0,2,8
-tory d,0,2,6
-todd x,0,2,6
-earl k,0,2,6
-brock,0,2,5
-lane m,0,2,6
-jarred s,0,2,8
-davie l,0,2,7
-devin b,0,2,7
-elton e,0,2,7
-krystopher,0,2,10
-nikolas r,0,2,9
-sterling p,0,2,10
-vendle r,0,2,8
-wilford g,0,2,9
-avery w,0,2,7
-will,0,2,4
-pascal t,0,2,8
-clifton j,0,2,9
-cameron c,0,2,9
-cameron g,0,2,9
-cletus j,0,2,8
-doyle a,0,2,7
-ezra j,0,2,6
-floyd g,0,2,7
-glenn n,0,2,7
-mackenzie,0,2,9
-nicholas n,0,2,10
-sabastain,0,2,9
-teddy a,0,2,7
-willard n,0,2,9
-michial l,0,2,9
-chalin w,0,2,8
-kristian d,0,2,10
-rex e,0,2,5
-saul n,0,2,6
-rolf d,0,2,6
-lewis r,0,2,7
-issac l,0,2,7
-ashley e,0,2,8
-stepen j,0,2,8
-louie d,0,2,7
-ashton c,0,2,8
-aubrey m,0,2,8
-greg e,0,2,6
-dwight s,0,2,8
-doyle f,0,2,7
-elbert g,0,2,8
-monroe h,0,2,8
-kendale r,0,2,9
-bart a,0,2,6
-buddy c,0,2,7
-caz,0,2,3
-melvin m,0,2,8
-millard l,0,2,9
-donovan c,0,2,9
-sylus w,0,2,7
-finis d,0,2,7
-fielding v,0,2,10
-brenn m,0,2,7
-colby l,0,2,7
-coleman l,0,2,9
-doug r,0,2,6
-shelby c,0,2,8
-alfred o,0,2,8
-audley j,0,2,8
-kendall e,0,2,9
-kaleb c,0,2,7
-ken d,0,2,5
-colton d,0,2,8
-colton e,0,2,8
-dowell r,0,2,8
-august g,0,2,8
-kurtiss l,0,2,9
-jared k,0,2,7
-dyllon j,0,2,8
-tommy c,0,2,7
-fred m,0,2,6
-corey c,0,2,7
-samual c,0,2,8
-boyd,0,2,4
-joda d,0,2,6
-kenneth v,0,2,9
-galan e,0,2,7
-billie d,0,2,8
-jackson d,0,2,9
-joh d,0,2,5
-ivan d,0,2,6
-loid d,0,2,6
-broderick l,0,2,11
-orval r,0,2,7
-pete c,0,2,6
-garyon,0,2,6
-jasper a,0,2,8
-fredrick c,0,2,10
-brock h,0,2,7
-earlon s,0,2,8
-toy n,0,2,5
-devon h,0,2,7
-sam b,0,2,5
-c m,0,2,3
-rodger w,0,2,8
-terry b,0,2,7
-arron m,0,2,7
-bojay,0,2,5
-brady,0,2,5
-darin l,0,2,7
-kollin p,0,2,8
-robbie j,0,2,8
-taylor c,0,2,8
-torger e,0,2,8
-kile d,0,2,6
-kristin s,0,2,9
-hamilton a,0,2,10
-chris s,0,2,7
-timothy i,0,2,9
-damon h,0,2,7
+quincy,0,2,6
+murel,0,2,5
+dacey,0,2,5
 truman,0,2,6
-chip a,0,2,6
-orvil d,0,2,7
-cameron h,0,2,9
-archie l,0,2,8
-gavin r,0,2,7
-dale m,0,2,6
-kelvin e,0,2,8
-nicholus w,0,2,10
-thaniel e,0,2,9
-bobby k,0,2,7
-dion p,0,2,6
-eugene d,0,2,8
-kaleb,0,2,5
-alton,0,2,5
-clifford b,0,2,10
-roman a,0,2,7
-nick l,0,2,6
-patrick n,0,2,9
-wendyl t,0,2,8
-keosaysith k,0,2,12
-rylee m,0,2,7
-zachariah s,0,2,11
-denny b,0,2,7
-tim s,0,2,5
-tobey a,0,2,7
-taz l,0,2,5
-earnest r,0,2,9
-jerrell l,0,2,9
-russell f,0,2,9
-stacey t,0,2,8
-w a,0,2,3
-dewayne e,0,2,9
-gaylon l,0,2,8
-jim d,0,2,5
-jeff p,0,2,6
+gideon,0,2,6
+markcus,0,2,7
+tobe,0,2,4
+sven,0,2,4
+bosephis,0,2,8
+jediah,0,2,6
+weylin,0,2,6
+teal,0,2,4
+sherman,0,2,7
+delvin,0,2,6
+gabe,0,2,4
+garner,0,2,6
+buster,0,2,6
+buril,0,2,5
+stony,0,2,5
+oval,0,2,4
+dinky,0,2,5
+indio,0,2,5
+cason,0,2,5
+kobie,0,2,5
+rasih,0,2,5
+guzman,0,2,6
+kennon,0,2,6
+theotis,0,2,7
+limuel,0,2,6
+gaylon,0,2,6
+corben,0,2,6
+lindel,0,2,6
+brouce,0,2,6
+deric,0,2,5
+bondie,0,2,6
+krinden,0,2,7
+trevis,0,2,6
+nike,0,2,4
+finus,0,2,5
+dalvid,0,2,6
+derric,0,2,6
+leighton,0,2,8
+krystopher,0,2,10
+vendle,0,2,6
+pascal,0,2,6
+sabastain,0,2,9
+michial,0,2,7
+chalin,0,2,6
+rolf,0,2,4
+stepen,0,2,6
+kendale,0,2,7
+caz,0,2,3
+sylus,0,2,5
+finis,0,2,5
+fielding,0,2,8
+audley,0,2,6
+dowell,0,2,6
+august,0,2,6
+dyllon,0,2,6
+samual,0,2,6
+boyd,0,2,4
+joda,0,2,4
+galan,0,2,5
+loid,0,2,4
+broderick,0,2,9
+orval,0,2,5
+garyon,0,2,6
+earlon,0,2,6
+toy,0,2,3
+bojay,0,2,5
+kollin,0,2,6
+torger,0,2,6
+kile,0,2,4
+orvil,0,2,5
+wendyl,0,2,6
+keosaysith,0,2,10
+rylee,0,2,5
+tobey,0,2,5
+taz,0,2,3
+jerrell,0,2,7
 harless,0,2,7
-scotty r,0,2,8
-will r,0,2,6
-cheyne m,0,2,8
-jackie d,0,2,8
-wilburn e,0,2,9
-elvert j,0,2,8
-delmar f,0,2,8
-marc b,0,2,6
-davin b,0,2,7
-heath a,0,2,7
-jerrod l,0,2,8
-chris e,0,2,7
-jessy l,0,2,7
-kent e,0,2,6
-smokey m,0,2,8
-chas,0,2,4
-lloyd d,0,2,7
-scot g,0,2,6
-jeremy q,0,2,8
-bobby h,0,2,7
-grady l,0,2,7
-l m,0,2,3
-ollis d,0,2,7
-harrison s,0,2,10
-joe k,0,2,5
-deon d,0,2,6
-willaim c,0,2,9
+elvert,0,2,6
+davin,0,2,5
+deon,0,2,4
 micha,0,2,5
-ashley n,0,2,8
 michaes,0,2,7
-horace,0,2,6
-mickey w,0,2,8
-garon d,0,2,7
-koty w,0,2,6
-carroll a,0,2,9
 michael ric,0,2,11
-benji r,0,2,7
-rusty r,0,2,7
-mathew a,0,2,8
-lynn,0,2,4
-aubrey,0,2,6
-beuford l,0,2,9
-gerry d,0,2,7
-noah w,0,2,6
-buckie a,0,2,8
-darrel m,0,2,8
-marcus o,0,2,8
-grady t,0,2,7
+benji,0,2,5
+beuford,0,2,7
+buckie,0,2,6
 jarvis,0,2,6
-buddy e,0,2,7
-clayburn c,0,2,10
-o t,0,2,3
-duryl w,0,2,7
-gary don h,0,2,10
-kelly b,0,2,7
-danny h,0,2,7
-lonnie p,0,2,8
-shelby a,0,2,8
-shon d,0,2,6
-bennett e,0,2,9
-calvin l,0,2,8
-henry b,0,2,7
-shone c,0,2,7
-steven v,0,2,8
-trey m,0,2,6
-cason a,0,2,7
-denver l,0,2,8
-trent l,0,2,7
-charley r,0,2,9
-rigoverto l,0,2,11
-tom p,0,2,5
-barry i,0,2,7
-johnny h,0,2,8
+clayburn,0,2,8
+duryl,0,2,5
+gary don,0,2,8
+bennett,0,2,7
+shone,0,2,5
+rigoverto,0,2,9
 drewight,0,2,8
-wade a,0,2,6
-gearold d,0,2,9
-weslee a,0,2,8
-marcus i,0,2,8
-kelvin w,0,2,8
-alfredo t,0,2,9
-kendall w,0,2,9
-hershel g,0,2,9
-hassell e,0,2,9
-iry w,0,2,5
-dole p,0,2,6
-lesley d,0,2,8
-deril l,0,2,7
-jerred w,0,2,8
-angelo m,0,2,8
-nicky c,0,2,7
-harry e,0,2,7
-graydon l,0,2,9
-thane t,0,2,7
-chadrick l,0,2,10
-daneal h,0,2,8
-steve f,0,2,7
-dewayne l,0,2,9
-sam a,0,2,5
-forrest h,0,2,9
-clayton a,0,2,9
-norman s,0,2,8
-ike s,0,2,5
-lucas l,0,2,7
-tanner d,0,2,8
-timothy o,0,2,9
-chet r,0,2,6
-jerrod m,0,2,8
-benny w,0,2,7
-val d,0,2,5
+gearold,0,2,7
+weslee,0,2,6
+hershel,0,2,7
+hassell,0,2,7
+iry,0,2,3
+dole,0,2,4
+deril,0,2,5
+jerred,0,2,6
+graydon,0,2,7
+thane,0,2,5
+chadrick,0,2,8
+daneal,0,2,6
+ike,0,2,3
+val,0,2,3
 liz,0,2,3
-dereck r,0,2,8
-latane t,0,2,8
+dereck,0,2,6
+latane,0,2,6
 yannick,0,2,7
 mickeal,0,2,7
-bert f,0,2,6
-jerimy d,0,2,8
-monroe,0,2,6
-terry v,0,2,7
-don f,0,2,5
-justus w,0,2,8
-patric d,0,2,8
-delany a,0,2,8
-ambrose g,0,2,9
-marion k,0,2,8
-tommy f,0,2,7
-dereck,0,2,6
-denver w,0,2,8
-jad h,0,2,5
-trevor l,0,2,8
-quan d,0,2,6
-tommy s,0,2,7
-stetson r,0,2,9
-rodney h,0,2,8
-virgil d,0,2,8
-don r,0,2,5
-delmar c,0,2,8
-morgan s,0,2,8
-gerald o,0,2,8
-orvil l,0,2,7
-lance l,0,2,7
-barry m,0,2,7
-daron w,0,2,7
-dennis t,0,2,8
-tyler i,0,2,7
-neal l,0,2,6
-horace e,0,2,8
-darris j,0,2,8
-kalen d,0,2,7
-alvin d,0,2,7
-morgan b,0,2,8
-sherief m,0,2,9
-kerry p,0,2,7
-jamey r,0,2,7
-braxxton a,0,2,10
-gentry a,0,2,8
-jerrod,0,2,6
-jan e,0,2,5
-roderick r,0,2,10
-lloyd o,0,2,7
-derric b,0,2,8
-leopold w,0,2,9
-bradlee c,0,2,9
-jace c,0,2,6
-asa d,0,2,5
-frankie b,0,2,9
+patric,0,2,6
+delany,0,2,6
+ambrose,0,2,7
+jad,0,2,3
+quan,0,2,4
+stetson,0,2,7
+daron,0,2,5
+sherief,0,2,7
+braxxton,0,2,8
+gentry,0,2,6
+leopold,0,2,7
+bradlee,0,2,7
 gifford,0,2,7
-damian s,0,2,8
-luther g,0,2,8
-jeffery n,0,2,9
-trealyn d,0,2,9
-carl c,0,2,6
-jack k,0,2,6
-marcus k,0,2,8
-jody j,0,2,6
-jakob m,0,2,7
-benjamin b,0,2,10
-devin k,0,2,7
-frankiie p,0,2,10
-jothon l,0,2,8
-keelyn b,0,2,8
-dusty a,0,2,7
-odell j,0,2,7
-audie l,0,2,7
-c r,0,2,3
-hooker w,0,2,8
+trealyn,0,2,7
+frankiie,0,2,8
+keelyn,0,2,6
+odell,0,2,5
+hooker,0,2,6
 drake,0,2,5
-marion e,0,2,8
-robby a,0,2,7
-rex l,0,2,5
-mike k,0,2,6
-aubrey e,0,2,8
 rowdy,0,2,5
-joe o,0,2,5
-robbie m,0,2,8
-kasey g,0,2,7
-wesi a,0,2,6
-woodrow w,0,2,9
-bor h,0,2,5
-nickollas l,0,2,11
-williams d,0,2,10
-marvin a,0,2,8
+wesi,0,2,4
+bor,0,2,3
+nickollas,0,2,9
 lecel,0,2,5
-jessie b,0,2,8
-phillipe h,0,2,10
-micheal d,0,2,9
-dallas g,0,2,8
-brentley a,0,2,10
-anthony h,0,2,9
-devan d,0,2,7
-bradley b,0,2,9
-leon d,0,2,6
-chance m,0,2,8
-zack j,0,2,6
-stony r,0,2,7
-travis v,0,2,8
-ron c,0,2,5
+phillipe,0,2,8
+brentley,0,2,8
 rojerio,0,2,7
-eloy c,0,2,6
 serafin,0,2,7
-basil g,0,2,7
-tim i,0,2,5
-marcus e,0,2,8
-vern,0,2,4
-miles r,0,2,7
-timmy d,0,2,7
-daleon e,0,2,8
-deric s,0,2,7
-nicklaus a,0,2,10
-jerald s,0,2,8
-elza d,0,2,6
-dolan e,0,2,7
-mason,0,2,5
-judd a,0,2,6
-zackery w,0,2,9
-leslie d,0,2,8
-archie r,0,2,8
-scotty a,0,2,8
-jimmy m,0,2,7
-doug d,0,2,6
-daryel g,0,2,8
-seth o,0,2,6
-mitchell s,0,2,10
-avery r,0,2,7
-ross w,0,2,6
-kory j,0,2,6
+basil,0,2,5
+daleon,0,2,6
+nicklaus,0,2,8
+elza,0,2,4
+dolan,0,2,5
+judd,0,2,4
+daryel,0,2,6
 braydon,0,2,7
-brock g,0,2,7
-colton g,0,2,8
-mickey a,0,2,8
-albert k,0,2,8
-britain c,0,2,9
-claude w,0,2,8
-colin b,0,2,7
-doyle v,0,2,7
-gregg a,0,2,7
-ira d,0,2,5
-jackie a,0,2,8
+britain,0,2,7
 jamye,0,2,5
-jedadiah s,0,2,10
-jothon e,0,2,8
-kelly r,0,2,7
-kendall t,0,2,9
-lawrence v,0,2,10
-royal a,0,2,7
-tom v,0,2,5
-tommy g,0,2,7
-vida d,0,2,6
-wade h,0,2,6
-wendel v,0,2,8
-zackery a,0,2,9
-cord l,0,2,6
-haskell w,0,2,9
-billy p,0,2,7
-herbie e,0,2,8
-woodruff t,0,2,10
-jeffory e,0,2,9
-jess r,0,2,6
-darrell b,0,2,9
-joey j,0,2,6
-brodie w,0,2,8
-wendell p,0,2,9
-daril l,0,2,7
-tristan n,0,2,9
-tom b,0,2,5
+jedadiah,0,2,8
+vida,0,2,4
+wendel,0,2,6
+cord,0,2,4
+haskell,0,2,7
+woodruff,0,2,8
+daril,0,2,5
 braden,0,2,6
-kenny j,0,2,7
-wallace c,0,2,9
-cleaborn p,0,2,10
-lillis l,0,2,8
-doyle l,0,2,7
-shelby s,0,2,8
-lee r,0,2,5
-harlan,0,2,6
-ford e,0,2,6
-logan d,0,2,7
-ethan d,0,2,7
-lucas k,0,2,7
-corbut j,0,2,8
-bradley f,0,2,9
-dwayne a,0,2,8
-dearl e,0,2,7
-dewell j,0,2,8
-ardwin f,0,2,8
-barry k,0,2,7
+cleaborn,0,2,8
+lillis,0,2,6
+ford,0,2,4
+corbut,0,2,6
+dearl,0,2,5
+dewell,0,2,6
+ardwin,0,2,6
 dawn,0,2,4
-uriah h,0,2,7
-courtney w,0,2,10
-clifton,0,2,7
-danny n,0,2,7
-dusty e,0,2,7
-harley d,0,2,8
-jessan a,0,2,8
-lawton h,0,2,8
-seth w,0,2,6
-shelby g,0,2,8
-ruben h,0,2,7
-don c,0,2,5
-harlie e,0,2,8
-jeptha j,0,2,8
-avin f,0,2,6
-arlee p,0,2,7
-ashton k,0,2,8
-donnie g,0,2,8
-lindsey l,0,2,9
-scotty b,0,2,8
-trent w,0,2,7
-trenton a,0,2,9
-willard g,0,2,9
-zachery d,0,2,9
-clifford k,0,2,10
-danny d,0,2,7
-kenny e,0,2,7
+jessan,0,2,6
+jeptha,0,2,6
+avin,0,2,4
+arlee,0,2,5
 dyllan,0,2,6
-chason m,0,2,8
-ethan e,0,2,7
-hubert p,0,2,8
-buford e,0,2,8
-isaac d,0,2,7
-jerimya d,0,2,9
-tristan r,0,2,9
-stefhen t,0,2,9
-lanny t,0,2,7
-shannon r,0,2,9
-daryl g,0,2,7
-jammie a,0,2,8
+chason,0,2,6
+jerimya,0,2,7
+stefhen,0,2,7
 ancel,0,2,5
-dagan v,0,2,7
-derick r,0,2,8
-drayton p,0,2,9
-cameron t,0,2,9
-archie c,0,2,8
-toby c,0,2,6
-larry jr,0,2,8
-jeramy r,0,2,8
-ira g,0,2,5
-chester s,0,2,9
-daryl,0,2,5
-mitchell f,0,2,10
-blake t,0,2,7
-jassen e,0,2,8
-dolan j,0,2,7
-danian j,0,2,8
-jace a,0,2,6
-colten j,0,2,8
-dylan s,0,2,7
-lemuel d,0,2,8
-ashton b,0,2,8
-trenton r,0,2,9
-chris j,0,2,7
+dagan,0,2,5
+drayton,0,2,7
+jassen,0,2,6
+danian,0,2,6
+colten,0,2,6
 hyram,0,2,5
-jimmy v,0,2,7
-carvin r,0,2,8
-evatt t,0,2,7
-jackson r,0,2,9
-trevor m,0,2,8
-alvis j,0,2,7
-lester g,0,2,8
-brody a,0,2,7
-stacy g,0,2,7
-sony j,0,2,6
-devin d,0,2,7
-noah m,0,2,6
-darin j,0,2,7
-donny c,0,2,7
-quentin c,0,2,9
-trenton c,0,2,9
-teddy c,0,2,7
-dewey w,0,2,7
-kalob j,0,2,7
-lendall s,0,2,9
-ted l,0,2,5
-stephean r,0,2,10
-lucky d,0,2,7
-javan e,0,2,7
-keeton d,0,2,8
-taylor h,0,2,8
-bret l,0,2,6
+carvin,0,2,6
+evatt,0,2,5
+brody,0,2,5
+sony,0,2,4
+kalob,0,2,5
+lendall,0,2,7
+stephean,0,2,8
+javan,0,2,5
+keeton,0,2,6
 joshawa,0,2,7
-lewis j,0,2,7
-loyd r,0,2,6
-monroe t,0,2,8
-bill l,0,2,6
-garey r,0,2,7
-sean b,0,2,6
-tony s,0,2,6
-kennith e,0,2,9
-fredrick w,0,2,10
-carter n,0,2,8
-donovan s,0,2,9
-hendryk t,0,2,9
-manoid k,0,2,8
-tyler f,0,2,7
-jerried b,0,2,9
-frankie e,0,2,9
-doulgas r,0,2,9
-boyce w,0,2,7
-ethan k,0,2,7
-floyd s,0,2,7
-forrest c,0,2,9
-johnnie l,0,2,9
-lindsey k,0,2,9
-oren h,0,2,6
-stacy r,0,2,7
-hank a,0,2,6
-blaine r,0,2,8
-swen a,0,2,6
-clifton w,0,2,9
-darrel a,0,2,8
-galan h,0,2,7
-lamar d,0,2,7
-leon g,0,2,6
-tony f,0,2,6
-clyde d,0,2,7
-meredith a,0,2,10
-zane m,0,2,6
-prentis l,0,2,9
-guyton k,0,2,8
-franklin r,0,2,10
-hunter k,0,2,8
-westley d,0,2,9
-howard t,0,2,8
-bart w,0,2,6
+garey,0,2,5
+hendryk,0,2,7
+manoid,0,2,6
+jerried,0,2,7
+doulgas,0,2,7
+swen,0,2,4
+meredith,0,2,8
+prentis,0,2,7
+guyton,0,2,6
 demetrius,0,2,9
-johnny o,0,2,8
 olibel,0,2,6
-dillan,0,2,6
-almer w,0,2,7
-jake g,0,2,6
-casey c,0,2,7
-len b,0,2,5
-shad l,0,2,6
-cecil b,0,2,7
-emmery e,0,2,8
-alax a,0,2,6
-dane t,0,2,6
-dutch z,0,2,7
-hefton w,0,2,8
-anthoy l,0,2,8
-emory j,0,2,7
-dwayne m,0,2,8
-alvah w,0,2,7
-jerread c,0,2,9
+almer,0,2,5
+len,0,2,3
+emmery,0,2,6
+alax,0,2,4
+hefton,0,2,6
+anthoy,0,2,6
+alvah,0,2,5
+jerread,0,2,7
