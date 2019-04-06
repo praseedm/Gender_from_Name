@@ -1,0 +1,5 @@
+https://mc.ai/identifying-user-gender-at-sheroes-women-only-social-platform/
+https://github.com/Jcharis/Python-Machine-Learning/tree/master/Gender%20Classification%20With%20%20Machine%20Learning
+https://www.youtube.com/watch?v=ETVtJe_tvLo
+
+https://blog.ayoungprogrammer.com/2016/04/determining-gender-of-name-with-80.html/
