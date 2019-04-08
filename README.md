@@ -12,4 +12,13 @@ All of these datasets are for research and analysis.
 * Exploratory Data Analysis
 * Vectorization
 * Model implementation and training
-* Evaluation and tunning
+* Cross validation and tunning
+
+### Preprocessing
+Clean and preprocess name data, handle missing values
+Removes
+* numbers and other non alphabets characters
+* initials
+* sentence start with along, with
+* removes address from name
+
