@@ -22,3 +22,13 @@ Clean and preprocess name data, handle missing values
 * sentence start with along, with
 * removes address from name
 ## ![](/img/pre.png)
+### Feature Engineering
+Features generated from name are,
+* Length - character count
+* ll_is_v - Last letter is vowel, 0 - False, 1 - True
+* fl_is_v - First letter is vowel, 0 - False, 1 - True
+* first_2 - First two letters of name
+* last_2 - Last two letters of name
+* first_3 - First three letters of name
+* last_3 - Last three letters of name
+## ![](/img/fafter.png)
