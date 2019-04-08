@@ -1,5 +1,5 @@
 # Race,Gender prediction from Name
-Guess the gender and race of a person using characteristics of the name using Natural Language Processing and Machine Learning.
+Predict the gender and race of a person using characteristics of the name using Natural Language Processing and Machine Learning.
 
 ## Dataset
 Link : https://mbejda.github.io/
