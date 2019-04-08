@@ -16,9 +16,9 @@ All of these datasets are for research and analysis.
 
 ### Preprocessing
 Clean and preprocess name data, handle missing values
-Removes
+#### Removes
 * numbers and other non alphabets characters
 * initials
 * sentence start with along, with
 * removes address from name
-
+## ![](/img/pre.png)
